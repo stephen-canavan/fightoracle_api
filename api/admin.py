@@ -26,23 +26,29 @@ class EventAdmin(admin.ModelAdmin):
 
 @admin.register(User)
 class CustomUserAdmin(UserAdmin):
+    model = User
     add_form = CustomUserCreationForm
     form = CustomUserChangeForm
-    model = User
 
-    # Fields shown when *creating* a user
+    # Fields shown when CREATING a user
     add_fieldsets = (
         (
             None,
             {
                 "classes": ("wide",),
-                "fields": ("username", "email", "password1", "password2"),
+                "fields": (
+                    "username",
+                    "email",
+                    "avatar",
+                    "password1",
+                    "password2",
+                ),
             },
         ),
     )
 
-    # Optional: fields shown when *editing* a user
-    fieldsets = UserAdmin.fieldsets
+    # Fields shown when EDITING a user
+    fieldsets = UserAdmin.fieldsets + (("Profile", {"fields": ["avatar"]}),)
 
 
 @admin.register(Fighter)
