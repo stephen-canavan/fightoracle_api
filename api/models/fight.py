@@ -1,5 +1,5 @@
 from django.db import models
-from api.options import FightStatus, WeightClass, Method
+from api.options import FightStatus, WeightClass, Method, CardTier
 from api.models.fighter import get_record_object
 
 
@@ -17,6 +17,9 @@ class Fight(models.Model):
     scheduled_rounds = models.PositiveSmallIntegerField(default=3)
     is_title_fight = models.BooleanField(default=False)
     is_main_event = models.BooleanField(default=False)
+    card_tier = models.CharField(
+        max_length=255, choices=CardTier.choices, default=CardTier.MAIN_CARD
+    )
     status = models.CharField(
         max_length=255, choices=FightStatus.choices, default=FightStatus.SCHEDULED
     )

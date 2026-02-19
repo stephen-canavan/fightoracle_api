@@ -52,6 +52,12 @@ class Bookmaker(models.TextChoices):
     PADDYPOWER = "PaddyPower"
 
 
+class CardTier(models.TextChoices):
+    MAIN_CARD = "MAIN_CARD"
+    PRELIMS = "PRELIMS"
+    EARLY_PRELIMS = "EARLY_PRELIMS"
+
+
 class PredictionStatus(models.TextChoices):
     PENDING = "PENDING"
     CORRECT = "CORRECT"

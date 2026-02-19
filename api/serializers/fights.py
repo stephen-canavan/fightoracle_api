@@ -63,7 +63,7 @@ class FightSerializer(serializers.ModelSerializer):
             "scheduled_rounds",
             "is_title_fight",
             "is_main_event",
-            "status",
+            "card_tier",
             "result",
         ]
 
