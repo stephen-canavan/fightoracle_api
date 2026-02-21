@@ -38,6 +38,7 @@ class Prediction(models.Model):
 
     def save(self, *args, **kwargs):
         self.points_potential = calculate_potential_points(self)
+        self.prediction_date = timezone.now()
 
         update_fields = kwargs.get("update_fields")
         if update_fields:
