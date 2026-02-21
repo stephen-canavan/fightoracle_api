@@ -1,6 +1,7 @@
 from django.shortcuts import get_object_or_404
 from rest_framework import status
 from rest_framework import viewsets
+from django.utils import timezone
 from rest_framework.response import Response
 from api.models import Prediction, User
 from api.serializers import PredictionSerializer
@@ -16,9 +17,9 @@ class PredictionViewSet(viewsets.ViewSet):
         if self.action in ["list", "retrieve"]:
             return [AllowAny()]
         if self.action == "create":
-            return [IsAuthenticated(), PredictionIsMakeable()]
+            return [IsAuthenticated()]
         if self.action in ["update", "partial_update"]:
-            return [IsAuthenticated(), IsOwner(), PredictionIsMakeable()]
+            return [IsAuthenticated(), IsOwner()]
         if self.action == "destroy":
             return [IsAuthenticated(), IsOwner()]
         return [IsAdminUser()]
@@ -51,6 +52,16 @@ class PredictionViewSet(viewsets.ViewSet):
 
     def destroy(self, request, pk=None):
         prediction = get_object_or_404(Prediction, id=pk)
+        # self.check_object_permissions(request, prediction)
+        # Check if the fight's event has already started
+        if prediction.fight.event.date <= timezone.now():
+            return Response(
+                {
+                    "detail": "You cannot delete a prediction once the event has started."
+                },
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
         prediction.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
 
@@ -75,6 +86,7 @@ class PredictionViewSet(viewsets.ViewSet):
         Partial update (PATCH) – only updates provided fields.
         """
         prediction = get_object_or_404(Prediction, pk=pk)
+        # self.check_object_permissions(request, prediction)
 
         serializer = PredictionSerializer(
             prediction,

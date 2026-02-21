@@ -20,7 +20,7 @@ class IsOwner(BasePermission):
 
 
 class PredictionIsMakeable(BasePermission):
-    message = "You cannot make a prediction once the event start date has passed"
+    message = "You cannot make or alter a prediction after an event has started"
 
     def has_object_permission(self, request, view, obj):
         current_time = datetime.now(timezone.utc)

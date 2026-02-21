@@ -1,5 +1,6 @@
 from api.models import Prediction
 from rest_framework import serializers
+from django.utils import timezone
 from api.serializers.events import EventSummarySerializer
 from api.serializers.users import UserSummarySerializer
 from api.serializers.fights import FightSummarySerializer, FightResultSerializer
@@ -48,3 +49,18 @@ class PredictionSerializer(serializers.ModelSerializer):
             defaults=validated_data,
         )
         return obj
+
+    def validate(self, attrs):
+        fight = attrs.get("fight")
+
+        # If updating and fight not provided, use existing fight
+        if not fight and self.instance:
+            fight = self.instance.fight
+
+        if fight and fight.event.date <= timezone.now():
+            print("Date error")
+            raise serializers.ValidationError(
+                "You cannot make or modify a prediction once the event has started."
+            )
+
+        return attrs
