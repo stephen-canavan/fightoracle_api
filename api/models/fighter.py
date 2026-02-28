@@ -17,22 +17,70 @@ def fighter_image_upload_path(instance, filename):
 
 
 class Fighter(models.Model):
+    # UFCStats tracking
+    ufcstats_fighter_id = models.CharField(
+        max_length=50, unique=True, db_index=True, null=True, blank=True,
+        help_text="UFCStats.com fighter ID for tracking source data"
+    )
+    
+    # Basic info
     fname = models.CharField(max_length=255)
     sname = models.CharField(max_length=255)
     nickname = models.CharField(max_length=255, blank=True, null=True)
     promotion = models.ForeignKey("api.Promotion", on_delete=models.PROTECT)
     weight_class = models.CharField(max_length=255, choices=WeightClass.choices)
     dob = models.DateField()
+    stance = models.CharField(max_length=50, blank=True, null=True)
+    
+    # Physical attributes
     height = models.DecimalField(max_digits=5, decimal_places=1, blank=True, null=True)
     reach = models.DecimalField(max_digits=5, decimal_places=1, blank=True, null=True)
-    wins = models.PositiveSmallIntegerField(default=0)
     country = CountryField(
         blank=True, null=True, countries=django_conf_settings.COUNTRIES
     )
+    
+    # Record
+    wins = models.PositiveSmallIntegerField(default=0)
     losses = models.PositiveSmallIntegerField(default=0)
     draws = models.PositiveSmallIntegerField(default=0)
     no_contests = models.PositiveSmallIntegerField(default=0)
     dqs = models.PositiveSmallIntegerField(default=0)
+    
+    # Career statistics
+    slpm = models.DecimalField(
+        max_digits=5, decimal_places=2, blank=True, null=True,
+        help_text="Significant Strikes Landed per Minute"
+    )
+    str_acc = models.PositiveSmallIntegerField(
+        blank=True, null=True,
+        help_text="Striking Accuracy %"
+    )
+    sapm = models.DecimalField(
+        max_digits=5, decimal_places=2, blank=True, null=True,
+        help_text="Significant Strikes Absorbed per Minute"
+    )
+    str_def = models.PositiveSmallIntegerField(
+        blank=True, null=True,
+        help_text="Strike Defense %"
+    )
+    td_avg = models.DecimalField(
+        max_digits=5, decimal_places=2, blank=True, null=True,
+        help_text="Takedown Average per 15min"
+    )
+    td_acc = models.PositiveSmallIntegerField(
+        blank=True, null=True,
+        help_text="Takedown Accuracy %"
+    )
+    td_def = models.PositiveSmallIntegerField(
+        blank=True, null=True,
+        help_text="Takedown Defense %"
+    )
+    sub_avg = models.DecimalField(
+        max_digits=5, decimal_places=2, blank=True, null=True,
+        help_text="Submission Average per 15min"
+    )
+    
+    # Media
     avatar = models.ImageField(
         upload_to=fighter_image_upload_path, null=True, blank=True
     )

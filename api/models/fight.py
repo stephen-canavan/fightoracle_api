@@ -4,6 +4,13 @@ from api.models.fighter import get_record_object
 
 
 class Fight(models.Model):
+    # UFCStats tracking
+    ufcstats_fight_id = models.CharField(
+        max_length=50, unique=True, db_index=True, null=True, blank=True,
+        help_text="UFCStats.com fight ID for tracking source data"
+    )
+    
+    # Relationships
     event = models.ForeignKey("api.Event", on_delete=models.PROTECT)
     fighter_red = models.ForeignKey(
         "api.Fighter", related_name="red_corner", on_delete=models.PROTECT
@@ -13,6 +20,8 @@ class Fight(models.Model):
     )
     fighter_red_record = models.JSONField(max_length=50, blank=True, null=True)
     fighter_blue_record = models.JSONField(max_length=50, blank=True, null=True)
+    
+    # Fight details
     weight_class = models.CharField(max_length=255, choices=WeightClass.choices)
     scheduled_rounds = models.PositiveSmallIntegerField(default=3)
     is_title_fight = models.BooleanField(default=False)
@@ -32,6 +41,27 @@ class Fight(models.Model):
         max_length=255, choices=Method.choices, blank=True, null=True
     )
     winning_round = models.IntegerField(blank=True, null=True)
+    
+    # UFCStats additional data
+    method_details = models.CharField(
+        max_length=255, blank=True, null=True,
+        help_text="Detailed method description (e.g., 'Punches to Head')"
+    )
+    fight_time = models.CharField(
+        max_length=10, blank=True, null=True,
+        help_text="Time of finish (e.g., '2:23')"
+    )
+    referee = models.CharField(max_length=255, blank=True, null=True)
+    
+    # Comprehensive fight statistics
+    fighter_red_stats = models.JSONField(
+        blank=True, null=True,
+        help_text="Complete statistics for red corner fighter"
+    )
+    fighter_blue_stats = models.JSONField(
+        blank=True, null=True,
+        help_text="Complete statistics for blue corner fighter"
+    )
 
     def __str__(self):
         return f"{self.fighter_red.name} vs {self.fighter_blue.name}"

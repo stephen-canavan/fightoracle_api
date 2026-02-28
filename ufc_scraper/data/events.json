@@ -1,0 +1,85 @@
+{
+  "events": [
+    {
+      "ufcstats_event_id": "0cfbbfa0ba6d9855",
+      "name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "date": "2026-02-28",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "15ec018d144710db",
+      "name": "UFC 326: Holloway vs. Oliveira 2",
+      "date": "2026-03-07",
+      "location": "Las Vegas, Nevada, USA",
+      "country": "USA",
+      "city": "Las Vegas",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "babc6b5745335f18",
+      "name": "UFC Fight Night: Emmett vs. Vallejos",
+      "date": "2026-03-14",
+      "location": "Las Vegas, Nevada, USA",
+      "country": "USA",
+      "city": "Las Vegas",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "69108cb8b32efe04",
+      "name": "UFC Fight Night: Evloev vs. Murphy",
+      "date": "2026-03-21",
+      "location": "London, England, United Kingdom",
+      "country": "United Kingdom",
+      "city": "London",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "5c38639f860a5542",
+      "name": "UFC Fight Night: Adesanya vs. Pyfer",
+      "date": "2026-03-28",
+      "location": "Seattle, Washington, USA",
+      "country": "USA",
+      "city": "Seattle",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "9a70f67ad2187fa3",
+      "name": "UFC Fight Night: Moicano vs. Duncan",
+      "date": "2026-04-04",
+      "location": "Las Vegas, Nevada, USA",
+      "country": "USA",
+      "city": "Las Vegas",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "f3eb664db7fb1df3",
+      "name": "UFC 327: Prochazka vs. Ulberg",
+      "date": "2026-04-11",
+      "location": "Miami, Florida, USA",
+      "country": "USA",
+      "city": "Miami",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "c3ac8d0da7b05772",
+      "name": "UFC Fight Night: Burns vs. Malott",
+      "date": "2026-04-18",
+      "location": "Winnipeg, Manitoba, Canada",
+      "country": "Canada",
+      "city": "Winnipeg",
+      "venue": null
+    },
+    {
+      "ufcstats_event_id": "e60d773a0a42048a",
+      "name": "UFC Fight Night: Brady vs. Buckley",
+      "date": "2026-04-25",
+      "location": "Las Vegas, Nevada, USA",
+      "country": "USA",
+      "city": "Las Vegas",
+      "venue": null
+    }
+  ]
+}
