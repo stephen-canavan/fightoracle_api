@@ -114,3 +114,36 @@ class EventScraper(BaseScraper):
         
         logger.info(f"Found {len(fight_ids)} fights for event {event_id}")
         return fight_ids
+    
+    def scrape_event(self, event_id):
+        """Scrape a single event by ID."""
+        soup = self.fetch_page(self.build_url(f"/event-details/{event_id}"))
+        
+        # Extract event name
+        title = soup.find('h2', class_='b-content__title')
+        name = title.get_text(strip=True) if title else ""
+        
+        # Extract date and location
+        details = soup.find_all('li', class_='b-list__box-list-item')
+        date = ""
+        location = ""
+        
+        for detail in details:
+            text = detail.get_text(strip=True)
+            if 'Date:' in text:
+                date = text.replace('Date:', '').strip()
+            elif 'Location:' in text:
+                location = text.replace('Location:', '').strip()
+        
+        country, city, venue = self._parse_location(location)
+        iso_date = self._parse_date(date)
+        
+        return {
+            "ufcstats_event_id": event_id,
+            "name": name,
+            "date": iso_date,
+            "location": location,
+            "country": country,
+            "city": city,
+            "venue": venue
+        }

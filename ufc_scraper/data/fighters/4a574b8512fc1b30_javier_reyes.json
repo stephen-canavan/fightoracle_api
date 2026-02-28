@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a574b8512fc1b30",
+  "fname": "Javier",
+  "sname": "Reyes",
+  "record": {
+    "wins": 22,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Blair",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "",
+  "dob": "1993-10-10",
+  "career_stats": {
+    "slpm": 8.29,
+    "str_acc": 46,
+    "sapm": 0.79,
+    "str_def": 77,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

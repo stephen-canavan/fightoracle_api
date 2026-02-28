@@ -21,6 +21,18 @@ class JSONStore:
         with open(EVENTS_FILE, 'w') as f:
             json.dump({"events": events}, f, indent=2)
     
+    def save_event(self, event):
+        """Save a single event to JSON."""
+        events = self.load_events()
+        # Update if exists, otherwise append
+        for i, e in enumerate(events):
+            if e.get('ufcstats_event_id') == event.get('ufcstats_event_id'):
+                events[i] = event
+                break
+        else:
+            events.append(event)
+        self.save_events(events)
+    
     def load_events(self):
         """Load events from JSON."""
         if not os.path.exists(EVENTS_FILE):

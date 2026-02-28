@@ -29,7 +29,7 @@ class FightViewSet(viewsets.ViewSet):
                 Q(fighter_red__id=fighter_id) | Q(fighter_blue__id=fighter_id)
             )
 
-        return query_set
+        return query_set.order_by('-event__date', 'card_position')
 
     def list(self, request, **kwargs):
         fights = self.get_queryset()

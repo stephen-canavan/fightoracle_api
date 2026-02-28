@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9a97acbfd5a08bfa",
+  "fname": "David",
+  "sname": "Martinez",
+  "record": {
+    "wins": 13,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1998-08-03",
+  "career_stats": {
+    "slpm": 4.85,
+    "str_acc": 47,
+    "sapm": 2.95,
+    "str_def": 68,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -26,6 +26,10 @@ class Fight(models.Model):
     scheduled_rounds = models.PositiveSmallIntegerField(default=3)
     is_title_fight = models.BooleanField(default=False)
     is_main_event = models.BooleanField(default=False)
+    card_position = models.PositiveSmallIntegerField(
+        null=True, blank=True,
+        help_text="Fight order on card (1=main event, 2=co-main, etc.)"
+    )
     card_tier = models.CharField(
         max_length=255, choices=CardTier.choices, default=CardTier.MAIN_CARD
     )

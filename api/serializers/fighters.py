@@ -15,6 +15,10 @@ class FighterSerializer(serializers.ModelSerializer):
     promotion = PromotionSummarySerializer()
     avatar_url = serializers.ImageField(source="avatar")
     country = serializers.SerializerMethodField()
+    height = serializers.FloatField()
+    reach = serializers.FloatField()
+    weight_class = serializers.CharField(source="get_weight_class_display")
+    stats = serializers.SerializerMethodField()
 
     class Meta:
         model = Fighter
@@ -29,10 +33,23 @@ class FighterSerializer(serializers.ModelSerializer):
             "height",
             "reach",
             "record",
+            "stats",
             "avatar_url",
             "country",
         ]
 
+    def get_stats(self, obj):
+        return {
+            "slpm": float(obj.slpm) if obj.slpm else None,
+            "str_acc": obj.str_acc,
+            "sapm": float(obj.sapm) if obj.sapm else None,
+            "str_def": obj.str_def,
+            "td_avg": float(obj.td_avg) if obj.td_avg else None,
+            "td_acc": obj.td_acc,
+            "td_def": obj.td_def,
+            "sub_avg": float(obj.sub_avg) if obj.sub_avg else None,
+        }
+    
     def get_country(self, obj):
         if not obj.country:
             return None

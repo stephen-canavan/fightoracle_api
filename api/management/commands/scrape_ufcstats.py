@@ -11,6 +11,7 @@ class Command(BaseCommand):
         parser.add_argument('--recent', type=int, help='Update events from last N days')
         parser.add_argument('--fighter', type=str, help='Scrape specific fighter by name')
         parser.add_argument('--event', type=str, help='Scrape specific event by name')
+        parser.add_argument('--event-id', type=str, help='Scrape specific event by UFCStats ID')
         parser.add_argument('--fight-id', type=str, help='Scrape specific fight by ID')
         parser.add_argument('--update-events', action='store_true', help='Update all events')
         parser.add_argument('--update-fighters', action='store_true', help='Update all fighters')
@@ -25,6 +26,8 @@ class Command(BaseCommand):
             cmd.extend(['--fighter', options['fighter']])
         elif options['event']:
             cmd.extend(['--event', options['event']])
+        elif options['event_id']:
+            cmd.extend(['--event-id', options['event_id']])
         elif options['fight_id']:
             cmd.extend(['--fight-id', options['fight_id']])
         elif options['update_events']:

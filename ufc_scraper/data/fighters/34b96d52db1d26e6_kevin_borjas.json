@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "34b96d52db1d26e6",
+  "fname": "Kevin",
+  "sname": "Borjas",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Gallo Negro",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1997-12-06",
+  "career_stats": {
+    "slpm": 4.19,
+    "str_acc": 44,
+    "sapm": 5.74,
+    "str_def": 49,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

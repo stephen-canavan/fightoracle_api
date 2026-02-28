@@ -51,28 +51,35 @@ class Command(BaseCommand):
         updated_count = 0
         
         for event_data in data['events']:
-            # Parse date to datetime
+            # Parse date to datetime with timezone
+            from django.utils import timezone
             date_str = event_data['date']
             date_obj = datetime.strptime(date_str, '%Y-%m-%d')
+            date_obj = timezone.make_aware(date_obj)
+            
+            # Set status based on date (events are SCHEDULED until the day after)
+            today = timezone.now().date()
+            event_date = date_obj.date()
+            status = 'COMPLETED' if event_date < today else 'SCHEDULED'
             
             event, created = Event.objects.get_or_create(
                 ufcstats_event_id=event_data['ufcstats_event_id'],
                 defaults={
                     'name': event_data['name'],
                     'promotion': ufc_promotion,
-                    'country': event_data.get('country', ''),
-                    'city': event_data.get('city', ''),
-                    'venue': event_data.get('venue', ''),
+                    'country': event_data.get('country') or 'Unknown',
+                    'city': event_data.get('city') or 'Unknown',
+                    'venue': event_data.get('venue') or 'Unknown',
                     'date': date_obj,
-                    'status': 'COMPLETED' if date_obj < datetime.now() else 'SCHEDULED'
+                    'status': status
                 }
             )
             
             if not created:
                 event.name = event_data['name']
-                event.country = event_data.get('country', '')
-                event.city = event_data.get('city', '')
-                event.venue = event_data.get('venue', '')
+                event.country = event_data.get('country') or 'Unknown'
+                event.city = event_data.get('city') or 'Unknown'
+                event.venue = event_data.get('venue') or 'Unknown'
                 event.save()
                 updated_count += 1
             else:
@@ -192,6 +199,26 @@ class Command(BaseCommand):
                 skipped_count += 1
                 continue
             
+            # Determine fight status based on event date and whether result exists
+            from django.utils import timezone
+            today = timezone.now().date()
+            event_date = event.date.date()
+            has_result = data.get('method') is not None
+            
+            if event_date < today:
+                fight_status = 'COMPLETED'
+            elif has_result:
+                fight_status = 'COMPLETED'  # Event happened, has result
+            else:
+                fight_status = 'SCHEDULED'
+            
+            # Determine card tier based on position
+            card_pos = data.get('card_position')
+            if card_pos and card_pos <= 6:
+                card_tier = 'MAIN_CARD'
+            else:
+                card_tier = 'PRELIMS'
+            
             fight, created = Fight.objects.get_or_create(
                 ufcstats_fight_id=data['ufcstats_fight_id'],
                 defaults={
@@ -205,10 +232,14 @@ class Command(BaseCommand):
                     'method_details': data.get('method_details'),
                     'fight_time': data.get('time'),
                     'referee': data.get('referee'),
+                    'card_position': card_pos,
+                    'is_main_event': data.get('card_position') == 1,
+                    'is_title_fight': data.get('is_title_fight', False),
+                    'card_tier': card_tier,
                     'fighter_red_stats': data.get('fighter_red_stats'),
                     'fighter_blue_stats': data.get('fighter_blue_stats'),
-                    'status': 'COMPLETED',
-                    'scheduled_rounds': 3,  # Default
+                    'status': fight_status,
+                    'scheduled_rounds': 5 if (data.get('is_title_fight') or data.get('card_position') == 1) else 3,
                 }
             )
             
@@ -220,12 +251,32 @@ class Command(BaseCommand):
                 fight.method_details = data.get('method_details')
                 fight.fight_time = data.get('time')
                 fight.referee = data.get('referee')
+                
+                # Only update card_position if new data has it (don't overwrite with None)
+                if card_pos is not None:
+                    fight.card_position = card_pos
+                    fight.is_main_event = data.get('card_position') == 1
+                    fight.card_tier = card_tier
+                
+                fight.is_title_fight = data.get('is_title_fight', False)
+                fight.scheduled_rounds = 5 if (data.get('is_title_fight') or fight.card_position == 1) else 3
+                fight.status = fight_status
                 fight.fighter_red_stats = data.get('fighter_red_stats')
                 fight.fighter_blue_stats = data.get('fighter_blue_stats')
                 fight.save()
                 updated_count += 1
             else:
                 created_count += 1
+            
+            # Update fighter weight classes from fight data
+            if data.get('weight_class'):
+                weight_class_code = map_weight_class(data['weight_class'])
+                if fighter_red.weight_class == 'MW':  # Only update if still default
+                    fighter_red.weight_class = weight_class_code
+                    fighter_red.save()
+                if fighter_blue.weight_class == 'MW':  # Only update if still default
+                    fighter_blue.weight_class = weight_class_code
+                    fighter_blue.save()
         
         self.stdout.write(self.style.SUCCESS(
             f'Fights: {created_count} created, {updated_count} updated, {skipped_count} skipped'

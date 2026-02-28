@@ -74,10 +74,12 @@ class FightParser:
             elif 'W' in result_divs[1].get_text():
                 fight_data["ufcstats_winner_id"] = fight_data.get("ufcstats_fighter_blue_id")
         
-        # Weight class
+        # Weight class and title fight detection
         weight_elem = soup.find('i', class_='b-fight-details__fight-title')
         if weight_elem:
-            fight_data["weight_class"] = weight_elem.get_text(strip=True).replace(' Bout', '')
+            weight_text = weight_elem.get_text(strip=True)
+            fight_data["is_title_fight"] = "Title" in weight_text
+            fight_data["weight_class"] = weight_text.replace(' Bout', '').replace('UFC ', '').replace(' Title', '')
     
     def _parse_totals(self, soup, fight_data):
         """Parse total statistics table."""

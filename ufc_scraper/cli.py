@@ -97,6 +97,42 @@ class CLI:
         
         logger.info(f"Completed: {len(fight_ids)} fights for event")
     
+    def update_event_by_id(self, event_id):
+        """Update a specific event by UFCStats ID and all its fights."""
+        logger.info(f"Scraping event ID: {event_id}")
+        
+        # Scrape the event details
+        event_data = self.event_scraper.scrape_event(event_id)
+        self.store.save_event(event_data)
+        logger.info(f"Saved event: {event_data.get('name')}")
+        
+        # Scrape all fights for this event
+        fight_ids = self.event_scraper.scrape_event_fights(event_id)
+        logger.info(f"Found {len(fight_ids)} fights")
+        
+        for i, fight_id in enumerate(fight_ids, 1):
+            try:
+                fight_data = self.fight_scraper.scrape_fight(fight_id, event_id)
+                fight_data['card_position'] = i  # Add position (1=main event)
+                self.store.save_fight(fight_data)
+                
+                # Scrape both fighters
+                for fighter_key in ['ufcstats_fighter_red_id', 'ufcstats_fighter_blue_id']:
+                    fighter_id = fight_data.get(fighter_key)
+                    if fighter_id:
+                        try:
+                            fighter_data = self.fighter_scraper.scrape_fighter(fighter_id)
+                            self.store.save_fighter(fighter_data)
+                        except Exception as e:
+                            logger.error(f"Failed to scrape fighter {fighter_id}: {e}")
+                
+                logger.info(f"Progress: {i}/{len(fight_ids)} fights")
+            except Exception as e:
+                logger.error(f"Failed to scrape fight {fight_id}: {e}")
+        
+        logger.info(f"Completed event: {event_data.get('name')}")
+    
+    
     def update_fight(self, fight_id):
         """Update a specific fight by ID."""
         logger.info(f"Updating fight: {fight_id}")
@@ -194,6 +230,7 @@ def main():
     # Query commands
     parser.add_argument('--fighter', type=str, help='Fetch specific fighter by name')
     parser.add_argument('--event', type=str, help='Fetch specific event by name')
+    parser.add_argument('--event-id', type=str, help='Fetch specific event by UFCStats ID')
     parser.add_argument('--fight-id', type=str, help='Fetch specific fight by ID')
     
     # Filters
@@ -230,6 +267,9 @@ def main():
         
         if args.event:
             cli.update_event(args.event)
+        
+        if args.event_id:
+            cli.update_event_by_id(args.event_id)
         
         if args.fight_id:
             cli.update_fight(args.fight_id)

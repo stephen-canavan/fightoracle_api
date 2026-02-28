@@ -9,10 +9,18 @@ class FightResultSerializer(serializers.ModelSerializer):
     winner = FighterSummarySerializer()
     winning_method = serializers.CharField()
     winning_round = serializers.IntegerField()
+    method_details = serializers.CharField()
+    fight_time = serializers.SerializerMethodField()
 
     class Meta:
         model = Fight
-        fields = ["winner", "winning_method", "winning_round"]
+        fields = ["winner", "winning_method", "winning_round", "method_details", "fight_time"]
+    
+    def get_fight_time(self, obj):
+        # Only include fight_time if fight is completed
+        if obj.status == 'COMPLETED':
+            return obj.fight_time
+        return None
 
 
 class FightFighterSummarySerializer(serializers.ModelSerializer):
@@ -51,6 +59,7 @@ class FightSerializer(serializers.ModelSerializer):
     fighter_blue = FightFighterSummarySerializer(source="get_fighter_blue_with_record")
     event = EventSummarySerializer()
     result = FightResultSerializer(source="*")
+    weight_class = serializers.CharField(source="get_weight_class_display")
 
     class Meta:
         model = Fight
@@ -63,6 +72,7 @@ class FightSerializer(serializers.ModelSerializer):
             "scheduled_rounds",
             "is_title_fight",
             "is_main_event",
+            "card_position",
             "card_tier",
             "result",
         ]
@@ -78,4 +88,5 @@ class FightSummarySerializer(FightSerializer):
             "weight_class",
             "is_title_fight",
             "is_main_event",
+            "card_position",
         ]

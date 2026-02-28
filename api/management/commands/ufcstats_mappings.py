@@ -57,7 +57,7 @@ def map_weight_class(ufcstats_weight_class):
 def map_method(ufcstats_method):
     """Map UFCStats method to Django choice."""
     if not ufcstats_method:
-        return "FINISH"  # Default
+        return None  # No method for scheduled fights
     
     mapped = METHOD_MAP.get(ufcstats_method)
     if mapped:
@@ -78,4 +78,4 @@ def map_method(ufcstats_method):
     elif "NC" in method_upper or "NO CONTEST" in method_upper:
         return "NC"
     
-    return "FINISH"  # Default
+    return "FINISH"  # Default for unknown methods
