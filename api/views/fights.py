@@ -9,9 +9,11 @@ from rest_framework.permissions import AllowAny, IsAdminUser
 from rest_framework.decorators import action
 
 from api.services.fights import complete_fight
+from api.pagination import FightPagination
 
 
 class FightViewSet(viewsets.ViewSet):
+    pagination_class = FightPagination
     def get_permissions(self):
         if self.action in ["list", "retrieve"]:
             return [AllowAny()]
@@ -33,8 +35,10 @@ class FightViewSet(viewsets.ViewSet):
 
     def list(self, request, **kwargs):
         fights = self.get_queryset()
-        serializer = FightSerializer(fights, many=True)
-        return Response(serializer.data)
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(fights, request)
+        serializer = FightSerializer(page, many=True)
+        return paginator.get_paginated_response(serializer.data)
 
     def retrieve(self, request, pk=None):
         fight = get_object_or_404(Fight, id=pk)

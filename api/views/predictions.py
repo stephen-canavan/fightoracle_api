@@ -8,10 +8,12 @@ from api.serializers import PredictionSerializer
 from api.filters.prediction import PredictionFilter
 from rest_framework.permissions import AllowAny, IsAdminUser, IsAuthenticated
 from api.permissions import PredictionIsMakeable, IsOwner
+from api.pagination import PredictionPagination
 
 
 class PredictionViewSet(viewsets.ViewSet):
     filterset_class = PredictionFilter
+    pagination_class = PredictionPagination
 
     def get_permissions(self):
         if self.action in ["list", "retrieve"]:
@@ -42,8 +44,10 @@ class PredictionViewSet(viewsets.ViewSet):
         if not filterset.is_valid():
             return Response(filterset.errors, status=status.HTTP_400_BAD_REQUEST)
         predictions = filterset.qs
-        serializer = PredictionSerializer(predictions, many=True)
-        return Response(serializer.data)
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(predictions, request)
+        serializer = PredictionSerializer(page, many=True)
+        return paginator.get_paginated_response(serializer.data)
 
     def retrieve(self, request, pk=None):
         prediction = get_object_or_404(Prediction, id=pk)

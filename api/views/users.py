@@ -8,9 +8,11 @@ from api.permissions import IsOwner
 from rest_framework.permissions import AllowAny, IsAdminUser, IsAuthenticated
 from rest_framework.decorators import action
 from api.serializers.users import ChangePasswordSerializer
+from api.pagination import UserPagination
 
 
 class UserViewSet(viewsets.ViewSet):
+    pagination_class = UserPagination
     def get_permissions(self):
         if self.action in ["list", "retrieve"]:
             return [AllowAny()]
@@ -24,8 +26,10 @@ class UserViewSet(viewsets.ViewSet):
     def list(self, request):
         self.check_permissions(request)
         users = User.objects.all()
-        serializer = UserSerializer(users, context={"request": request}, many=True)
-        return Response(serializer.data)
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(users, request)
+        serializer = UserSerializer(page, context={"request": request}, many=True)
+        return paginator.get_paginated_response(serializer.data)
 
     def retrieve(self, request, pk=None):
         user = get_object_or_404(User, username=pk)

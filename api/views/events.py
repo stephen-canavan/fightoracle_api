@@ -7,9 +7,11 @@ from api.serializers import EventSerializer
 from rest_framework.permissions import IsAdminUser, AllowAny
 from rest_framework.decorators import action
 from api.services.events import complete_event
+from api.pagination import EventPagination
 
 
 class EventViewSet(viewsets.ViewSet):
+    pagination_class = EventPagination
     def get_permissions(self):
         if self.action in ["list", "retrieve"]:
             return [AllowAny()]
@@ -26,8 +28,10 @@ class EventViewSet(viewsets.ViewSet):
 
     def list(self, request, **kwargs):
         events = self.get_queryset(**kwargs)
-        serializer = EventSerializer(events, many=True)
-        return Response(serializer.data)
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(events, request)
+        serializer = EventSerializer(page, many=True)
+        return paginator.get_paginated_response(serializer.data)
 
     def retrieve(self, request, pk=None):
         event = get_object_or_404(Event, id=pk)

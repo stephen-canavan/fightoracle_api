@@ -5,9 +5,11 @@ from rest_framework.response import Response
 from api.models import Fighter
 from api.serializers import FighterSerializer
 from rest_framework.permissions import IsAdminUser, AllowAny
+from api.pagination import FighterPagination
 
 
 class FighterViewSet(viewsets.ViewSet):
+    pagination_class = FighterPagination
     def get_permissions(self):
         if self.action in ["list", "retrieve"]:
             return [AllowAny()]
@@ -29,8 +31,10 @@ class FighterViewSet(viewsets.ViewSet):
 
     def list(self, request, **kwargs):
         fighters = self.get_queryset()
-        serializer = FighterSerializer(fighters, many=True)
-        return Response(serializer.data)
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(fighters, request)
+        serializer = FighterSerializer(page, many=True)
+        return paginator.get_paginated_response(serializer.data)
 
     def retrieve(self, request, pk=None):
         fighter = get_object_or_404(Fighter, id=pk)
