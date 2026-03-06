@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "de594b35c45c2e9a",
+  "fname": "Eduarda",
+  "sname": "Moura",
+  "record": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ronda",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1994-02-28",
+  "career_stats": {
+    "slpm": 2.57,
+    "str_acc": 37,
+    "sapm": 2.5,
+    "str_def": 58,
+    "td_avg": 3.58,
+    "td_acc": 34,
+    "td_def": 80,
+    "sub_avg": 0.4
+  }
+}

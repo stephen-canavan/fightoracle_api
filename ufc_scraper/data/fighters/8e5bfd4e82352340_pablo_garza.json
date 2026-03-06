@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8e5bfd4e82352340",
+  "fname": "Pablo",
+  "sname": "Garza",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Scarecrow",
+  "height_cm": 185.4,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1983-09-16",
+  "career_stats": {
+    "slpm": 3.37,
+    "str_acc": 44,
+    "sapm": 2.7,
+    "str_def": 50,
+    "td_avg": 0.94,
+    "td_acc": 25,
+    "td_def": 15,
+    "sub_avg": 1.3
+  }
+}

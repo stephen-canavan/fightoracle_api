@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ce6065baef021cf3",
+  "fname": "Ikuhisa",
+  "sname": "Minowa",
+  "record": {
+    "wins": 60,
+    "losses": 42,
+    "draws": 8,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Minowaman",
+  "height_cm": 175.3,
+  "weight_lbs": 181,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-01-12",
+  "career_stats": {
+    "slpm": 0.88,
+    "str_acc": 40,
+    "sapm": 1.66,
+    "str_def": 49,
+    "td_avg": 1.82,
+    "td_acc": 41,
+    "td_def": 5,
+    "sub_avg": 1.9
+  }
+}

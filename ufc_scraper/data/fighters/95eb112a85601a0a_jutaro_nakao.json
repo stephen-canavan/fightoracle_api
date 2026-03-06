@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "95eb112a85601a0a",
+  "fname": "Jutaro",
+  "sname": "Nakao",
+  "record": {
+    "wins": 25,
+    "losses": 19,
+    "draws": 4,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-11-30",
+  "career_stats": {
+    "slpm": 0.53,
+    "str_acc": 38,
+    "sapm": 1.06,
+    "str_def": 44,
+    "td_avg": 0.38,
+    "td_acc": 50,
+    "td_def": 56,
+    "sub_avg": 0.0
+  }
+}

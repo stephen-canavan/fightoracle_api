@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "714e1e0681ddb703",
+  "fname": "Derrick",
+  "sname": "Krantz",
+  "record": {
+    "wins": 22,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "D-Rock",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1988-01-13",
+  "career_stats": {
+    "slpm": 2.07,
+    "str_acc": 37,
+    "sapm": 4.03,
+    "str_def": 50,
+    "td_avg": 3.18,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.8
+  }
+}

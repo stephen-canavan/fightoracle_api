@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "eb70e786bbdf1d16",
+  "fname": "Yanis",
+  "sname": "Ghemmouri",
+  "record": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Desert Warrior",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1995-01-24",
+  "career_stats": {
+    "slpm": 2.29,
+    "str_acc": 38,
+    "sapm": 5.14,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

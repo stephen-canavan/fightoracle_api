@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9bcfb40dbcd50568",
+  "fname": "Luciano",
+  "sname": "Azevedo",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 161,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-06-25",
+  "career_stats": {
+    "slpm": 0.76,
+    "str_acc": 45,
+    "sapm": 1.97,
+    "str_def": 27,
+    "td_avg": 2.28,
+    "td_acc": 11,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

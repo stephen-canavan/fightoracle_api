@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ffc088e64fab57e9",
+  "fname": "Quinton",
+  "sname": "Jackson",
+  "record": {
+    "wins": 37,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rampage",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1978-06-20",
+  "career_stats": {
+    "slpm": 3.25,
+    "str_acc": 54,
+    "sapm": 2.51,
+    "str_def": 55,
+    "td_avg": 1.52,
+    "td_acc": 56,
+    "td_def": 73,
+    "sub_avg": 0.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2e2cdb6e9eb84bb9",
+  "fname": "Jesse",
+  "sname": "Moreng",
+  "record": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Arturo",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-11-09",
+  "career_stats": {
+    "slpm": 1.26,
+    "str_acc": 40,
+    "sapm": 2.08,
+    "str_def": 48,
+    "td_avg": 5.56,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

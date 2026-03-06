@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e18a19001a3f7c7d",
+  "fname": "Alptekin",
+  "sname": "Ozkilic",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Turkish Delight",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1986-03-27",
+  "career_stats": {
+    "slpm": 3.81,
+    "str_acc": 32,
+    "sapm": 5.72,
+    "str_def": 59,
+    "td_avg": 4.21,
+    "td_acc": 58,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

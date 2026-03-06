@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3d6749c4267da18f",
+  "fname": "Joanna",
+  "sname": "Jedrzejczyk",
+  "record": {
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1987-08-18",
+  "career_stats": {
+    "slpm": 6.28,
+    "str_acc": 48,
+    "sapm": 3.25,
+    "str_def": 62,
+    "td_avg": 0.27,
+    "td_acc": 62,
+    "td_def": 80,
+    "sub_avg": 0.1
+  }
+}

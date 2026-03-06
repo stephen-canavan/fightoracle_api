@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "70e1f8a821b72c8b",
+  "fname": "Jimmy",
+  "sname": "Crute",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1996-03-04",
+  "career_stats": {
+    "slpm": 4.15,
+    "str_acc": 52,
+    "sapm": 3.65,
+    "str_def": 42,
+    "td_avg": 4.39,
+    "td_acc": 52,
+    "td_def": 58,
+    "sub_avg": 2.0
+  }
+}

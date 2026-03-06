@@ -119,7 +119,7 @@ class Command(BaseCommand):
                     'sname': data['sname'],
                     'nickname': data.get('nickname', ''),
                     'promotion': ufc_promotion,
-                    'weight_class': 'MW',  # Default, update manually if needed
+                    'weight_class': 'UNKNOWN',
                     'dob': dob,
                     'stance': data.get('stance'),
                     'height': data.get('height_cm'),
@@ -271,12 +271,14 @@ class Command(BaseCommand):
             # Update fighter weight classes from fight data
             if data.get('weight_class'):
                 weight_class_code = map_weight_class(data['weight_class'])
-                if fighter_red.weight_class == 'MW':  # Only update if still default
-                    fighter_red.weight_class = weight_class_code
-                    fighter_red.save()
-                if fighter_blue.weight_class == 'MW':  # Only update if still default
-                    fighter_blue.weight_class = weight_class_code
-                    fighter_blue.save()
+                # Skip catchweight fights - don't use them to determine fighter weight class
+                if weight_class_code != 'CW':
+                    if fighter_red.weight_class == 'UNKNOWN':
+                        fighter_red.weight_class = weight_class_code
+                        fighter_red.save()
+                    if fighter_blue.weight_class == 'UNKNOWN':
+                        fighter_blue.weight_class = weight_class_code
+                        fighter_blue.save()
         
         self.stdout.write(self.style.SUCCESS(
             f'Fights: {created_count} created, {updated_count} updated, {skipped_count} skipped'

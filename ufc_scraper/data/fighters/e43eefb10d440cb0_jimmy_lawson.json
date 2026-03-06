@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e43eefb10d440cb0",
+  "fname": "Jimmy",
+  "sname": "Lawson",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Greedy",
+  "height_cm": 182.9,
+  "weight_lbs": 265,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1991-11-13",
+  "career_stats": {
+    "slpm": 0.07,
+    "str_acc": 8,
+    "sapm": 1.6,
+    "str_def": 44,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

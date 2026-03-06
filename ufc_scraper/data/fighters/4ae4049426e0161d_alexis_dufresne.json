@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4ae4049426e0161d",
+  "fname": "Alexis",
+  "sname": "Dufresne",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sneaky Zebra",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1990-08-31",
+  "career_stats": {
+    "slpm": 1.33,
+    "str_acc": 27,
+    "sapm": 3.33,
+    "str_def": 60,
+    "td_avg": 1.5,
+    "td_acc": 50,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

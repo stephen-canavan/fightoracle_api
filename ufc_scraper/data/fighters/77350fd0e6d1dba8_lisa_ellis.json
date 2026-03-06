@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "77350fd0e6d1dba8",
+  "fname": "Lisa",
+  "sname": "Ellis",
+  "record": {
+    "wins": 15,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1982-11-15",
+  "career_stats": {
+    "slpm": 1.68,
+    "str_acc": 48,
+    "sapm": 2.32,
+    "str_def": 57,
+    "td_avg": 4.19,
+    "td_acc": 63,
+    "td_def": 50,
+    "sub_avg": 0.6
+  }
+}

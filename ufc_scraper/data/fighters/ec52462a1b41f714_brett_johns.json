@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ec52462a1b41f714",
+  "fname": "Brett",
+  "sname": "Johns",
+  "record": {
+    "wins": 17,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Pikey",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1992-02-21",
+  "career_stats": {
+    "slpm": 2.86,
+    "str_acc": 49,
+    "sapm": 3.84,
+    "str_def": 53,
+    "td_avg": 4.92,
+    "td_acc": 49,
+    "td_def": 58,
+    "sub_avg": 1.0
+  }
+}

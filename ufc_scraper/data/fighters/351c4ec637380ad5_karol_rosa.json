@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "351c4ec637380ad5",
+  "fname": "Karol",
+  "sname": "Rosa",
+  "record": {
+    "wins": 19,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1994-12-30",
+  "career_stats": {
+    "slpm": 5.88,
+    "str_acc": 56,
+    "sapm": 4.59,
+    "str_def": 49,
+    "td_avg": 1.17,
+    "td_acc": 48,
+    "td_def": 70,
+    "sub_avg": 0.2
+  }
+}

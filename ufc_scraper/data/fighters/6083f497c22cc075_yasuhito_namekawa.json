@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6083f497c22cc075",
+  "fname": "Yasuhito",
+  "sname": "Namekawa",
+  "record": {
+    "wins": 25,
+    "losses": 16,
+    "draws": 4,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-10-27",
+  "career_stats": {
+    "slpm": 0.14,
+    "str_acc": 50,
+    "sapm": 3.65,
+    "str_def": 38,
+    "td_avg": 2.11,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 4.2
+  }
+}

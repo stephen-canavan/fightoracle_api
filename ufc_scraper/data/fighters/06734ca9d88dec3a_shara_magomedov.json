@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "06734ca9d88dec3a",
+  "fname": "Shara",
+  "sname": "Magomedov",
+  "record": {
+    "wins": 16,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bullet",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1994-05-16",
+  "career_stats": {
+    "slpm": 5.93,
+    "str_acc": 62,
+    "sapm": 3.85,
+    "str_def": 43,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

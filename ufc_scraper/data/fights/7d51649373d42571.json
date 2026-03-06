@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "7d51649373d42571",
+  "ufcstats_event_id": "b2e3aca4cd363477",
+  "ufcstats_fighter_red_id": "da22387a0407a2dc",
+  "ufcstats_fighter_blue_id": "1897b7b913736a7c",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "da22387a0407a2dc",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 125,
+      "attempted": 273
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 127,
+      "attempted": 275
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 75,
+        "attempted": 200
+      },
+      "body": {
+        "landed": 37,
+        "attempted": 50
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 23
+      },
+      "distance": {
+        "landed": 123,
+        "attempted": 270
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 61,
+      "attempted": 190
+    },
+    "sig_strikes_pct": 32,
+    "total_strikes": {
+      "landed": 61,
+      "attempted": 191
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 34,
+        "attempted": 148
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 34
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 60,
+        "attempted": 189
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8b9197746bd3e005",
+  "fname": "Alex",
+  "sname": "Huddleston",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Shaved Gorilla",
+  "height_cm": 200.7,
+  "weight_lbs": 254,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1986-08-11",
+  "career_stats": {
+    "slpm": 2.47,
+    "str_acc": 42,
+    "sapm": 2.59,
+    "str_def": 67,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.9
+  }
+}

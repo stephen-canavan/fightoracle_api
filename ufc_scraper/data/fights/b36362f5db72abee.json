@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "b36362f5db72abee",
+  "ufcstats_event_id": "a421465acbe59c77",
+  "ufcstats_fighter_red_id": "f53c1f4ceeed8c08",
+  "ufcstats_fighter_blue_id": "a4de54ea806fb525",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jorge Alonso",
+  "ufcstats_winner_id": "f53c1f4ceeed8c08",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "scorecards": [
+    {
+      "judge": "Hector Gomez",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 46,
+      "attempted": 80
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 107,
+      "attempted": 144
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "5:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 43
+      },
+      "body": {
+        "landed": 28,
+        "attempted": 33
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 39
+      },
+      "clinch": {
+        "landed": 22,
+        "attempted": 27
+      },
+      "ground": {
+        "landed": 12,
+        "attempted": 14
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 12,
+      "attempted": 27
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 21,
+      "attempted": 37
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 8
+    },
+    "takedown_pct": 62,
+    "submission_attempts": 2,
+    "reversals": 1,
+    "control_time": "5:59",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 9,
+        "attempted": 21
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 14
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 6
+      }
+    }
+  },
+  "card_position": 11
+}

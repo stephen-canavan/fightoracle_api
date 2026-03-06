@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "69898645d600abdb",
+  "fname": "Rodolfo",
+  "sname": "Bellato",
+  "record": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Trator",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1996-02-05",
+  "career_stats": {
+    "slpm": 5.13,
+    "str_acc": 59,
+    "sapm": 5.86,
+    "str_def": 46,
+    "td_avg": 1.44,
+    "td_acc": 35,
+    "td_def": 94,
+    "sub_avg": 0.2
+  }
+}

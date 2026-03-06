@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "de1acb6803ab3f14",
+  "ufcstats_event_id": "b12a1d19ee383b7c",
+  "ufcstats_fighter_red_id": "8f765fd5775a8873",
+  "ufcstats_fighter_blue_id": "9d19d9e4aa2662e8",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Thomas Fan",
+  "ufcstats_winner_id": "8f765fd5775a8873",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Ben Cartlidge",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "David Lethaby",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 68,
+      "attempted": 134
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 99,
+      "attempted": 173
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 11
+    },
+    "takedown_pct": 45,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 53,
+        "attempted": 113
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 49,
+        "attempted": 109
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 66,
+      "attempted": 134
+    },
+    "sig_strikes_pct": 49,
+    "total_strikes": {
+      "landed": 123,
+      "attempted": 195
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:57",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 36,
+        "attempted": 96
+      },
+      "body": {
+        "landed": 25,
+        "attempted": 33
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 38,
+        "attempted": 95
+      },
+      "clinch": {
+        "landed": 28,
+        "attempted": 39
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 8
+}

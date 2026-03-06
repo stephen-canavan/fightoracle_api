@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa79d5399571068e",
+  "fname": "Brandon",
+  "sname": "Wolff",
+  "record": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-10-18",
+  "career_stats": {
+    "slpm": 0.47,
+    "str_acc": 33,
+    "sapm": 10.91,
+    "str_def": 19,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

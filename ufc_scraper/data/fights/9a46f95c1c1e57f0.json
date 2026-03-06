@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9a46f95c1c1e57f0",
+  "ufcstats_event_id": "a79bfbc01b2264d6",
+  "ufcstats_fighter_red_id": "16690d100f995f8f",
+  "ufcstats_fighter_blue_id": "4ba8d454f762005d",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "",
+  "ufcstats_winner_id": "16690d100f995f8f",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Howie Booth",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Pawel Harasim",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Maria Makhmutova",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 26,
+      "attempted": 77
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 106
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:39",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 60
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 69
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 24,
+      "attempted": 76
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 51
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 69
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 12
+}

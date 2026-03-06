@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2891c9f7b26b26fc",
+  "fname": "Bret",
+  "sname": "Bergmark",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Angry Hick",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1973-11-24",
+  "career_stats": {
+    "slpm": 2.78,
+    "str_acc": 52,
+    "sapm": 2.78,
+    "str_def": 37,
+    "td_avg": 4.17,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 4.2
+  }
+}

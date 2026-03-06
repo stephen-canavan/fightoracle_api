@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "2554b31a07f34e1a",
+  "ufcstats_event_id": "6e4acc2c115215b5",
+  "ufcstats_fighter_red_id": "06e4245d16fc5315",
+  "ufcstats_fighter_blue_id": "f9ab66e67240db7b",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Gasper Oliver",
+  "ufcstats_winner_id": "06e4245d16fc5315",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Jon Bilyk",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Maimunah Querido",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 67,
+    "total_strikes": {
+      "landed": 68,
+      "attempted": 91
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 11
+    },
+    "takedown_pct": 54,
+    "submission_attempts": 0,
+    "reversals": 2,
+    "control_time": "4:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 28
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 44
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 27,
+      "attempted": 64
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 130,
+      "attempted": 179
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 4,
+    "control_time": "5:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 9,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 59
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 11
+}

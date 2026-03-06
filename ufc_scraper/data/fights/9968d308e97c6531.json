@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "9968d308e97c6531",
+  "ufcstats_event_id": "aae0897825336b1a",
+  "ufcstats_fighter_red_id": "b71ce838b01f2cad",
+  "ufcstats_fighter_blue_id": "29af297d9f1de0f8",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Jason",
+  "round": 1,
+  "time": "3:31",
+  "referee": "Kevin MacDonald",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 5,
+      "attempted": 7
+    },
+    "sig_strikes_pct": 71,
+    "total_strikes": {
+      "landed": 12,
+      "attempted": 14
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 5,
+      "attempted": 13
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 13,
+      "attempted": 22
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:21",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 5,
+        "attempted": 13
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 7
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 7
+}

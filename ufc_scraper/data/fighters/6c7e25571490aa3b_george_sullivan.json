@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6c7e25571490aa3b",
+  "fname": "George",
+  "sname": "Sullivan",
+  "record": {
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Silencer",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1981-03-13",
+  "career_stats": {
+    "slpm": 3.53,
+    "str_acc": 39,
+    "sapm": 2.42,
+    "str_def": 57,
+    "td_avg": 1.37,
+    "td_acc": 20,
+    "td_def": 38,
+    "sub_avg": 0.7
+  }
+}

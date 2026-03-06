@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6dab8ce5e4bffe77",
+  "fname": "LC",
+  "sname": "Davis",
+  "record": {
+    "wins": 23,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1980-10-28",
+  "career_stats": {
+    "slpm": 2.04,
+    "str_acc": 30,
+    "sapm": 2.1,
+    "str_def": 59,
+    "td_avg": 2.27,
+    "td_acc": 46,
+    "td_def": 66,
+    "sub_avg": 0.2
+  }
+}

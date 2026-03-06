@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "e516a0e035fd57f7",
+  "ufcstats_event_id": "f1f9e48a0d150757",
+  "ufcstats_fighter_red_id": "b5b684eac99ae0a3",
+  "ufcstats_fighter_blue_id": "94527830000ab715",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "b5b684eac99ae0a3",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Wilfredo Cintron",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Doug Crosby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Ray Martin",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 35,
+      "attempted": 72
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 46,
+      "attempted": 83
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 5
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:44",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 20,
+        "attempted": 42
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 25
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 59
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 12
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 15,
+      "attempted": 87
+    },
+    "sig_strikes_pct": 17,
+    "total_strikes": {
+      "landed": 43,
+      "attempted": 115
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 5
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 8,
+        "attempted": 70
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 85
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

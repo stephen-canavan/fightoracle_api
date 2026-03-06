@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "903d2c361d005b70",
+  "ufcstats_event_id": "972197a8c61ac413",
+  "ufcstats_fighter_red_id": "31ef8b67e13495b3",
+  "ufcstats_fighter_blue_id": "f0feeb2192937424",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mike Beltran",
+  "ufcstats_winner_id": "31ef8b67e13495b3",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Jacob Montalvo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jeff Rexroad",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Doug Crosby",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 144,
+      "attempted": 298
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 166,
+      "attempted": 322
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 6
+    },
+    "takedown_pct": 16,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 80,
+        "attempted": 217
+      },
+      "body": {
+        "landed": 41,
+        "attempted": 52
+      },
+      "leg": {
+        "landed": 23,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 127,
+        "attempted": 274
+      },
+      "clinch": {
+        "landed": 16,
+        "attempted": 22
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 96,
+      "attempted": 188
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 99,
+      "attempted": 191
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 7
+    },
+    "takedown_pct": 28,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:56",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 64,
+        "attempted": 141
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 41
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 73,
+        "attempted": 160
+      },
+      "clinch": {
+        "landed": 22,
+        "attempted": 26
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 4
+}

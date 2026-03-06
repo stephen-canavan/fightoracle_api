@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c47df9303d318c67",
+  "fname": "Clay",
+  "sname": "Guida",
+  "record": {
+    "wins": 38,
+    "losses": 22,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Carpenter",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1981-12-08",
+  "career_stats": {
+    "slpm": 2.63,
+    "str_acc": 33,
+    "sapm": 3.0,
+    "str_def": 61,
+    "td_avg": 3.1,
+    "td_acc": 35,
+    "td_def": 66,
+    "sub_avg": 0.6
+  }
+}

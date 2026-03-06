@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8c169fbe1ac33637",
+  "fname": "Loik",
+  "sname": "Radzhabov",
+  "record": {
+    "wins": 18,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Tajik Tank",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1990-09-17",
+  "career_stats": {
+    "slpm": 2.89,
+    "str_acc": 44,
+    "sapm": 3.76,
+    "str_def": 46,
+    "td_avg": 4.65,
+    "td_acc": 57,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b62d5280966b2460",
+  "fname": "Clayton",
+  "sname": "Carpenter",
+  "record": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1996-06-09",
+  "career_stats": {
+    "slpm": 3.66,
+    "str_acc": 53,
+    "sapm": 2.57,
+    "str_def": 55,
+    "td_avg": 1.99,
+    "td_acc": 46,
+    "td_def": 37,
+    "sub_avg": 1.3
+  }
+}

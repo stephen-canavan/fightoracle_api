@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "80779d7441af1b52",
+  "fname": "Christian",
+  "sname": "Morecraft",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 198.1,
+  "weight_lbs": 260,
+  "reach_cm": 205.7,
+  "stance": "Orthodox",
+  "dob": "1986-09-08",
+  "career_stats": {
+    "slpm": 2.82,
+    "str_acc": 34,
+    "sapm": 2.46,
+    "str_def": 46,
+    "td_avg": 3.26,
+    "td_acc": 66,
+    "td_def": 50,
+    "sub_avg": 2.2
+  }
+}

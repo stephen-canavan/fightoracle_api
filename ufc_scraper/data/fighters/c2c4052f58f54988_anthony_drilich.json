@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c2c4052f58f54988",
+  "fname": "Anthony",
+  "sname": "Drilich",
+  "record": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Southpaw",
+  "dob": "1994-03-17",
+  "career_stats": {
+    "slpm": 5.8,
+    "str_acc": 31,
+    "sapm": 5.07,
+    "str_def": 40,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 55,
+    "sub_avg": 0.0
+  }
+}

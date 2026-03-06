@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "e8d59c27b467d716",
+  "ufcstats_event_id": "9211aae062b799d6",
+  "ufcstats_fighter_red_id": "ec34349e7dffcde7",
+  "ufcstats_fighter_blue_id": "6a1901c62ab3870f",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John Sharp",
+  "ufcstats_winner_id": "6a1901c62ab3870f",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Barry Foley",
+      "red": 25,
+      "blue": 30
+    },
+    {
+      "judge": "Anthony Dimitriou",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Kon Papaioannou",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 91
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 96
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 7
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "0:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 41,
+        "attempted": 87
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 30,
+        "attempted": 71
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 5
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 141,
+      "attempted": 241
+    },
+    "sig_strikes_pct": 58,
+    "total_strikes": {
+      "landed": 242,
+      "attempted": 355
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 7
+    },
+    "takedown_pct": 57,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "8:35",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 83,
+        "attempted": 175
+      },
+      "body": {
+        "landed": 50,
+        "attempted": 58
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 107
+      },
+      "clinch": {
+        "landed": 18,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 78,
+        "attempted": 109
+      }
+    }
+  },
+  "card_position": 2
+}

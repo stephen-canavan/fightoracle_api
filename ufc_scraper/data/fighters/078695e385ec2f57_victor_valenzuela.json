@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "078695e385ec2f57",
+  "fname": "Victor",
+  "sname": "Valenzuela",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Psicosis",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1994-02-09",
+  "career_stats": {
+    "slpm": 3.36,
+    "str_acc": 33,
+    "sapm": 8.4,
+    "str_def": 48,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

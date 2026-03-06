@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "fb7d31b36bebc5af",
+  "ufcstats_event_id": "2a542ee8a8b83559",
+  "ufcstats_fighter_red_id": "480b702debcb5433",
+  "ufcstats_fighter_blue_id": "de62052b2ede65ba",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "480b702debcb5433",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Roy Silbert",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Doug Crosby",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 24,
+      "attempted": 68
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 38,
+      "attempted": 90
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 2,
+    "control_time": "10:50",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 66
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 22,
+        "attempted": 65
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 16,
+      "attempted": 25
+    },
+    "sig_strikes_pct": 64,
+    "total_strikes": {
+      "landed": 148,
+      "attempted": 164
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 5,
+    "reversals": 0,
+    "control_time": "2:26",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 18
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 4,
+        "attempted": 11
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 12,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 10
+}

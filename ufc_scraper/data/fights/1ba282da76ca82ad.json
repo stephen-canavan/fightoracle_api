@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1ba282da76ca82ad",
+  "ufcstats_event_id": "f3a078277b3b8ff4",
+  "ufcstats_fighter_red_id": "103e2e33a60683e1",
+  "ufcstats_fighter_blue_id": "bd532e9a2b93870c",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "bd532e9a2b93870c",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Anthony Maness",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 48,
+      "attempted": 108
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 60,
+      "attempted": 126
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:50",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 72
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 23,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 99
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 5
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 52,
+      "attempted": 95
+    },
+    "sig_strikes_pct": 54,
+    "total_strikes": {
+      "landed": 87,
+      "attempted": 148
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "8:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 47,
+        "attempted": 89
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 42,
+        "attempted": 76
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 9,
+        "attempted": 18
+      }
+    }
+  },
+  "card_position": 9
+}

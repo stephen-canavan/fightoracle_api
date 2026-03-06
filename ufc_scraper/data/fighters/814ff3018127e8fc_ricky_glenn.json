@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "814ff3018127e8fc",
+  "fname": "Ricky",
+  "sname": "Glenn",
+  "record": {
+    "wins": 22,
+    "losses": 9,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gladiator",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1989-04-12",
+  "career_stats": {
+    "slpm": 3.79,
+    "str_acc": 42,
+    "sapm": 4.3,
+    "str_def": 51,
+    "td_avg": 0.72,
+    "td_acc": 13,
+    "td_def": 69,
+    "sub_avg": 0.4
+  }
+}

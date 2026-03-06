@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9eef6584fab21fbb",
+  "fname": "Cindy",
+  "sname": "Dandois",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Battlecat",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1984-10-26",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 32,
+    "sapm": 3.4,
+    "str_def": 58,
+    "td_avg": 5.0,
+    "td_acc": 55,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

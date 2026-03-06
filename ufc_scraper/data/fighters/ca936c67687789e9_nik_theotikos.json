@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ca936c67687789e9",
+  "fname": "Nik",
+  "sname": "Theotikos",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 5.48,
+    "str_def": 19,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 4.8
+  }
+}

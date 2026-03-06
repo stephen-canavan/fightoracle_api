@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "4a17876e99f6baf3",
+  "ufcstats_event_id": "f65a0eb902f9476b",
+  "ufcstats_fighter_red_id": "d9c6f19f958643e9",
+  "ufcstats_fighter_blue_id": "54f64b5e283b0ce7",
+  "method": "Submission",
+  "method_details": "Arm Triangle From Side Control",
+  "round": 2,
+  "time": "3:10",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "54f64b5e283b0ce7",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 82
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 46,
+      "attempted": 94
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 9
+    },
+    "takedown_pct": 11,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 57
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 22
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 34,
+        "attempted": 79
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 40,
+      "attempted": 77
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 53,
+      "attempted": 93
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 34,
+        "attempted": 63
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 29,
+        "attempted": 64
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 9
+      }
+    }
+  },
+  "card_position": 5
+}

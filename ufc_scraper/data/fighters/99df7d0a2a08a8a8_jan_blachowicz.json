@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "99df7d0a2a08a8a8",
+  "fname": "Jan",
+  "sname": "Blachowicz",
+  "record": {
+    "wins": 29,
+    "losses": 11,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1983-02-24",
+  "career_stats": {
+    "slpm": 3.55,
+    "str_acc": 50,
+    "sapm": 3.14,
+    "str_def": 52,
+    "td_avg": 0.98,
+    "td_acc": 48,
+    "td_def": 69,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "4b334c9727eee450",
+  "ufcstats_event_id": "5af480a3b2e1726b",
+  "ufcstats_fighter_red_id": "a6a9ab5a824e8f66",
+  "ufcstats_fighter_blue_id": "304fcd812f12c589",
+  "method": "TKO - Doctor's Stoppage",
+  "method_details": "",
+  "round": 1,
+  "time": "0:48",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "a6a9ab5a824e8f66",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 11
+}

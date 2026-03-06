@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d6a3e131ad4ba064",
+  "fname": "Angga",
+  "sname": "",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hitman",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1989-01-13",
+  "career_stats": {
+    "slpm": 3.56,
+    "str_acc": 38,
+    "sapm": 3.77,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

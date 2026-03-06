@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e81dd0bb8a64b550",
+  "fname": "Charlie",
+  "sname": "Ward",
+  "record": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1980-12-17",
+  "career_stats": {
+    "slpm": 1.64,
+    "str_acc": 19,
+    "sapm": 7.21,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cdb7b38b1b357f26",
+  "fname": "Louie",
+  "sname": "Sutherland",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Vanilla Gorilla",
+  "height_cm": 190.5,
+  "weight_lbs": 264,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1994-02-08",
+  "career_stats": {
+    "slpm": 2.14,
+    "str_acc": 60,
+    "sapm": 3.57,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

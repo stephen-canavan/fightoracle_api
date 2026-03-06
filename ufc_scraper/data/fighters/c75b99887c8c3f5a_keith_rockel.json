@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c75b99887c8c3f5a",
+  "fname": "Keith",
+  "sname": "Rockel",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rock",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1965-08-28",
+  "career_stats": {
+    "slpm": 1.13,
+    "str_acc": 73,
+    "sapm": 0.21,
+    "str_def": 66,
+    "td_avg": 4.63,
+    "td_acc": 75,
+    "td_def": 100,
+    "sub_avg": 4.6
+  }
+}

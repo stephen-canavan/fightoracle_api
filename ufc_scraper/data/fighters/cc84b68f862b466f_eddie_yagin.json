@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cc84b68f862b466f",
+  "fname": "Eddie",
+  "sname": "Yagin",
+  "record": {
+    "wins": 16,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Filipino Phenom",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-03-23",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 30,
+    "sapm": 5.77,
+    "str_def": 42,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 62,
+    "sub_avg": 1.0
+  }
+}

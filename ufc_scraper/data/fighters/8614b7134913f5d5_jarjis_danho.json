@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8614b7134913f5d5",
+  "fname": "Jarjis",
+  "sname": "Danho",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Man Mountain",
+  "height_cm": 190.5,
+  "weight_lbs": 265,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1983-10-15",
+  "career_stats": {
+    "slpm": 3.38,
+    "str_acc": 50,
+    "sapm": 5.25,
+    "str_def": 49,
+    "td_avg": 0.51,
+    "td_acc": 16,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

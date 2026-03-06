@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2dea80c069847321",
+  "fname": "Gilles",
+  "sname": "Arsene",
+  "record": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 190,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-12-23",
+  "career_stats": {
+    "slpm": 0.06,
+    "str_acc": 10,
+    "sapm": 2.45,
+    "str_def": 32,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

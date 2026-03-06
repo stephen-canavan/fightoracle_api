@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "33913e8e56c49a4c",
+  "ufcstats_event_id": "1c7cce2f5c17160d",
+  "ufcstats_fighter_red_id": "330bafba312face4",
+  "ufcstats_fighter_blue_id": "49858bf46dabf6fb",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "49858bf46dabf6fb",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Andy Roberts",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Jorgen Segerlind",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 34,
+      "attempted": 101
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 44,
+      "attempted": 114
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 5
+    },
+    "takedown_pct": 20,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:47",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 15,
+        "attempted": 68
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 84
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 57,
+      "attempted": 88
+    },
+    "sig_strikes_pct": 64,
+    "total_strikes": {
+      "landed": 71,
+      "attempted": 103
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "4:32",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 38,
+        "attempted": 63
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 39,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 12,
+        "attempted": 13
+      }
+    }
+  },
+  "card_position": 5
+}

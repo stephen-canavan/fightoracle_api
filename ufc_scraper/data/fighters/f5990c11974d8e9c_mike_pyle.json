@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f5990c11974d8e9c",
+  "fname": "Mike",
+  "sname": "Pyle",
+  "record": {
+    "wins": 27,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quicksand",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1975-09-18",
+  "career_stats": {
+    "slpm": 2.74,
+    "str_acc": 45,
+    "sapm": 2.84,
+    "str_def": 60,
+    "td_avg": 1.8,
+    "td_acc": 35,
+    "td_def": 70,
+    "sub_avg": 1.5
+  }
+}

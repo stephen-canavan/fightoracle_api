@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c3dd69333eb8085a",
+  "fname": "Olivier",
+  "sname": "Murad",
+  "record": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Warrior of God",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Southpaw",
+  "dob": "1993-12-21",
+  "career_stats": {
+    "slpm": 2.6,
+    "str_acc": 36,
+    "sapm": 2.2,
+    "str_def": 61,
+    "td_avg": 1.0,
+    "td_acc": 100,
+    "td_def": 55,
+    "sub_avg": 0.0
+  }
+}

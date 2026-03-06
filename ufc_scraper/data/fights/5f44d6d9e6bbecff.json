@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5f44d6d9e6bbecff",
+  "ufcstats_event_id": "3c6976f8182d9527",
+  "ufcstats_fighter_red_id": "cd2c4d30c6e13b47",
+  "ufcstats_fighter_blue_id": "7dda2cf308f24a02",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Vitor Ribeiro",
+  "ufcstats_winner_id": "7dda2cf308f24a02",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Dominic Carolei",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Maimunah Querido",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 33,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 115,
+      "attempted": 150
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 52
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 10,
+        "attempted": 37
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 20,
+        "attempted": 22
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 27,
+      "attempted": 43
+    },
+    "sig_strikes_pct": 62,
+    "total_strikes": {
+      "landed": 91,
+      "attempted": 116
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 7
+    },
+    "takedown_pct": 42,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "12:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 41
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 7,
+        "attempted": 22
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 15,
+        "attempted": 16
+      }
+    }
+  },
+  "card_position": 9
+}

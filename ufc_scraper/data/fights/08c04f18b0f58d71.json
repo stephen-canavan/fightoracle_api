@@ -1,0 +1,123 @@
+{
+  "ufcstats_fight_id": "08c04f18b0f58d71",
+  "ufcstats_event_id": "de277a4abcfeea46",
+  "ufcstats_fighter_red_id": "841695e02c99a521",
+  "ufcstats_fighter_blue_id": "f14f644d41ade29f",
+  "method": "Overturned",
+  "method_details": "Technical Decision after Headbutt by Abdul-Malik",
+  "round": 3,
+  "time": "0:36",
+  "referee": "Brent McKeehan",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Will Fisher",
+      "red": 18,
+      "blue": 20
+    },
+    {
+      "judge": "Jon Marigliano",
+      "red": 19,
+      "blue": 19
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 19,
+      "blue": 19
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 73
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 25,
+      "attempted": 73
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 17,
+        "attempted": 55
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 18,
+        "attempted": 60
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 13
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 67
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 30,
+      "attempted": 67
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 49
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 29,
+        "attempted": 66
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

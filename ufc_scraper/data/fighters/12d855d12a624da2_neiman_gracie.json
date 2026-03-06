@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "12d855d12a624da2",
+  "fname": "Neiman",
+  "sname": "Gracie",
+  "record": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.77,
+    "str_acc": 100,
+    "sapm": 0.38,
+    "str_def": 75,
+    "td_avg": 5.77,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 5.8
+  }
+}

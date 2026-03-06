@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c849740a3ff51931",
+  "fname": "TJ",
+  "sname": "Dillashaw",
+  "record": {
+    "wins": 18,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1986-02-07",
+  "career_stats": {
+    "slpm": 5.09,
+    "str_acc": 41,
+    "sapm": 3.47,
+    "str_def": 62,
+    "td_avg": 1.56,
+    "td_acc": 30,
+    "td_def": 77,
+    "sub_avg": 0.8
+  }
+}

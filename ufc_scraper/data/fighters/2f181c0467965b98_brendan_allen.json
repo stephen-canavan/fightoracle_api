@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2f181c0467965b98",
+  "fname": "Brendan",
+  "sname": "Allen",
+  "record": {
+    "wins": 26,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "All In",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1995-12-28",
+  "career_stats": {
+    "slpm": 3.59,
+    "str_acc": 53,
+    "sapm": 3.62,
+    "str_def": 47,
+    "td_avg": 1.56,
+    "td_acc": 42,
+    "td_def": 56,
+    "sub_avg": 1.1
+  }
+}

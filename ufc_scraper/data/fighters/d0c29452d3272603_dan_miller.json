@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d0c29452d3272603",
+  "fname": "Dan",
+  "sname": "Miller",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1981-06-30",
+  "career_stats": {
+    "slpm": 2.03,
+    "str_acc": 36,
+    "sapm": 3.06,
+    "str_def": 49,
+    "td_avg": 1.67,
+    "td_acc": 54,
+    "td_def": 47,
+    "sub_avg": 1.8
+  }
+}

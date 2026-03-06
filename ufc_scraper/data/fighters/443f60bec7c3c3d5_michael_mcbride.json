@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "443f60bec7c3c3d5",
+  "fname": "Michael",
+  "sname": "McBride",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1986-03-09",
+  "career_stats": {
+    "slpm": 4.08,
+    "str_acc": 48,
+    "sapm": 5.85,
+    "str_def": 40,
+    "td_avg": 1.85,
+    "td_acc": 42,
+    "td_def": 30,
+    "sub_avg": 1.2
+  }
+}

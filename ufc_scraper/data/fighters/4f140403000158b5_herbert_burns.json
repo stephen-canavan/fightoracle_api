@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4f140403000158b5",
+  "fname": "Herbert",
+  "sname": "Burns",
+  "record": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Blaze",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1988-02-02",
+  "career_stats": {
+    "slpm": 1.86,
+    "str_acc": 36,
+    "sapm": 5.17,
+    "str_def": 41,
+    "td_avg": 2.94,
+    "td_acc": 34,
+    "td_def": 66,
+    "sub_avg": 1.8
+  }
+}

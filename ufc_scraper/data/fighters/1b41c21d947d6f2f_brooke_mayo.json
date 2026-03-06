@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1b41c21d947d6f2f",
+  "fname": "Brooke",
+  "sname": "Mayo",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Bully",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.92,
+    "str_acc": 34,
+    "sapm": 3.2,
+    "str_def": 63,
+    "td_avg": 3.2,
+    "td_acc": 60,
+    "td_def": 0,
+    "sub_avg": 2.1
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "d5e927306f5d859b",
+  "ufcstats_event_id": "1bf49bf829964144",
+  "ufcstats_fighter_red_id": "77d7295d1b22c694",
+  "ufcstats_fighter_blue_id": "ea7e5bc78d9de658",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mikkel Birch Olsen",
+  "ufcstats_winner_id": "ea7e5bc78d9de658",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Nicolaj Bulow",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Cezary Wojciechowski",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Andy Roberts",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 113
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 37,
+      "attempted": 114
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 31,
+        "attempted": 100
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 30,
+        "attempted": 104
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 54,
+      "attempted": 169
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 56,
+      "attempted": 171
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 32,
+        "attempted": 133
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 32
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 49,
+        "attempted": 160
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 8
+}

@@ -24,23 +24,29 @@ WEIGHT_CLASS_MAP = {
 METHOD_MAP = {
     "KO/TKO": "KO/TKO",
     "KO": "KO",
-    "TKO": "KO/TKO",
+    "TKO": "TKO",
     "SUB": "SUB",
     "Submission": "SUB",
-    "U-DEC": "DEC",
+    "U-DEC": "DEC-U",
     "S-DEC": "DEC-SPLIT",
-    "M-DEC": "DEC",
+    "M-DEC": "DEC-MAJ",
     "Decision": "DEC",
     "DQ": "DQ",
     "NC": "NC",
     "No Contest": "NC",
+    "Overturned": "NC",
+    "Could Not Continue": "NC",
+    # Draw types (set by scraper after scorecard analysis)
+    "DRAW-U": "DRAW-U",
+    "DRAW-MAJ": "DRAW-MAJ",
+    "DRAW-SPLIT": "DRAW-SPLIT",
 }
 
 
 def map_weight_class(ufcstats_weight_class):
     """Map UFCStats weight class to Django choice."""
     if not ufcstats_weight_class:
-        return "MW"  # Default
+        return "UNKNOWN"
     
     mapped = WEIGHT_CLASS_MAP.get(ufcstats_weight_class)
     if mapped:
@@ -51,7 +57,7 @@ def map_weight_class(ufcstats_weight_class):
         if key.lower() in ufcstats_weight_class.lower():
             return value
     
-    return "MW"  # Default to Middleweight
+    return "UNKNOWN"
 
 
 def map_method(ufcstats_method):
@@ -72,10 +78,14 @@ def map_method(ufcstats_method):
     elif "DEC" in method_upper:
         if "SPLIT" in method_upper:
             return "DEC-SPLIT"
+        elif "UNANIMOUS" in method_upper:
+            return "DEC-U"
+        elif "MAJORITY" in method_upper:
+            return "DEC-MAJ"
         return "DEC"
     elif "DQ" in method_upper:
         return "DQ"
-    elif "NC" in method_upper or "NO CONTEST" in method_upper:
+    elif "NC" in method_upper or "NO CONTEST" in method_upper or "OVERTURNED" in method_upper:
         return "NC"
     
-    return "FINISH"  # Default for unknown methods
+    return "UNKNOWN"

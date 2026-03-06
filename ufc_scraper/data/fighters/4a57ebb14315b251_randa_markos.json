@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a57ebb14315b251",
+  "fname": "Randa",
+  "sname": "Markos",
+  "record": {
+    "wins": 11,
+    "losses": 12,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quiet Storm",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1985-08-10",
+  "career_stats": {
+    "slpm": 2.97,
+    "str_acc": 43,
+    "sapm": 3.1,
+    "str_def": 58,
+    "td_avg": 1.12,
+    "td_acc": 28,
+    "td_def": 52,
+    "sub_avg": 0.2
+  }
+}

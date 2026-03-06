@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8a0a35e7c74bebcc",
+  "fname": "Ashe",
+  "sname": "Bowman",
+  "record": {
+    "wins": 9,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Archer",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1976-11-17",
+  "career_stats": {
+    "slpm": 2.43,
+    "str_acc": 42,
+    "sapm": 4.86,
+    "str_def": 57,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

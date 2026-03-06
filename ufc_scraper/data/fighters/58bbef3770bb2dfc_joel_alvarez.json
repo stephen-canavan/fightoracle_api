@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "58bbef3770bb2dfc",
+  "fname": "Joel",
+  "sname": "Alvarez",
+  "record": {
+    "wins": 23,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Fenomeno",
+  "height_cm": 190.5,
+  "weight_lbs": 155,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1993-03-02",
+  "career_stats": {
+    "slpm": 4.78,
+    "str_acc": 55,
+    "sapm": 3.07,
+    "str_def": 54,
+    "td_avg": 0.19,
+    "td_acc": 33,
+    "td_def": 47,
+    "sub_avg": 1.1
+  }
+}

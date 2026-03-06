@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ed73c85164a5f5a4",
+  "fname": "Paul",
+  "sname": "Creighton",
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-06-04",
+  "career_stats": {
+    "slpm": 0.72,
+    "str_acc": 75,
+    "sapm": 4.65,
+    "str_def": 30,
+    "td_avg": 5.37,
+    "td_acc": 37,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

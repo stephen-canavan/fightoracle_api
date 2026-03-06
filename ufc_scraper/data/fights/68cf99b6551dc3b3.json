@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "68cf99b6551dc3b3",
+  "ufcstats_event_id": "c36e1f4fa755ffb4",
+  "ufcstats_fighter_red_id": "b27a1fcb56a3035a",
+  "ufcstats_fighter_blue_id": "327d5f279895110d",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "b27a1fcb56a3035a",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Bryan Miner",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Adalaide Byrd",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 27,
+      "attempted": 57
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 43,
+      "attempted": 73
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 51
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 42
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 67
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 75,
+      "attempted": 110
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 3
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 2,
+    "reversals": 1,
+    "control_time": "4:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 16
+      },
+      "distance": {
+        "landed": 28,
+        "attempted": 59
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 8
+}

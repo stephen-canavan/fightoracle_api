@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "55b8dc4e54fe2c59",
+  "fname": "Paulo",
+  "sname": "Cesar Silva",
+  "record": {
+    "wins": 2,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Giant",
+  "height_cm": 226.1,
+  "weight_lbs": 385,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1963-07-21",
+  "career_stats": {
+    "slpm": 0.4,
+    "str_acc": 15,
+    "sapm": 2.72,
+    "str_def": 47,
+    "td_avg": 0.42,
+    "td_acc": 100,
+    "td_def": 16,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6163c18411aca830",
+  "ufcstats_event_id": "3974fa35c917af1d",
+  "ufcstats_fighter_red_id": "f00ac08ab056af5d",
+  "ufcstats_fighter_blue_id": "253076a23d03dcd0",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Daniel Movahedi",
+  "ufcstats_winner_id": "f00ac08ab056af5d",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "scorecards": [
+    {
+      "judge": "Vito Paolillo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Ben Cartlidge",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Darryl Ransom",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 18,
+      "attempted": 40
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 62,
+      "attempted": 87
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 5
+    },
+    "takedown_pct": 80,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "12:04",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 8,
+        "attempted": 26
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 14
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 37
+    },
+    "sig_strikes_pct": 67,
+    "total_strikes": {
+      "landed": 74,
+      "attempted": 86
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "0:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 24
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 14,
+        "attempted": 25
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 10
+      }
+    }
+  },
+  "card_position": 14
+}

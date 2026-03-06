@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "da7f113b5ea39c43",
+  "fname": "Mohammed",
+  "sname": "Usman",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Motor",
+  "height_cm": 188.0,
+  "weight_lbs": 239,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1989-04-01",
+  "career_stats": {
+    "slpm": 3.85,
+    "str_acc": 39,
+    "sapm": 4.27,
+    "str_def": 51,
+    "td_avg": 0.56,
+    "td_acc": 14,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

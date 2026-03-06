@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6d1bffff14897645",
+  "fname": "Santiago",
+  "sname": "Ponzinibbio",
+  "record": {
+    "wins": 31,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Argentine Dagger",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1986-09-26",
+  "career_stats": {
+    "slpm": 4.78,
+    "str_acc": 41,
+    "sapm": 4.68,
+    "str_def": 61,
+    "td_avg": 0.6,
+    "td_acc": 27,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

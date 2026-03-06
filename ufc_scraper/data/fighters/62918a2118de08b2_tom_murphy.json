@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "62918a2118de08b2",
+  "fname": "Tom",
+  "sname": "Murphy",
+  "record": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 227,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1974-11-19",
+  "career_stats": {
+    "slpm": 2.5,
+    "str_acc": 71,
+    "sapm": 0.17,
+    "str_def": 84,
+    "td_avg": 7.51,
+    "td_acc": 85,
+    "td_def": 0,
+    "sub_avg": 2.5
+  }
+}

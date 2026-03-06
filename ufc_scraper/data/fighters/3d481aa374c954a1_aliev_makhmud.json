@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3d481aa374c954a1",
+  "fname": "Aliev",
+  "sname": "Makhmud",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 195,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-02-13",
+  "career_stats": {
+    "slpm": 1.12,
+    "str_acc": 30,
+    "sapm": 2.24,
+    "str_def": 36,
+    "td_avg": 2.1,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

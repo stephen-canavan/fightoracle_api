@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "31bbd39c0a075d4e",
+  "fname": "Pingyuan",
+  "sname": "Liu",
+  "record": {
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1993-02-13",
+  "career_stats": {
+    "slpm": 2.36,
+    "str_acc": 33,
+    "sapm": 2.99,
+    "str_def": 54,
+    "td_avg": 0.25,
+    "td_acc": 20,
+    "td_def": 56,
+    "sub_avg": 1.0
+  }
+}

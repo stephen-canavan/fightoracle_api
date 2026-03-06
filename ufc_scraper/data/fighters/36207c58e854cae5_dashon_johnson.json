@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "36207c58e854cae5",
+  "fname": "Dashon",
+  "sname": "Johnson",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Flyboy",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1988-01-25",
+  "career_stats": {
+    "slpm": 1.01,
+    "str_acc": 69,
+    "sapm": 3.83,
+    "str_def": 35,
+    "td_avg": 0.85,
+    "td_acc": 33,
+    "td_def": 63,
+    "sub_avg": 0.8
+  }
+}

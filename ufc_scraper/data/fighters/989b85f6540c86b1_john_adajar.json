@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "989b85f6540c86b1",
+  "fname": "John",
+  "sname": "Adajar",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Outlaw",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1991-06-22",
+  "career_stats": {
+    "slpm": 3.9,
+    "str_acc": 52,
+    "sapm": 6.28,
+    "str_def": 44,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

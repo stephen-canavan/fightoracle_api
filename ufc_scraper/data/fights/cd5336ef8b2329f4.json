@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "cd5336ef8b2329f4",
+  "ufcstats_event_id": "312f47c3d2f83ffa",
+  "ufcstats_fighter_red_id": "33011768c3c4dc9a",
+  "ufcstats_fighter_blue_id": "501b07aec9b8fc2d",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "33011768c3c4dc9a",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Tim Vannatta",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Richard Bertrand",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Andy Roberts",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 69,
+      "attempted": 192
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 69,
+      "attempted": 192
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:03",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 35,
+        "attempted": 143
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 30,
+        "attempted": 41
+      },
+      "distance": {
+        "landed": 66,
+        "attempted": 188
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 55,
+      "attempted": 288
+    },
+    "sig_strikes_pct": 19,
+    "total_strikes": {
+      "landed": 56,
+      "attempted": 289
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 15,
+        "attempted": 216
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 37
+      },
+      "leg": {
+        "landed": 22,
+        "attempted": 35
+      },
+      "distance": {
+        "landed": 53,
+        "attempted": 284
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

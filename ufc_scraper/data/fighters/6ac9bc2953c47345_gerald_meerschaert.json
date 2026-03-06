@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6ac9bc2953c47345",
+  "fname": "Gerald",
+  "sname": "Meerschaert",
+  "record": {
+    "wins": 37,
+    "losses": 21,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "GM3",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1987-12-18",
+  "career_stats": {
+    "slpm": 3.01,
+    "str_acc": 45,
+    "sapm": 3.52,
+    "str_def": 53,
+    "td_avg": 1.82,
+    "td_acc": 30,
+    "td_def": 42,
+    "sub_avg": 1.4
+  }
+}

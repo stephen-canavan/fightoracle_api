@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3b65c9dd39741bc4",
+  "fname": "Rob",
+  "sname": "Sinclair",
+  "record": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1980-02-20",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 33,
+    "sapm": 1.73,
+    "str_def": 73,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

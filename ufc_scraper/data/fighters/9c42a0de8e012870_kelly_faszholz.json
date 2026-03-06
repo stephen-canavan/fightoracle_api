@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9c42a0de8e012870",
+  "fname": "Kelly",
+  "sname": "Faszholz",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1985-04-09",
+  "career_stats": {
+    "slpm": 4.01,
+    "str_acc": 48,
+    "sapm": 3.61,
+    "str_def": 52,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 44,
+    "sub_avg": 0.0
+  }
+}

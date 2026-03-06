@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1433786ac76cf777",
+  "fname": "Colley",
+  "sname": "Bradford",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.43,
+    "str_acc": 25,
+    "sapm": 1.73,
+    "str_def": 50,
+    "td_avg": 19.42,
+    "td_acc": 50,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "45a2ba3ef82b9700",
+  "fname": "Henry",
+  "sname": "Miller",
+  "record": {
+    "wins": 6,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sentoryu",
+  "height_cm": 170.2,
+  "weight_lbs": 270,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1969-07-16",
+  "career_stats": {
+    "slpm": 1.25,
+    "str_acc": 36,
+    "sapm": 2.16,
+    "str_def": 54,
+    "td_avg": 0.55,
+    "td_acc": 25,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

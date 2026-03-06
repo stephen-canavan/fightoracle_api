@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6809c31286b08d97",
+  "fname": "Tom",
+  "sname": "Watson",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kong",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1982-07-13",
+  "career_stats": {
+    "slpm": 4.01,
+    "str_acc": 44,
+    "sapm": 4.41,
+    "str_def": 50,
+    "td_avg": 0.15,
+    "td_acc": 7,
+    "td_def": 43,
+    "sub_avg": 0.0
+  }
+}

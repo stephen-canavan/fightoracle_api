@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0e5c79b3594ff0ad",
+  "fname": "Sherrard",
+  "sname": "Blackledge",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Thriller",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-08-16",
+  "career_stats": {
+    "slpm": 3.7,
+    "str_acc": 49,
+    "sapm": 3.13,
+    "str_def": 55,
+    "td_avg": 4.0,
+    "td_acc": 33,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

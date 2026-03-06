@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a7e3f02fe2b2fe30",
+  "fname": "Danyelle",
+  "sname": "Wolf",
+  "record": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1983-09-08",
+  "career_stats": {
+    "slpm": 2.37,
+    "str_acc": 25,
+    "sapm": 4.57,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 77,
+    "sub_avg": 0.5
+  }
+}

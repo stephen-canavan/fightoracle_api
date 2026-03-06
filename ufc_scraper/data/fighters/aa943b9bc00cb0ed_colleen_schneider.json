@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa943b9bc00cb0ed",
+  "fname": "Colleen",
+  "sname": "Schneider",
+  "record": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1982-03-12",
+  "career_stats": {
+    "slpm": 2.17,
+    "str_acc": 48,
+    "sapm": 2.5,
+    "str_def": 50,
+    "td_avg": 2.5,
+    "td_acc": 50,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0eec866a077889f0",
+  "fname": "Manny",
+  "sname": "Tapia",
+  "record": {
+    "wins": 12,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Mangler",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1981-03-14",
+  "career_stats": {
+    "slpm": 2.69,
+    "str_acc": 21,
+    "sapm": 4.74,
+    "str_def": 58,
+    "td_avg": 0.49,
+    "td_acc": 40,
+    "td_def": 66,
+    "sub_avg": 0.2
+  }
+}

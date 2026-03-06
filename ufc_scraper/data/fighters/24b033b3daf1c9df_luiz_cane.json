@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "24b033b3daf1c9df",
+  "fname": "Luiz",
+  "sname": "Cane",
+  "record": {
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Banha",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1981-04-24",
+  "career_stats": {
+    "slpm": 4.79,
+    "str_acc": 41,
+    "sapm": 5.0,
+    "str_def": 60,
+    "td_avg": 0.56,
+    "td_acc": 28,
+    "td_def": 100,
+    "sub_avg": 0.3
+  }
+}

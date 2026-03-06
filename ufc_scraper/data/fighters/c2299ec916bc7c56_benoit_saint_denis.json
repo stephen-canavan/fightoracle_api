@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c2299ec916bc7c56",
+  "fname": "Benoit",
+  "sname": "Saint Denis",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "God of War",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Southpaw",
+  "dob": "1995-12-18",
+  "career_stats": {
+    "slpm": 5.62,
+    "str_acc": 58,
+    "sapm": 4.09,
+    "str_def": 42,
+    "td_avg": 4.19,
+    "td_acc": 35,
+    "td_def": 72,
+    "sub_avg": 1.8
+  }
+}

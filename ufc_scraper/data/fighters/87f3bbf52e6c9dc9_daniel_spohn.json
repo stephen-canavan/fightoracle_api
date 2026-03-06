@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "87f3bbf52e6c9dc9",
+  "fname": "Daniel",
+  "sname": "Spohn",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Dragon",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 200.7,
+  "stance": "Southpaw",
+  "dob": "1984-10-12",
+  "career_stats": {
+    "slpm": 2.42,
+    "str_acc": 49,
+    "sapm": 1.6,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 28,
+    "sub_avg": 2.5
+  }
+}

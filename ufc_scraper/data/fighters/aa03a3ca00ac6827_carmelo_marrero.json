@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa03a3ca00ac6827",
+  "fname": "Carmelo",
+  "sname": "Marrero",
+  "record": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Fury",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1981-01-26",
+  "career_stats": {
+    "slpm": 0.84,
+    "str_acc": 34,
+    "sapm": 2.04,
+    "str_def": 54,
+    "td_avg": 3.21,
+    "td_acc": 36,
+    "td_def": 36,
+    "sub_avg": 0.9
+  }
+}

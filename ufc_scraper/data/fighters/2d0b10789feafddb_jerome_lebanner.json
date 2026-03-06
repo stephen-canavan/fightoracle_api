@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2d0b10789feafddb",
+  "fname": "Jerome",
+  "sname": "LeBanner",
+  "record": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1972-12-26",
+  "career_stats": {
+    "slpm": 0.92,
+    "str_acc": 35,
+    "sapm": 1.03,
+    "str_def": 37,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

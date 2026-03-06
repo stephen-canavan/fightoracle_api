@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4e30f2761b6bd3b5",
+  "fname": "Jose",
+  "sname": "Montanha",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1996-08-25",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

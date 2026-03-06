@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d05cb1e8d1b885d8",
+  "fname": "Jinh",
+  "sname": "Yu Frey",
+  "record": {
+    "wins": 11,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Southpaw",
+  "dob": "1985-05-20",
+  "career_stats": {
+    "slpm": 2.97,
+    "str_acc": 43,
+    "sapm": 4.23,
+    "str_def": 52,
+    "td_avg": 1.02,
+    "td_acc": 36,
+    "td_def": 90,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "21321cdfba797c52",
+  "fname": "Derrick",
+  "sname": "Noble",
+  "record": {
+    "wins": 27,
+    "losses": 15,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Eraser",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1978-08-14",
+  "career_stats": {
+    "slpm": 6.21,
+    "str_acc": 40,
+    "sapm": 3.79,
+    "str_def": 59,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

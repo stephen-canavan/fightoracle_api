@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "22e47b53e4ceb27c",
+  "fname": "David",
+  "sname": "Loiseau",
+  "record": {
+    "wins": 23,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Crow",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1979-12-17",
+  "career_stats": {
+    "slpm": 1.59,
+    "str_acc": 44,
+    "sapm": 3.64,
+    "str_def": 43,
+    "td_avg": 0.43,
+    "td_acc": 42,
+    "td_def": 36,
+    "sub_avg": 0.1
+  }
+}

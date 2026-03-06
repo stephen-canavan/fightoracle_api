@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "01afe0916a40c7c5",
+  "fname": "Shavkat",
+  "sname": "Rakhmonov",
+  "record": {
+    "wins": 19,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Nomad",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1994-10-23",
+  "career_stats": {
+    "slpm": 3.25,
+    "str_acc": 60,
+    "sapm": 2.17,
+    "str_def": 51,
+    "td_avg": 1.4,
+    "td_acc": 25,
+    "td_def": 85,
+    "sub_avg": 1.2
+  }
+}

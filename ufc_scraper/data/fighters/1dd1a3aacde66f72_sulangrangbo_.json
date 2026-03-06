@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1dd1a3aacde66f72",
+  "fname": "Sulangrangbo",
+  "sname": "",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "2005-07-17",
+  "career_stats": {
+    "slpm": 3.96,
+    "str_acc": 48,
+    "sapm": 3.2,
+    "str_def": 62,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 72,
+    "sub_avg": 0.0
+  }
+}

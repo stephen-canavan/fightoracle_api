@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "99d5cf1eda8b25c1",
+  "fname": "Gigo",
+  "sname": "Jara",
+  "record": {
+    "wins": 6,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Little Animal",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.26,
+    "str_acc": 57,
+    "sapm": 2.71,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

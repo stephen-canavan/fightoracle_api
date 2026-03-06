@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6d6b9a6cb063b60d",
+  "fname": "Michael",
+  "sname": "Lombardo",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Don",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1990-04-03",
+  "career_stats": {
+    "slpm": 1.47,
+    "str_acc": 62,
+    "sapm": 2.63,
+    "str_def": 31,
+    "td_avg": 2.5,
+    "td_acc": 21,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

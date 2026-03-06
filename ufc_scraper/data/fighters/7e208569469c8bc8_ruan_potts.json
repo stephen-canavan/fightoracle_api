@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7e208569469c8bc8",
+  "fname": "Ruan",
+  "sname": "Potts",
+  "record": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fangzz",
+  "height_cm": 188.0,
+  "weight_lbs": 247,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1978-02-23",
+  "career_stats": {
+    "slpm": 0.85,
+    "str_acc": 37,
+    "sapm": 5.92,
+    "str_def": 22,
+    "td_avg": 0.75,
+    "td_acc": 16,
+    "td_def": 33,
+    "sub_avg": 2.3
+  }
+}

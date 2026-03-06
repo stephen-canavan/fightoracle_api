@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4b4753d19489297f",
+  "fname": "Anthony",
+  "sname": "Perosh",
+  "record": {
+    "wins": 15,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hippo",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1972-10-05",
+  "career_stats": {
+    "slpm": 2.27,
+    "str_acc": 43,
+    "sapm": 3.77,
+    "str_def": 53,
+    "td_avg": 2.03,
+    "td_acc": 22,
+    "td_def": 33,
+    "sub_avg": 1.1
+  }
+}

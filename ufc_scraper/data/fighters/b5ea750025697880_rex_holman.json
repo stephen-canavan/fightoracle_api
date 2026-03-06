@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b5ea750025697880",
+  "fname": "Rex",
+  "sname": "Holman",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Dog",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.75,
+    "str_acc": 34,
+    "sapm": 7.25,
+    "str_def": 40,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

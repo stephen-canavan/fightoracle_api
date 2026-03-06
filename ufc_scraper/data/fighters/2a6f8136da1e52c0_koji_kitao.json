@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2a6f8136da1e52c0",
+  "fname": "Koji",
+  "sname": "Kitao",
+  "record": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 200.7,
+  "weight_lbs": 350,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1963-10-12",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

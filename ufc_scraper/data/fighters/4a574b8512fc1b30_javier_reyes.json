@@ -3,7 +3,7 @@
   "fname": "Javier",
   "sname": "Reyes",
   "record": {
-    "wins": 22,
+    "wins": 23,
     "losses": 5,
     "draws": 0,
     "no_contests": 0,
@@ -16,12 +16,12 @@
   "stance": "",
   "dob": "1993-10-10",
   "career_stats": {
-    "slpm": 8.29,
-    "str_acc": 46,
-    "sapm": 0.79,
-    "str_def": 77,
-    "td_avg": 0.0,
-    "td_acc": 0,
+    "slpm": 8.91,
+    "str_acc": 55,
+    "sapm": 2.53,
+    "str_def": 47,
+    "td_avg": 2.0,
+    "td_acc": 50,
     "td_def": 50,
     "sub_avg": 0.0
   }

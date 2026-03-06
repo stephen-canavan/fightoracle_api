@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f9aa6376ae16bfb4",
+  "fname": "Johil",
+  "sname": "de Oliveira",
+  "record": {
+    "wins": 17,
+    "losses": 15,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1969-08-07",
+  "career_stats": {
+    "slpm": 0.51,
+    "str_acc": 34,
+    "sapm": 0.73,
+    "str_def": 58,
+    "td_avg": 1.1,
+    "td_acc": 50,
+    "td_def": 44,
+    "sub_avg": 0.6
+  }
+}

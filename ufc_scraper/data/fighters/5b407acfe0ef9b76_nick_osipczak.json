@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5b407acfe0ef9b76",
+  "fname": "Nick",
+  "sname": "Osipczak",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1984-12-30",
+  "career_stats": {
+    "slpm": 2.83,
+    "str_acc": 50,
+    "sapm": 3.77,
+    "str_def": 50,
+    "td_avg": 1.2,
+    "td_acc": 45,
+    "td_def": 71,
+    "sub_avg": 1.0
+  }
+}

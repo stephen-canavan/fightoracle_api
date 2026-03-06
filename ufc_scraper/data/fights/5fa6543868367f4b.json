@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5fa6543868367f4b",
+  "ufcstats_event_id": "39f62b833e4cf126",
+  "ufcstats_fighter_red_id": "1b35af4d1529adf6",
+  "ufcstats_fighter_blue_id": "e94085e821bd81de",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "e94085e821bd81de",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 27,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 82,
+      "attempted": 251
+    },
+    "sig_strikes_pct": 32,
+    "total_strikes": {
+      "landed": 101,
+      "attempted": 273
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 202
+      },
+      "body": {
+        "landed": 23,
+        "attempted": 34
+      },
+      "leg": {
+        "landed": 14,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 79,
+        "attempted": 246
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 76,
+      "attempted": 152
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 146,
+      "attempted": 233
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 8
+    },
+    "takedown_pct": 37,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "4:21",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 43,
+        "attempted": 113
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 20
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 69,
+        "attempted": 144
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 10
+}

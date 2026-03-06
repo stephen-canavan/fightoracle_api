@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c940b42df95bbd28",
+  "fname": "Feng",
+  "sname": "Xiaocan",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 115,
+  "reach_cm": 170.2,
+  "stance": "Southpaw",
+  "dob": "2001-10-27",
+  "career_stats": {
+    "slpm": 4.18,
+    "str_acc": 49,
+    "sapm": 1.49,
+    "str_def": 68,
+    "td_avg": 0.7,
+    "td_acc": 100,
+    "td_def": 63,
+    "sub_avg": 0.0
+  }
+}

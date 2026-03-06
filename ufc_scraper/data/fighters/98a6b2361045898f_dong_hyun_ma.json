@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "98a6b2361045898f",
+  "fname": "Dong",
+  "sname": "Hyun Ma",
+  "record": {
+    "wins": 16,
+    "losses": 11,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Maestro",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1988-09-09",
+  "career_stats": {
+    "slpm": 2.84,
+    "str_acc": 41,
+    "sapm": 4.1,
+    "str_def": 54,
+    "td_avg": 1.27,
+    "td_acc": 53,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

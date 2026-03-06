@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c34e5849184b08c3",
+  "fname": "Yasuhiro",
+  "sname": "Urushitani",
+  "record": {
+    "wins": 21,
+    "losses": 8,
+    "draws": 6,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1976-09-08",
+  "career_stats": {
+    "slpm": 3.47,
+    "str_acc": 39,
+    "sapm": 4.71,
+    "str_def": 65,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

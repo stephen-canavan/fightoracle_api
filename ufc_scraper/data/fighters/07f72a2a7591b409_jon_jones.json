@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "07f72a2a7591b409",
+  "fname": "Jon",
+  "sname": "Jones",
+  "record": {
+    "wins": 28,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bones",
+  "height_cm": 193.0,
+  "weight_lbs": 248,
+  "reach_cm": 213.4,
+  "stance": "Orthodox",
+  "dob": "1987-07-19",
+  "career_stats": {
+    "slpm": 4.38,
+    "str_acc": 58,
+    "sapm": 2.24,
+    "str_def": 64,
+    "td_avg": 1.89,
+    "td_acc": 45,
+    "td_def": 95,
+    "sub_avg": 0.5
+  }
+}

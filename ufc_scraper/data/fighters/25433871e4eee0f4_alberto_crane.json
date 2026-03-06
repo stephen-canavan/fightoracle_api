@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "25433871e4eee0f4",
+  "fname": "Alberto",
+  "sname": "Crane",
+  "record": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-07-14",
+  "career_stats": {
+    "slpm": 0.43,
+    "str_acc": 25,
+    "sapm": 2.61,
+    "str_def": 57,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 4.0
+  }
+}

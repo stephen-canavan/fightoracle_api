@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "620d8710e89cfeae",
+  "fname": "Rafael",
+  "sname": "Carvalho",
+  "record": {
+    "wins": 14,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1986-07-27",
+  "career_stats": {
+    "slpm": 1.94,
+    "str_acc": 50,
+    "sapm": 1.84,
+    "str_def": 54,
+    "td_avg": 2.77,
+    "td_acc": 40,
+    "td_def": 70,
+    "sub_avg": 0.0
+  }
+}

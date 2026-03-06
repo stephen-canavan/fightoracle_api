@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bd58d34e39b7b12a",
+  "fname": "Ben",
+  "sname": "Rothwell",
+  "record": {
+    "wins": 39,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1981-10-17",
+  "career_stats": {
+    "slpm": 3.71,
+    "str_acc": 42,
+    "sapm": 4.63,
+    "str_def": 47,
+    "td_avg": 0.68,
+    "td_acc": 34,
+    "td_def": 70,
+    "sub_avg": 0.4
+  }
+}

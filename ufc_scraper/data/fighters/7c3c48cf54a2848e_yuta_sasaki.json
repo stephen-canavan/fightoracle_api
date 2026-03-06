@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7c3c48cf54a2848e",
+  "fname": "Yuta",
+  "sname": "Sasaki",
+  "record": {
+    "wins": 21,
+    "losses": 6,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ulka",
+  "height_cm": 177.8,
+  "weight_lbs": 125,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1989-10-07",
+  "career_stats": {
+    "slpm": 2.16,
+    "str_acc": 41,
+    "sapm": 2.5,
+    "str_def": 50,
+    "td_avg": 3.03,
+    "td_acc": 43,
+    "td_def": 41,
+    "sub_avg": 1.2
+  }
+}

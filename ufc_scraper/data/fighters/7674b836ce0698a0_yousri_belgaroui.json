@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7674b836ce0698a0",
+  "fname": "Yousri",
+  "sname": "Belgaroui",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 198.1,
+  "weight_lbs": 185,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1992-06-02",
+  "career_stats": {
+    "slpm": 5.82,
+    "str_acc": 66,
+    "sapm": 2.52,
+    "str_def": 61,
+    "td_avg": 0.39,
+    "td_acc": 100,
+    "td_def": 68,
+    "sub_avg": 0.0
+  }
+}

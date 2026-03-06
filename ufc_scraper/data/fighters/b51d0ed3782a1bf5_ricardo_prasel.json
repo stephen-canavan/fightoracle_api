@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b51d0ed3782a1bf5",
+  "fname": "Ricardo",
+  "sname": "Prasel",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Alemao",
+  "height_cm": 200.7,
+  "weight_lbs": 238,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1990-06-02",
+  "career_stats": {
+    "slpm": 2.21,
+    "str_acc": 57,
+    "sapm": 7.83,
+    "str_def": 37,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4679a38cced7c64a",
+  "fname": "Yuri",
+  "sname": "Vaulin",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 197,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1963-09-13",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

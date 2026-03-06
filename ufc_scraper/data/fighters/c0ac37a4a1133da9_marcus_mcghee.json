@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c0ac37a4a1133da9",
+  "fname": "Marcus",
+  "sname": "McGhee",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Maniac",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1990-05-07",
+  "career_stats": {
+    "slpm": 5.5,
+    "str_acc": 45,
+    "sapm": 3.64,
+    "str_def": 57,
+    "td_avg": 0.31,
+    "td_acc": 14,
+    "td_def": 90,
+    "sub_avg": 0.3
+  }
+}

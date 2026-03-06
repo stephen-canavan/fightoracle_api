@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "07a2bdaa0afdd831",
+  "fname": "Rogerio",
+  "sname": "Bontorin",
+  "record": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1992-04-25",
+  "career_stats": {
+    "slpm": 2.63,
+    "str_acc": 52,
+    "sapm": 3.27,
+    "str_def": 50,
+    "td_avg": 2.9,
+    "td_acc": 60,
+    "td_def": 51,
+    "sub_avg": 1.0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "bd52e19f2fbefdde",
+  "ufcstats_event_id": "f54200f1dfb9b5d4",
+  "ufcstats_fighter_red_id": "d910665038efc639",
+  "ufcstats_fighter_blue_id": "3d6749c4267da18f",
+  "method": "KO/TKO",
+  "method_details": "Punches to Head In Clinch",
+  "round": 2,
+  "time": "4:17",
+  "referee": "Don Turnage",
+  "ufcstats_winner_id": "3d6749c4267da18f",
+  "is_title_fight": true,
+  "weight_class": "Women's Strawweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 4,
+      "attempted": 22
+    },
+    "sig_strikes_pct": 18,
+    "total_strikes": {
+      "landed": 6,
+      "attempted": 24
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 17
+    },
+    "takedown_pct": 5,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 19
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 19
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 53,
+      "attempted": 105
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 55,
+      "attempted": 107
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 50,
+        "attempted": 101
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 75
+      },
+      "clinch": {
+        "landed": 16,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 2
+}

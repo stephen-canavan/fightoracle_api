@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "544d7460b3e44393",
+  "fname": "Albert",
+  "sname": "Morales",
+  "record": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Warrior",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1991-05-25",
+  "career_stats": {
+    "slpm": 3.81,
+    "str_acc": 35,
+    "sapm": 3.96,
+    "str_def": 56,
+    "td_avg": 0.91,
+    "td_acc": 35,
+    "td_def": 70,
+    "sub_avg": 0.2
+  }
+}

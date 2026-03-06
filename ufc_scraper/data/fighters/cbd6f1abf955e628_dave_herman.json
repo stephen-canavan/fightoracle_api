@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cbd6f1abf955e628",
+  "fname": "Dave",
+  "sname": "Herman",
+  "record": {
+    "wins": 22,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 242,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1984-10-03",
+  "career_stats": {
+    "slpm": 4.98,
+    "str_acc": 60,
+    "sapm": 3.78,
+    "str_def": 48,
+    "td_avg": 1.49,
+    "td_acc": 100,
+    "td_def": 58,
+    "sub_avg": 0.0
+  }
+}

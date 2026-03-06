@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b39f7a6c2be17ee8",
+  "fname": "Charlie",
+  "sname": "Campbell",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Cannibal",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1995-07-03",
+  "career_stats": {
+    "slpm": 5.23,
+    "str_acc": 51,
+    "sapm": 4.17,
+    "str_def": 55,
+    "td_avg": 2.45,
+    "td_acc": 36,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

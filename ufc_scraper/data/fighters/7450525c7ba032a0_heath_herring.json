@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7450525c7ba032a0",
+  "fname": "Heath",
+  "sname": "Herring",
+  "record": {
+    "wins": 28,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Texas Crazy Horse",
+  "height_cm": 193.0,
+  "weight_lbs": 250,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1978-03-02",
+  "career_stats": {
+    "slpm": 2.37,
+    "str_acc": 50,
+    "sapm": 1.77,
+    "str_def": 54,
+    "td_avg": 1.22,
+    "td_acc": 50,
+    "td_def": 32,
+    "sub_avg": 0.7
+  }
+}

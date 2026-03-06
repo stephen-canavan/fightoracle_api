@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1effd880e1f1bb30",
+  "fname": "Garrett",
+  "sname": "Armfield",
+  "record": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1996-10-09",
+  "career_stats": {
+    "slpm": 5.35,
+    "str_acc": 53,
+    "sapm": 3.64,
+    "str_def": 56,
+    "td_avg": 1.1,
+    "td_acc": 50,
+    "td_def": 64,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "154a6b3ffae264cd",
+  "fname": "Pawel",
+  "sname": "Nastula",
+  "record": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 230,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-06-26",
+  "career_stats": {
+    "slpm": 1.3,
+    "str_acc": 43,
+    "sapm": 1.73,
+    "str_def": 50,
+    "td_avg": 3.0,
+    "td_acc": 60,
+    "td_def": 0,
+    "sub_avg": 1.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8126e4dff0cdf69e",
+  "fname": "Micol",
+  "sname": "Di Segni",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 152.4,
+  "stance": "Orthodox",
+  "dob": "1987-12-29",
+  "career_stats": {
+    "slpm": 7.47,
+    "str_acc": 40,
+    "sapm": 5.87,
+    "str_def": 33,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 37,
+    "sub_avg": 0.0
+  }
+}

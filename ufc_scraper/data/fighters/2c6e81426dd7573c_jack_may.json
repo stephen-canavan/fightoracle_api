@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2c6e81426dd7573c",
+  "fname": "Jack",
+  "sname": "May",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Outlaw",
+  "height_cm": 203.2,
+  "weight_lbs": 255,
+  "reach_cm": null,
+  "stance": "Switch",
+  "dob": "1981-04-14",
+  "career_stats": {
+    "slpm": 1.52,
+    "str_acc": 38,
+    "sapm": 3.29,
+    "str_def": 33,
+    "td_avg": 0.91,
+    "td_acc": 33,
+    "td_def": 20,
+    "sub_avg": 0.0
+  }
+}

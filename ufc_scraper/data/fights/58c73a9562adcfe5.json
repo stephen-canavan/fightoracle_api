@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "58c73a9562adcfe5",
+  "ufcstats_event_id": "232c582f29f8f65e",
+  "ufcstats_fighter_red_id": "b4192a975027aab6",
+  "ufcstats_fighter_blue_id": "b76c6268dc1d3c05",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "b4192a975027aab6",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Dan Furse",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Rich Montanez",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 251
+    },
+    "sig_strikes_pct": 6,
+    "total_strikes": {
+      "landed": 17,
+      "attempted": 251
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 238
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 251
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 102
+    },
+    "sig_strikes_pct": 16,
+    "total_strikes": {
+      "landed": 17,
+      "attempted": 102
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 7,
+        "attempted": 84
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 102
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

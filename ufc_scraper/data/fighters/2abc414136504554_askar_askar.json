@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2abc414136504554",
+  "fname": "Askar",
+  "sname": "Askar",
+  "record": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "AK-47",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1994-08-19",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

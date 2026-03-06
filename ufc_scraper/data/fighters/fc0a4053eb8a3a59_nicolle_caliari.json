@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fc0a4053eb8a3a59",
+  "fname": "Nicolle",
+  "sname": "Caliari",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 125,
+  "reach_cm": 157.5,
+  "stance": "Orthodox",
+  "dob": "1996-11-04",
+  "career_stats": {
+    "slpm": 3.46,
+    "str_acc": 38,
+    "sapm": 7.01,
+    "str_def": 53,
+    "td_avg": 2.88,
+    "td_acc": 24,
+    "td_def": 0,
+    "sub_avg": 1.0
+  }
+}

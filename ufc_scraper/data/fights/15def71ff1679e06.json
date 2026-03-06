@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "15def71ff1679e06",
+  "ufcstats_event_id": "18f5669a92e99d92",
+  "ufcstats_fighter_red_id": "51018a31ddf31eb2",
+  "ufcstats_fighter_blue_id": "f7467152fd9f18a2",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Rich Mitchell",
+  "ufcstats_winner_id": "f7467152fd9f18a2",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "David Lethaby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Lukasz Bosacki",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 48,
+      "attempted": 106
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 67,
+      "attempted": 125
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:56",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 79
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 96
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 57,
+      "attempted": 143
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 75,
+      "attempted": 164
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 7
+    },
+    "takedown_pct": 71,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "7:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 24,
+        "attempted": 90
+      },
+      "body": {
+        "landed": 21,
+        "attempted": 36
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "distance": {
+        "landed": 34,
+        "attempted": 113
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 11,
+        "attempted": 17
+      }
+    }
+  },
+  "card_position": 4
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5bdcbd8dd681a257",
+  "fname": "Jeremiah",
+  "sname": "Metcalf",
+  "record": {
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-07-09",
+  "career_stats": {
+    "slpm": 1.74,
+    "str_acc": 59,
+    "sapm": 0.27,
+    "str_def": 60,
+    "td_avg": 4.02,
+    "td_acc": 66,
+    "td_def": 100,
+    "sub_avg": 2.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e065b4a42a6c2c79",
+  "fname": "Top",
+  "sname": "Noi Kiwram",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Southpaw",
+  "dob": "1992-08-15",
+  "career_stats": {
+    "slpm": 4.47,
+    "str_acc": 59,
+    "sapm": 3.23,
+    "str_def": 66,
+    "td_avg": 2.72,
+    "td_acc": 85,
+    "td_def": 74,
+    "sub_avg": 0.0
+  }
+}

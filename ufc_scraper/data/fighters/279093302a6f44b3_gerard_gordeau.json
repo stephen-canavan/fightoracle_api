@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "279093302a6f44b3",
+  "fname": "Gerard",
+  "sname": "Gordeau",
+  "record": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 195.6,
+  "weight_lbs": 216,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1959-03-30",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

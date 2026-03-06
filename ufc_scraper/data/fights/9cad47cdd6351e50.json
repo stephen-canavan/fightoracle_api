@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9cad47cdd6351e50",
+  "ufcstats_event_id": "bd4389b71fdc0ce2",
+  "ufcstats_fighter_red_id": "cd13728ae1151f46",
+  "ufcstats_fighter_blue_id": "13a0275fa13c4d26",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "13a0275fa13c4d26",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Marcos Rosales",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 45,
+      "attempted": 142
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 50,
+      "attempted": 148
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 7
+    },
+    "takedown_pct": 85,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:45",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 122
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 25,
+        "attempted": 103
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 20
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 59,
+      "attempted": 94
+    },
+    "sig_strikes_pct": 62,
+    "total_strikes": {
+      "landed": 83,
+      "attempted": 121
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:10",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 80
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 41,
+        "attempted": 74
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 4
+}

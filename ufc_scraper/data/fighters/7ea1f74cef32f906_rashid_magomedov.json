@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7ea1f74cef32f906",
+  "fname": "Rashid",
+  "sname": "Magomedov",
+  "record": {
+    "wins": 20,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Highlander",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1984-11-29",
+  "career_stats": {
+    "slpm": 4.4,
+    "str_acc": 49,
+    "sapm": 3.05,
+    "str_def": 54,
+    "td_avg": 0.67,
+    "td_acc": 57,
+    "td_def": 89,
+    "sub_avg": 0.2
+  }
+}

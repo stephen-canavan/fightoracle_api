@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "84b3e7d38f2d2ec5",
+  "fname": "Neil",
+  "sname": "Magny",
+  "record": {
+    "wins": 31,
+    "losses": 15,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Haitian Sensation",
+  "height_cm": 190.5,
+  "weight_lbs": 170,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1987-08-03",
+  "career_stats": {
+    "slpm": 3.4,
+    "str_acc": 46,
+    "sapm": 2.44,
+    "str_def": 51,
+    "td_avg": 2.17,
+    "td_acc": 39,
+    "td_def": 55,
+    "sub_avg": 0.3
+  }
+}

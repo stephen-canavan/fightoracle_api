@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bf43fed8f29e1671",
+  "fname": "Marcin",
+  "sname": "Held",
+  "record": {
+    "wins": 23,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1992-01-18",
+  "career_stats": {
+    "slpm": 1.41,
+    "str_acc": 34,
+    "sapm": 2.02,
+    "str_def": 47,
+    "td_avg": 2.46,
+    "td_acc": 46,
+    "td_def": 37,
+    "sub_avg": 1.3
+  }
+}

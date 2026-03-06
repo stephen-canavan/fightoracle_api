@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "756cae177016ebf1",
+  "ufcstats_event_id": "505934897b8b4824",
+  "ufcstats_fighter_red_id": "501b07aec9b8fc2d",
+  "ufcstats_fighter_blue_id": "f34312c2ccfa0e00",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Kevin Mulhall",
+  "ufcstats_winner_id": "501b07aec9b8fc2d",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Michelle Agustin",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Jon Bilyk",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Vincent Sinclair",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 64,
+      "attempted": 189
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 96,
+      "attempted": 234
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 8
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:51",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 139
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 33
+      },
+      "leg": {
+        "landed": 16,
+        "attempted": 17
+      },
+      "distance": {
+        "landed": 63,
+        "attempted": 187
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 65,
+      "attempted": 156
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 89,
+      "attempted": 184
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 43,
+        "attempted": 132
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 60,
+        "attempted": 149
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

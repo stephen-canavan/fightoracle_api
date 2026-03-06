@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "518e5202a91980d4",
+  "fname": "Nate",
+  "sname": "Moore",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1983-04-06",
+  "career_stats": {
+    "slpm": 2.21,
+    "str_acc": 25,
+    "sapm": 2.87,
+    "str_def": 42,
+    "td_avg": 1.23,
+    "td_acc": 16,
+    "td_def": 25,
+    "sub_avg": 0.0
+  }
+}

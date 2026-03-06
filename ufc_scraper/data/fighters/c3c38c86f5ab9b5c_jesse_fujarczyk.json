@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c3c38c86f5ab9b5c",
+  "fname": "Jesse",
+  "sname": "Fujarczyk",
+  "record": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Ronin",
+  "height_cm": 193.0,
+  "weight_lbs": 225,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1983-01-28",
+  "career_stats": {
+    "slpm": 1.03,
+    "str_acc": 33,
+    "sapm": 4.91,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 0.0
+  }
+}

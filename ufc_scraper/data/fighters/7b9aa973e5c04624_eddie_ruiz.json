@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7b9aa973e5c04624",
+  "fname": "Eddie",
+  "sname": "Ruiz",
+  "record": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1967-06-10",
+  "career_stats": {
+    "slpm": 0.2,
+    "str_acc": 25,
+    "sapm": 1.4,
+    "str_def": 47,
+    "td_avg": 2.0,
+    "td_acc": 12,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

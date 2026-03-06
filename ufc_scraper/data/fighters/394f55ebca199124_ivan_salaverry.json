@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "394f55ebca199124",
+  "fname": "Ivan",
+  "sname": "Salaverry",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1971-01-11",
+  "career_stats": {
+    "slpm": 3.01,
+    "str_acc": 47,
+    "sapm": 1.19,
+    "str_def": 76,
+    "td_avg": 0.49,
+    "td_acc": 18,
+    "td_def": 36,
+    "sub_avg": 2.5
+  }
+}

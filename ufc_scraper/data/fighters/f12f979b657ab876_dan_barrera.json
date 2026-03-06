@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f12f979b657ab876",
+  "fname": "Dan",
+  "sname": "Barrera",
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Fireman",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1980-12-23",
+  "career_stats": {
+    "slpm": 0.8,
+    "str_acc": 70,
+    "sapm": 1.2,
+    "str_def": 28,
+    "td_avg": 1.0,
+    "td_acc": 8,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

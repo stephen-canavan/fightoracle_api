@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c9a94278df042f46",
+  "fname": "Alan",
+  "sname": "Baudot",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Black Samourai",
+  "height_cm": 190.5,
+  "weight_lbs": 243,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1988-02-01",
+  "career_stats": {
+    "slpm": 5.36,
+    "str_acc": 58,
+    "sapm": 4.82,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "675cbe90f6d96feb",
+  "ufcstats_event_id": "a5c53b3ddb31cc7d",
+  "ufcstats_fighter_red_id": "6506c1d34da9c013",
+  "ufcstats_fighter_blue_id": "dd37fd509af89f15",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "6506c1d34da9c013",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Adalaide Byrd",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jeff Collins",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 38,
+      "attempted": 61
+    },
+    "sig_strikes_pct": 62,
+    "total_strikes": {
+      "landed": 118,
+      "attempted": 145
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 5,
+    "reversals": 0,
+    "control_time": "9:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 17,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 21
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 39
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 14,
+        "attempted": 22
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 4,
+      "attempted": 41
+    },
+    "sig_strikes_pct": 9,
+    "total_strikes": {
+      "landed": 14,
+      "attempted": 53
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:26",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 4,
+        "attempted": 40
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 38
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 2
+}

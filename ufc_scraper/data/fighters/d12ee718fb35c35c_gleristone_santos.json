@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d12ee718fb35c35c",
+  "fname": "Gleristone",
+  "sname": "Santos",
+  "record": {
+    "wins": 33,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Toninho Furia",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1988-08-20",
+  "career_stats": {
+    "slpm": 3.4,
+    "str_acc": 31,
+    "sapm": 4.4,
+    "str_def": 64,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

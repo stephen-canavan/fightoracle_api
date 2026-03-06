@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2f04c4183523be2e",
+  "fname": "Ray",
+  "sname": "Seraille",
+  "record": {
+    "wins": 8,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 246,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1979-06-23",
+  "career_stats": {
+    "slpm": 5.29,
+    "str_acc": 27,
+    "sapm": 17.65,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

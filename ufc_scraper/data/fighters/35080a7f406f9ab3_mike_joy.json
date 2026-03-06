@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "35080a7f406f9ab3",
+  "fname": "Mike",
+  "sname": "Joy",
+  "record": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1985-07-18",
+  "career_stats": {
+    "slpm": 0.57,
+    "str_acc": 33,
+    "sapm": 1.71,
+    "str_def": 47,
+    "td_avg": 0.78,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 2.3
+  }
+}

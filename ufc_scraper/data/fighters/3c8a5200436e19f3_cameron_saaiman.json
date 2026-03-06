@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3c8a5200436e19f3",
+  "fname": "Cameron",
+  "sname": "Saaiman",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "MSP",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Southpaw",
+  "dob": "2000-12-20",
+  "career_stats": {
+    "slpm": 5.3,
+    "str_acc": 46,
+    "sapm": 4.14,
+    "str_def": 51,
+    "td_avg": 0.89,
+    "td_acc": 28,
+    "td_def": 47,
+    "sub_avg": 0.7
+  }
+}

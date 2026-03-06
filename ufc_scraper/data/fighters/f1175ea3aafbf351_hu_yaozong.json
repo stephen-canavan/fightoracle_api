@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f1175ea3aafbf351",
+  "fname": "Hu",
+  "sname": "Yaozong",
+  "record": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Totoro",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1995-04-07",
+  "career_stats": {
+    "slpm": 3.35,
+    "str_acc": 48,
+    "sapm": 5.09,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.4
+  }
+}

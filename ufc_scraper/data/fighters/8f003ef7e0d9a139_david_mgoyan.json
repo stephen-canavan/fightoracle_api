@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8f003ef7e0d9a139",
+  "fname": "David",
+  "sname": "Mgoyan",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "2004-06-25",
+  "career_stats": {
+    "slpm": 5.67,
+    "str_acc": 44,
+    "sapm": 7.53,
+    "str_def": 48,
+    "td_avg": 2.0,
+    "td_acc": 16,
+    "td_def": 100,
+    "sub_avg": 1.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5e841bb3752b6e86",
+  "fname": "Bubba",
+  "sname": "Jenkins",
+  "record": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Highlight Kid",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1988-02-05",
+  "career_stats": {
+    "slpm": 2.41,
+    "str_acc": 37,
+    "sapm": 1.58,
+    "str_def": 67,
+    "td_avg": 7.23,
+    "td_acc": 68,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

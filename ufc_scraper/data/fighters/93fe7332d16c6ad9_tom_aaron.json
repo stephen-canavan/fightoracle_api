@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "93fe7332d16c6ad9",
+  "fname": "Tom",
+  "sname": "Aaron",
+  "record": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1978-07-13",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

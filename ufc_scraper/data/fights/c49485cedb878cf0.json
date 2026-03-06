@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c49485cedb878cf0",
+  "ufcstats_event_id": "92c96df8bdab5fea",
+  "ufcstats_fighter_red_id": "9d19d9e4aa2662e8",
+  "ufcstats_fighter_blue_id": "de26d906f2874dd4",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Lukasz Bosacki",
+  "ufcstats_winner_id": "9d19d9e4aa2662e8",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Ben Cartlidge",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Vito Paolillo",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Cezary Wojciechowski",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 26,
+      "attempted": 63
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 87,
+      "attempted": 140
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "6:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 41
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 40
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 21
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 20,
+      "attempted": 34
+    },
+    "sig_strikes_pct": 58,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 88
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 10
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 23
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 8,
+        "attempted": 19
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 8
+}

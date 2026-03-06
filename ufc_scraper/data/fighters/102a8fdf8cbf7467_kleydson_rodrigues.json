@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "102a8fdf8cbf7467",
+  "fname": "Kleydson",
+  "sname": "Rodrigues",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "KR",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1995-10-22",
+  "career_stats": {
+    "slpm": 4.58,
+    "str_acc": 57,
+    "sapm": 2.29,
+    "str_def": 53,
+    "td_avg": 0.6,
+    "td_acc": 22,
+    "td_def": 53,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "92975b516e6463b6",
+  "ufcstats_event_id": "7c0847d3854a95f2",
+  "ufcstats_fighter_red_id": "75e5fec9f72910ef",
+  "ufcstats_fighter_blue_id": "d1a1314976c50bef",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Josh Rosenthal",
+  "ufcstats_winner_id": "75e5fec9f72910ef",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Marcos Rosales",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Susan Thomas-Gitlin",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Nelson Hamilton",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 22,
+      "attempted": 121
+    },
+    "sig_strikes_pct": 18,
+    "total_strikes": {
+      "landed": 35,
+      "attempted": 135
+    },
+    "takedowns": {
+      "landed": 11,
+      "attempted": 14
+    },
+    "takedown_pct": 78,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "4:37",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 118
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 19,
+        "attempted": 114
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 24,
+      "attempted": 99
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 123
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:39",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 79
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 93
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 3
+}

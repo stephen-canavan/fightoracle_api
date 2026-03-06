@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d31a5546c0e9b213",
+  "fname": "Rodrigo",
+  "sname": "Nascimento",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ze Colmeia",
+  "height_cm": 188.0,
+  "weight_lbs": 246,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1992-11-26",
+  "career_stats": {
+    "slpm": 3.71,
+    "str_acc": 47,
+    "sapm": 4.34,
+    "str_def": 44,
+    "td_avg": 1.02,
+    "td_acc": 37,
+    "td_def": 60,
+    "sub_avg": 0.5
+  }
+}

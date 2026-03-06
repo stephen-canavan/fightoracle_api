@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6db394bf6c3b017c",
+  "fname": "Leon",
+  "sname": "Aliu",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Albanian Lion",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1989-07-14",
+  "career_stats": {
+    "slpm": 6.32,
+    "str_acc": 50,
+    "sapm": 10.11,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

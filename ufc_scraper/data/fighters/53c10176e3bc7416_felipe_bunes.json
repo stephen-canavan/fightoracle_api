@@ -4,7 +4,7 @@
   "sname": "Bunes",
   "record": {
     "wins": 14,
-    "losses": 8,
+    "losses": 9,
     "draws": 0,
     "no_contests": 0,
     "dqs": 0
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1989-10-29",
   "career_stats": {
-    "slpm": 2.93,
-    "str_acc": 50,
-    "sapm": 4.66,
-    "str_def": 44,
-    "td_avg": 1.13,
-    "td_acc": 22,
+    "slpm": 3.17,
+    "str_acc": 46,
+    "sapm": 4.57,
+    "str_def": 47,
+    "td_avg": 1.08,
+    "td_acc": 25,
     "td_def": 40,
-    "sub_avg": 2.3
+    "sub_avg": 1.4
   }
 }

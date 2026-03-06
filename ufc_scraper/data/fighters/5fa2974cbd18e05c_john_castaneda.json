@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5fa2974cbd18e05c",
+  "fname": "John",
+  "sname": "Castaneda",
+  "record": {
+    "wins": 21,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sexi Mexi",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "Switch",
+  "dob": "1991-12-18",
+  "career_stats": {
+    "slpm": 4.42,
+    "str_acc": 50,
+    "sapm": 4.94,
+    "str_def": 53,
+    "td_avg": 1.68,
+    "td_acc": 37,
+    "td_def": 73,
+    "sub_avg": 0.1
+  }
+}

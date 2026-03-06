@@ -19,10 +19,21 @@ class EventViewSet(viewsets.ViewSet):
 
     def get_queryset(self, pk=None, **kwargs):
         promotion_id = self.kwargs.get("promotion_pk")
-        query_set = Event.objects.all()
+        status_param = self.request.query_params.get('status')
+        
+        # Default ordering: most recent first
+        query_set = Event.objects.all().order_by('-date')
+        
+        # If filtering for scheduled events, reverse order (soonest first)
+        if status_param and status_param.upper() == 'SCHEDULED':
+            query_set = Event.objects.all().order_by('date')
 
         if promotion_id:
             query_set = query_set.filter(promotion_id=promotion_id)
+        
+        # Filter by status if provided
+        if status_param:
+            query_set = query_set.filter(status=status_param.upper())
 
         return query_set
 

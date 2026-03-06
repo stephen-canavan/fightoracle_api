@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "473ce3aa581251a2",
+  "fname": "Dan",
+  "sname": "Hardy",
+  "record": {
+    "wins": 25,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Outlaw",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1982-05-17",
+  "career_stats": {
+    "slpm": 2.46,
+    "str_acc": 35,
+    "sapm": 3.44,
+    "str_def": 51,
+    "td_avg": 0.73,
+    "td_acc": 35,
+    "td_def": 35,
+    "sub_avg": 0.4
+  }
+}

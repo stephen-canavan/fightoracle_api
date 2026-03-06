@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "257b0c8d6f199895",
+  "fname": "Impa",
+  "sname": "Kasanganay",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Tshilobo",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1994-01-17",
+  "career_stats": {
+    "slpm": 4.96,
+    "str_acc": 48,
+    "sapm": 3.66,
+    "str_def": 58,
+    "td_avg": 1.75,
+    "td_acc": 58,
+    "td_def": 66,
+    "sub_avg": 0.2
+  }
+}

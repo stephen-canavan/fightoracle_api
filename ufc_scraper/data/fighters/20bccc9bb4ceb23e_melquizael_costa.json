@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "20bccc9bb4ceb23e",
+  "fname": "Melquizael",
+  "sname": "Costa",
+  "record": {
+    "wins": 26,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Dalmatian",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1996-09-14",
+  "career_stats": {
+    "slpm": 4.38,
+    "str_acc": 49,
+    "sapm": 2.97,
+    "str_def": 54,
+    "td_avg": 2.0,
+    "td_acc": 40,
+    "td_def": 58,
+    "sub_avg": 1.1
+  }
+}

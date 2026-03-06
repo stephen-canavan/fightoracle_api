@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "e6d4fdad2b3422d1",
+  "ufcstats_event_id": "dba230fe33011201",
+  "ufcstats_fighter_red_id": "669970f7feba8ecd",
+  "ufcstats_fighter_blue_id": "34ff304266360297",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "Vitor Ribeiro",
+  "ufcstats_winner_id": "34ff304266360297",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Eric Colon",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 45,
+      "blue": 50
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 130,
+      "attempted": 386
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 135,
+      "attempted": 394
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 80,
+        "attempted": 318
+      },
+      "body": {
+        "landed": 25,
+        "attempted": 40
+      },
+      "leg": {
+        "landed": 25,
+        "attempted": 28
+      },
+      "distance": {
+        "landed": 124,
+        "attempted": 371
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 172,
+      "attempted": 359
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 181,
+      "attempted": 369
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 143,
+        "attempted": 321
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 167,
+        "attempted": 346
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 1
+}

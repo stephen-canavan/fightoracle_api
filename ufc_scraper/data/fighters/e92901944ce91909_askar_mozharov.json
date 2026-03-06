@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e92901944ce91909",
+  "fname": "Askar",
+  "sname": "Mozharov",
+  "record": {
+    "wins": 19,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1994-10-26",
+  "career_stats": {
+    "slpm": 0.43,
+    "str_acc": 18,
+    "sapm": 4.07,
+    "str_def": 13,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ufcstats_fight_id": "80cb366cd1e54aec",
+  "ufcstats_event_id": "a8d521d913df4e31",
+  "ufcstats_fighter_red_id": "32be4b7f7de1c905",
+  "ufcstats_fighter_blue_id": "3623bd267a2eef2e",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Camus",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Otto Torriero",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Kelvin Caldwell",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Gabriel Sabaitis",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 12,
+      "attempted": 35
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 44,
+      "attempted": 72
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "9:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 32
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 6,
+        "attempted": 27
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 12,
+      "attempted": 35
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 62,
+      "attempted": 96
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 3
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 2,
+    "control_time": "3:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 2,
+        "attempted": 17
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 8,
+        "attempted": 28
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

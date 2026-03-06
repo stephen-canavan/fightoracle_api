@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d23d5960ac5e117c",
+  "fname": "Alejandro",
+  "sname": "Flores",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Gallito",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1991-08-06",
+  "career_stats": {
+    "slpm": 3.66,
+    "str_acc": 40,
+    "sapm": 2.02,
+    "str_def": 54,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

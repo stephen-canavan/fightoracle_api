@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "21b8a0f5c231096f",
+  "fname": "Mark",
+  "sname": "Coleman",
+  "record": {
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hammer",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1964-12-20",
+  "career_stats": {
+    "slpm": 1.88,
+    "str_acc": 52,
+    "sapm": 2.62,
+    "str_def": 40,
+    "td_avg": 3.89,
+    "td_acc": 40,
+    "td_def": 50,
+    "sub_avg": 0.8
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "c4c379b8f99fea88",
+  "ufcstats_event_id": "ddbd0d6259ce57cc",
+  "ufcstats_fighter_red_id": "6551c64fbcd1a467",
+  "ufcstats_fighter_blue_id": "528b071cf3da7c56",
+  "method": "Submission",
+  "method_details": "Kneebar On Ground",
+  "round": 1,
+  "time": "1:28",
+  "referee": "Daniel Movahedi",
+  "ufcstats_winner_id": "6551c64fbcd1a467",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "sig_strikes_pct": 75,
+    "total_strikes": {
+      "landed": 11,
+      "attempted": 12
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

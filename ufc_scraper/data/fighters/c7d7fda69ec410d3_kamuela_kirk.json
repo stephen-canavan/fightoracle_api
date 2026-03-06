@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c7d7fda69ec410d3",
+  "fname": "Kamuela",
+  "sname": "Kirk",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Jawaiian",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 190.5,
+  "stance": "Switch",
+  "dob": "1994-04-13",
+  "career_stats": {
+    "slpm": 3.22,
+    "str_acc": 50,
+    "sapm": 5.87,
+    "str_def": 40,
+    "td_avg": 1.5,
+    "td_acc": 26,
+    "td_def": 47,
+    "sub_avg": 1.2
+  }
+}

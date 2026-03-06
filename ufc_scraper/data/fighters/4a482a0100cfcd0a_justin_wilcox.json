@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a482a0100cfcd0a",
+  "fname": "Justin",
+  "sname": "Wilcox",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Silverback",
+  "height_cm": 167.6,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-03-12",
+  "career_stats": {
+    "slpm": 3.82,
+    "str_acc": 28,
+    "sapm": 2.63,
+    "str_def": 71,
+    "td_avg": 1.43,
+    "td_acc": 16,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

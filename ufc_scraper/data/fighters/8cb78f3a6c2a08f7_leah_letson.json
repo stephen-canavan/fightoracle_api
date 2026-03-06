@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8cb78f3a6c2a08f7",
+  "fname": "Leah",
+  "sname": "Letson",
+  "record": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Nidas",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1992-08-21",
+  "career_stats": {
+    "slpm": 3.06,
+    "str_acc": 41,
+    "sapm": 3.84,
+    "str_def": 52,
+    "td_avg": 0.51,
+    "td_acc": 50,
+    "td_def": 76,
+    "sub_avg": 0.0
+  }
+}

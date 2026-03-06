@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1cf7ccf64a5bf24e",
+  "fname": "Oskar",
+  "sname": "Piechota",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Imadlo",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Southpaw",
+  "dob": "1990-01-24",
+  "career_stats": {
+    "slpm": 3.3,
+    "str_acc": 52,
+    "sapm": 3.93,
+    "str_def": 51,
+    "td_avg": 0.61,
+    "td_acc": 40,
+    "td_def": 38,
+    "sub_avg": 1.5
+  }
+}

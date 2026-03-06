@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f941505e35fb1eae",
+  "fname": "Raphael",
+  "sname": "Butler",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Silencer",
+  "height_cm": 190.5,
+  "weight_lbs": 261,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1984-01-04",
+  "career_stats": {
+    "slpm": 4.69,
+    "str_acc": 45,
+    "sapm": 0.94,
+    "str_def": 91,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 14.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bad8be5827ea1bf1",
+  "fname": "Chris",
+  "sname": "Heatherly",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Stump",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-11-24",
+  "career_stats": {
+    "slpm": 1.08,
+    "str_acc": 45,
+    "sapm": 2.67,
+    "str_def": 52,
+    "td_avg": 3.39,
+    "td_acc": 50,
+    "td_def": 100,
+    "sub_avg": 0.7
+  }
+}

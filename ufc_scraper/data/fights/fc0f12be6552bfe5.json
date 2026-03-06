@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "fc0f12be6552bfe5",
+  "ufcstats_event_id": "84a067c46306a737",
+  "ufcstats_fighter_red_id": "2650e2f846a30f64",
+  "ufcstats_fighter_blue_id": "1652f3213655b935",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "2650e2f846a30f64",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jeff Collins",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 134,
+      "attempted": 222
+    },
+    "sig_strikes_pct": 60,
+    "total_strikes": {
+      "landed": 147,
+      "attempted": 236
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:28",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 53,
+        "attempted": 119
+      },
+      "body": {
+        "landed": 52,
+        "attempted": 71
+      },
+      "leg": {
+        "landed": 29,
+        "attempted": 32
+      },
+      "distance": {
+        "landed": 70,
+        "attempted": 120
+      },
+      "clinch": {
+        "landed": 64,
+        "attempted": 102
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 51,
+      "attempted": 140
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 103,
+      "attempted": 200
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 40,
+        "attempted": 121
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 80
+      },
+      "clinch": {
+        "landed": 30,
+        "attempted": 58
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 5
+}

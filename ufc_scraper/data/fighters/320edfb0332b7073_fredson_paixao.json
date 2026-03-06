@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "320edfb0332b7073",
+  "fname": "Fredson",
+  "sname": "Paixao",
+  "record": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1979-05-13",
+  "career_stats": {
+    "slpm": 1.71,
+    "str_acc": 54,
+    "sapm": 2.31,
+    "str_def": 62,
+    "td_avg": 0.62,
+    "td_acc": 11,
+    "td_def": 10,
+    "sub_avg": 2.2
+  }
+}

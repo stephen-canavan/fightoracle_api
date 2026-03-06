@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0dd560fbcae2244f",
+  "ufcstats_event_id": "f9f07bb5a43535ed",
+  "ufcstats_fighter_red_id": "c03a5022f8439f2a",
+  "ufcstats_fighter_blue_id": "55ee431411ccf07a",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "c03a5022f8439f2a",
+  "is_title_fight": true,
+  "weight_class": "TUF Nations Canada vs. Australia Welterweight Tournament",
+  "scorecards": [
+    {
+      "judge": "Erick Philippeaux",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "David Therien",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 71,
+      "attempted": 174
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 72,
+      "attempted": 175
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 127
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 23,
+        "attempted": 24
+      },
+      "distance": {
+        "landed": 64,
+        "attempted": 161
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 45,
+      "attempted": 116
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 46,
+      "attempted": 117
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 96
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 18
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 41,
+        "attempted": 111
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

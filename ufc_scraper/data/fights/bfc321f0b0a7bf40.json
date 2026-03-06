@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "bfc321f0b0a7bf40",
+  "ufcstats_event_id": "ee457ef1e1c326c1",
+  "ufcstats_fighter_red_id": "c0ab242c40decc55",
+  "ufcstats_fighter_blue_id": "4b4753d19489297f",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John Sharp",
+  "ufcstats_winner_id": "c0ab242c40decc55",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Anthony Dimitriou",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Greg Kleynjans",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Peter Hickmont",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 70,
+      "attempted": 100
+    },
+    "sig_strikes_pct": 70,
+    "total_strikes": {
+      "landed": 156,
+      "attempted": 188
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "12:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 64,
+        "attempted": 92
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 28
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 55,
+        "attempted": 68
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 9,
+      "attempted": 37
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 11,
+      "attempted": 39
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 34
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 9,
+        "attempted": 37
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 3
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "029eaff01e6bb8f0",
+  "fname": "Dustin",
+  "sname": "Poirier",
+  "record": {
+    "wins": 30,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Diamond",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Southpaw",
+  "dob": "1989-01-19",
+  "career_stats": {
+    "slpm": 5.24,
+    "str_acc": 50,
+    "sapm": 4.57,
+    "str_def": 52,
+    "td_avg": 1.15,
+    "td_acc": 35,
+    "td_def": 64,
+    "sub_avg": 1.2
+  }
+}

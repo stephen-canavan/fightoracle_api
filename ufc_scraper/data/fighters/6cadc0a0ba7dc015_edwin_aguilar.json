@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6cadc0a0ba7dc015",
+  "fname": "Edwin",
+  "sname": "Aguilar",
+  "record": {
+    "wins": 26,
+    "losses": 19,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Tigre",
+  "height_cm": 177.8,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1972-01-01",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

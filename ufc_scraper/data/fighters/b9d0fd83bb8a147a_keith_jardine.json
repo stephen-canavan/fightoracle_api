@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b9d0fd83bb8a147a",
+  "fname": "Keith",
+  "sname": "Jardine",
+  "record": {
+    "wins": 17,
+    "losses": 11,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Dean of Mean",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1975-10-31",
+  "career_stats": {
+    "slpm": 3.25,
+    "str_acc": 36,
+    "sapm": 2.98,
+    "str_def": 59,
+    "td_avg": 1.18,
+    "td_acc": 45,
+    "td_def": 62,
+    "sub_avg": 0.7
+  }
+}

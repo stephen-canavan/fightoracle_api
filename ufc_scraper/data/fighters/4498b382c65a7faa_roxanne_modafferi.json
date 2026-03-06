@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4498b382c65a7faa",
+  "fname": "Roxanne",
+  "sname": "Modafferi",
+  "record": {
+    "wins": 25,
+    "losses": 21,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Happy Warrior",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1982-09-24",
+  "career_stats": {
+    "slpm": 3.35,
+    "str_acc": 30,
+    "sapm": 5.7,
+    "str_def": 51,
+    "td_avg": 1.35,
+    "td_acc": 23,
+    "td_def": 30,
+    "sub_avg": 0.1
+  }
+}

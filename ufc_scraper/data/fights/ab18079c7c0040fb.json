@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "ab18079c7c0040fb",
+  "ufcstats_event_id": "35dc6220b113b7ec",
+  "ufcstats_fighter_red_id": "5f04e3d58d9ce982",
+  "ufcstats_fighter_blue_id": "813550bc53b15fb0",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Medeiros",
+  "round": 1,
+  "time": "2:47",
+  "referee": "John McCarthy",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 19,
+      "attempted": 38
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 19,
+      "attempted": 38
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 26
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 18,
+        "attempted": 36
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 68
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 25,
+      "attempted": 68
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:04",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 50
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 65
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 11
+}

@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "8e03db41687d9132",
+  "ufcstats_event_id": "1c3f5e85b59ec710",
+  "ufcstats_fighter_red_id": "dedc3bb440d09554",
+  "ufcstats_fighter_blue_id": "3e03cec9767d37e6",
+  "method": "KO/TKO",
+  "method_details": "Headbutts to Head From Mount\n      Submission to Strikes",
+  "round": 1,
+  "time": "3:06",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "dedc3bb440d09554",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 9
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "12ebd7d157e91701",
+  "fname": "Bruno",
+  "sname": "Silva",
+  "record": {
+    "wins": 23,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Blindado",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1989-07-13",
+  "career_stats": {
+    "slpm": 3.86,
+    "str_acc": 48,
+    "sapm": 5.35,
+    "str_def": 41,
+    "td_avg": 0.77,
+    "td_acc": 22,
+    "td_def": 74,
+    "sub_avg": 0.0
+  }
+}

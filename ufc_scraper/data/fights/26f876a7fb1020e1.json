@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "26f876a7fb1020e1",
+  "ufcstats_event_id": "6cbb7661c3258617",
+  "ufcstats_fighter_red_id": "b959e8c7fd8390d2",
+  "ufcstats_fighter_blue_id": "1e1dbd1cc5a7469e",
+  "method": "TKO - Doctor's Stoppage",
+  "method_details": "Eye Injury",
+  "round": 2,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "1e1dbd1cc5a7469e",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 28,
+      "attempted": 44
+    },
+    "sig_strikes_pct": 63,
+    "total_strikes": {
+      "landed": 58,
+      "attempted": 74
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 8
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 4,
+        "attempted": 20
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 9
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 26
+      },
+      "clinch": {
+        "landed": 17,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 53,
+      "attempted": 77
+    },
+    "sig_strikes_pct": 68,
+    "total_strikes": {
+      "landed": 55,
+      "attempted": 79
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:50",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 32,
+        "attempted": 56
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 35,
+        "attempted": 57
+      },
+      "clinch": {
+        "landed": 16,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 7
+}

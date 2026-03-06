@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "a7492cbfb9b5d4a3",
+  "ufcstats_event_id": "852454c572675334",
+  "ufcstats_fighter_red_id": "4a57ebb14315b251",
+  "ufcstats_fighter_blue_id": "cd2c4d30c6e13b47",
+  "method": "DRAW-MAJ",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Camila Albuquerque",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Hallison Pontes",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "ufcstats_winner_id": null,
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 48,
+      "attempted": 116
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 66,
+      "attempted": 139
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:41",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 111
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 26,
+        "attempted": 86
+      },
+      "clinch": {
+        "landed": 11,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 11,
+        "attempted": 12
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 60,
+      "attempted": 142
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 71,
+      "attempted": 153
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "0:59",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 99
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 18
+      },
+      "leg": {
+        "landed": 21,
+        "attempted": 25
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 122
+      },
+      "clinch": {
+        "landed": 15,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

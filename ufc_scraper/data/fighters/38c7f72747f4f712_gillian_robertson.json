@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "38c7f72747f4f712",
+  "fname": "Gillian",
+  "sname": "Robertson",
+  "record": {
+    "wins": 16,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Savage",
+  "height_cm": 165.1,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1995-05-17",
+  "career_stats": {
+    "slpm": 2.86,
+    "str_acc": 48,
+    "sapm": 2.86,
+    "str_def": 56,
+    "td_avg": 2.74,
+    "td_acc": 40,
+    "td_def": 41,
+    "sub_avg": 0.9
+  }
+}

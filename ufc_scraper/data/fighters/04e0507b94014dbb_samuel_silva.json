@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "04e0507b94014dbb",
+  "fname": "Samuel",
+  "sname": "Silva",
+  "record": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Caveira",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1996-01-02",
+  "career_stats": {
+    "slpm": 2.58,
+    "str_acc": 27,
+    "sapm": 8.61,
+    "str_def": 37,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

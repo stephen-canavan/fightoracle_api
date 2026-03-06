@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "35f9beb94b4ef9e2",
+  "ufcstats_event_id": "c398235fcaf8d71d",
+  "ufcstats_fighter_red_id": "50db8711c70196cd",
+  "ufcstats_fighter_blue_id": "8667caa0451d245b",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "50db8711c70196cd",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Adalaide Byrd",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 143,
+      "attempted": 276
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 143,
+      "attempted": 276
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 98,
+        "attempted": 223
+      },
+      "body": {
+        "landed": 32,
+        "attempted": 39
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 131,
+        "attempted": 262
+      },
+      "clinch": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 106,
+      "attempted": 250
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 106,
+      "attempted": 250
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 85,
+        "attempted": 213
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 35
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 93,
+        "attempted": 235
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 3
+}

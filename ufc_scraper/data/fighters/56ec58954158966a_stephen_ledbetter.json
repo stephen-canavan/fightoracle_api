@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "56ec58954158966a",
+  "fname": "Stephen",
+  "sname": "Ledbetter",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1982-06-30",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 38,
+    "sapm": 1.6,
+    "str_def": 57,
+    "td_avg": 5.0,
+    "td_acc": 45,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

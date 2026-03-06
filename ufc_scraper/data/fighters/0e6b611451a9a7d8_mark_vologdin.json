@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0e6b611451a9a7d8",
+  "fname": "Mark",
+  "sname": "Vologdin",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 135,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "2000-04-18",
+  "career_stats": {
+    "slpm": 7.8,
+    "str_acc": 52,
+    "sapm": 11.0,
+    "str_def": 34,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 57,
+    "sub_avg": 0.0
+  }
+}

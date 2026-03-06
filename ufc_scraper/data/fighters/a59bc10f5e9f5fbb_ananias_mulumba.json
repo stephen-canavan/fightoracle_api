@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a59bc10f5e9f5fbb",
+  "fname": "Ananias",
+  "sname": "Mulumba",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Metal",
+  "height_cm": 165.1,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Switch",
+  "dob": "1998-09-18",
+  "career_stats": {
+    "slpm": 6.1,
+    "str_acc": 44,
+    "sapm": 5.96,
+    "str_def": 52,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 2.1
+  }
+}

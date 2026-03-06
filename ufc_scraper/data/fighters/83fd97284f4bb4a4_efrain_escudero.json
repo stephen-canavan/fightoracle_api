@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "83fd97284f4bb4a4",
+  "fname": "Efrain",
+  "sname": "Escudero",
+  "record": {
+    "wins": 28,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hecho En Mexico",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1986-01-15",
+  "career_stats": {
+    "slpm": 2.92,
+    "str_acc": 44,
+    "sapm": 2.3,
+    "str_def": 63,
+    "td_avg": 1.31,
+    "td_acc": 40,
+    "td_def": 66,
+    "sub_avg": 0.8
+  }
+}

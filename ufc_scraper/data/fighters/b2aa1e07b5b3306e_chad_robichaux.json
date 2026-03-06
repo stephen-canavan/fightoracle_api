@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b2aa1e07b5b3306e",
+  "fname": "Chad",
+  "sname": "Robichaux",
+  "record": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Robo",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1975-08-18",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

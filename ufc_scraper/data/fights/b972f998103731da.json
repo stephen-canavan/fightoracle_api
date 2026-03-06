@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "b972f998103731da",
+  "ufcstats_event_id": "acff437707625fc7",
+  "ufcstats_fighter_red_id": "23459ee7e373b98f",
+  "ufcstats_fighter_blue_id": "b959e8c7fd8390d2",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jon Schorle",
+  "ufcstats_winner_id": "b959e8c7fd8390d2",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Cecil Peoples",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Nick Wright",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 88,
+      "attempted": 239
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 146,
+      "attempted": 298
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:14",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 65,
+        "attempted": 203
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 22
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 77,
+        "attempted": 211
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 79,
+      "attempted": 219
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 88,
+      "attempted": 229
+    },
+    "takedowns": {
+      "landed": 9,
+      "attempted": 13
+    },
+    "takedown_pct": 69,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 48,
+        "attempted": 175
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 21,
+        "attempted": 28
+      },
+      "distance": {
+        "landed": 72,
+        "attempted": 206
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 6
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0871254cd790c250",
+  "fname": "Tommy",
+  "sname": "Hayden",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Wild Card",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1986-03-11",
+  "career_stats": {
+    "slpm": 1.48,
+    "str_acc": 27,
+    "sapm": 2.05,
+    "str_def": 55,
+    "td_avg": 3.42,
+    "td_acc": 33,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c4b9296214f4c09c",
+  "fname": "Jason",
+  "sname": "Von Flue",
+  "record": {
+    "wins": 14,
+    "losses": 12,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Live Wire",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-08-01",
+  "career_stats": {
+    "slpm": 1.89,
+    "str_acc": 36,
+    "sapm": 3.23,
+    "str_def": 52,
+    "td_avg": 0.62,
+    "td_acc": 16,
+    "td_def": 58,
+    "sub_avg": 1.5
+  }
+}

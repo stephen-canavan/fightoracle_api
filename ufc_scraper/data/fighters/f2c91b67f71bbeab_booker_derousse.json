@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f2c91b67f71bbeab",
+  "fname": "Booker",
+  "sname": "DeRousse",
+  "record": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1981-03-23",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

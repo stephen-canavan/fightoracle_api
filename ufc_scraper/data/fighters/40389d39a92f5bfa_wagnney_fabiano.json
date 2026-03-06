@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "40389d39a92f5bfa",
+  "fname": "Wagnney",
+  "sname": "Fabiano",
+  "record": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Silencer",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1975-07-14",
+  "career_stats": {
+    "slpm": 1.19,
+    "str_acc": 38,
+    "sapm": 0.66,
+    "str_def": 70,
+    "td_avg": 3.44,
+    "td_acc": 64,
+    "td_def": 100,
+    "sub_avg": 0.4
+  }
+}

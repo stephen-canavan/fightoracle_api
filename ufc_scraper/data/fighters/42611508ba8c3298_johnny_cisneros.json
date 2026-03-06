@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "42611508ba8c3298",
+  "fname": "Johnny",
+  "sname": "Cisneros",
+  "record": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Tattooed Terror",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1980-02-05",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dd6ec6f941c3a414",
+  "fname": "Davi",
+  "sname": "Bittencourt",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Black",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1994-10-12",
+  "career_stats": {
+    "slpm": 4.15,
+    "str_acc": 66,
+    "sapm": 1.51,
+    "str_def": 46,
+    "td_avg": 14.15,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

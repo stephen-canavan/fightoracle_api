@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "568bbad0eaced57c",
+  "fname": "Shanna",
+  "sname": "Young",
+  "record": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Shanimal",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1991-02-20",
+  "career_stats": {
+    "slpm": 3.18,
+    "str_acc": 47,
+    "sapm": 4.88,
+    "str_def": 43,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 53,
+    "sub_avg": 0.6
+  }
+}

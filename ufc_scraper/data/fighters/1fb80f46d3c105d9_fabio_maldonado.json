@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1fb80f46d3c105d9",
+  "fname": "Fabio",
+  "sname": "Maldonado",
+  "record": {
+    "wins": 23,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Caipira de Aco",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1980-03-17",
+  "career_stats": {
+    "slpm": 5.29,
+    "str_acc": 58,
+    "sapm": 4.31,
+    "str_def": 53,
+    "td_avg": 0.44,
+    "td_acc": 57,
+    "td_def": 61,
+    "sub_avg": 0.6
+  }
+}

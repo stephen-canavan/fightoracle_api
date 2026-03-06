@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4908c5ee68a50ee5",
+  "fname": "Brad",
+  "sname": "Imes",
+  "record": {
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hillbilly Heartthrob",
+  "height_cm": 200.7,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-03-13",
+  "career_stats": {
+    "slpm": 2.73,
+    "str_acc": 31,
+    "sapm": 4.24,
+    "str_def": 49,
+    "td_avg": 1.72,
+    "td_acc": 71,
+    "td_def": 0,
+    "sub_avg": 1.0
+  }
+}

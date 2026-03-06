@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "215a70f073a7b726",
+  "fname": "Jordan",
+  "sname": "Espinosa",
+  "record": {
+    "wins": 15,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gamer",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1989-11-08",
+  "career_stats": {
+    "slpm": 4.22,
+    "str_acc": 52,
+    "sapm": 2.94,
+    "str_def": 57,
+    "td_avg": 0.75,
+    "td_acc": 28,
+    "td_def": 70,
+    "sub_avg": 0.2
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "7099374e91f9283b",
+  "ufcstats_event_id": "53f02bbc41d99432",
+  "ufcstats_fighter_red_id": "d0f3959b4a9747e6",
+  "ufcstats_fighter_blue_id": "b5b684eac99ae0a3",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "d0f3959b4a9747e6",
+  "is_title_fight": true,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Richard Bertrand",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Marco Borges",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Guilherme Bravo",
+      "red": 46,
+      "blue": 49
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 102,
+      "attempted": 269
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 122,
+      "attempted": 289
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 80,
+        "attempted": 237
+      },
+      "body": {
+        "landed": 16,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 91,
+        "attempted": 256
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 11
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 194
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 85,
+      "attempted": 203
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 8
+    },
+    "takedown_pct": 12,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 50,
+        "attempted": 149
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 28
+      },
+      "distance": {
+        "landed": 75,
+        "attempted": 188
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 1
+}

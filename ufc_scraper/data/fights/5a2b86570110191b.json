@@ -1,0 +1,123 @@
+{
+  "ufcstats_fight_id": "5a2b86570110191b",
+  "ufcstats_event_id": "b0a6124751a56bc4",
+  "ufcstats_fighter_red_id": "1a9480fc288e55d7",
+  "ufcstats_fighter_blue_id": "3329d692aea4dc28",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Abdelwahab",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Kerry Hatley",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Dan Mathisen",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Seth Fuller",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Kent Basinger",
+      "red": 29,
+      "blue": 28
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 47,
+      "attempted": 116
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 54,
+      "attempted": 123
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 90
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 111
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 58,
+      "attempted": 110
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 106,
+      "attempted": 164
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:36",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 51,
+        "attempted": 102
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 30,
+        "attempted": 74
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 26,
+        "attempted": 33
+      }
+    }
+  },
+  "card_position": 8
+}

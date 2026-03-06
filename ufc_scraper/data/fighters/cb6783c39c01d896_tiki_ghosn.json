@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cb6783c39c01d896",
+  "fname": "Tiki",
+  "sname": "Ghosn",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-02-09",
+  "career_stats": {
+    "slpm": 2.78,
+    "str_acc": 46,
+    "sapm": 2.94,
+    "str_def": 58,
+    "td_avg": 0.41,
+    "td_acc": 50,
+    "td_def": 61,
+    "sub_avg": 0.0
+  }
+}

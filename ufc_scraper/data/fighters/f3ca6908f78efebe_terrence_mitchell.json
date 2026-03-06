@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f3ca6908f78efebe",
+  "fname": "Terrence",
+  "sname": "Mitchell",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 135,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1989-12-30",
+  "career_stats": {
+    "slpm": 2.21,
+    "str_acc": 34,
+    "sapm": 8.85,
+    "str_def": 41,
+    "td_avg": 3.69,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

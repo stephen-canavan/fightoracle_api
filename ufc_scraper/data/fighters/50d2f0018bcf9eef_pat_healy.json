@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "50d2f0018bcf9eef",
+  "fname": "Pat",
+  "sname": "Healy",
+  "record": {
+    "wins": 34,
+    "losses": 23,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bam Bam",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1983-07-20",
+  "career_stats": {
+    "slpm": 2.57,
+    "str_acc": 36,
+    "sapm": 2.57,
+    "str_def": 50,
+    "td_avg": 3.08,
+    "td_acc": 37,
+    "td_def": 55,
+    "sub_avg": 1.1
+  }
+}

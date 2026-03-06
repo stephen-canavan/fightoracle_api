@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "eed2b71d77d95416",
+  "fname": "Yoshihisa",
+  "sname": "Yamamoto",
+  "record": {
+    "wins": 14,
+    "losses": 25,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 220,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-07-04",
+  "career_stats": {
+    "slpm": 1.65,
+    "str_acc": 38,
+    "sapm": 3.05,
+    "str_def": 53,
+    "td_avg": 1.0,
+    "td_acc": 20,
+    "td_def": 50,
+    "sub_avg": 0.6
+  }
+}

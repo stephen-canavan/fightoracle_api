@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "32ab52e5de93092d",
+  "fname": "Steve",
+  "sname": "Erceg",
+  "record": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Astroboy",
+  "height_cm": 172.7,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1995-07-27",
+  "career_stats": {
+    "slpm": 4.0,
+    "str_acc": 45,
+    "sapm": 3.79,
+    "str_def": 52,
+    "td_avg": 1.15,
+    "td_acc": 27,
+    "td_def": 62,
+    "sub_avg": 0.4
+  }
+}

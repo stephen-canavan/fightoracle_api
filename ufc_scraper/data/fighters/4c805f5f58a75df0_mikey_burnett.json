@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4c805f5f58a75df0",
+  "fname": "Mikey",
+  "sname": "Burnett",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Eastside Assassin",
+  "height_cm": 167.6,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-04-12",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

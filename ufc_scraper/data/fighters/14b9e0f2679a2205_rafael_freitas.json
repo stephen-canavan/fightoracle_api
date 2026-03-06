@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "14b9e0f2679a2205",
+  "fname": "Rafael",
+  "sname": "Freitas",
+  "record": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Capoeira",
+  "height_cm": null,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.0,
+    "str_acc": 29,
+    "sapm": 8.0,
+    "str_def": 51,
+    "td_avg": 11.25,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "adddc6e46da5ca19",
+  "ufcstats_event_id": "15edcf67ccf5be84",
+  "ufcstats_fighter_red_id": "902ab9197b83d0db",
+  "ufcstats_fighter_blue_id": "579fcdfcabd23a7b",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "902ab9197b83d0db",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Lester Griffin",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 48,
+      "attempted": 103
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 104,
+      "attempted": 169
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "10:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 21,
+        "attempted": 26
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 33
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 39,
+        "attempted": 65
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 5,
+      "attempted": 27
+    },
+    "sig_strikes_pct": 18,
+    "total_strikes": {
+      "landed": 5,
+      "attempted": 27
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 19
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 4,
+        "attempted": 26
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

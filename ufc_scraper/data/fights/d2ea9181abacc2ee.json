@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "d2ea9181abacc2ee",
+  "ufcstats_event_id": "f62850b3c7480db9",
+  "ufcstats_fighter_red_id": "282fa667ff9c51ed",
+  "ufcstats_fighter_blue_id": "80dbeb1dd5b53e64",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "80dbeb1dd5b53e64",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Mike Beltran",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Lester Griffin",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Cecil Peoples",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 143,
+      "attempted": 422
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 143,
+      "attempted": 422
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 120,
+        "attempted": 381
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 36
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 143,
+        "attempted": 422
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 129,
+      "attempted": 366
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 129,
+      "attempted": 366
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 96,
+        "attempted": 314
+      },
+      "body": {
+        "landed": 26,
+        "attempted": 43
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 129,
+        "attempted": 366
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

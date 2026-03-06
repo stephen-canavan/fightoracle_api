@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d0d7160824278840",
+  "fname": "Junior",
+  "sname": "Assuncao",
+  "record": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1981-06-24",
+  "career_stats": {
+    "slpm": 3.31,
+    "str_acc": 62,
+    "sapm": 2.06,
+    "str_def": 44,
+    "td_avg": 2.43,
+    "td_acc": 24,
+    "td_def": 66,
+    "sub_avg": 0.7
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b8a85389d115e35a",
+  "fname": "Jack",
+  "sname": "Shore",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Tank",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1995-02-06",
+  "career_stats": {
+    "slpm": 3.6,
+    "str_acc": 58,
+    "sapm": 2.31,
+    "str_def": 56,
+    "td_avg": 3.22,
+    "td_acc": 39,
+    "td_def": 74,
+    "sub_avg": 0.6
+  }
+}

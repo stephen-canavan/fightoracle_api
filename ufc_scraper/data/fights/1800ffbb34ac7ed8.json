@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1800ffbb34ac7ed8",
+  "ufcstats_event_id": "81ca2c245b19b3c5",
+  "ufcstats_fighter_red_id": "6551c64fbcd1a467",
+  "ufcstats_fighter_blue_id": "e0f959f65d0406b4",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Fernando Portella",
+  "ufcstats_winner_id": "6551c64fbcd1a467",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Hallison Pontes",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Guilherme Bravo",
+      "red": 27,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 63
+    },
+    "sig_strikes_pct": 49,
+    "total_strikes": {
+      "landed": 175,
+      "attempted": 224
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "8:47",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 58
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 18,
+        "attempted": 45
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 13,
+        "attempted": 18
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 15,
+      "attempted": 42
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 90,
+      "attempted": 128
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "4:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 15,
+        "attempted": 42
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 6,
+        "attempted": 26
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 9,
+        "attempted": 16
+      }
+    }
+  },
+  "card_position": 11
+}

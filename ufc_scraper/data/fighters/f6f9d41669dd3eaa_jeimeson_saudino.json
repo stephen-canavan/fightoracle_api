@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f6f9d41669dd3eaa",
+  "fname": "Jeimeson",
+  "sname": "Saudino",
+  "record": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Minion",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1991-03-05",
+  "career_stats": {
+    "slpm": 0.66,
+    "str_acc": 30,
+    "sapm": 0.82,
+    "str_def": 84,
+    "td_avg": 2.47,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 2.5
+  }
+}

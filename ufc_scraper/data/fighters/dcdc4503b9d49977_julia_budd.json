@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dcdc4503b9d49977",
+  "fname": "Julia",
+  "sname": "Budd",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 170.2,
+  "stance": "",
+  "dob": "1983-07-04",
+  "career_stats": {
+    "slpm": 2.42,
+    "str_acc": 74,
+    "sapm": 1.18,
+    "str_def": 47,
+    "td_avg": 3.6,
+    "td_acc": 57,
+    "td_def": 83,
+    "sub_avg": 0.0
+  }
+}

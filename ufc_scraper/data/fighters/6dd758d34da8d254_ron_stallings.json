@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6dd758d34da8d254",
+  "fname": "Ron",
+  "sname": "Stallings",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Choir Boy",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1983-01-25",
+  "career_stats": {
+    "slpm": 3.22,
+    "str_acc": 60,
+    "sapm": 3.26,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

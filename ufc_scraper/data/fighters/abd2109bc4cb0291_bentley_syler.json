@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "abd2109bc4cb0291",
+  "fname": "Bentley",
+  "sname": "Syler",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bolivia",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1982-12-22",
+  "career_stats": {
+    "slpm": 1.3,
+    "str_acc": 18,
+    "sapm": 1.73,
+    "str_def": 79,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

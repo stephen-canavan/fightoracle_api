@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "915c8d39d4a0e7d1",
+  "fname": "Ramiro",
+  "sname": "Hernandez",
+  "record": {
+    "wins": 19,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Junior",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1986-07-22",
+  "career_stats": {
+    "slpm": 2.72,
+    "str_acc": 28,
+    "sapm": 5.51,
+    "str_def": 64,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

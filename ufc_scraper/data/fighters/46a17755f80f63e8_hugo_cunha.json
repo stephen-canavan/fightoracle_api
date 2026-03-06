@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "46a17755f80f63e8",
+  "fname": "Hugo",
+  "sname": "Cunha",
+  "record": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Silverback",
+  "height_cm": 190.5,
+  "weight_lbs": 263,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1993-02-04",
+  "career_stats": {
+    "slpm": 0.6,
+    "str_acc": 30,
+    "sapm": 3.01,
+    "str_def": 34,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

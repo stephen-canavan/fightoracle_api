@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "706f8e2b34e8e18b",
+  "fname": "Anton",
+  "sname": "Kuivanen",
+  "record": {
+    "wins": 24,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1984-05-01",
+  "career_stats": {
+    "slpm": 2.27,
+    "str_acc": 38,
+    "sapm": 1.63,
+    "str_def": 67,
+    "td_avg": 1.2,
+    "td_acc": 100,
+    "td_def": 71,
+    "sub_avg": 0.4
+  }
+}

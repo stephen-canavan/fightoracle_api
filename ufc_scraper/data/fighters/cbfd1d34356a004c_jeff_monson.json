@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cbfd1d34356a004c",
+  "fname": "Jeff",
+  "sname": "Monson",
+  "record": {
+    "wins": 60,
+    "losses": 26,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Snowman",
+  "height_cm": 175.3,
+  "weight_lbs": 247,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1971-01-18",
+  "career_stats": {
+    "slpm": 0.97,
+    "str_acc": 30,
+    "sapm": 2.87,
+    "str_def": 59,
+    "td_avg": 1.06,
+    "td_acc": 12,
+    "td_def": 66,
+    "sub_avg": 0.7
+  }
+}

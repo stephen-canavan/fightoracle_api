@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d7907a9a968e4d29",
+  "fname": "Wataru",
+  "sname": "Sakata",
+  "record": {
+    "wins": 11,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 195,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1973-03-11",
+  "career_stats": {
+    "slpm": 1.11,
+    "str_acc": 61,
+    "sapm": 2.08,
+    "str_def": 31,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

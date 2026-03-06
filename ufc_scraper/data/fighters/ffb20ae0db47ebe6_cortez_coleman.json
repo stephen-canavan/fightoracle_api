@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ffb20ae0db47ebe6",
+  "fname": "Cortez",
+  "sname": "Coleman",
+  "record": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hollywood",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1982-01-28",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

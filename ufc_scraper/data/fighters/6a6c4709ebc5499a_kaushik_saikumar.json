@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6a6c4709ebc5499a",
+  "fname": "Kaushik",
+  "sname": "Saikumar",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Pride of Chennai",
+  "height_cm": 177.8,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1997-12-11",
+  "career_stats": {
+    "slpm": 0.81,
+    "str_acc": 28,
+    "sapm": 5.35,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 1.2
+  }
+}

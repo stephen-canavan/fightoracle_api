@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b76c6268dc1d3c05",
+  "fname": "Danielle",
+  "sname": "Taylor",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Dynamite",
+  "height_cm": 152.4,
+  "weight_lbs": 115,
+  "reach_cm": 152.4,
+  "stance": "Orthodox",
+  "dob": "1989-10-25",
+  "career_stats": {
+    "slpm": 2.75,
+    "str_acc": 29,
+    "sapm": 3.31,
+    "str_def": 71,
+    "td_avg": 0.2,
+    "td_acc": 20,
+    "td_def": 70,
+    "sub_avg": 0.2
+  }
+}

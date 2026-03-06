@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9d80bd1f92d23dfa",
+  "ufcstats_event_id": "e5d03e4d966126bd",
+  "ufcstats_fighter_red_id": "132deb59abae64b1",
+  "ufcstats_fighter_blue_id": "51a0c09cbe9b8472",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "132deb59abae64b1",
+  "is_title_fight": true,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Guilherme Bravo",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 45,
+      "blue": 50
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 115
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 84,
+      "attempted": 159
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "7:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 22,
+        "attempted": 30
+      },
+      "distance": {
+        "landed": 38,
+        "attempted": 106
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 18,
+      "attempted": 76
+    },
+    "sig_strikes_pct": 23,
+    "total_strikes": {
+      "landed": 132,
+      "attempted": 191
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 40
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 75
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 1
+}

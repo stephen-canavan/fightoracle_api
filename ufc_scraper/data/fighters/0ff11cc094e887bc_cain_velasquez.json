@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0ff11cc094e887bc",
+  "fname": "Cain",
+  "sname": "Velasquez",
+  "record": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 240,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1982-07-28",
+  "career_stats": {
+    "slpm": 6.37,
+    "str_acc": 57,
+    "sapm": 2.33,
+    "str_def": 57,
+    "td_avg": 5.13,
+    "td_acc": 45,
+    "td_def": 85,
+    "sub_avg": 0.4
+  }
+}

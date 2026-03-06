@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "af62f99eb7606308",
+  "fname": "Erik",
+  "sname": "Perez",
+  "record": {
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Goyito",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1989-11-19",
+  "career_stats": {
+    "slpm": 3.16,
+    "str_acc": 40,
+    "sapm": 2.09,
+    "str_def": 66,
+    "td_avg": 3.16,
+    "td_acc": 55,
+    "td_def": 69,
+    "sub_avg": 0.2
+  }
+}

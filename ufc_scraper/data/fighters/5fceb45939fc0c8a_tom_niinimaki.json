@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5fceb45939fc0c8a",
+  "fname": "Tom",
+  "sname": "Niinimaki",
+  "record": {
+    "wins": 22,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Stoneface",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1982-07-25",
+  "career_stats": {
+    "slpm": 1.91,
+    "str_acc": 54,
+    "sapm": 2.31,
+    "str_def": 58,
+    "td_avg": 2.97,
+    "td_acc": 46,
+    "td_def": 33,
+    "sub_avg": 0.5
+  }
+}

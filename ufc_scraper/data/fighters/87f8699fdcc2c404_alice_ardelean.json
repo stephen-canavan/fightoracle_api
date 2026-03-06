@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "87f8699fdcc2c404",
+  "fname": "Alice",
+  "sname": "Ardelean",
+  "record": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 157.5,
+  "stance": "Orthodox",
+  "dob": "1992-04-19",
+  "career_stats": {
+    "slpm": 7.35,
+    "str_acc": 45,
+    "sapm": 5.2,
+    "str_def": 62,
+    "td_avg": 1.0,
+    "td_acc": 44,
+    "td_def": 85,
+    "sub_avg": 0.0
+  }
+}

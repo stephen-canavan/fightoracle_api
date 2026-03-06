@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3033c1c080672475",
+  "fname": "Dakota",
+  "sname": "Bush",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1994-06-09",
+  "career_stats": {
+    "slpm": 2.77,
+    "str_acc": 38,
+    "sapm": 4.42,
+    "str_def": 41,
+    "td_avg": 2.4,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

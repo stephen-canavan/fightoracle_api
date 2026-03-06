@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ac0874309da489b9",
+  "fname": "Marek",
+  "sname": "Bujlo",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bujdzilla",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1992-10-10",
+  "career_stats": {
+    "slpm": 2.07,
+    "str_acc": 38,
+    "sapm": 3.27,
+    "str_def": 37,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

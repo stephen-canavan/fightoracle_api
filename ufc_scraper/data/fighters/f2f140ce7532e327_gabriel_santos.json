@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f2f140ce7532e327",
+  "fname": "Gabriel",
+  "sname": "Santos",
+  "record": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mosquitinho",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1996-11-28",
+  "career_stats": {
+    "slpm": 4.35,
+    "str_acc": 60,
+    "sapm": 4.31,
+    "str_def": 45,
+    "td_avg": 3.8,
+    "td_acc": 54,
+    "td_def": 87,
+    "sub_avg": 1.2
+  }
+}

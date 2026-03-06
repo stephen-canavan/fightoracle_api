@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ee9ebceabfd16fa7",
+  "fname": "Kevin",
+  "sname": "Lee",
+  "record": {
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Motown Phenom",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1992-09-04",
+  "career_stats": {
+    "slpm": 3.88,
+    "str_acc": 42,
+    "sapm": 3.6,
+    "str_def": 50,
+    "td_avg": 3.18,
+    "td_acc": 43,
+    "td_def": 75,
+    "sub_avg": 0.8
+  }
+}

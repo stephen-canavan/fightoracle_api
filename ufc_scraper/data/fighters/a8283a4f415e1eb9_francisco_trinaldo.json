@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a8283a4f415e1eb9",
+  "fname": "Francisco",
+  "sname": "Trinaldo",
+  "record": {
+    "wins": 28,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Massaranduba",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1978-08-24",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 45,
+    "sapm": 2.67,
+    "str_def": 60,
+    "td_avg": 0.98,
+    "td_acc": 42,
+    "td_def": 60,
+    "sub_avg": 0.5
+  }
+}

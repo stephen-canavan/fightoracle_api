@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "4669c07f3cc9e35f",
+  "ufcstats_event_id": "997b4f52f76a0b53",
+  "ufcstats_fighter_red_id": "ffc088e64fab57e9",
+  "ufcstats_fighter_blue_id": "1fb80f46d3c105d9",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "ffc088e64fab57e9",
+  "is_title_fight": false,
+  "weight_class": "Catch Weight",
+  "scorecards": [
+    {
+      "judge": "Luc Lefebvre",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Pasquale Procopio",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Benoit Roussel",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 99,
+      "attempted": 211
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 114,
+      "attempted": 230
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 59,
+        "attempted": 160
+      },
+      "body": {
+        "landed": 31,
+        "attempted": 41
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 67,
+        "attempted": 155
+      },
+      "clinch": {
+        "landed": 32,
+        "attempted": 56
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 67,
+      "attempted": 134
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 94,
+      "attempted": 162
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 37,
+        "attempted": 87
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 45
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 55,
+        "attempted": 113
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 21
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

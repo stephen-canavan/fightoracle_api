@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ffe9703408fb5964",
+  "fname": "David",
+  "sname": "Onama",
+  "record": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 145,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1994-06-07",
+  "career_stats": {
+    "slpm": 5.07,
+    "str_acc": 50,
+    "sapm": 4.89,
+    "str_def": 51,
+    "td_avg": 1.05,
+    "td_acc": 30,
+    "td_def": 52,
+    "sub_avg": 0.5
+  }
+}

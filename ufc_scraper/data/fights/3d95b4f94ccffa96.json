@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "3d95b4f94ccffa96",
+  "ufcstats_event_id": "ff9578cdbfabd323",
+  "ufcstats_fighter_red_id": "8fd808923cffff82",
+  "ufcstats_fighter_blue_id": "751de04455cfaac0",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "751de04455cfaac0",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Guilherme Bravo",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Mike Bell",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Brandon Saucedo",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 73,
+      "attempted": 202
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 75,
+      "attempted": 205
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 51,
+        "attempted": 173
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 70,
+        "attempted": 193
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 75,
+      "attempted": 160
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 80,
+      "attempted": 166
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:36",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 55,
+        "attempted": 137
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 66,
+        "attempted": 143
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 9
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "25f9a5f3e8a52618",
+  "fname": "Jhonata",
+  "sname": "Diniz",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 254,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1991-06-23",
+  "career_stats": {
+    "slpm": 3.89,
+    "str_acc": 56,
+    "sapm": 3.62,
+    "str_def": 56,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 70,
+    "sub_avg": 0.0
+  }
+}

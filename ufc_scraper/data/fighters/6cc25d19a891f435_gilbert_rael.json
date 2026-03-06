@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6cc25d19a891f435",
+  "fname": "Gilbert",
+  "sname": "Rael",
+  "record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 7.46,
+    "str_def": 37,
+    "td_avg": 4.86,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

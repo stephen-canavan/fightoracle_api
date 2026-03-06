@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7aa88401f93ce836",
+  "fname": "Amar",
+  "sname": "Suloev",
+  "record": {
+    "wins": 24,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-07-01",
+  "career_stats": {
+    "slpm": 1.98,
+    "str_acc": 37,
+    "sapm": 2.19,
+    "str_def": 70,
+    "td_avg": 0.27,
+    "td_acc": 100,
+    "td_def": 88,
+    "sub_avg": 0.3
+  }
+}

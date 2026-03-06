@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "62f7097c04311193",
+  "fname": "Niklas",
+  "sname": "Stolze",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Green Mask",
+  "height_cm": 185.4,
+  "weight_lbs": 155,
+  "reach_cm": 188.0,
+  "stance": "Switch",
+  "dob": "1992-12-28",
+  "career_stats": {
+    "slpm": 2.12,
+    "str_acc": 48,
+    "sapm": 2.25,
+    "str_def": 49,
+    "td_avg": 0.66,
+    "td_acc": 100,
+    "td_def": 55,
+    "sub_avg": 0.7
+  }
+}

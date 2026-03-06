@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "542db012217ecb83",
+  "fname": "Tetsuji",
+  "sname": "Kato",
+  "record": {
+    "wins": 20,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-12-05",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 29,
+    "sapm": 2.1,
+    "str_def": 70,
+    "td_avg": 2.0,
+    "td_acc": 57,
+    "td_def": 80,
+    "sub_avg": 0.5
+  }
+}

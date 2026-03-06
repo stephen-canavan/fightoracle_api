@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dbc17725b887860a",
+  "fname": "Cezar",
+  "sname": "Ferreira",
+  "record": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mutante",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 198.1,
+  "stance": "Southpaw",
+  "dob": "1985-02-15",
+  "career_stats": {
+    "slpm": 1.9,
+    "str_acc": 42,
+    "sapm": 2.44,
+    "str_def": 53,
+    "td_avg": 2.69,
+    "td_acc": 53,
+    "td_def": 84,
+    "sub_avg": 0.5
+  }
+}

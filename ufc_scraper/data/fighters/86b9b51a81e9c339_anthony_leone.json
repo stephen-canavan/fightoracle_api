@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "86b9b51a81e9c339",
+  "fname": "Anthony",
+  "sname": "Leone",
+  "record": {
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-05-27",
+  "career_stats": {
+    "slpm": 1.94,
+    "str_acc": 53,
+    "sapm": 2.52,
+    "str_def": 56,
+    "td_avg": 1.72,
+    "td_acc": 18,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

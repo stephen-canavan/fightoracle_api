@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "81801f57bd0a7c41",
+  "fname": "Marcus",
+  "sname": "Brimage",
+  "record": {
+    "wins": 7,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Bama Beast",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1985-04-06",
+  "career_stats": {
+    "slpm": 3.97,
+    "str_acc": 35,
+    "sapm": 3.64,
+    "str_def": 56,
+    "td_avg": 0.56,
+    "td_acc": 100,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

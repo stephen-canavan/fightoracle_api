@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6a902b97ac98c283",
+  "ufcstats_event_id": "253d3f9e97ca149a",
+  "ufcstats_fighter_red_id": "a8283a4f415e1eb9",
+  "ufcstats_fighter_blue_id": "a6cba6bb66c1a8c9",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Ryan Brueggeman",
+  "ufcstats_winner_id": "a8283a4f415e1eb9",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Chris Flores",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 80,
+      "attempted": 124
+    },
+    "sig_strikes_pct": 64,
+    "total_strikes": {
+      "landed": 91,
+      "attempted": 137
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "4:21",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 62,
+        "attempted": 102
+      },
+      "body": {
+        "landed": 16,
+        "attempted": 20
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 51,
+        "attempted": 86
+      },
+      "clinch": {
+        "landed": 21,
+        "attempted": 26
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 12
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 118
+    },
+    "sig_strikes_pct": 30,
+    "total_strikes": {
+      "landed": 44,
+      "attempted": 128
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:39",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 15,
+        "attempted": 92
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 103
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 14
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 6
+}

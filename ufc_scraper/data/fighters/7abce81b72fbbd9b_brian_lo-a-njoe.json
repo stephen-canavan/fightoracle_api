@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7abce81b72fbbd9b",
+  "fname": "Brian",
+  "sname": "Lo-A-Njoe",
+  "record": {
+    "wins": 6,
+    "losses": 10,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-01-22",
+  "career_stats": {
+    "slpm": 3.87,
+    "str_acc": 42,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

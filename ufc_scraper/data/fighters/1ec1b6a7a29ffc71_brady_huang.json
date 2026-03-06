@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1ec1b6a7a29ffc71",
+  "fname": "Brady",
+  "sname": "Huang",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Kung Fu Warrior",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1992-12-16",
+  "career_stats": {
+    "slpm": 4.62,
+    "str_acc": 37,
+    "sapm": 10.77,
+    "str_def": 30,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "76984112f697631f",
+  "fname": "Leslie",
+  "sname": "Smith",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Peacemaker",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1982-08-17",
+  "career_stats": {
+    "slpm": 7.56,
+    "str_acc": 40,
+    "sapm": 8.41,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

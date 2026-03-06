@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "51b0bb73a1da34bc",
+  "fname": "Mike",
+  "sname": "Ciesnolevicz",
+  "record": {
+    "wins": 19,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 235,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-10-28",
+  "career_stats": {
+    "slpm": 0.51,
+    "str_acc": 50,
+    "sapm": 4.62,
+    "str_def": 57,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 20,
+    "sub_avg": 5.1
+  }
+}

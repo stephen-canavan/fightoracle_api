@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2937cb502dda0808",
+  "fname": "Anistavio",
+  "sname": "Medeiros",
+  "record": {
+    "wins": 19,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gasparzinho",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1988-05-01",
+  "career_stats": {
+    "slpm": 3.64,
+    "str_acc": 44,
+    "sapm": 5.0,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

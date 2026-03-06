@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "46fa8e79fe8a9539",
+  "ufcstats_event_id": "66e0a70352fef46a",
+  "ufcstats_fighter_red_id": "eae431e70064e046",
+  "ufcstats_fighter_blue_id": "f14f644d41ade29f",
+  "method": "Could Not Continue",
+  "method_details": "Accidental Strikes to Back of Head by Alhassan",
+  "round": 1,
+  "time": "0:37",
+  "referee": "Dan Miragliotta",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 23,
+      "attempted": 30
+    },
+    "sig_strikes_pct": 76,
+    "total_strikes": {
+      "landed": 24,
+      "attempted": 35
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:27",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 30
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 19,
+        "attempted": 26
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:03",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

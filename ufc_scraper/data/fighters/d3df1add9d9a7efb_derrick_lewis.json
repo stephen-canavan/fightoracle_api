@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d3df1add9d9a7efb",
+  "fname": "Derrick",
+  "sname": "Lewis",
+  "record": {
+    "wins": 29,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Black Beast",
+  "height_cm": 190.5,
+  "weight_lbs": 260,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1985-02-07",
+  "career_stats": {
+    "slpm": 2.46,
+    "str_acc": 49,
+    "sapm": 2.57,
+    "str_def": 39,
+    "td_avg": 0.55,
+    "td_acc": 26,
+    "td_def": 52,
+    "sub_avg": 0.0
+  }
+}

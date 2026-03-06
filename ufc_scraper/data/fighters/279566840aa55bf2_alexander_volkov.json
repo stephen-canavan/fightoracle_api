@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "279566840aa55bf2",
+  "fname": "Alexander",
+  "sname": "Volkov",
+  "record": {
+    "wins": 39,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Drago",
+  "height_cm": 200.7,
+  "weight_lbs": 261,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1988-10-24",
+  "career_stats": {
+    "slpm": 4.78,
+    "str_acc": 57,
+    "sapm": 2.86,
+    "str_def": 53,
+    "td_avg": 0.57,
+    "td_acc": 66,
+    "td_def": 68,
+    "sub_avg": 0.2
+  }
+}

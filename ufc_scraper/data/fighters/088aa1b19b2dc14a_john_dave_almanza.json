@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "088aa1b19b2dc14a",
+  "fname": "John",
+  "sname": "Dave Almanza",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Striker",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Southpaw",
+  "dob": "2004-03-22",
+  "career_stats": {
+    "slpm": 1.92,
+    "str_acc": 41,
+    "sapm": 5.75,
+    "str_def": 27,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

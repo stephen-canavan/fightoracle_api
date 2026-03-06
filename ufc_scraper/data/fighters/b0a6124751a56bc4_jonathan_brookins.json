@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b0a6124751a56bc4",
+  "fname": "Jonathan",
+  "sname": "Brookins",
+  "record": {
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1985-08-13",
+  "career_stats": {
+    "slpm": 2.69,
+    "str_acc": 39,
+    "sapm": 3.63,
+    "str_def": 56,
+    "td_avg": 1.94,
+    "td_acc": 17,
+    "td_def": 80,
+    "sub_avg": 0.3
+  }
+}

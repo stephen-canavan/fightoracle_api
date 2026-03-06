@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9785420602b452f7",
+  "ufcstats_event_id": "dab0e6cb8c932162",
+  "ufcstats_fighter_red_id": "c03520b5c88ed6b4",
+  "ufcstats_fighter_blue_id": "056c493bbd76a918",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jonathan Romero",
+  "ufcstats_winner_id": "c03520b5c88ed6b4",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Raphael  Davis",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Chris Leben",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 74,
+      "attempted": 172
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 167,
+      "attempted": 273
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 11
+    },
+    "takedown_pct": 45,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "4:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 128
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 34
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 51,
+        "attempted": 134
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 24
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 14
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 29,
+      "attempted": 78
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 54,
+      "attempted": 106
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 7
+    },
+    "takedown_pct": 14,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 54
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 68
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

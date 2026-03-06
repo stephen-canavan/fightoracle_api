@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "8b258bbb37f74a66",
+  "ufcstats_event_id": "4a01dc8376736ef5",
+  "ufcstats_fighter_red_id": "a54a35a670d8e852",
+  "ufcstats_fighter_blue_id": "4dc496aa0cfc0d95",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 2,
+  "time": "3:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "a54a35a670d8e852",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "card_position": 8
+}

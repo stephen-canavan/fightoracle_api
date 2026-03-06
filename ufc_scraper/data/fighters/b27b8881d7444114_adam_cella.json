@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b27b8881d7444114",
+  "fname": "Adam",
+  "sname": "Cella",
+  "record": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Naturel",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-06-26",
+  "career_stats": {
+    "slpm": 1.91,
+    "str_acc": 42,
+    "sapm": 2.61,
+    "str_def": 51,
+    "td_avg": 3.92,
+    "td_acc": 75,
+    "td_def": 50,
+    "sub_avg": 1.3
+  }
+}

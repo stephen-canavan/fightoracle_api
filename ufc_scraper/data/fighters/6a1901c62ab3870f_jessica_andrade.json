@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6a1901c62ab3870f",
+  "fname": "Jessica",
+  "sname": "Andrade",
+  "record": {
+    "wins": 26,
+    "losses": 15,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bate Estaca",
+  "height_cm": 154.9,
+  "weight_lbs": 115,
+  "reach_cm": 157.5,
+  "stance": "Orthodox",
+  "dob": "1991-09-25",
+  "career_stats": {
+    "slpm": 6.37,
+    "str_acc": 48,
+    "sapm": 5.58,
+    "str_def": 54,
+    "td_avg": 2.1,
+    "td_acc": 54,
+    "td_def": 75,
+    "sub_avg": 0.3
+  }
+}

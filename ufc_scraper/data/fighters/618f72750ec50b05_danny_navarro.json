@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "618f72750ec50b05",
+  "fname": "Danny",
+  "sname": "Navarro",
+  "record": {
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1983-05-27",
+  "career_stats": {
+    "slpm": 3.83,
+    "str_acc": 32,
+    "sapm": 4.62,
+    "str_def": 57,
+    "td_avg": 2.17,
+    "td_acc": 25,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

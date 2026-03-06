@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f2900678e98f6d6a",
+  "fname": "Ronaldo",
+  "sname": "Rodriguez",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Lazy Boy",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1999-05-07",
+  "career_stats": {
+    "slpm": 2.71,
+    "str_acc": 43,
+    "sapm": 3.8,
+    "str_def": 44,
+    "td_avg": 1.09,
+    "td_acc": 36,
+    "td_def": 64,
+    "sub_avg": 0.8
+  }
+}

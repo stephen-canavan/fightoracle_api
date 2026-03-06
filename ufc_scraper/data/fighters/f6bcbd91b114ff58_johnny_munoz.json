@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f6bcbd91b114ff58",
+  "fname": "Johnny",
+  "sname": "Munoz",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kid Kvenbo",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1993-02-16",
+  "career_stats": {
+    "slpm": 2.44,
+    "str_acc": 36,
+    "sapm": 2.66,
+    "str_def": 55,
+    "td_avg": 2.4,
+    "td_acc": 25,
+    "td_def": 45,
+    "sub_avg": 1.8
+  }
+}

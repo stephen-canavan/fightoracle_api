@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7aa3d6964eff4877",
+  "fname": "Alex",
+  "sname": "Caceres",
+  "record": {
+    "wins": 21,
+    "losses": 15,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bruce Leeroy",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Southpaw",
+  "dob": "1988-06-20",
+  "career_stats": {
+    "slpm": 4.21,
+    "str_acc": 49,
+    "sapm": 3.09,
+    "str_def": 62,
+    "td_avg": 0.54,
+    "td_acc": 68,
+    "td_def": 64,
+    "sub_avg": 0.7
+  }
+}

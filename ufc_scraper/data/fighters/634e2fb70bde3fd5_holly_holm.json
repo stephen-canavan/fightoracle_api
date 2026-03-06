@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "634e2fb70bde3fd5",
+  "fname": "Holly",
+  "sname": "Holm",
+  "record": {
+    "wins": 15,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Preacher's Daughter",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1981-10-17",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 40,
+    "sapm": 2.92,
+    "str_def": 55,
+    "td_avg": 0.87,
+    "td_acc": 30,
+    "td_def": 76,
+    "sub_avg": 0.1
+  }
+}

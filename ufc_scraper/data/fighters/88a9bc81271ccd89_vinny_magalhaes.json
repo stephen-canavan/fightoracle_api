@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "88a9bc81271ccd89",
+  "fname": "Vinny",
+  "sname": "Magalhaes",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pezao",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1984-07-02",
+  "career_stats": {
+    "slpm": 2.14,
+    "str_acc": 24,
+    "sapm": 3.97,
+    "str_def": 68,
+    "td_avg": 1.55,
+    "td_acc": 44,
+    "td_def": 66,
+    "sub_avg": 0.8
+  }
+}

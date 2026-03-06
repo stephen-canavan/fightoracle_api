@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9ccf8371fd80d45d",
+  "fname": "Luan",
+  "sname": "Chagas",
+  "record": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Tarzan",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-06-17",
+  "career_stats": {
+    "slpm": 4.16,
+    "str_acc": 47,
+    "sapm": 3.19,
+    "str_def": 62,
+    "td_avg": 0.32,
+    "td_acc": 12,
+    "td_def": 85,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "53c943c873cffe90",
+  "fname": "Philipe",
+  "sname": "Lins",
+  "record": {
+    "wins": 18,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Monstro",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1985-08-17",
+  "career_stats": {
+    "slpm": 3.8,
+    "str_acc": 49,
+    "sapm": 3.59,
+    "str_def": 46,
+    "td_avg": 1.65,
+    "td_acc": 33,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

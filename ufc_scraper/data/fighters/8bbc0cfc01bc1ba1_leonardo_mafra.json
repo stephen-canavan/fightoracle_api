@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8bbc0cfc01bc1ba1",
+  "fname": "Leonardo",
+  "sname": "Mafra",
+  "record": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Macarrao",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1989-04-25",
+  "career_stats": {
+    "slpm": 4.55,
+    "str_acc": 48,
+    "sapm": 4.38,
+    "str_def": 43,
+    "td_avg": 2.12,
+    "td_acc": 83,
+    "td_def": 69,
+    "sub_avg": 0.4
+  }
+}

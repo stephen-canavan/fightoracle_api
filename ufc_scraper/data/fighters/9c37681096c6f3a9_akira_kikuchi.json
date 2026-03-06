@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9c37681096c6f3a9",
+  "fname": "Akira",
+  "sname": "Kikuchi",
+  "record": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1978-07-23",
+  "career_stats": {
+    "slpm": 3.67,
+    "str_acc": 56,
+    "sapm": 0.4,
+    "str_def": 14,
+    "td_avg": 2.0,
+    "td_acc": 40,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

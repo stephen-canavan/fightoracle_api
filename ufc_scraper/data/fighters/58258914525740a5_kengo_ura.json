@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "58258914525740a5",
+  "fname": "Kengo",
+  "sname": "Ura",
+  "record": {
+    "wins": 14,
+    "losses": 12,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Uraken",
+  "height_cm": 175.3,
+  "weight_lbs": 165,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1981-06-20",
+  "career_stats": {
+    "slpm": 1.05,
+    "str_acc": 37,
+    "sapm": 2.38,
+    "str_def": 48,
+    "td_avg": 2.85,
+    "td_acc": 28,
+    "td_def": 50,
+    "sub_avg": 1.4
+  }
+}

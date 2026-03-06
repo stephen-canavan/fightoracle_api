@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "49c7236c737d7e59",
+  "fname": "Chance",
+  "sname": "Farrar",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1975-09-11",
+  "career_stats": {
+    "slpm": 0.81,
+    "str_acc": 22,
+    "sapm": 2.21,
+    "str_def": 67,
+    "td_avg": 3.02,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

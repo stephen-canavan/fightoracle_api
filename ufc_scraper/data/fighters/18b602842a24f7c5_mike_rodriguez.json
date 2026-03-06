@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "18b602842a24f7c5",
+  "fname": "Mike",
+  "sname": "Rodriguez",
+  "record": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Slo Mike",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 208.3,
+  "stance": "Southpaw",
+  "dob": "1988-11-28",
+  "career_stats": {
+    "slpm": 4.35,
+    "str_acc": 53,
+    "sapm": 4.24,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 37,
+    "sub_avg": 0.0
+  }
+}

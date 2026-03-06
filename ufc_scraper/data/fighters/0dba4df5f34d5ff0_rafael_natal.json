@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0dba4df5f34d5ff0",
+  "fname": "Rafael",
+  "sname": "Natal",
+  "record": {
+    "wins": 21,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sapo",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1982-12-25",
+  "career_stats": {
+    "slpm": 3.1,
+    "str_acc": 47,
+    "sapm": 2.48,
+    "str_def": 57,
+    "td_avg": 2.55,
+    "td_acc": 34,
+    "td_def": 77,
+    "sub_avg": 0.5
+  }
+}

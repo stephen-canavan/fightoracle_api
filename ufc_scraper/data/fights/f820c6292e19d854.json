@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "f820c6292e19d854",
+  "ufcstats_event_id": "8d5daf67983b65ba",
+  "ufcstats_fighter_red_id": "0d980975001ae3d8",
+  "ufcstats_fighter_blue_id": "7279654c7674cd24",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "0d980975001ae3d8",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Howard Hughes",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Lukasz Bosacki",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Paul Sutherland",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 64,
+      "attempted": 138
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 82,
+      "attempted": 158
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 59
+      },
+      "body": {
+        "landed": 23,
+        "attempted": 34
+      },
+      "leg": {
+        "landed": 31,
+        "attempted": 45
+      },
+      "distance": {
+        "landed": 64,
+        "attempted": 138
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 78
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 95
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:45",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 48
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 14,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 76
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 6
+}

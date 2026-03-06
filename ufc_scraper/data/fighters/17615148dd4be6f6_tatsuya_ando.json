@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "17615148dd4be6f6",
+  "fname": "Tatsuya",
+  "sname": "Ando",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kirinji",
+  "height_cm": 162.6,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1990-04-26",
+  "career_stats": {
+    "slpm": 0.93,
+    "str_acc": 19,
+    "sapm": 4.93,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

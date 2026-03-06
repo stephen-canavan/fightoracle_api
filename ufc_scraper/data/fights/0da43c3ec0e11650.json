@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0da43c3ec0e11650",
+  "ufcstats_event_id": "7cf20446453f852b",
+  "ufcstats_fighter_red_id": "cc900af167fbedfd",
+  "ufcstats_fighter_blue_id": "ac29d508d78384c9",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Osiris Maia",
+  "ufcstats_winner_id": "cc900af167fbedfd",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Phillipe Iorio",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Marcos Rosales",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Joseph Terrell",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 146
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 139,
+      "attempted": 217
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 6
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 42,
+        "attempted": 102
+      },
+      "body": {
+        "landed": 25,
+        "attempted": 32
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 23,
+        "attempted": 80
+      },
+      "clinch": {
+        "landed": 54,
+        "attempted": 66
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 59,
+      "attempted": 87
+    },
+    "sig_strikes_pct": 67,
+    "total_strikes": {
+      "landed": 89,
+      "attempted": 119
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:04",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 40,
+        "attempted": 67
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 51
+      },
+      "clinch": {
+        "landed": 32,
+        "attempted": 36
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

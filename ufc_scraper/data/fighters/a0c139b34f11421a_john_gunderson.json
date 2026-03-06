@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a0c139b34f11421a",
+  "fname": "John",
+  "sname": "Gunderson",
+  "record": {
+    "wins": 35,
+    "losses": 16,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quick Guns",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1979-01-05",
+  "career_stats": {
+    "slpm": 1.04,
+    "str_acc": 27,
+    "sapm": 1.71,
+    "str_def": 58,
+    "td_avg": 1.67,
+    "td_acc": 33,
+    "td_def": 11,
+    "sub_avg": 2.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ed9d8ee3a4239b1c",
+  "fname": "Sage",
+  "sname": "Northcutt",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Super",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1996-03-01",
+  "career_stats": {
+    "slpm": 3.58,
+    "str_acc": 52,
+    "sapm": 1.96,
+    "str_def": 58,
+    "td_avg": 1.81,
+    "td_acc": 34,
+    "td_def": 41,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "88c8f47241d90040",
+  "fname": "John",
+  "sname": "Halverson",
+  "record": {
+    "wins": 16,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hurricane",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1972-09-08",
+  "career_stats": {
+    "slpm": 2.94,
+    "str_acc": 43,
+    "sapm": 5.29,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 66,
+    "sub_avg": 2.0
+  }
+}

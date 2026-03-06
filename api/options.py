@@ -11,6 +11,7 @@ class Promotions(models.TextChoices):
 
 ## Fights
 class WeightClass(models.TextChoices):
+    UNKNOWN = "UNKNOWN", "Unknown"
     STRAWWEIGHT = "SW", "Strawweight"
     FLYWEIGHT = "FLY", "Flyweight"
     BANTAMWEIGHT = "BW", "Bantamweight"
@@ -37,14 +38,22 @@ class EventStatus(models.TextChoices):
 
 
 class Method(models.TextChoices):
-    FINISH = "FINISH"
-    KOTKO = "KO/TKO"
-    DEC = "DEC"
-    SPLIT = "DEC-SPLIT"
-    SUB = "SUB"
     KO = "KO"
+    TKO = "TKO"
+    KOTKO = "KO/TKO"
+    SUB = "SUB"
+    DEC = "DEC"
+    DEC_U = "DEC-U"
+    DEC_MAJ = "DEC-MAJ"
+    DEC_SPLIT = "DEC-SPLIT"
+    DRAW = "DRAW"
+    DRAW_U = "DRAW-U"
+    DRAW_MAJ = "DRAW-MAJ"
+    DRAW_SPLIT = "DRAW-SPLIT"
     DQ = "DQ"
-    NOC = "NC"
+    NC = "NC"
+    FINISH = "FINISH"
+    UNKNOWN = "UNKNOWN"
 
 
 class Bookmaker(models.TextChoices):

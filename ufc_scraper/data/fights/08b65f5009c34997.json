@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "08b65f5009c34997",
+  "ufcstats_event_id": "20e403a1acfef130",
+  "ufcstats_fighter_red_id": "ad56b3f00ca38dfd",
+  "ufcstats_fighter_blue_id": "f86cb5f25d545e0e",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Chris Tognoni",
+  "ufcstats_winner_id": "ad56b3f00ca38dfd",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Dave Hagen",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Jeff Mullen",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 92,
+      "attempted": 167
+    },
+    "sig_strikes_pct": 55,
+    "total_strikes": {
+      "landed": 100,
+      "attempted": 176
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:13",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 50,
+        "attempted": 111
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 40
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 16
+      },
+      "distance": {
+        "landed": 74,
+        "attempted": 142
+      },
+      "clinch": {
+        "landed": 18,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 51,
+      "attempted": 136
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 74,
+      "attempted": 160
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:03",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 33,
+        "attempted": 113
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 123
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

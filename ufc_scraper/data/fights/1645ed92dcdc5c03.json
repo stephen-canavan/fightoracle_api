@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1645ed92dcdc5c03",
+  "ufcstats_event_id": "686cccbf1a4de453",
+  "ufcstats_fighter_red_id": "bf7ad5628363eec9",
+  "ufcstats_fighter_blue_id": "ba5e253af86db1a8",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "bf7ad5628363eec9",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Marcos Rosales",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 94,
+      "attempted": 160
+    },
+    "sig_strikes_pct": 58,
+    "total_strikes": {
+      "landed": 124,
+      "attempted": 194
+    },
+    "takedowns": {
+      "landed": 8,
+      "attempted": 12
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 74,
+        "attempted": 135
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 18
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 49,
+        "attempted": 91
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 36,
+        "attempted": 50
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 60,
+      "attempted": 152
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 78,
+      "attempted": 177
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 41,
+        "attempted": 127
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 53,
+        "attempted": 135
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 10
+}

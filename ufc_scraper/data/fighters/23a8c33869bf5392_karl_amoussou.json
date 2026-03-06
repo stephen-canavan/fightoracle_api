@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "23a8c33869bf5392",
+  "fname": "Karl",
+  "sname": "Amoussou",
+  "record": {
+    "wins": 27,
+    "losses": 7,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Psycho",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1985-11-21",
+  "career_stats": {
+    "slpm": 1.47,
+    "str_acc": 34,
+    "sapm": 2.67,
+    "str_def": 54,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 1.0
+  }
+}

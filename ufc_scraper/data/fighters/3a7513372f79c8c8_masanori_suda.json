@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3a7513372f79c8c8",
+  "fname": "Masanori",
+  "sname": "Suda",
+  "record": {
+    "wins": 22,
+    "losses": 11,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.8,
+    "str_acc": 50,
+    "sapm": 1.2,
+    "str_def": 63,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

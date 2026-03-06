@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d761b3766e38c5db",
+  "fname": "Marcel",
+  "sname": "Fortuna",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1985-10-22",
+  "career_stats": {
+    "slpm": 3.83,
+    "str_acc": 46,
+    "sapm": 4.52,
+    "str_def": 64,
+    "td_avg": 0.45,
+    "td_acc": 8,
+    "td_def": 75,
+    "sub_avg": 0.5
+  }
+}

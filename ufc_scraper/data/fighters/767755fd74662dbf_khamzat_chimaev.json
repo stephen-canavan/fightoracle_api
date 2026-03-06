@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "767755fd74662dbf",
+  "fname": "Khamzat",
+  "sname": "Chimaev",
+  "record": {
+    "wins": 15,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Borz",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1994-05-01",
+  "career_stats": {
+    "slpm": 4.04,
+    "str_acc": 60,
+    "sapm": 2.32,
+    "str_def": 43,
+    "td_avg": 5.29,
+    "td_acc": 55,
+    "td_def": 85,
+    "sub_avg": 1.8
+  }
+}

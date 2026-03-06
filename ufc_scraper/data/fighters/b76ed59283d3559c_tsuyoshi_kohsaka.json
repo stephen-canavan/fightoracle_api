@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b76ed59283d3559c",
+  "fname": "Tsuyoshi",
+  "sname": "Kohsaka",
+  "record": {
+    "wins": 27,
+    "losses": 19,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "TK",
+  "height_cm": 180.3,
+  "weight_lbs": 225,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-03-06",
+  "career_stats": {
+    "slpm": 1.88,
+    "str_acc": 38,
+    "sapm": 4.41,
+    "str_def": 54,
+    "td_avg": 1.32,
+    "td_acc": 20,
+    "td_def": 33,
+    "sub_avg": 0.4
+  }
+}

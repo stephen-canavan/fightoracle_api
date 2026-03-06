@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "95aff2fd8d09a5f0",
+  "fname": "Abdul",
+  "sname": "Rakhman Yakhyaev",
+  "record": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hunter",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "2001-01-03",
+  "career_stats": {
+    "slpm": 20.95,
+    "str_acc": 78,
+    "sapm": 0.95,
+    "str_def": 75,
+    "td_avg": 14.29,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 14.3
+  }
+}

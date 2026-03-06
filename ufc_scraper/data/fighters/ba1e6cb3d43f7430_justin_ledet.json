@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ba1e6cb3d43f7430",
+  "fname": "Justin",
+  "sname": "Ledet",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Blanco",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1988-09-28",
+  "career_stats": {
+    "slpm": 3.35,
+    "str_acc": 39,
+    "sapm": 4.82,
+    "str_def": 49,
+    "td_avg": 0.23,
+    "td_acc": 50,
+    "td_def": 42,
+    "sub_avg": 0.2
+  }
+}

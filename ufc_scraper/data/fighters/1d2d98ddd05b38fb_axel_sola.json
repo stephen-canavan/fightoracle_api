@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1d2d98ddd05b38fb",
+  "fname": "Axel",
+  "sname": "Sola",
+  "record": {
+    "wins": 11,
+    "losses": 0,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 155,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1997-09-17",
+  "career_stats": {
+    "slpm": 3.74,
+    "str_acc": 42,
+    "sapm": 2.74,
+    "str_def": 75,
+    "td_avg": 1.25,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

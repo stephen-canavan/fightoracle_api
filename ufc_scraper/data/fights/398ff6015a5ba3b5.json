@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "398ff6015a5ba3b5",
+  "ufcstats_event_id": "6ceff86fae4f6b3b",
+  "ufcstats_fighter_red_id": "b361180739bed4b0",
+  "ufcstats_fighter_blue_id": "0e9869d712e81f8f",
+  "method": "Submission",
+  "method_details": "Forearm Choke From Half Guard",
+  "round": 1,
+  "time": "2:06",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "b361180739bed4b0",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 8,
+      "attempted": 9
+    },
+    "sig_strikes_pct": 88,
+    "total_strikes": {
+      "landed": 16,
+      "attempted": 17
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "--",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 9
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "sig_strikes_pct": 0,
+    "total_strikes": {
+      "landed": 3,
+      "attempted": 5
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "--",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

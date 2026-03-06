@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "673ed36fa5c12d5f",
+  "ufcstats_event_id": "883922e5cd6d8473",
+  "ufcstats_fighter_red_id": "4c2d90e335e6df19",
+  "ufcstats_fighter_blue_id": "a78a87d8c2bbb1cb",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "4c2d90e335e6df19",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 85,
+      "attempted": 120
+    },
+    "sig_strikes_pct": 70,
+    "total_strikes": {
+      "landed": 171,
+      "attempted": 218
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "9:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 55,
+        "attempted": 86
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 21,
+        "attempted": 22
+      },
+      "distance": {
+        "landed": 41,
+        "attempted": 64
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 43,
+        "attempted": 55
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 56,
+      "attempted": 113
+    },
+    "sig_strikes_pct": 49,
+    "total_strikes": {
+      "landed": 93,
+      "attempted": 154
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 3,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 40,
+        "attempted": 94
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 51,
+        "attempted": 108
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 10
+}

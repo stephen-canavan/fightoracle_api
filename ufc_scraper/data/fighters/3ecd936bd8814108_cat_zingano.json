@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3ecd936bd8814108",
+  "fname": "Cat",
+  "sname": "Zingano",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Alpha",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1982-07-01",
+  "career_stats": {
+    "slpm": 2.57,
+    "str_acc": 61,
+    "sapm": 1.63,
+    "str_def": 47,
+    "td_avg": 2.77,
+    "td_acc": 65,
+    "td_def": 42,
+    "sub_avg": 0.8
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b07aed698fba8624",
+  "fname": "Ikram",
+  "sname": "Aliskerov",
+  "record": {
+    "wins": 17,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Southpaw",
+  "dob": "1992-12-07",
+  "career_stats": {
+    "slpm": 6.86,
+    "str_acc": 64,
+    "sapm": 5.47,
+    "str_def": 41,
+    "td_avg": 3.2,
+    "td_acc": 60,
+    "td_def": 100,
+    "sub_avg": 0.5
+  }
+}

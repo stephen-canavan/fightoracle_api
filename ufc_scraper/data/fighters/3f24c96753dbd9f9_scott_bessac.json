@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3f24c96753dbd9f9",
+  "fname": "Scott",
+  "sname": "Bessac",
+  "record": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 245,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1965-10-05",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

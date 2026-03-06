@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "19ba965651486013",
+  "fname": "Derek",
+  "sname": "Anderson",
+  "record": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Barbaric",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1990-02-02",
+  "career_stats": {
+    "slpm": 3.97,
+    "str_acc": 37,
+    "sapm": 3.08,
+    "str_def": 61,
+    "td_avg": 0.34,
+    "td_acc": 14,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

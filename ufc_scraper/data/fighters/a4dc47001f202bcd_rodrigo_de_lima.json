@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a4dc47001f202bcd",
+  "fname": "Rodrigo",
+  "sname": "de Lima",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Monstro",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1991-03-12",
+  "career_stats": {
+    "slpm": 1.29,
+    "str_acc": 33,
+    "sapm": 5.5,
+    "str_def": 32,
+    "td_avg": 2.66,
+    "td_acc": 36,
+    "td_def": 0,
+    "sub_avg": 1.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6370c1c1e12723d5",
+  "fname": "Marcin",
+  "sname": "Prachnio",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1988-07-14",
+  "career_stats": {
+    "slpm": 5.52,
+    "str_acc": 54,
+    "sapm": 3.15,
+    "str_def": 54,
+    "td_avg": 0.14,
+    "td_acc": 20,
+    "td_def": 53,
+    "sub_avg": 0.0
+  }
+}

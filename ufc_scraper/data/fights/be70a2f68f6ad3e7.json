@@ -1,0 +1,123 @@
+{
+  "ufcstats_fight_id": "be70a2f68f6ad3e7",
+  "ufcstats_event_id": "83c6c3e0f8bde8ee",
+  "ufcstats_fighter_red_id": "7aa3d6964eff4877",
+  "ufcstats_fighter_blue_id": "a7897d200692ab64",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Caceres",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Chris Watts",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Charlie Keech",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 56
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 80,
+      "attempted": 112
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 3,
+    "control_time": "4:55",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 42
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 10,
+        "attempted": 30
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 19,
+        "attempted": 25
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 16,
+      "attempted": 43
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 33,
+      "attempted": 69
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 9
+    },
+    "takedown_pct": 55,
+    "submission_attempts": 0,
+    "reversals": 2,
+    "control_time": "6:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 35
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 35
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 7
+      }
+    }
+  },
+  "card_position": 10
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ddbe4fa2ea573393",
+  "fname": "Jimmy",
+  "sname": "Quinlan",
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Crash",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1986-05-25",
+  "career_stats": {
+    "slpm": 2.08,
+    "str_acc": 70,
+    "sapm": 5.94,
+    "str_def": 16,
+    "td_avg": 4.46,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

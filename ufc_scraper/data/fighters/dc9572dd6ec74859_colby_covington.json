@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dc9572dd6ec74859",
+  "fname": "Colby",
+  "sname": "Covington",
+  "record": {
+    "wins": 17,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Chaos",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1988-02-22",
+  "career_stats": {
+    "slpm": 3.81,
+    "str_acc": 38,
+    "sapm": 3.09,
+    "str_def": 54,
+    "td_avg": 3.64,
+    "td_acc": 42,
+    "td_def": 68,
+    "sub_avg": 0.2
+  }
+}

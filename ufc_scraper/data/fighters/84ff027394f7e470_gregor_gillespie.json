@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "84ff027394f7e470",
+  "fname": "Gregor",
+  "sname": "Gillespie",
+  "record": {
+    "wins": 14,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gift",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1986-11-13",
+  "career_stats": {
+    "slpm": 3.74,
+    "str_acc": 52,
+    "sapm": 2.3,
+    "str_def": 57,
+    "td_avg": 6.86,
+    "td_acc": 48,
+    "td_def": 100,
+    "sub_avg": 0.8
+  }
+}

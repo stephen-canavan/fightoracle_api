@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b47c9ea5f2895d6e",
+  "fname": "Cam",
+  "sname": "Teague",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Chaos",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1998-02-13",
+  "career_stats": {
+    "slpm": 5.7,
+    "str_acc": 28,
+    "sapm": 18.44,
+    "str_def": 32,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "64facb6cc564262d",
+  "fname": "Punahele",
+  "sname": "Soriano",
+  "record": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Puna",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Southpaw",
+  "dob": "1992-11-22",
+  "career_stats": {
+    "slpm": 4.42,
+    "str_acc": 53,
+    "sapm": 3.31,
+    "str_def": 47,
+    "td_avg": 1.97,
+    "td_acc": 51,
+    "td_def": 48,
+    "sub_avg": 0.1
+  }
+}

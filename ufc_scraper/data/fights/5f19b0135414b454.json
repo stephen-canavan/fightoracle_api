@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5f19b0135414b454",
+  "ufcstats_event_id": "eed2b71d77d95416",
+  "ufcstats_fighter_red_id": "1e1dbd1cc5a7469e",
+  "ufcstats_fighter_blue_id": "99df7d0a2a08a8a8",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "99df7d0a2a08a8a8",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Howard Hughes",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Maciej Motylewski",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "David Lethaby",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 37,
+      "attempted": 110
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 37,
+      "attempted": 110
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 79
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 104
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 97,
+      "attempted": 191
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 124,
+      "attempted": 219
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 6
+    },
+    "takedown_pct": 16,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 81,
+        "attempted": 171
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 88,
+        "attempted": 178
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 2
+}

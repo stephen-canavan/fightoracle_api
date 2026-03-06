@@ -97,23 +97,26 @@ class EventScraper(BaseScraper):
             return date_str
     
     def scrape_event_fights(self, event_id):
-        """Scrape all fight IDs for a specific event."""
+        """Scrape all fight IDs for a specific event with their card positions."""
         soup = self.fetch_page(self.build_url(f"/event-details/{event_id}"))
-        fight_ids = []
+        fights = []
         
         table = soup.find('table')
         if not table:
-            return fight_ids
+            return fights
         
         rows = table.find('tbody').find_all('tr', class_='b-fight-details__table-row')
-        for row in rows:
+        for position, row in enumerate(rows, start=1):
             link = row.get('data-link')
             if link:
                 fight_id = link.split('/')[-1]
-                fight_ids.append(fight_id)
+                fights.append({
+                    'fight_id': fight_id,
+                    'card_position': position
+                })
         
-        logger.info(f"Found {len(fight_ids)} fights for event {event_id}")
-        return fight_ids
+        logger.info(f"Found {len(fights)} fights for event {event_id}")
+        return fights
     
     def scrape_event(self, event_id):
         """Scrape a single event by ID."""

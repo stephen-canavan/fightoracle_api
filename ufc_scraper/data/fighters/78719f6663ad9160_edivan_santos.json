@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "78719f6663ad9160",
+  "fname": "Edivan",
+  "sname": "Santos",
+  "record": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pe De Sapo",
+  "height_cm": 193.0,
+  "weight_lbs": 248,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1992-05-03",
+  "career_stats": {
+    "slpm": 1.55,
+    "str_acc": 48,
+    "sapm": 7.09,
+    "str_def": 26,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 0.0
+  }
+}

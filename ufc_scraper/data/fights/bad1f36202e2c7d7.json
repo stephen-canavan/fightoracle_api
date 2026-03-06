@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "bad1f36202e2c7d7",
+  "ufcstats_event_id": "58bc81376286b3d3",
+  "ufcstats_fighter_red_id": "8a59d346dc976a10",
+  "ufcstats_fighter_blue_id": "6fb1ba67bef41b37",
+  "method": "DRAW-MAJ",
+  "method_details": "Point Deducted: Kicks to Groin by Tavares",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mario Yamasaki",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Cardo Urso",
+      "red": 29,
+      "blue": 27
+    }
+  ],
+  "ufcstats_winner_id": null,
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 55,
+      "attempted": 146
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 73,
+      "attempted": 164
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 6
+    },
+    "takedown_pct": 16,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:46",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 38,
+        "attempted": 122
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 46,
+        "attempted": 133
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 71,
+      "attempted": 206
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 95,
+      "attempted": 231
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 13
+    },
+    "takedown_pct": 30,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 36,
+        "attempted": 162
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 17,
+        "attempted": 20
+      },
+      "distance": {
+        "landed": 60,
+        "attempted": 180
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 24
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 7
+}

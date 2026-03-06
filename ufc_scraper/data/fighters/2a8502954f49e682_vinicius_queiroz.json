@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2a8502954f49e682",
+  "fname": "Vinicius",
+  "sname": "Queiroz",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Spartan",
+  "height_cm": 200.7,
+  "weight_lbs": 220,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-08-29",
+  "career_stats": {
+    "slpm": 3.67,
+    "str_acc": 51,
+    "sapm": 4.1,
+    "str_def": 41,
+    "td_avg": 5.07,
+    "td_acc": 70,
+    "td_def": 100,
+    "sub_avg": 0.7
+  }
+}

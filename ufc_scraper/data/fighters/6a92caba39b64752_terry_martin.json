@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6a92caba39b64752",
+  "fname": "Terry",
+  "sname": "Martin",
+  "record": {
+    "wins": 23,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 185,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1980-10-10",
+  "career_stats": {
+    "slpm": 2.82,
+    "str_acc": 43,
+    "sapm": 3.13,
+    "str_def": 54,
+    "td_avg": 3.1,
+    "td_acc": 42,
+    "td_def": 92,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "27c59ac201539d10",
+  "fname": "Sanford",
+  "sname": "Alton Meeks",
+  "record": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 195.6,
+  "weight_lbs": 265,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1994-04-05",
+  "career_stats": {
+    "slpm": 0.71,
+    "str_acc": 42,
+    "sapm": 4.47,
+    "str_def": 38,
+    "td_avg": 7.06,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

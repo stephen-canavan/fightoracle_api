@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "879f6cae48d25baa",
+  "fname": "Justin",
+  "sname": "Lawrence",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The American Kidd",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1990-05-15",
+  "career_stats": {
+    "slpm": 3.84,
+    "str_acc": 35,
+    "sapm": 2.83,
+    "str_def": 67,
+    "td_avg": 0.72,
+    "td_acc": 28,
+    "td_def": 73,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5ef0088c1b19beeb",
+  "fname": "Bryan",
+  "sname": "Caraway",
+  "record": {
+    "wins": 21,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kid Lightning",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1984-08-04",
+  "career_stats": {
+    "slpm": 2.53,
+    "str_acc": 34,
+    "sapm": 3.61,
+    "str_def": 54,
+    "td_avg": 2.57,
+    "td_acc": 25,
+    "td_def": 80,
+    "sub_avg": 0.8
+  }
+}

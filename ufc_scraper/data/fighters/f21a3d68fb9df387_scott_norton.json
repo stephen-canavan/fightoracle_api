@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f21a3d68fb9df387",
+  "fname": "Scott",
+  "sname": "Norton",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hollywood",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1973-03-15",
+  "career_stats": {
+    "slpm": 0.67,
+    "str_acc": 30,
+    "sapm": 0.34,
+    "str_def": 60,
+    "td_avg": 2.52,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c22f4a7540cffdda",
+  "ufcstats_event_id": "31ceaf0e670c1578",
+  "ufcstats_fighter_red_id": "ee779c43a8926d52",
+  "ufcstats_fighter_blue_id": "4908c5ee68a50ee5",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "ee779c43a8926d52",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter 2 Heavyweight Tournament",
+  "scorecards": [
+    {
+      "judge": "Tony Weeks",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Abe Belardo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Nelson Hamilton",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 2,
+    "sig_strikes": {
+      "landed": 48,
+      "attempted": 96
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 53,
+      "attempted": 103
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 46,
+        "attempted": 94
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 33,
+        "attempted": 72
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 14
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 164
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 45,
+      "attempted": 168
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:35",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 34,
+        "attempted": 149
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 124
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 36
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 2
+}

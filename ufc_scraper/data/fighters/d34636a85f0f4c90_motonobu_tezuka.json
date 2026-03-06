@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d34636a85f0f4c90",
+  "fname": "Motonobu",
+  "sname": "Tezuka",
+  "record": {
+    "wins": 28,
+    "losses": 12,
+    "draws": 7,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1987-08-29",
+  "career_stats": {
+    "slpm": 0.87,
+    "str_acc": 23,
+    "sapm": 2.8,
+    "str_def": 51,
+    "td_avg": 1.5,
+    "td_acc": 11,
+    "td_def": 0,
+    "sub_avg": 0.5
+  }
+}

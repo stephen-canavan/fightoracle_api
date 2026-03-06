@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d8c811df0386d5e8",
+  "fname": "Rinya",
+  "sname": "Nakamura",
+  "record": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hybred",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1995-03-23",
+  "career_stats": {
+    "slpm": 3.27,
+    "str_acc": 52,
+    "sapm": 1.72,
+    "str_def": 63,
+    "td_avg": 2.58,
+    "td_acc": 81,
+    "td_def": 100,
+    "sub_avg": 1.4
+  }
+}

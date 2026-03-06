@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "263ebd4a669e1e98",
+  "fname": "Fabiano",
+  "sname": "Iha",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-07-28",
+  "career_stats": {
+    "slpm": 1.73,
+    "str_acc": 47,
+    "sapm": 2.49,
+    "str_def": 42,
+    "td_avg": 2.88,
+    "td_acc": 40,
+    "td_def": 50,
+    "sub_avg": 2.9
+  }
+}

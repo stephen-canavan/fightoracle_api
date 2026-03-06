@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "202b0467521c9d6f",
+  "fname": "Viktor",
+  "sname": "Pesta",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 240,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1990-07-15",
+  "career_stats": {
+    "slpm": 1.58,
+    "str_acc": 36,
+    "sapm": 2.54,
+    "str_def": 56,
+    "td_avg": 3.29,
+    "td_acc": 28,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

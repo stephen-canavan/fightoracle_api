@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7c6e87729e824ef4",
+  "fname": "Ildemar",
+  "sname": "Alcantara",
+  "record": {
+    "wins": 21,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Marajo",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1982-11-18",
+  "career_stats": {
+    "slpm": 1.93,
+    "str_acc": 38,
+    "sapm": 2.63,
+    "str_def": 50,
+    "td_avg": 2.0,
+    "td_acc": 68,
+    "td_def": 81,
+    "sub_avg": 0.9
+  }
+}

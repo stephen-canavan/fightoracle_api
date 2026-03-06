@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "98aa60cf58071fd6",
+  "fname": "Kyoji",
+  "sname": "Horiguchi",
+  "record": {
+    "wins": 36,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Karate Kid",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1990-10-12",
+  "career_stats": {
+    "slpm": 3.77,
+    "str_acc": 47,
+    "sapm": 2.13,
+    "str_def": 63,
+    "td_avg": 1.61,
+    "td_acc": 40,
+    "td_def": 61,
+    "sub_avg": 0.1
+  }
+}

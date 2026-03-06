@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fc31f896cde2bc2e",
+  "fname": "John",
+  "sname": "Howard",
+  "record": {
+    "wins": 24,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Doomsday",
+  "height_cm": 170.2,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1983-03-01",
+  "career_stats": {
+    "slpm": 2.15,
+    "str_acc": 50,
+    "sapm": 3.08,
+    "str_def": 51,
+    "td_avg": 2.7,
+    "td_acc": 49,
+    "td_def": 53,
+    "sub_avg": 0.4
+  }
+}

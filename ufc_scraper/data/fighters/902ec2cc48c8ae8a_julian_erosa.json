@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "902ec2cc48c8ae8a",
+  "fname": "Julian",
+  "sname": "Erosa",
+  "record": {
+    "wins": 31,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Juicy J",
+  "height_cm": 185.4,
+  "weight_lbs": 145,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1989-07-31",
+  "career_stats": {
+    "slpm": 6.21,
+    "str_acc": 48,
+    "sapm": 6.27,
+    "str_def": 48,
+    "td_avg": 1.78,
+    "td_acc": 43,
+    "td_def": 61,
+    "sub_avg": 0.7
+  }
+}

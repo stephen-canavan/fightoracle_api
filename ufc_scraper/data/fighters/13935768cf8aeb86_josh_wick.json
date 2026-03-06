@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "13935768cf8aeb86",
+  "fname": "Josh",
+  "sname": "Wick",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The White Mamba",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Switch",
+  "dob": "1994-10-04",
+  "career_stats": {
+    "slpm": 0.65,
+    "str_acc": 60,
+    "sapm": 6.52,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

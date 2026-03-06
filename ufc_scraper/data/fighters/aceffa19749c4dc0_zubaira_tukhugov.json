@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aceffa19749c4dc0",
+  "fname": "Zubaira",
+  "sname": "Tukhugov",
+  "record": {
+    "wins": 20,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Warrior",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1991-01-15",
+  "career_stats": {
+    "slpm": 3.17,
+    "str_acc": 39,
+    "sapm": 3.07,
+    "str_def": 63,
+    "td_avg": 2.13,
+    "td_acc": 39,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

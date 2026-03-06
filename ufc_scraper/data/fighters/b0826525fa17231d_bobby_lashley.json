@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b0826525fa17231d",
+  "fname": "Bobby",
+  "sname": "Lashley",
+  "record": {
+    "wins": 15,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 255,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1976-07-16",
+  "career_stats": {
+    "slpm": 3.1,
+    "str_acc": 63,
+    "sapm": 0.76,
+    "str_def": 63,
+    "td_avg": 11.47,
+    "td_acc": 70,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

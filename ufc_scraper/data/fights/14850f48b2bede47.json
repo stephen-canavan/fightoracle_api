@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "14850f48b2bede47",
+  "ufcstats_event_id": "977081bc01197656",
+  "ufcstats_fighter_red_id": "7f955f71fa2ce7ac",
+  "ufcstats_fighter_blue_id": "817e0bdf08efce2e",
+  "method": "Decision - Unanimous",
+  "method_details": "Point Deducted: Illegal Elbows by Sakara",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "7f955f71fa2ce7ac",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Abe Belardo",
+      "red": 25,
+      "blue": 29
+    },
+    {
+      "judge": "Cecil Peoples",
+      "red": 26,
+      "blue": 29
+    },
+    {
+      "judge": "Jeff Mullen",
+      "red": 26,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 70,
+      "attempted": 146
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 146,
+      "attempted": 234
+    },
+    "takedowns": {
+      "landed": 9,
+      "attempted": 9
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "12:21",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 61,
+        "attempted": 136
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 42
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 47,
+        "attempted": 102
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 13,
+      "attempted": 37
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 151,
+      "attempted": 185
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:13",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 25
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 35
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

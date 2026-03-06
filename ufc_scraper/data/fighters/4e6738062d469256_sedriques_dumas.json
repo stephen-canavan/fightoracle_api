@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4e6738062d469256",
+  "fname": "Sedriques",
+  "sname": "Dumas",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Reaper",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1995-08-06",
+  "career_stats": {
+    "slpm": 2.0,
+    "str_acc": 44,
+    "sapm": 2.41,
+    "str_def": 55,
+    "td_avg": 1.34,
+    "td_acc": 31,
+    "td_def": 33,
+    "sub_avg": 0.2
+  }
+}

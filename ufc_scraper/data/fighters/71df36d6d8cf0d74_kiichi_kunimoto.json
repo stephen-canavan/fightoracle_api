@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "71df36d6d8cf0d74",
+  "fname": "Kiichi",
+  "sname": "Kunimoto",
+  "record": {
+    "wins": 18,
+    "losses": 7,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Strasser",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1981-05-01",
+  "career_stats": {
+    "slpm": 1.87,
+    "str_acc": 44,
+    "sapm": 3.92,
+    "str_def": 41,
+    "td_avg": 1.59,
+    "td_acc": 20,
+    "td_def": 28,
+    "sub_avg": 0.3
+  }
+}

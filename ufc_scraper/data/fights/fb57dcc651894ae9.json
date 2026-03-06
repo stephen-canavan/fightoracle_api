@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "fb57dcc651894ae9",
+  "ufcstats_event_id": "8377c5572cb356f3",
+  "ufcstats_fighter_red_id": "7c35f869033901ae",
+  "ufcstats_fighter_blue_id": "f1f9e48a0d150757",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "7c35f869033901ae",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Howard Hughes",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 124,
+      "attempted": 242
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 187,
+      "attempted": 310
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 6
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:36",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 86,
+        "attempted": 190
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 23,
+        "attempted": 31
+      },
+      "distance": {
+        "landed": 99,
+        "attempted": 193
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 37
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 12
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 47,
+      "attempted": 148
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 49,
+      "attempted": 151
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:12",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 29,
+        "attempted": 112
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 28
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 33,
+        "attempted": 125
+      },
+      "clinch": {
+        "landed": 14,
+        "attempted": 23
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

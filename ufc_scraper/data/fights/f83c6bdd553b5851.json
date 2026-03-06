@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "f83c6bdd553b5851",
+  "ufcstats_event_id": "354808cf38d9d73c",
+  "ufcstats_fighter_red_id": "7a703c565ccaa18f",
+  "ufcstats_fighter_blue_id": "f77c68bb4be8516d",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "f77c68bb4be8516d",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Lester Griffin",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 52
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 42,
+      "attempted": 67
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 7
+    },
+    "takedown_pct": 14,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:33",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 35
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 44
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 46,
+      "attempted": 92
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 56,
+      "attempted": 104
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:58",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 37,
+        "attempted": 80
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 50
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 22,
+        "attempted": 41
+      }
+    }
+  },
+  "card_position": 3
+}

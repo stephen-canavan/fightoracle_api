@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "eea0274e153256a0",
+  "fname": "Ian",
+  "sname": "Loveland",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Barn Owl",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-09-07",
+  "career_stats": {
+    "slpm": 2.71,
+    "str_acc": 40,
+    "sapm": 2.36,
+    "str_def": 64,
+    "td_avg": 1.0,
+    "td_acc": 37,
+    "td_def": 69,
+    "sub_avg": 0.3
+  }
+}

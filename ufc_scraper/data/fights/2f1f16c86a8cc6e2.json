@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "2f1f16c86a8cc6e2",
+  "ufcstats_event_id": "30e8b4505f5ccf92",
+  "ufcstats_fighter_red_id": "1de9ad94de18eeaf",
+  "ufcstats_fighter_blue_id": "4498b382c65a7faa",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "1de9ad94de18eeaf",
+  "is_title_fight": true,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Jeff Mullen",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 46,
+      "blue": 49
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 186,
+      "attempted": 456
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 242,
+      "attempted": 524
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 6
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "6:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 138,
+        "attempted": 397
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 35,
+        "attempted": 36
+      },
+      "distance": {
+        "landed": 161,
+        "attempted": 422
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 15,
+        "attempted": 16
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 132,
+      "attempted": 403
+    },
+    "sig_strikes_pct": 32,
+    "total_strikes": {
+      "landed": 154,
+      "attempted": 433
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "3:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 112,
+        "attempted": 373
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 123,
+        "attempted": 391
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 1
+}

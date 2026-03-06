@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "af1e5c64b8663aa0",
+  "fname": "Sergio",
+  "sname": "Gomez",
+  "record": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1982-04-29",
+  "career_stats": {
+    "slpm": 1.5,
+    "str_acc": 42,
+    "sapm": 1.16,
+    "str_def": 56,
+    "td_avg": 2.57,
+    "td_acc": 66,
+    "td_def": 31,
+    "sub_avg": 0.0
+  }
+}

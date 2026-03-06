@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ece280745f8727b8",
+  "fname": "Kamal",
+  "sname": "Shalorus",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Prince of Persia",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1972-08-27",
+  "career_stats": {
+    "slpm": 3.06,
+    "str_acc": 32,
+    "sapm": 2.99,
+    "str_def": 70,
+    "td_avg": 2.07,
+    "td_acc": 50,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

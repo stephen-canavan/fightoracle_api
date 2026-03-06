@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0e21976afc92e4d1",
+  "fname": "Magnus",
+  "sname": "Cedenblad",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Jycken",
+  "height_cm": 195.6,
+  "weight_lbs": 185,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1982-04-10",
+  "career_stats": {
+    "slpm": 2.38,
+    "str_acc": 51,
+    "sapm": 3.02,
+    "str_def": 40,
+    "td_avg": 2.87,
+    "td_acc": 64,
+    "td_def": 66,
+    "sub_avg": 1.0
+  }
+}

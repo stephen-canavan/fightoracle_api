@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e26bd53b751d61d9",
+  "fname": "Jordan",
+  "sname": "Williams",
+  "record": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bomaye",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1990-10-13",
+  "career_stats": {
+    "slpm": 5.83,
+    "str_acc": 50,
+    "sapm": 5.46,
+    "str_def": 35,
+    "td_avg": 1.11,
+    "td_acc": 50,
+    "td_def": 85,
+    "sub_avg": 0.0
+  }
+}

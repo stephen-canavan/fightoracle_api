@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "24656ef4d605c96f",
+  "fname": "Aiemann",
+  "sname": "Zahabi",
+  "record": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1987-11-19",
+  "career_stats": {
+    "slpm": 4.54,
+    "str_acc": 47,
+    "sapm": 4.08,
+    "str_def": 69,
+    "td_avg": 0.12,
+    "td_acc": 14,
+    "td_def": 83,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f0abbb6f3444dae7",
+  "fname": "Paul",
+  "sname": "Buentello",
+  "record": {
+    "wins": 35,
+    "losses": 17,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Headhunter",
+  "height_cm": 188.0,
+  "weight_lbs": 245,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1974-01-16",
+  "career_stats": {
+    "slpm": 3.29,
+    "str_acc": 45,
+    "sapm": 3.83,
+    "str_def": 52,
+    "td_avg": 0.19,
+    "td_acc": 33,
+    "td_def": 39,
+    "sub_avg": 0.4
+  }
+}

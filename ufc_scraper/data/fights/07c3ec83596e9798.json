@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "07c3ec83596e9798",
+  "ufcstats_event_id": "13e62d766b709aa6",
+  "ufcstats_fighter_red_id": "9fe85152f351e737",
+  "ufcstats_fighter_blue_id": "22e47b53e4ceb27c",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "9fe85152f351e737",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Richard Bertrand",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Nelson Hamilton",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Alejandro Rochin",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 93
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 63,
+      "attempted": 125
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 7
+    },
+    "takedown_pct": 42,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 66
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 72
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 68
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 44,
+      "attempted": 76
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 47
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 40
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 22
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 6
+      }
+    }
+  },
+  "card_position": 2
+}

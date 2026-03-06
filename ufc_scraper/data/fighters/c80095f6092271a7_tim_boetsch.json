@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c80095f6092271a7",
+  "fname": "Tim",
+  "sname": "Boetsch",
+  "record": {
+    "wins": 21,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Barbarian",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1981-01-28",
+  "career_stats": {
+    "slpm": 2.93,
+    "str_acc": 50,
+    "sapm": 2.9,
+    "str_def": 57,
+    "td_avg": 1.45,
+    "td_acc": 34,
+    "td_def": 59,
+    "sub_avg": 0.8
+  }
+}

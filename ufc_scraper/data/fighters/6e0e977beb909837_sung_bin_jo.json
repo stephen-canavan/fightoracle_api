@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6e0e977beb909837",
+  "fname": "Sung",
+  "sname": "Bin Jo",
+  "record": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Korean Falcon",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1992-07-17",
+  "career_stats": {
+    "slpm": 1.4,
+    "str_acc": 33,
+    "sapm": 2.67,
+    "str_def": 51,
+    "td_avg": 1.0,
+    "td_acc": 33,
+    "td_def": 83,
+    "sub_avg": 1.0
+  }
+}

@@ -28,6 +28,7 @@ class FightFighterSummarySerializer(serializers.ModelSerializer):
     record = serializers.JSONField(source="fighter_record")
     avatar_url = serializers.ImageField(source="avatar")
     country = serializers.SerializerMethodField()
+    last_five_results = serializers.ListField(read_only=True)
 
     class Meta:
         model = Fighter
@@ -40,6 +41,7 @@ class FightFighterSummarySerializer(serializers.ModelSerializer):
             "dob",
             "height",
             "reach",
+            "last_five_results",
         ]
 
     def get_country(self, obj):
@@ -89,4 +91,5 @@ class FightSummarySerializer(FightSerializer):
             "is_title_fight",
             "is_main_event",
             "card_position",
+            "card_tier",
         ]

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e979c76341f19b22",
+  "fname": "Tom",
+  "sname": "Duquesnoy",
+  "record": {
+    "wins": 16,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fire Kid",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1993-06-21",
+  "career_stats": {
+    "slpm": 3.83,
+    "str_acc": 45,
+    "sapm": 5.3,
+    "str_def": 62,
+    "td_avg": 0.42,
+    "td_acc": 25,
+    "td_def": 46,
+    "sub_avg": 0.0
+  }
+}

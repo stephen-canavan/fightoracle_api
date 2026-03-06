@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0d33d43bee65d98f",
+  "ufcstats_event_id": "73e09f837f3b5ecc",
+  "ufcstats_fighter_red_id": "a845f0735bc67405",
+  "ufcstats_fighter_blue_id": "66ab58d0b3783607",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John Sharp",
+  "ufcstats_winner_id": "66ab58d0b3783607",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Anthony Dimitriou",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Charlie Keech",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Evan Field",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 22,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 29,
+      "attempted": 70
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 50
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 49
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 4
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 53
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 80,
+      "attempted": 106
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 3,
+    "reversals": 0,
+    "control_time": "2:54",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 16,
+        "attempted": 36
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 31
+      },
+      "clinch": {
+        "landed": 15,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 2
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ad56b3f00ca38dfd",
+  "fname": "Mark",
+  "sname": "Godbeer",
+  "record": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hand Of",
+  "height_cm": 193.0,
+  "weight_lbs": 240,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1983-11-22",
+  "career_stats": {
+    "slpm": 3.97,
+    "str_acc": 53,
+    "sapm": 3.3,
+    "str_def": 54,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 28,
+    "sub_avg": 0.0
+  }
+}

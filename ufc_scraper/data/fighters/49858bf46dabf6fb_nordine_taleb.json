@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "49858bf46dabf6fb",
+  "fname": "Nordine",
+  "sname": "Taleb",
+  "record": {
+    "wins": 15,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1981-06-10",
+  "career_stats": {
+    "slpm": 3.66,
+    "str_acc": 51,
+    "sapm": 2.62,
+    "str_def": 66,
+    "td_avg": 1.94,
+    "td_acc": 76,
+    "td_def": 73,
+    "sub_avg": 0.0
+  }
+}

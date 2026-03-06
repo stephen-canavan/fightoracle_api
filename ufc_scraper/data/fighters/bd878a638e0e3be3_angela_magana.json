@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bd878a638e0e3be3",
+  "fname": "Angela",
+  "sname": "Magana",
+  "record": {
+    "wins": 11,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Your Majesty",
+  "height_cm": 154.9,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1983-08-02",
+  "career_stats": {
+    "slpm": 1.53,
+    "str_acc": 28,
+    "sapm": 4.92,
+    "str_def": 42,
+    "td_avg": 0.4,
+    "td_acc": 25,
+    "td_def": 28,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1be27d95bba03f17",
+  "ufcstats_event_id": "ef61d9f5176b3200",
+  "ufcstats_fighter_red_id": "1497e735d9f2560a",
+  "ufcstats_fighter_blue_id": "f748267c4ab6c127",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Loic Pora",
+  "ufcstats_winner_id": "1497e735d9f2560a",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Christophe Chapuis",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "David Lethaby",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Darryl Ransom",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 98,
+      "attempted": 182
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 124,
+      "attempted": 220
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 10
+    },
+    "takedown_pct": 60,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 71,
+        "attempted": 144
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 29
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 103
+      },
+      "clinch": {
+        "landed": 32,
+        "attempted": 51
+      },
+      "ground": {
+        "landed": 21,
+        "attempted": 28
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 183
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 90,
+      "attempted": 198
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 48,
+        "attempted": 145
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 70,
+        "attempted": 172
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 8
+}

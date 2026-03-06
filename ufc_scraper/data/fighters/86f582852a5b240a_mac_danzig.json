@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "86f582852a5b240a",
+  "fname": "Mac",
+  "sname": "Danzig",
+  "record": {
+    "wins": 21,
+    "losses": 12,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1980-01-02",
+  "career_stats": {
+    "slpm": 3.39,
+    "str_acc": 48,
+    "sapm": 3.44,
+    "str_def": 57,
+    "td_avg": 1.2,
+    "td_acc": 37,
+    "td_def": 46,
+    "sub_avg": 0.6
+  }
+}

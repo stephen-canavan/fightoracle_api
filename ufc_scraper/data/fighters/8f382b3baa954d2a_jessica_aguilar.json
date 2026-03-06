@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8f382b3baa954d2a",
+  "fname": "Jessica",
+  "sname": "Aguilar",
+  "record": {
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Jag",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1982-05-08",
+  "career_stats": {
+    "slpm": 4.93,
+    "str_acc": 50,
+    "sapm": 7.19,
+    "str_def": 53,
+    "td_avg": 0.94,
+    "td_acc": 25,
+    "td_def": 50,
+    "sub_avg": 0.2
+  }
+}

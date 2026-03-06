@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "408fc024d3e91b0e",
+  "ufcstats_event_id": "8d5daf67983b65ba",
+  "ufcstats_fighter_red_id": "c3218c810959d279",
+  "ufcstats_fighter_blue_id": "06f36cf4bd97ec77",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Vyacheslav  Kiselev",
+  "ufcstats_winner_id": "06f36cf4bd97ec77",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Lukasz Bosacki",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Magomed Magomedov",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Howard Hughes",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 53,
+      "attempted": 102
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 70,
+      "attempted": 124
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:13",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 48,
+        "attempted": 95
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 91
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 81,
+      "attempted": 140
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 121,
+      "attempted": 183
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 49,
+        "attempted": 103
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 18
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 79
+      },
+      "clinch": {
+        "landed": 43,
+        "attempted": 59
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 4
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "20f0129fc4861674",
+  "ufcstats_event_id": "063649e21bc9d6d5",
+  "ufcstats_fighter_red_id": "6256b2b1562cb8e1",
+  "ufcstats_fighter_blue_id": "777dea713da2441d",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Kevin Nix",
+  "ufcstats_winner_id": "6256b2b1562cb8e1",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Jason Greenwalt",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jim Lambert",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 221
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 83,
+      "attempted": 227
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "0:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 51,
+        "attempted": 189
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 68,
+        "attempted": 210
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 91,
+      "attempted": 231
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 96,
+      "attempted": 236
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 10
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:58",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 64,
+        "attempted": 190
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 26
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 79,
+        "attempted": 209
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 22
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "67f272324a030d00",
+  "fname": "Misha",
+  "sname": "Cirkunov",
+  "record": {
+    "wins": 15,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1987-02-27",
+  "career_stats": {
+    "slpm": 3.86,
+    "str_acc": 51,
+    "sapm": 3.06,
+    "str_def": 57,
+    "td_avg": 4.15,
+    "td_acc": 39,
+    "td_def": 76,
+    "sub_avg": 1.7
+  }
+}

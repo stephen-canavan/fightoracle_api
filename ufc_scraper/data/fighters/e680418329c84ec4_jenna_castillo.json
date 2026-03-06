@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e680418329c84ec4",
+  "fname": "Jenna",
+  "sname": "Castillo",
+  "record": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 157.5,
+  "weight_lbs": 125,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1982-05-05",
+  "career_stats": {
+    "slpm": 3.24,
+    "str_acc": 56,
+    "sapm": 2.01,
+    "str_def": 57,
+    "td_avg": 1.68,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

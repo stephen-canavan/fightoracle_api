@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9dedfdd91070ddd8",
+  "fname": "Victoria",
+  "sname": "Leonardo",
+  "record": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fury",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "1990-02-16",
+  "career_stats": {
+    "slpm": 3.22,
+    "str_acc": 38,
+    "sapm": 4.81,
+    "str_def": 47,
+    "td_avg": 1.57,
+    "td_acc": 27,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

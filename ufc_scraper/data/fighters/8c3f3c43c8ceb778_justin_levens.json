@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8c3f3c43c8ceb778",
+  "fname": "Justin",
+  "sname": "Levens",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Executioner",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1980-04-18",
+  "career_stats": {
+    "slpm": 1.24,
+    "str_acc": 47,
+    "sapm": 3.15,
+    "str_def": 37,
+    "td_avg": 1.69,
+    "td_acc": 50,
+    "td_def": 33,
+    "sub_avg": 5.1
+  }
+}

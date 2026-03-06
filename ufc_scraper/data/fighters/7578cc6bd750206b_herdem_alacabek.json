@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7578cc6bd750206b",
+  "fname": "Herdem",
+  "sname": "Alacabek",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1991-06-07",
+  "career_stats": {
+    "slpm": 3.84,
+    "str_acc": 65,
+    "sapm": 6.66,
+    "str_def": 23,
+    "td_avg": 2.06,
+    "td_acc": 50,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "8208afe1e52b02e9",
+  "ufcstats_event_id": "1c061eb6e29eaa0a",
+  "ufcstats_fighter_red_id": "51b1e2fd9872005b",
+  "ufcstats_fighter_blue_id": "960d6cae8879ba2b",
+  "method": "Overturned",
+  "method_details": "Head Butt by Peralta",
+  "round": 3,
+  "time": "1:54",
+  "referee": "John McCarthy",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 50,
+      "attempted": 92
+    },
+    "sig_strikes_pct": 54,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 108
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 5
+    },
+    "takedown_pct": 20,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:31",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 49
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 19,
+        "attempted": 22
+      },
+      "distance": {
+        "landed": 33,
+        "attempted": 72
+      },
+      "clinch": {
+        "landed": 11,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 7
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 2,
+    "sig_strikes": {
+      "landed": 39,
+      "attempted": 99
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 129
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 77
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 75
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 13,
+        "attempted": 15
+      }
+    }
+  },
+  "card_position": 7
+}

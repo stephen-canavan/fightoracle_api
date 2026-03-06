@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d1759b2b7be9be56",
+  "fname": "Hector",
+  "sname": "Ramirez",
+  "record": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sick Dog",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-03-28",
+  "career_stats": {
+    "slpm": 2.27,
+    "str_acc": 41,
+    "sapm": 4.6,
+    "str_def": 56,
+    "td_avg": 2.3,
+    "td_acc": 55,
+    "td_def": 66,
+    "sub_avg": 0.5
+  }
+}

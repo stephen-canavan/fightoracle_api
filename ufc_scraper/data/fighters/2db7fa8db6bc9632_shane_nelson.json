@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2db7fa8db6bc9632",
+  "fname": "Shane",
+  "sname": "Nelson",
+  "record": {
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sugar",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1984-11-29",
+  "career_stats": {
+    "slpm": 1.38,
+    "str_acc": 31,
+    "sapm": 2.84,
+    "str_def": 61,
+    "td_avg": 1.31,
+    "td_acc": 18,
+    "td_def": 54,
+    "sub_avg": 1.6
+  }
+}

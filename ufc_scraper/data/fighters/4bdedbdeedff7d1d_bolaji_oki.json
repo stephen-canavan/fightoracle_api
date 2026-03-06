@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4bdedbdeedff7d1d",
+  "fname": "Bolaji",
+  "sname": "Oki",
+  "record": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Zulu Warrior",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1995-11-15",
+  "career_stats": {
+    "slpm": 6.59,
+    "str_acc": 44,
+    "sapm": 5.15,
+    "str_def": 61,
+    "td_avg": 1.01,
+    "td_acc": 60,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

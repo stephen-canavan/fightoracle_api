@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d5ed14b2153c6ed2",
+  "fname": "Semmy",
+  "sname": "Schilt",
+  "record": {
+    "wins": 26,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hightower",
+  "height_cm": 208.3,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1973-10-27",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 50,
+    "sapm": 1.31,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 47,
+    "sub_avg": 1.1
+  }
+}

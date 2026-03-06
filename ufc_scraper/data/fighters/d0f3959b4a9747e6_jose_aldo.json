@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d0f3959b4a9747e6",
+  "fname": "Jose",
+  "sname": "Aldo",
+  "record": {
+    "wins": 32,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1986-09-09",
+  "career_stats": {
+    "slpm": 3.65,
+    "str_acc": 46,
+    "sapm": 3.81,
+    "str_def": 60,
+    "td_avg": 0.47,
+    "td_acc": 51,
+    "td_def": 92,
+    "sub_avg": 0.1
+  }
+}

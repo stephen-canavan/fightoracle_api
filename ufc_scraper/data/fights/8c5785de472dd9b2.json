@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "8c5785de472dd9b2",
+  "ufcstats_event_id": "1c5879330d42255f",
+  "ufcstats_fighter_red_id": "5e4eec08896c9423",
+  "ufcstats_fighter_blue_id": "7b39035fae7268b8",
+  "method": "KO/TKO",
+  "method_details": "Punches to Head On Ground",
+  "round": 1,
+  "time": "1:01",
+  "referee": "Mario Yamasaki",
+  "ufcstats_winner_id": "5e4eec08896c9423",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter 19 Light Heavyweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 24,
+      "attempted": 37
+    },
+    "sig_strikes_pct": 64,
+    "total_strikes": {
+      "landed": 28,
+      "attempted": 45
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 33
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 9,
+        "attempted": 14
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 2,
+      "attempted": 10
+    },
+    "sig_strikes_pct": 20,
+    "total_strikes": {
+      "landed": 2,
+      "attempted": 10
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 8
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 9
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

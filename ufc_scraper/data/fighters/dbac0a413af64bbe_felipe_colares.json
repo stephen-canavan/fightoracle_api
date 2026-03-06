@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dbac0a413af64bbe",
+  "fname": "Felipe",
+  "sname": "Colares",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cabocao",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1994-03-31",
+  "career_stats": {
+    "slpm": 2.17,
+    "str_acc": 45,
+    "sapm": 4.65,
+    "str_def": 36,
+    "td_avg": 1.88,
+    "td_acc": 24,
+    "td_def": 43,
+    "sub_avg": 0.5
+  }
+}

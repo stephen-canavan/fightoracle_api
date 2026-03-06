@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "802eba82d2b6113e",
+  "ufcstats_event_id": "dfdd0c5dd0d4bc23",
+  "ufcstats_fighter_red_id": "fc169c387b4b465d",
+  "ufcstats_fighter_blue_id": "fc6e681bf6658faf",
+  "method": "Submission",
+  "method_details": "Bulldog Choke On Ground\n      Technical Submission",
+  "round": 1,
+  "time": "4:59",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "fc169c387b4b465d",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 5,
+      "attempted": 10
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 16,
+      "attempted": 21
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:22",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 11,
+      "attempted": 16
+    },
+    "sig_strikes_pct": 68,
+    "total_strikes": {
+      "landed": 25,
+      "attempted": 33
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

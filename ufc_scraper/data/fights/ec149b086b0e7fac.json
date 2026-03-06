@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "ec149b086b0e7fac",
+  "ufcstats_event_id": "2d5fbe2103f97053",
+  "ufcstats_fighter_red_id": "31ef8b67e13495b3",
+  "ufcstats_fighter_blue_id": "1ebe20ebbfa15e29",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Chris Tognoni",
+  "ufcstats_winner_id": "1ebe20ebbfa15e29",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 33,
+      "attempted": 65
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 41
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 25,
+        "attempted": 54
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 5
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 63,
+      "attempted": 142
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 118,
+      "attempted": 204
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 8
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "4:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 29,
+        "attempted": 76
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 28,
+        "attempted": 45
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 117
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 14,
+        "attempted": 17
+      }
+    }
+  },
+  "card_position": 4
+}

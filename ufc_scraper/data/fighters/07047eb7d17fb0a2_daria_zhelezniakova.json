@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "07047eb7d17fb0a2",
+  "fname": "Daria",
+  "sname": "Zhelezniakova",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Iron Lady",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1996-01-23",
+  "career_stats": {
+    "slpm": 4.75,
+    "str_acc": 41,
+    "sapm": 2.83,
+    "str_def": 68,
+    "td_avg": 0.44,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

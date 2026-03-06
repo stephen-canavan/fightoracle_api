@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "523f6ad11dbe9b53",
+  "fname": "Hans",
+  "sname": "Stringer",
+  "record": {
+    "wins": 22,
+    "losses": 8,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-07-06",
+  "career_stats": {
+    "slpm": 3.16,
+    "str_acc": 61,
+    "sapm": 2.84,
+    "str_def": 41,
+    "td_avg": 2.4,
+    "td_acc": 36,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

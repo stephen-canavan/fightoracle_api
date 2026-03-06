@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "595db60957de51d3",
+  "fname": "Michel",
+  "sname": "Pereira",
+  "record": {
+    "wins": 32,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Demolidor",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1993-10-06",
+  "career_stats": {
+    "slpm": 4.46,
+    "str_acc": 51,
+    "sapm": 4.4,
+    "str_def": 51,
+    "td_avg": 1.21,
+    "td_acc": 56,
+    "td_def": 75,
+    "sub_avg": 0.7
+  }
+}

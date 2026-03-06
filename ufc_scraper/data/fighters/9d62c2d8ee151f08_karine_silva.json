@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9d62c2d8ee151f08",
+  "fname": "Karine",
+  "sname": "Silva",
+  "record": {
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Killer",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1993-12-02",
+  "career_stats": {
+    "slpm": 2.48,
+    "str_acc": 39,
+    "sapm": 3.04,
+    "str_def": 48,
+    "td_avg": 2.3,
+    "td_acc": 50,
+    "td_def": 21,
+    "sub_avg": 1.5
+  }
+}

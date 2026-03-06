@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "46effbd1135423c5",
+  "fname": "Sean",
+  "sname": "O'Haire",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 195.6,
+  "weight_lbs": 270,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1971-02-25",
+  "career_stats": {
+    "slpm": 8.28,
+    "str_acc": 57,
+    "sapm": 22.76,
+    "str_def": 21,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

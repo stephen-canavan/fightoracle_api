@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "400c7b43c86d27d3",
+  "fname": "Nikk",
+  "sname": "Covert",
+  "record": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Brick",
+  "height_cm": 172.7,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1969-08-04",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

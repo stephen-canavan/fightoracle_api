@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "45c7979c71751fcf",
+  "fname": "Zhang",
+  "sname": "Qinghe",
+  "record": {
+    "wins": 16,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 170.2,
+  "stance": "Southpaw",
+  "dob": "2001-11-05",
+  "career_stats": {
+    "slpm": 2.87,
+    "str_acc": 33,
+    "sapm": 4.73,
+    "str_def": 49,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

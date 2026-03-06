@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1c610f900f9884ab",
+  "fname": "John",
+  "sname": "Donaldson",
+  "record": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "J.T.",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1992-07-09",
+  "career_stats": {
+    "slpm": 1.21,
+    "str_acc": 23,
+    "sapm": 4.22,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ed7d329d7c29428d",
+  "fname": "Colby",
+  "sname": "Thicknesse",
+  "record": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Slickness",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1999-06-23",
+  "career_stats": {
+    "slpm": 3.33,
+    "str_acc": 42,
+    "sapm": 2.8,
+    "str_def": 50,
+    "td_avg": 1.0,
+    "td_acc": 9,
+    "td_def": 50,
+    "sub_avg": 0.5
+  }
+}

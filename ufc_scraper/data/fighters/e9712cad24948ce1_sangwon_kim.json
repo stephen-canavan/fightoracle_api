@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e9712cad24948ce1",
+  "fname": "SangWon",
+  "sname": "Kim",
+  "record": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "No Problem",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1993-09-01",
+  "career_stats": {
+    "slpm": 3.18,
+    "str_acc": 57,
+    "sapm": 3.73,
+    "str_def": 58,
+    "td_avg": 0.69,
+    "td_acc": 25,
+    "td_def": 72,
+    "sub_avg": 0.0
+  }
+}

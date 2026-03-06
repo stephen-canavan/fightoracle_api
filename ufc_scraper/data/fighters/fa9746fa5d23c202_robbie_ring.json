@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fa9746fa5d23c202",
+  "fname": "Robbie",
+  "sname": "Ring",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Razor",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "2000-07-14",
+  "career_stats": {
+    "slpm": 5.11,
+    "str_acc": 38,
+    "sapm": 9.15,
+    "str_def": 38,
+    "td_avg": 4.04,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

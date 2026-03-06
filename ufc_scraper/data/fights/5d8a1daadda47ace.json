@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5d8a1daadda47ace",
+  "ufcstats_event_id": "03b1e846b09f721d",
+  "ufcstats_fighter_red_id": "b76c6268dc1d3c05",
+  "ufcstats_fighter_blue_id": "1ebe20ebbfa15e29",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Blake Grice",
+  "ufcstats_winner_id": "1ebe20ebbfa15e29",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Ron McCarthy",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Guilherme Bravo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 34,
+      "attempted": 123
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 35,
+      "attempted": 124
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 104
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 120
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 194
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 83,
+      "attempted": 200
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 31,
+        "attempted": 107
+      },
+      "body": {
+        "landed": 15,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 31,
+        "attempted": 57
+      },
+      "distance": {
+        "landed": 71,
+        "attempted": 185
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 11
+}

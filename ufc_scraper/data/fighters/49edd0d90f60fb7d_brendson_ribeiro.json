@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "49edd0d90f60fb7d",
+  "fname": "Brendson",
+  "sname": "Ribeiro",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gorilla",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 205.7,
+  "stance": "Orthodox",
+  "dob": "1996-09-08",
+  "career_stats": {
+    "slpm": 3.06,
+    "str_acc": 42,
+    "sapm": 4.0,
+    "str_def": 53,
+    "td_avg": 0.9,
+    "td_acc": 42,
+    "td_def": 18,
+    "sub_avg": 0.6
+  }
+}

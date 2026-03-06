@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "15df64c02b6b0fde",
+  "fname": "Danny",
+  "sname": "Abbadi",
+  "record": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Assassin",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-07-03",
+  "career_stats": {
+    "slpm": 3.29,
+    "str_acc": 38,
+    "sapm": 4.41,
+    "str_def": 57,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 77,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0596fc5eba5c1fe0",
+  "ufcstats_event_id": "d6455cb4bee503ce",
+  "ufcstats_fighter_red_id": "e5c9de15bb58b1c6",
+  "ufcstats_fighter_blue_id": "814ff3018127e8fc",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jacob Montalvo",
+  "ufcstats_winner_id": "e5c9de15bb58b1c6",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Hector Maldonado",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Guadalupe Chapa",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Adriana Beltran",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 144,
+      "attempted": 279
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 185,
+      "attempted": 330
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 9
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "7:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 132,
+        "attempted": 262
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 116,
+        "attempted": 242
+      },
+      "clinch": {
+        "landed": 14,
+        "attempted": 16
+      },
+      "ground": {
+        "landed": 14,
+        "attempted": 21
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 58,
+      "attempted": 156
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 63,
+      "attempted": 161
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 43,
+        "attempted": 130
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 48,
+        "attempted": 140
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 7
+      }
+    }
+  },
+  "card_position": 3
+}

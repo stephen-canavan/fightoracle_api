@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d3711d3784b76255",
+  "fname": "Zane",
+  "sname": "Frazier",
+  "record": {
+    "wins": 4,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Nasty",
+  "height_cm": 195.6,
+  "weight_lbs": 250,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

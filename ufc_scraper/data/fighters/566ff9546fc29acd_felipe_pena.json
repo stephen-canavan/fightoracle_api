@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "566ff9546fc29acd",
+  "fname": "Felipe",
+  "sname": "Pena",
+  "record": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Preguica",
+  "height_cm": null,
+  "weight_lbs": null,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1991-10-19",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6e62bb64f7cc5026",
+  "fname": "Scott",
+  "sname": "Ventimiglia",
+  "record": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Meant to Kill Ya",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1972-11-17",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

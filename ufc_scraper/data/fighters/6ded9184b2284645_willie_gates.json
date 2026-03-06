@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6ded9184b2284645",
+  "fname": "Willie",
+  "sname": "Gates",
+  "record": {
+    "wins": 12,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 125,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1987-01-21",
+  "career_stats": {
+    "slpm": 1.8,
+    "str_acc": 38,
+    "sapm": 4.28,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 67,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "def8166ff24bd237",
+  "fname": "Brian",
+  "sname": "Ortega",
+  "record": {
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "T-City",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Switch",
+  "dob": "1991-02-21",
+  "career_stats": {
+    "slpm": 3.84,
+    "str_acc": 37,
+    "sapm": 6.38,
+    "str_def": 49,
+    "td_avg": 0.93,
+    "td_acc": 25,
+    "td_def": 54,
+    "sub_avg": 0.9
+  }
+}

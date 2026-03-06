@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "3d7ea6012fd8f786",
+  "ufcstats_event_id": "33a331684283900f",
+  "ufcstats_fighter_red_id": "51e86de150ee8be6",
+  "ufcstats_fighter_blue_id": "b7b84ccd221be298",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Barry Gallant",
+  "ufcstats_winner_id": "b7b84ccd221be298",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Doug Crosby",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Paul Deiron",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Declan Woods",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 78,
+      "attempted": 284
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 95,
+      "attempted": 306
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 56,
+        "attempted": 252
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 78,
+        "attempted": 284
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 124,
+      "attempted": 256
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 148,
+      "attempted": 282
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:56",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 98,
+        "attempted": 217
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 31
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 84,
+        "attempted": 181
+      },
+      "clinch": {
+        "landed": 15,
+        "attempted": 24
+      },
+      "ground": {
+        "landed": 25,
+        "attempted": 51
+      }
+    }
+  },
+  "card_position": 8
+}

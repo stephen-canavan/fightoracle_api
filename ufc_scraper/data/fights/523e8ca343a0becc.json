@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "523e8ca343a0becc",
+  "ufcstats_event_id": "ea0ad155451ed1f5",
+  "ufcstats_fighter_red_id": "fcd448a2fe1a23cc",
+  "ufcstats_fighter_blue_id": "50db8711c70196cd",
+  "method": "Decision - Majority",
+  "method_details": "Technical Decision - Eye Poke",
+  "round": 3,
+  "time": "0:33",
+  "referee": "Kevin Mulhall",
+  "ufcstats_winner_id": "50db8711c70196cd",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 30
+    },
+    {
+      "judge": "Michael Depasquale",
+      "red": 29,
+      "blue": 30
+    },
+    {
+      "judge": "Jose Tabora",
+      "red": 29,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 28,
+      "attempted": 50
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 35,
+      "attempted": 57
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:12",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 5,
+        "attempted": 14
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 20,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 25,
+        "attempted": 46
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 47,
+      "attempted": 84
+    },
+    "sig_strikes_pct": 55,
+    "total_strikes": {
+      "landed": 57,
+      "attempted": 94
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 33,
+        "attempted": 65
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 82
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

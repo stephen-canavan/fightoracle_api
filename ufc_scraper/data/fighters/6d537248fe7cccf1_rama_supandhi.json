@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6d537248fe7cccf1",
+  "fname": "Rama",
+  "sname": "Supandhi",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hellboy",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "1991-11-07",
+  "career_stats": {
+    "slpm": 2.2,
+    "str_acc": 42,
+    "sapm": 3.53,
+    "str_def": 48,
+    "td_avg": 1.0,
+    "td_acc": 11,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

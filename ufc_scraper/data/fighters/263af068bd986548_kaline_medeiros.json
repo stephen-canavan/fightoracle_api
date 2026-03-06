@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "263af068bd986548",
+  "fname": "Kaline",
+  "sname": "Medeiros",
+  "record": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Dark Angel",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.06,
+    "str_acc": 70,
+    "sapm": 0.29,
+    "str_def": 83,
+    "td_avg": 4.41,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 4.4
+  }
+}

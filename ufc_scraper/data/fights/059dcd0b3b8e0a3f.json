@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "059dcd0b3b8e0a3f",
+  "ufcstats_event_id": "997b4f52f76a0b53",
+  "ufcstats_fighter_red_id": "49858bf46dabf6fb",
+  "ufcstats_fighter_blue_id": "e5ecaf884b6da2bc",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "49858bf46dabf6fb",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Luc Lefebvre",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Pasquale Procopio",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "David Therien",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 64
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 64,
+      "attempted": 97
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 6
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "10:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 50
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 27
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 19,
+        "attempted": 30
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 29,
+      "attempted": 75
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 4,
+        "attempted": 39
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 14,
+        "attempted": 52
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

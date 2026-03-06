@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "26d75187369ecf2c",
+  "ufcstats_event_id": "3ae10ac4df3df05c",
+  "ufcstats_fighter_red_id": "523fa774700d7d3f",
+  "ufcstats_fighter_blue_id": "45f7cb591c3ab00b",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Bryan Miner",
+  "ufcstats_winner_id": "45f7cb591c3ab00b",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Marcel Varela",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 107,
+      "attempted": 291
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 128,
+      "attempted": 313
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 6
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 71,
+        "attempted": 236
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 29
+      },
+      "leg": {
+        "landed": 24,
+        "attempted": 26
+      },
+      "distance": {
+        "landed": 101,
+        "attempted": 282
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 119,
+      "attempted": 210
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 148,
+      "attempted": 240
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 85,
+        "attempted": 168
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 26,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 116,
+        "attempted": 203
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 11
+}

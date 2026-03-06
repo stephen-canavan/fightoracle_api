@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "8d6392d59e1ca099",
+  "ufcstats_event_id": "30a09e43f15f1d75",
+  "ufcstats_fighter_red_id": "9450848a71d53776",
+  "ufcstats_fighter_blue_id": "0c6d9ea8306c029e",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "0c6d9ea8306c029e",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Richard Bertrand",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 39,
+      "attempted": 113
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 43,
+      "attempted": 117
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "0:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 96
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 76
+      },
+      "clinch": {
+        "landed": 18,
+        "attempted": 37
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 45,
+      "attempted": 112
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 62,
+      "attempted": 132
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 19,
+        "attempted": 64
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 27
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 21
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 106
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

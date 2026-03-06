@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7263e0dc082adc87",
+  "fname": "Brad",
+  "sname": "Mitchell",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1974-10-10",
+  "career_stats": {
+    "slpm": 1.15,
+    "str_acc": 33,
+    "sapm": 4.2,
+    "str_def": 52,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 1.9
+  }
+}

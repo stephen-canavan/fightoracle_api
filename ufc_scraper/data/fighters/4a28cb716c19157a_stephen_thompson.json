@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a28cb716c19157a",
+  "fname": "Stephen",
+  "sname": "Thompson",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Wonderboy",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1983-02-11",
+  "career_stats": {
+    "slpm": 4.05,
+    "str_acc": 46,
+    "sapm": 3.0,
+    "str_def": 54,
+    "td_avg": 0.23,
+    "td_acc": 35,
+    "td_def": 63,
+    "sub_avg": 0.0
+  }
+}

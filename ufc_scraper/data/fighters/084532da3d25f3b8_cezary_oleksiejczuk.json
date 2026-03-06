@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "084532da3d25f3b8",
+  "fname": "Cezary",
+  "sname": "Oleksiejczuk",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "2000-01-06",
+  "career_stats": {
+    "slpm": 1.99,
+    "str_acc": 86,
+    "sapm": 0.77,
+    "str_def": 47,
+    "td_avg": 5.77,
+    "td_acc": 85,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dd37fd509af89f15",
+  "fname": "Josh",
+  "sname": "Koscheck",
+  "record": {
+    "wins": 17,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1977-11-30",
+  "career_stats": {
+    "slpm": 1.79,
+    "str_acc": 36,
+    "sapm": 2.27,
+    "str_def": 63,
+    "td_avg": 2.46,
+    "td_acc": 48,
+    "td_def": 64,
+    "sub_avg": 0.4
+  }
+}

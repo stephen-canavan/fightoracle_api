@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9be6020024133293",
+  "fname": "Cyril",
+  "sname": "Asker",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Silverback",
+  "height_cm": 182.9,
+  "weight_lbs": 247,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1985-12-24",
+  "career_stats": {
+    "slpm": 3.35,
+    "str_acc": 39,
+    "sapm": 5.82,
+    "str_def": 35,
+    "td_avg": 4.41,
+    "td_acc": 62,
+    "td_def": 100,
+    "sub_avg": 0.9
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "74fefd43f073cd2f",
+  "fname": "Joe",
+  "sname": "Pardo",
+  "record": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 210,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

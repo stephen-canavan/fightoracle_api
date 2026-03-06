@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0d16bdb7d32e88e9",
+  "fname": "Hiroyuki",
+  "sname": "Takaya",
+  "record": {
+    "wins": 21,
+    "losses": 14,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Streetfight Bancho",
+  "height_cm": 167.6,
+  "weight_lbs": 139,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-06-10",
+  "career_stats": {
+    "slpm": 3.18,
+    "str_acc": 33,
+    "sapm": 3.16,
+    "str_def": 60,
+    "td_avg": 0.9,
+    "td_acc": 45,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

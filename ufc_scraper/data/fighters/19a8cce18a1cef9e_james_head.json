@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "19a8cce18a1cef9e",
+  "fname": "James",
+  "sname": "Head",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1984-02-09",
+  "career_stats": {
+    "slpm": 2.75,
+    "str_acc": 48,
+    "sapm": 3.11,
+    "str_def": 49,
+    "td_avg": 0.41,
+    "td_acc": 100,
+    "td_def": 66,
+    "sub_avg": 0.8
+  }
+}

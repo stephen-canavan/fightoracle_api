@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "784285b7ae7dd85f",
+  "fname": "Shane",
+  "sname": "Campbell",
+  "record": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Shaolin",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1987-01-21",
+  "career_stats": {
+    "slpm": 3.99,
+    "str_acc": 59,
+    "sapm": 3.19,
+    "str_def": 55,
+    "td_avg": 1.36,
+    "td_acc": 28,
+    "td_def": 82,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d10b35152277cf98",
+  "fname": "James",
+  "sname": "Toney",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Lights Out",
+  "height_cm": 175.3,
+  "weight_lbs": 220,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-08-24",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 2.41,
+    "str_def": 27,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

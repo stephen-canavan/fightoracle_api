@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "f5ebfe526cf409e8",
+  "ufcstats_event_id": "7865707fd684d77b",
+  "ufcstats_fighter_red_id": "2f13e4020cea5b38",
+  "ufcstats_fighter_blue_id": "8bb6f4479685bbcc",
+  "method": "Submission",
+  "method_details": "Armbar From Mount",
+  "round": 2,
+  "time": "1:51",
+  "referee": "Mario Yamasaki",
+  "ufcstats_winner_id": "2f13e4020cea5b38",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 54
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 27,
+      "attempted": 65
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 5
+    },
+    "takedown_pct": 60,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "2:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 40
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 6,
+        "attempted": 36
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 11,
+        "attempted": 15
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 14,
+      "attempted": 27
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 28,
+      "attempted": 41
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 15
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 10,
+        "attempted": 22
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

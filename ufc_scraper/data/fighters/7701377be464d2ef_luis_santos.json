@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7701377be464d2ef",
+  "fname": "Luis",
+  "sname": "Santos",
+  "record": {
+    "wins": 63,
+    "losses": 10,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1980-01-02",
+  "career_stats": {
+    "slpm": 4.4,
+    "str_acc": 57,
+    "sapm": 4.0,
+    "str_def": 64,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d2bc285ead803db0",
+  "fname": "Louis",
+  "sname": "Smolka",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Da Last Samurai",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1991-07-16",
+  "career_stats": {
+    "slpm": 4.67,
+    "str_acc": 47,
+    "sapm": 4.11,
+    "str_def": 53,
+    "td_avg": 1.69,
+    "td_acc": 35,
+    "td_def": 32,
+    "sub_avg": 1.8
+  }
+}

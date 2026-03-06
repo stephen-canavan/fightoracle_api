@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e09dbbd5fe3f0fe2",
+  "fname": "Curtis",
+  "sname": "Stout",
+  "record": {
+    "wins": 11,
+    "losses": 12,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1973-11-07",
+  "career_stats": {
+    "slpm": 0.69,
+    "str_acc": 67,
+    "sapm": 3.2,
+    "str_def": 29,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 20,
+    "sub_avg": 0.0
+  }
+}

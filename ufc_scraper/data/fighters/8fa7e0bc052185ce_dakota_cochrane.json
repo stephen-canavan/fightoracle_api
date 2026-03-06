@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8fa7e0bc052185ce",
+  "fname": "Dakota",
+  "sname": "Cochrane",
+  "record": {
+    "wins": 29,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1986-05-01",
+  "career_stats": {
+    "slpm": 2.66,
+    "str_acc": 75,
+    "sapm": 2.66,
+    "str_def": 30,
+    "td_avg": 4.43,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

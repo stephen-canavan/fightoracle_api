@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "de99da2c0d18d34a",
+  "fname": "Tae",
+  "sname": "Hyun Lee",
+  "record": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 198.1,
+  "weight_lbs": 295,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-01-17",
+  "career_stats": {
+    "slpm": 1.37,
+    "str_acc": 31,
+    "sapm": 3.89,
+    "str_def": 54,
+    "td_avg": 5.15,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

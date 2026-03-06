@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f4c40f8a64d3151d",
+  "fname": "Max",
+  "sname": "Mustaki",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-11-07",
+  "career_stats": {
+    "slpm": 8.2,
+    "str_acc": 50,
+    "sapm": 13.0,
+    "str_def": 45,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

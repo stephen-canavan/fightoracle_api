@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7b6e40a73b567072",
+  "fname": "Shonie",
+  "sname": "Carter",
+  "record": {
+    "wins": 51,
+    "losses": 31,
+    "draws": 7,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mr. International",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1972-05-03",
+  "career_stats": {
+    "slpm": 1.62,
+    "str_acc": 36,
+    "sapm": 2.32,
+    "str_def": 47,
+    "td_avg": 0.75,
+    "td_acc": 66,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

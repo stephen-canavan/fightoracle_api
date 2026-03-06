@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3c241737a6069b9f",
+  "fname": "Denis",
+  "sname": "Kang",
+  "record": {
+    "wins": 35,
+    "losses": 16,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1977-09-17",
+  "career_stats": {
+    "slpm": 2.27,
+    "str_acc": 35,
+    "sapm": 1.65,
+    "str_def": 67,
+    "td_avg": 2.51,
+    "td_acc": 65,
+    "td_def": 38,
+    "sub_avg": 1.2
+  }
+}

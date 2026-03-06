@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0aa5be9d0e75dd42",
+  "ufcstats_event_id": "df5a77121ba84a5d",
+  "ufcstats_fighter_red_id": "07f72a2a7591b409",
+  "ufcstats_fighter_blue_id": "3c6976f8182d9527",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "07f72a2a7591b409",
+  "is_title_fight": true,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Richard Bertrand",
+      "red": 47,
+      "blue": 48
+    },
+    {
+      "judge": "Doug Crosby",
+      "red": 47,
+      "blue": 48
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 46,
+      "blue": 49
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 134,
+      "attempted": 217
+    },
+    "sig_strikes_pct": 61,
+    "total_strikes": {
+      "landed": 137,
+      "attempted": 220
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 11
+    },
+    "takedown_pct": 9,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:57",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 53,
+        "attempted": 115
+      },
+      "body": {
+        "landed": 28,
+        "attempted": 37
+      },
+      "leg": {
+        "landed": 53,
+        "attempted": 65
+      },
+      "distance": {
+        "landed": 127,
+        "attempted": 208
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 110,
+      "attempted": 288
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 114,
+      "attempted": 294
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 8
+    },
+    "takedown_pct": 12,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:20",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 63,
+        "attempted": 204
+      },
+      "body": {
+        "landed": 33,
+        "attempted": 65
+      },
+      "leg": {
+        "landed": 14,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 108,
+        "attempted": 283
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 1
+}

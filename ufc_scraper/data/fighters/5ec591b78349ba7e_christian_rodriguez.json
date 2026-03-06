@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5ec591b78349ba7e",
+  "fname": "Christian",
+  "sname": "Rodriguez",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ceerod",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1997-12-17",
+  "career_stats": {
+    "slpm": 3.85,
+    "str_acc": 50,
+    "sapm": 2.85,
+    "str_def": 56,
+    "td_avg": 1.75,
+    "td_acc": 40,
+    "td_def": 67,
+    "sub_avg": 1.1
+  }
+}

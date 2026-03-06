@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1a5378e32e8519ef",
+  "ufcstats_event_id": "8db1b36dde268ef6",
+  "ufcstats_fighter_red_id": "19c591115a58982c",
+  "ufcstats_fighter_blue_id": "72f890c5d421e705",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "72f890c5d421e705",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Adrian Castro",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Marcel Varela",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Chris Bolinski",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 65,
+      "attempted": 188
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 78,
+      "attempted": 201
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "0:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 40,
+        "attempted": 150
+      },
+      "body": {
+        "landed": 16,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 64,
+        "attempted": 186
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 39,
+      "attempted": 93
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 48,
+      "attempted": 104
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 10
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:22",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 79
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 37,
+        "attempted": 90
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 14
+}

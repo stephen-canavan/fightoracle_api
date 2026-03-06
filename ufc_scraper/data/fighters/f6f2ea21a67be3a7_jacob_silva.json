@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f6f2ea21a67be3a7",
+  "fname": "Jacob",
+  "sname": "Silva",
+  "record": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Lil Animal",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1988-02-23",
+  "career_stats": {
+    "slpm": 4.17,
+    "str_acc": 44,
+    "sapm": 4.92,
+    "str_def": 56,
+    "td_avg": 1.51,
+    "td_acc": 100,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

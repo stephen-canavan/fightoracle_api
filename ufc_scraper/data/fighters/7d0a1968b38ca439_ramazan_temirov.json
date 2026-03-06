@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7d0a1968b38ca439",
+  "fname": "Ramazan",
+  "sname": "Temirov",
+  "record": {
+    "wins": 19,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Temurlan",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1997-01-31",
+  "career_stats": {
+    "slpm": 4.37,
+    "str_acc": 40,
+    "sapm": 3.93,
+    "str_def": 59,
+    "td_avg": 0.84,
+    "td_acc": 50,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

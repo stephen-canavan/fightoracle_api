@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b4eeac608fc82f88",
+  "fname": "Yves",
+  "sname": "Jabouin",
+  "record": {
+    "wins": 20,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Tiger",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1979-05-30",
+  "career_stats": {
+    "slpm": 3.06,
+    "str_acc": 41,
+    "sapm": 2.93,
+    "str_def": 62,
+    "td_avg": 1.94,
+    "td_acc": 60,
+    "td_def": 82,
+    "sub_avg": 0.1
+  }
+}

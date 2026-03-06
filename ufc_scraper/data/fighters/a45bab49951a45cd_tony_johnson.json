@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a45bab49951a45cd",
+  "fname": "Tony",
+  "sname": "Johnson",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.0,
+    "str_acc": 53,
+    "sapm": 4.73,
+    "str_def": 31,
+    "td_avg": 2.0,
+    "td_acc": 22,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

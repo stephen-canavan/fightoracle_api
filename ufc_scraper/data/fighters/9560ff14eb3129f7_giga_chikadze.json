@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9560ff14eb3129f7",
+  "fname": "Giga",
+  "sname": "Chikadze",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ninja",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1988-08-25",
+  "career_stats": {
+    "slpm": 3.75,
+    "str_acc": 42,
+    "sapm": 3.47,
+    "str_def": 59,
+    "td_avg": 0.18,
+    "td_acc": 33,
+    "td_def": 65,
+    "sub_avg": 0.2
+  }
+}

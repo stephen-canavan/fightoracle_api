@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "530af2900b5a1693",
+  "fname": "Dom",
+  "sname": "Mar Fan",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Street Buddha",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "2000-03-19",
+  "career_stats": {
+    "slpm": 3.71,
+    "str_acc": 56,
+    "sapm": 2.49,
+    "str_def": 44,
+    "td_avg": 2.0,
+    "td_acc": 50,
+    "td_def": 66,
+    "sub_avg": 0.3
+  }
+}

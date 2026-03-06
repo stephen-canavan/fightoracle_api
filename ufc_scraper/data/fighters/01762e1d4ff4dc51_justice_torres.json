@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "01762e1d4ff4dc51",
+  "fname": "Justice",
+  "sname": "Torres",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "1997-10-19",
+  "career_stats": {
+    "slpm": 0.79,
+    "str_acc": 22,
+    "sapm": 8.29,
+    "str_def": 53,
+    "td_avg": 5.92,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

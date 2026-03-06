@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8ef4a91ac694b7ce",
+  "fname": "Shayna",
+  "sname": "Baszler",
+  "record": {
+    "wins": 15,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Queen of Spades",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1980-08-08",
+  "career_stats": {
+    "slpm": 2.49,
+    "str_acc": 30,
+    "sapm": 6.36,
+    "str_def": 51,
+    "td_avg": 0.67,
+    "td_acc": 18,
+    "td_def": 44,
+    "sub_avg": 1.3
+  }
+}

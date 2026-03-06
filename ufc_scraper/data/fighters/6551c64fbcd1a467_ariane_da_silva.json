@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6551c64fbcd1a467",
+  "fname": "Ariane",
+  "sname": "da Silva",
+  "record": {
+    "wins": 17,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Queen of Violence",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1994-01-26",
+  "career_stats": {
+    "slpm": 4.05,
+    "str_acc": 41,
+    "sapm": 4.4,
+    "str_def": 50,
+    "td_avg": 0.47,
+    "td_acc": 38,
+    "td_def": 68,
+    "sub_avg": 0.3
+  }
+}

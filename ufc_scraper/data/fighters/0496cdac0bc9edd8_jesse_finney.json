@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0496cdac0bc9edd8",
+  "fname": "Jesse",
+  "sname": "Finney",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1974-07-11",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

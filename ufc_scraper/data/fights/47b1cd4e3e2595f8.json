@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "47b1cd4e3e2595f8",
+  "ufcstats_event_id": "319c15b8aac5bfde",
+  "ufcstats_fighter_red_id": "eabf206b162b3b83",
+  "ufcstats_fighter_blue_id": "0845c81e37d3bcb3",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Lukasz Bosacki",
+  "ufcstats_winner_id": "0845c81e37d3bcb3",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "David Lethaby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Vito Paolillo",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Cezary Wojciechowski",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 33,
+      "attempted": 126
+    },
+    "sig_strikes_pct": 26,
+    "total_strikes": {
+      "landed": 41,
+      "attempted": 136
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 15
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 102
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 120
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 72,
+      "attempted": 129
+    },
+    "sig_strikes_pct": 55,
+    "total_strikes": {
+      "landed": 108,
+      "attempted": 170
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 101
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 17,
+        "attempted": 17
+      },
+      "distance": {
+        "landed": 50,
+        "attempted": 97
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 16,
+        "attempted": 26
+      }
+    }
+  },
+  "card_position": 6
+}

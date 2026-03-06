@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "008dc37cca279def",
+  "fname": "Sean",
+  "sname": "McCorkle",
+  "record": {
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 200.7,
+  "weight_lbs": 265,
+  "reach_cm": 205.7,
+  "stance": "Orthodox",
+  "dob": "1976-07-17",
+  "career_stats": {
+    "slpm": 0.85,
+    "str_acc": 44,
+    "sapm": 2.48,
+    "str_def": 52,
+    "td_avg": 2.12,
+    "td_acc": 40,
+    "td_def": 33,
+    "sub_avg": 4.2
+  }
+}

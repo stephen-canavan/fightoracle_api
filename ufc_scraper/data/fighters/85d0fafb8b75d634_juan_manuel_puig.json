@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "85d0fafb8b75d634",
+  "fname": "Juan",
+  "sname": "Manuel Puig",
+  "record": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fenix",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1989-04-23",
+  "career_stats": {
+    "slpm": 4.91,
+    "str_acc": 23,
+    "sapm": 7.17,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

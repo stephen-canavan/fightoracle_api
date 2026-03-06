@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "86bace9e4ad85542",
+  "fname": "Xiao",
+  "sname": "Long",
+  "record": {
+    "wins": 27,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1998-04-13",
+  "career_stats": {
+    "slpm": 5.25,
+    "str_acc": 46,
+    "sapm": 4.2,
+    "str_def": 50,
+    "td_avg": 0.69,
+    "td_acc": 25,
+    "td_def": 79,
+    "sub_avg": 0.0
+  }
+}

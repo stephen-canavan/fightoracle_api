@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e88b83dea18f5d31",
+  "fname": "Pauline",
+  "sname": "Macias",
+  "record": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "PITA",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": 162.6,
+  "stance": "Southpaw",
+  "dob": "1988-06-27",
+  "career_stats": {
+    "slpm": 0.8,
+    "str_acc": 29,
+    "sapm": 4.6,
+    "str_def": 42,
+    "td_avg": 2.0,
+    "td_acc": 18,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c7be22a47a58365a",
+  "fname": "Christina",
+  "sname": "Marks",
+  "record": {
+    "wins": 8,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1985-11-08",
+  "career_stats": {
+    "slpm": 5.0,
+    "str_acc": 58,
+    "sapm": 3.0,
+    "str_def": 64,
+    "td_avg": 7.5,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6747ccd6d1acd266",
+  "fname": "Shamil",
+  "sname": "Gaziev",
+  "record": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1990-02-10",
+  "career_stats": {
+    "slpm": 2.62,
+    "str_acc": 47,
+    "sapm": 3.97,
+    "str_def": 45,
+    "td_avg": 0.93,
+    "td_acc": 30,
+    "td_def": 83,
+    "sub_avg": 0.3
+  }
+}

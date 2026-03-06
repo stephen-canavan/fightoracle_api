@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "a1db4c917777aa79",
+  "ufcstats_event_id": "b60391da771deefe",
+  "ufcstats_fighter_red_id": "19ffeb5e3fffd6d5",
+  "ufcstats_fighter_blue_id": "598a58db87b890ee",
+  "method": "Submission",
+  "method_details": "Armbar",
+  "round": 1,
+  "time": "0:14",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "19ffeb5e3fffd6d5",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 10
+}

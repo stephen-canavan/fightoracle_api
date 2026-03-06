@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "e2503ed6a1f9257d",
+  "ufcstats_event_id": "53278852bcd91e11",
+  "ufcstats_fighter_red_id": "94527830000ab715",
+  "ufcstats_fighter_blue_id": "be0b310a12eb80b4",
+  "method": "DRAW-MAJ",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Julio Catarino",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Hallison Pontes",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Guilherme Bravo",
+      "red": 28,
+      "blue": 28
+    }
+  ],
+  "ufcstats_winner_id": null,
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 24,
+      "attempted": 45
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 58,
+      "attempted": 83
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "4:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 30
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 19,
+        "attempted": 38
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 5
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 57,
+      "attempted": 86
+    },
+    "sig_strikes_pct": 66,
+    "total_strikes": {
+      "landed": 148,
+      "attempted": 187
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "6:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 39,
+        "attempted": 65
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 20
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 10,
+        "attempted": 36
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 46,
+        "attempted": 49
+      }
+    }
+  },
+  "card_position": 9
+}

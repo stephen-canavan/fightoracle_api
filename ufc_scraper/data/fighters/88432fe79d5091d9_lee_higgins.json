@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "88432fe79d5091d9",
+  "fname": "Lee",
+  "sname": "Higgins",
+  "record": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1980-07-14",
+  "career_stats": {
+    "slpm": 1.02,
+    "str_acc": 26,
+    "sapm": 3.68,
+    "str_def": 40,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

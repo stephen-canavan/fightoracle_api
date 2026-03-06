@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "11f8860028b68fcf",
+  "fname": "Aaron",
+  "sname": "Rosa",
+  "record": {
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1983-05-28",
+  "career_stats": {
+    "slpm": 4.03,
+    "str_acc": 47,
+    "sapm": 4.41,
+    "str_def": 45,
+    "td_avg": 0.36,
+    "td_acc": 33,
+    "td_def": 85,
+    "sub_avg": 0.4
+  }
+}

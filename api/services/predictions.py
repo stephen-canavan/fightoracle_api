@@ -10,7 +10,7 @@ WINNER_ONLY = 10
 
 
 def is_decision(method):
-    return method is not None and method in {Method.DEC, Method.SPLIT}
+    return method is not None and method in {Method.DEC, Method.DEC_U, Method.DEC_MAJ, Method.DEC_SPLIT}
 
 
 def is_finishing_method(method):

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4408865b4e65e374",
+  "fname": "Maria",
+  "sname": "Silva",
+  "record": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Viuva Negra",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "1995-12-19",
+  "career_stats": {
+    "slpm": 3.0,
+    "str_acc": 57,
+    "sapm": 1.13,
+    "str_def": 62,
+    "td_avg": 2.0,
+    "td_acc": 100,
+    "td_def": 55,
+    "sub_avg": 0.5
+  }
+}

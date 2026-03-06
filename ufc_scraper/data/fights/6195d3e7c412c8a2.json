@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6195d3e7c412c8a2",
+  "ufcstats_event_id": "44aa652b181bcf68",
+  "ufcstats_fighter_red_id": "5444c5a201d3ee5a",
+  "ufcstats_fighter_blue_id": "025f0b1b58fbad01",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Dan Miragliotta",
+  "ufcstats_winner_id": "5444c5a201d3ee5a",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Tiffany Sorber",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 101,
+      "attempted": 233
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 102,
+      "attempted": 236
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 49,
+        "attempted": 167
+      },
+      "body": {
+        "landed": 40,
+        "attempted": 53
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 101,
+        "attempted": 232
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 72
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 32,
+      "attempted": 81
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 9
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 20,
+        "attempted": 56
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 25,
+        "attempted": 59
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 5
+}

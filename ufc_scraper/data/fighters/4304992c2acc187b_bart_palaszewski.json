@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4304992c2acc187b",
+  "fname": "Bart",
+  "sname": "Palaszewski",
+  "record": {
+    "wins": 36,
+    "losses": 17,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bartimus",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1983-05-30",
+  "career_stats": {
+    "slpm": 2.67,
+    "str_acc": 32,
+    "sapm": 3.97,
+    "str_def": 57,
+    "td_avg": 0.65,
+    "td_acc": 31,
+    "td_def": 53,
+    "sub_avg": 0.5
+  }
+}

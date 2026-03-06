@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dcdd511ff757f15c",
+  "fname": "Oli",
+  "sname": "Thompson",
+  "record": {
+    "wins": 17,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 242,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1980-01-02",
+  "career_stats": {
+    "slpm": 1.66,
+    "str_acc": 46,
+    "sapm": 5.31,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.5
+  }
+}

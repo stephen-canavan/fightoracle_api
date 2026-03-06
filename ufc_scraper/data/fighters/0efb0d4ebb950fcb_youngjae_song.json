@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0efb0d4ebb950fcb",
+  "fname": "YoungJae",
+  "sname": "Song",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Super Rookie",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1996-01-03",
+  "career_stats": {
+    "slpm": 3.33,
+    "str_acc": 58,
+    "sapm": 2.33,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 45,
+    "sub_avg": 0.0
+  }
+}

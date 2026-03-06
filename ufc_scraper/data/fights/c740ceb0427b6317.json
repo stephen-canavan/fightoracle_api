@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c740ceb0427b6317",
+  "ufcstats_event_id": "706404da0775dcbc",
+  "ufcstats_fighter_red_id": "cbd3e590a85b18c5",
+  "ufcstats_fighter_blue_id": "3f56b99447f00607",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Neil Hall",
+  "ufcstats_winner_id": "cbd3e590a85b18c5",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Jespar Gunnarson",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Paul Sutherland",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Howard Hughes",
+      "red": 25,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 34,
+      "attempted": 56
+    },
+    "sig_strikes_pct": 60,
+    "total_strikes": {
+      "landed": 154,
+      "attempted": 194
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "13:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 33,
+        "attempted": 55
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 16
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 29,
+        "attempted": 40
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 2,
+      "attempted": 7
+    },
+    "sig_strikes_pct": 28,
+    "total_strikes": {
+      "landed": 16,
+      "attempted": 22
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

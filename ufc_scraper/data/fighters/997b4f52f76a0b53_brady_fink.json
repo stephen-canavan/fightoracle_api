@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "997b4f52f76a0b53",
+  "fname": "Brady",
+  "sname": "Fink",
+  "record": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-05-23",
+  "career_stats": {
+    "slpm": 1.69,
+    "str_acc": 41,
+    "sapm": 1.69,
+    "str_def": 61,
+    "td_avg": 3.63,
+    "td_acc": 25,
+    "td_def": 0,
+    "sub_avg": 3.6
+  }
+}

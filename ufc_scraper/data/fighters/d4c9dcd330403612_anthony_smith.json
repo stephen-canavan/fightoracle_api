@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d4c9dcd330403612",
+  "fname": "Anthony",
+  "sname": "Smith",
+  "record": {
+    "wins": 38,
+    "losses": 22,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Lionheart",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1988-07-26",
+  "career_stats": {
+    "slpm": 3.19,
+    "str_acc": 49,
+    "sapm": 5.04,
+    "str_def": 44,
+    "td_avg": 0.44,
+    "td_acc": 22,
+    "td_def": 50,
+    "sub_avg": 0.6
+  }
+}

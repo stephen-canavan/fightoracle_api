@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d61316139d68dbe3",
+  "fname": "Roman",
+  "sname": "Bogatov",
+  "record": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1990-12-15",
+  "career_stats": {
+    "slpm": 3.33,
+    "str_acc": 42,
+    "sapm": 4.4,
+    "str_def": 44,
+    "td_avg": 1.0,
+    "td_acc": 9,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

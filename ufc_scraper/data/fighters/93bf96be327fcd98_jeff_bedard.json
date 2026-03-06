@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "93bf96be327fcd98",
+  "fname": "Jeff",
+  "sname": "Bedard",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Little Popeye",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-02-06",
+  "career_stats": {
+    "slpm": 0.8,
+    "str_acc": 51,
+    "sapm": 0.0,
+    "str_def": 100,
+    "td_avg": 3.43,
+    "td_acc": 66,
+    "td_def": 100,
+    "sub_avg": 2.6
+  }
+}

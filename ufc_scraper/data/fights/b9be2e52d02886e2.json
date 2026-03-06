@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "b9be2e52d02886e2",
+  "ufcstats_event_id": "fc31f896cde2bc2e",
+  "ufcstats_fighter_red_id": "c21a036b4e012f1c",
+  "ufcstats_fighter_blue_id": "cd7763bcadb5d4c8",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Dan Miragliotta",
+  "ufcstats_winner_id": "cd7763bcadb5d4c8",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Ricardo Almeida",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Sue Sanidad",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Cardo Urso",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 61,
+      "attempted": 129
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 66,
+      "attempted": 134
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 77
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 38
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 51,
+        "attempted": 108
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 21
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 40,
+      "attempted": 134
+    },
+    "sig_strikes_pct": 29,
+    "total_strikes": {
+      "landed": 42,
+      "attempted": 136
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 11
+    },
+    "takedown_pct": 18,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:40",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 103
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 22
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 121
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

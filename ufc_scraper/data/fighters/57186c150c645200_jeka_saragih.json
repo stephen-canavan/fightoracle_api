@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "57186c150c645200",
+  "fname": "Jeka",
+  "sname": "Saragih",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1995-01-01",
+  "career_stats": {
+    "slpm": 2.75,
+    "str_acc": 50,
+    "sapm": 2.82,
+    "str_def": 40,
+    "td_avg": 2.17,
+    "td_acc": 80,
+    "td_def": 66,
+    "sub_avg": 0.5
+  }
+}

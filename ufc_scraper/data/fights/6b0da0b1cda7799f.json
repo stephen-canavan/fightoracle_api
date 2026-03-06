@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6b0da0b1cda7799f",
+  "ufcstats_event_id": "307064d3e0f036c2",
+  "ufcstats_fighter_red_id": "f9f07bb5a43535ed",
+  "ufcstats_fighter_blue_id": "31123249b0bbf52e",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "f9f07bb5a43535ed",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Anders Ohlsson",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Paul Sutherland",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 39,
+      "attempted": 88
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 157,
+      "attempted": 209
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "4:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 68
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 12,
+        "attempted": 15
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 28,
+      "attempted": 37
+    },
+    "sig_strikes_pct": 75,
+    "total_strikes": {
+      "landed": 37,
+      "attempted": 52
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 6
+    },
+    "takedown_pct": 16,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 22
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 18
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 9,
+        "attempted": 11
+      }
+    }
+  },
+  "card_position": 2
+}

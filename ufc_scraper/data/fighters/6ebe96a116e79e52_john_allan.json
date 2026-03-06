@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6ebe96a116e79e52",
+  "fname": "John",
+  "sname": "Allan",
+  "record": {
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-02-22",
+  "career_stats": {
+    "slpm": 3.56,
+    "str_acc": 42,
+    "sapm": 5.74,
+    "str_def": 52,
+    "td_avg": 1.4,
+    "td_acc": 71,
+    "td_def": 50,
+    "sub_avg": 0.8
+  }
+}

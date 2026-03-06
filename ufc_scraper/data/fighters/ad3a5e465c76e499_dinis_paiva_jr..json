@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ad3a5e465c76e499",
+  "fname": "Dinis",
+  "sname": "Paiva Jr.",
+  "record": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sweetbread",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1988-05-26",
+  "career_stats": {
+    "slpm": 2.6,
+    "str_acc": 41,
+    "sapm": 2.73,
+    "str_def": 67,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 81,
+    "sub_avg": 0.0
+  }
+}

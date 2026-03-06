@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "226884e46a10865d",
+  "ufcstats_event_id": "1f9344211ca7fd60",
+  "ufcstats_fighter_red_id": "e5549c82bfb5582d",
+  "ufcstats_fighter_blue_id": "12ebd7d157e91701",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "e5549c82bfb5582d",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Rick Winter",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 108,
+      "attempted": 179
+    },
+    "sig_strikes_pct": 60,
+    "total_strikes": {
+      "landed": 165,
+      "attempted": 239
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 60,
+        "attempted": 120
+      },
+      "body": {
+        "landed": 41,
+        "attempted": 50
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 86,
+        "attempted": 151
+      },
+      "clinch": {
+        "landed": 22,
+        "attempted": 27
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 59,
+      "attempted": 147
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 72,
+      "attempted": 160
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 8
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 39,
+        "attempted": 119
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 52,
+        "attempted": 134
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a01a62132460a98d",
+  "fname": "Adam",
+  "sname": "Fugitt",
+  "record": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1989-01-12",
+  "career_stats": {
+    "slpm": 4.88,
+    "str_acc": 46,
+    "sapm": 5.33,
+    "str_def": 51,
+    "td_avg": 1.63,
+    "td_acc": 22,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1ddb480b601cefb1",
+  "fname": "Chance",
+  "sname": "Rencountre",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Black Eagle",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1986-12-31",
+  "career_stats": {
+    "slpm": 1.1,
+    "str_acc": 20,
+    "sapm": 3.62,
+    "str_def": 49,
+    "td_avg": 1.35,
+    "td_acc": 26,
+    "td_def": 16,
+    "sub_avg": 0.3
+  }
+}

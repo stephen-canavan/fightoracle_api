@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9be3728f3f7badb2",
+  "fname": "Moise",
+  "sname": "Rimbon",
+  "record": {
+    "wins": 23,
+    "losses": 11,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Swamp",
+  "height_cm": 177.8,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-04-20",
+  "career_stats": {
+    "slpm": 0.8,
+    "str_acc": 34,
+    "sapm": 1.0,
+    "str_def": 71,
+    "td_avg": 1.0,
+    "td_acc": 50,
+    "td_def": 37,
+    "sub_avg": 0.0
+  }
+}

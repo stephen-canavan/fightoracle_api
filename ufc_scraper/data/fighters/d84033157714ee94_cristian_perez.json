@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d84033157714ee94",
+  "fname": "Cristian",
+  "sname": "Perez",
+  "record": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Puas",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1999-08-17",
+  "career_stats": {
+    "slpm": 1.31,
+    "str_acc": 44,
+    "sapm": 3.23,
+    "str_def": 41,
+    "td_avg": 3.46,
+    "td_acc": 37,
+    "td_def": 100,
+    "sub_avg": 1.1
+  }
+}

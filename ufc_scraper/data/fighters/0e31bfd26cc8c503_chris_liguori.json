@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0e31bfd26cc8c503",
+  "fname": "Chris",
+  "sname": "Liguori",
+  "record": {
+    "wins": 15,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.29,
+    "str_acc": 33,
+    "sapm": 1.44,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

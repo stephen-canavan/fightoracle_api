@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "00b490982afd1b17",
+  "fname": "SangHoon",
+  "sname": "Yoo",
+  "record": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Assassin",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1990-01-18",
+  "career_stats": {
+    "slpm": 4.83,
+    "str_acc": 65,
+    "sapm": 6.11,
+    "str_def": 40,
+    "td_avg": 0.53,
+    "td_acc": 100,
+    "td_def": 69,
+    "sub_avg": 0.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a25f3dc0df974597",
+  "fname": "Pat",
+  "sname": "Benson",
+  "record": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1974-07-14",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

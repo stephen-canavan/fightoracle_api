@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5c84f673b7bb7c15",
+  "fname": "Cameron",
+  "sname": "Smotherman",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Baby-Faced Killa",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1997-09-17",
+  "career_stats": {
+    "slpm": 4.07,
+    "str_acc": 37,
+    "sapm": 3.52,
+    "str_def": 58,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

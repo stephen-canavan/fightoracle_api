@@ -35,6 +35,14 @@ class FightViewSet(viewsets.ViewSet):
 
     def list(self, request, **kwargs):
         fights = self.get_queryset()
+        
+        # Don't paginate when fetching fights for a specific event
+        event_id = self.kwargs.get("event_pk")
+        if event_id:
+            serializer = FightSerializer(fights, many=True)
+            return Response(serializer.data)
+        
+        # Paginate for other cases
         paginator = self.pagination_class()
         page = paginator.paginate_queryset(fights, request)
         serializer = FightSerializer(page, many=True)

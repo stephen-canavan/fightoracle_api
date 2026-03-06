@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b0c95dc8e858452c",
+  "fname": "Akira",
+  "sname": "Shoji",
+  "record": {
+    "wins": 14,
+    "losses": 17,
+    "draws": 5,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 195,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-01-31",
+  "career_stats": {
+    "slpm": 1.03,
+    "str_acc": 34,
+    "sapm": 2.63,
+    "str_def": 53,
+    "td_avg": 1.79,
+    "td_acc": 73,
+    "td_def": 82,
+    "sub_avg": 0.4
+  }
+}

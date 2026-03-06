@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "56c9acc4e86046a2",
+  "fname": "Chris",
+  "sname": "Kelades",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Greek Assassin",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1981-02-21",
+  "career_stats": {
+    "slpm": 2.4,
+    "str_acc": 43,
+    "sapm": 2.64,
+    "str_def": 48,
+    "td_avg": 1.04,
+    "td_acc": 18,
+    "td_def": 53,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7eaa5e31c2dd86aa",
+  "fname": "Nick",
+  "sname": "Klein",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Blue Collar",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1995-09-08",
+  "career_stats": {
+    "slpm": 2.51,
+    "str_acc": 56,
+    "sapm": 3.41,
+    "str_def": 39,
+    "td_avg": 5.79,
+    "td_acc": 35,
+    "td_def": 66,
+    "sub_avg": 1.9
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "671048cd1933855a",
+  "ufcstats_event_id": "d5f820c11a121050",
+  "ufcstats_fighter_red_id": "9c65736747ca92ec",
+  "ufcstats_fighter_blue_id": "14ff46596ad80609",
+  "method": "DRAW-MAJ",
+  "method_details": "Point Deducted: Grabbing Shorts by Parke",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Wernei Cardoso",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Vitor Pereira",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Fernando Amaral",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Mark Collett",
+      "red": 28,
+      "blue": 28
+    }
+  ],
+  "ufcstats_winner_id": null,
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 26,
+      "attempted": 73
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 50,
+      "attempted": 98
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 5
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 56
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 37,
+      "attempted": 124
+    },
+    "sig_strikes_pct": 29,
+    "total_strikes": {
+      "landed": 92,
+      "attempted": 188
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 8
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "8:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 94
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 18
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 97
+      },
+      "clinch": {
+        "landed": 17,
+        "attempted": 27
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 3
+}

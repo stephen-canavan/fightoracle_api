@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0d506315895efffc",
+  "fname": "Sean",
+  "sname": "Pierson",
+  "record": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Punisher",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 193.0,
+  "stance": "Southpaw",
+  "dob": "1976-03-10",
+  "career_stats": {
+    "slpm": 3.84,
+    "str_acc": 39,
+    "sapm": 3.73,
+    "str_def": 64,
+    "td_avg": 0.39,
+    "td_acc": 18,
+    "td_def": 66,
+    "sub_avg": 0.4
+  }
+}

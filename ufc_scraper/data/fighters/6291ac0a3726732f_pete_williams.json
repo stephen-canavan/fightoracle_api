@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6291ac0a3726732f",
+  "fname": "Pete",
+  "sname": "Williams",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Duro",
+  "height_cm": 190.5,
+  "weight_lbs": 235,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-07-10",
+  "career_stats": {
+    "slpm": 0.61,
+    "str_acc": 62,
+    "sapm": 2.77,
+    "str_def": 40,
+    "td_avg": 1.84,
+    "td_acc": 40,
+    "td_def": 16,
+    "sub_avg": 0.9
+  }
+}

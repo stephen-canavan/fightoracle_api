@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a56607a451e4c70d",
+  "fname": "Chris",
+  "sname": "Wilson",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Professor",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1977-06-07",
+  "career_stats": {
+    "slpm": 2.32,
+    "str_acc": 50,
+    "sapm": 1.36,
+    "str_def": 55,
+    "td_avg": 1.31,
+    "td_acc": 50,
+    "td_def": 60,
+    "sub_avg": 1.6
+  }
+}

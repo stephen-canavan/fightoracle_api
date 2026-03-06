@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "78d48d3874dacafd",
+  "fname": "Azunna",
+  "sname": "Anyanwu",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Zulu",
+  "height_cm": 185.4,
+  "weight_lbs": 251,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-08-05",
+  "career_stats": {
+    "slpm": 2.47,
+    "str_acc": 42,
+    "sapm": 2.47,
+    "str_def": 69,
+    "td_avg": 0.65,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

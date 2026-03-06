@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d1c65d2cf2925ddd",
+  "fname": "Gregory",
+  "sname": "Rodrigues",
+  "record": {
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Robocop",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1992-02-17",
+  "career_stats": {
+    "slpm": 5.6,
+    "str_acc": 51,
+    "sapm": 4.84,
+    "str_def": 50,
+    "td_avg": 1.93,
+    "td_acc": 34,
+    "td_def": 75,
+    "sub_avg": 0.4
+  }
+}

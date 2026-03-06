@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b40e65d71a8d4ce5",
+  "fname": "Ben",
+  "sname": "Lagman",
+  "record": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bad News",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1986-09-04",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

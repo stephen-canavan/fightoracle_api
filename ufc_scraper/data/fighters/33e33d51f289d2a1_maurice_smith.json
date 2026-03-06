@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "33e33d51f289d2a1",
+  "fname": "Maurice",
+  "sname": "Smith",
+  "record": {
+    "wins": 12,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 221,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1961-12-13",
+  "career_stats": {
+    "slpm": 0.41,
+    "str_acc": 46,
+    "sapm": 0.47,
+    "str_def": 60,
+    "td_avg": 0.89,
+    "td_acc": 50,
+    "td_def": 20,
+    "sub_avg": 0.9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "b297c3e938e1005e",
+  "ufcstats_event_id": "1c3f5e85b59ec710",
+  "ufcstats_fighter_red_id": "a6a9ab5a824e8f66",
+  "ufcstats_fighter_blue_id": "237187ed9f419285",
+  "method": "KO/TKO",
+  "method_details": "Punches to Head From Back Control\n      Submission to Strikes",
+  "round": 1,
+  "time": "2:01",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "a6a9ab5a824e8f66",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 10
+}

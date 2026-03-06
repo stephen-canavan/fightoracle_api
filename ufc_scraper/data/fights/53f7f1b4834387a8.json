@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "53f7f1b4834387a8",
+  "ufcstats_event_id": "6a0047ac8c99fece",
+  "ufcstats_fighter_red_id": "c742287ed86a09bc",
+  "ufcstats_fighter_blue_id": "ac7c765882f2c68c",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Chris Tognoni",
+  "ufcstats_winner_id": "ac7c765882f2c68c",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Adalaide Byrd",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Ron McCarthy",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 54,
+      "attempted": 125
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 98,
+      "attempted": 174
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 13
+    },
+    "takedown_pct": 7,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 89
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 112
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 117,
+      "attempted": 188
+    },
+    "sig_strikes_pct": 62,
+    "total_strikes": {
+      "landed": 229,
+      "attempted": 306
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 84,
+        "attempted": 145
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 24
+      },
+      "distance": {
+        "landed": 110,
+        "attempted": 181
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

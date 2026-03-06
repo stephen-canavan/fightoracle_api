@@ -3,7 +3,7 @@
   "fname": "Ryan",
   "sname": "Gandra",
   "record": {
-    "wins": 8,
+    "wins": 9,
     "losses": 1,
     "draws": 0,
     "no_contests": 0,
@@ -16,10 +16,10 @@
   "stance": "Orthodox",
   "dob": "1995-05-08",
   "career_stats": {
-    "slpm": 11.23,
-    "str_acc": 51,
-    "sapm": 2.11,
-    "str_def": 79,
+    "slpm": 13.02,
+    "str_acc": 50,
+    "sapm": 1.7,
+    "str_def": 81,
     "td_avg": 0.0,
     "td_acc": 0,
     "td_def": 100,

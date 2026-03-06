@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "24ac3d1bee1610ef",
+  "ufcstats_event_id": "8dc4f34c1f50d00d",
+  "ufcstats_fighter_red_id": "5f87a5c00b3d17ed",
+  "ufcstats_fighter_blue_id": "40093d1d2d78394e",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Kristian Hacklou",
+  "ufcstats_winner_id": "5f87a5c00b3d17ed",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Jim Bergman",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Ben Cartlidge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Paul Sutherland",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 33,
+      "attempted": 86
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 109,
+      "attempted": 171
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 2,
+    "control_time": "8:51",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 84
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 22,
+      "attempted": 91
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 29,
+      "attempted": 99
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 3,
+    "control_time": "0:55",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 15,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 89
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 7
+}

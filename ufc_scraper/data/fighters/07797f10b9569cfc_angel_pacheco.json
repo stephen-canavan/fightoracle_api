@@ -4,7 +4,7 @@
   "sname": "Pacheco",
   "record": {
     "wins": 7,
-    "losses": 3,
+    "losses": 4,
     "draws": 0,
     "no_contests": 0,
     "dqs": 0
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1992-01-13",
   "career_stats": {
-    "slpm": 9.5,
-    "str_acc": 39,
-    "sapm": 11.47,
+    "slpm": 7.58,
+    "str_acc": 36,
+    "sapm": 10.56,
     "str_def": 41,
-    "td_avg": 0.0,
-    "td_acc": 0,
-    "td_def": 28,
+    "td_avg": 0.33,
+    "td_acc": 50,
+    "td_def": 16,
     "sub_avg": 0.0
   }
 }

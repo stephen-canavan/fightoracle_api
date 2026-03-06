@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0941df56f6ac954b",
+  "fname": "Johny",
+  "sname": "Hendricks",
+  "record": {
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bigg Rigg",
+  "height_cm": 175.3,
+  "weight_lbs": 185,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1983-09-12",
+  "career_stats": {
+    "slpm": 3.49,
+    "str_acc": 45,
+    "sapm": 3.99,
+    "str_def": 53,
+    "td_avg": 3.83,
+    "td_acc": 46,
+    "td_def": 63,
+    "sub_avg": 0.3
+  }
+}

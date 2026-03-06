@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "000774e57404d8c7",
+  "fname": "Chungreng",
+  "sname": "Koren",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Indian Rhino",
+  "height_cm": null,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1998-02-01",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e51ee8ded927fc51",
+  "fname": "Chris",
+  "sname": "de la Rocha",
+  "record": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 250,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1979-05-15",
+  "career_stats": {
+    "slpm": 4.08,
+    "str_acc": 45,
+    "sapm": 6.37,
+    "str_def": 43,
+    "td_avg": 2.02,
+    "td_acc": 30,
+    "td_def": 33,
+    "sub_avg": 1.0
+  }
+}

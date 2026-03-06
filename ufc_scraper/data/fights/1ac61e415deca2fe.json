@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1ac61e415deca2fe",
+  "ufcstats_event_id": "ea0ad155451ed1f5",
+  "ufcstats_fighter_red_id": "2b93ebd9f5417ad2",
+  "ufcstats_fighter_blue_id": "4130a743d9d22163",
+  "method": "Decision - Unanimous",
+  "method_details": "Technical Decision - Eye Poke",
+  "round": 3,
+  "time": "4:31",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "2b93ebd9f5417ad2",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Eric Colon",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Cardo Urso",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 93,
+      "attempted": 225
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 94,
+      "attempted": 226
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 64,
+        "attempted": 187
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 26,
+        "attempted": 31
+      },
+      "distance": {
+        "landed": 92,
+        "attempted": 221
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 29,
+      "attempted": 150
+    },
+    "sig_strikes_pct": 19,
+    "total_strikes": {
+      "landed": 29,
+      "attempted": 150
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 111
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 20
+      },
+      "distance": {
+        "landed": 29,
+        "attempted": 150
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

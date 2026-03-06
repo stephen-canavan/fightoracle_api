@@ -17,10 +17,18 @@ class EventSerializer(serializers.ModelSerializer):
             "venue",
             "date",
             "status",
+            "banner_image",
         ]
 
 
 class EventSummarySerializer(serializers.ModelSerializer):
+    promotion_logo = serializers.SerializerMethodField()
+    
     class Meta:
         model = Event
-        fields = ["id", "name", "date", "status"]
+        fields = ["id", "name", "date", "status", "promotion_logo", "banner_image", "city", "country"]
+    
+    def get_promotion_logo(self, obj):
+        if obj.promotion and obj.promotion.logo:
+            return obj.promotion.logo.url
+        return None

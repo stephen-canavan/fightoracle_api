@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "56bc9ccb609df534",
+  "fname": "Chuck",
+  "sname": "O'Neil",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cold Steel",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-09-22",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 37,
+    "sapm": 4.4,
+    "str_def": 72,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

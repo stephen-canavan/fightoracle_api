@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fb37795db81f93f3",
+  "fname": "Bogdan",
+  "sname": "Grad",
+  "record": {
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Unleashed",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1995-09-28",
+  "career_stats": {
+    "slpm": 4.06,
+    "str_acc": 51,
+    "sapm": 5.06,
+    "str_def": 49,
+    "td_avg": 4.22,
+    "td_acc": 40,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

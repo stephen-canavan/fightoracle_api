@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "ad0bac98558900af",
+  "ufcstats_event_id": "6810d8d2dd557cf9",
+  "ufcstats_fighter_red_id": "98aa60cf58071fd6",
+  "ufcstats_fighter_blue_id": "3dd92ff9fb0412b3",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Grant Waterman",
+  "ufcstats_winner_id": "98aa60cf58071fd6",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "scorecards": [
+    {
+      "judge": "Andreas Gruner",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Pawel Harasim",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Paul Sutherland",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 55,
+      "attempted": 92
+    },
+    "sig_strikes_pct": 59,
+    "total_strikes": {
+      "landed": 115,
+      "attempted": 161
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 9
+    },
+    "takedown_pct": 44,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:32",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 47,
+        "attempted": 81
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 26,
+        "attempted": 58
+      },
+      "clinch": {
+        "landed": 27,
+        "attempted": 32
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 84
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 48,
+      "attempted": 97
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 6
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:50",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 9,
+        "attempted": 47
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 66
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 6
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "38e5d9dcb0fddc42",
+  "fname": "Eric",
+  "sname": "Lawson",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-02-12",
+  "career_stats": {
+    "slpm": 1.58,
+    "str_acc": 57,
+    "sapm": 1.97,
+    "str_def": 44,
+    "td_avg": 8.88,
+    "td_acc": 42,
+    "td_def": 0,
+    "sub_avg": 3.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ebbf571f349e79d9",
+  "fname": "Jonas",
+  "sname": "Bilharinho",
+  "record": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 145,
+  "reach_cm": 190.5,
+  "stance": "Switch",
+  "dob": "1990-05-22",
+  "career_stats": {
+    "slpm": 3.71,
+    "str_acc": 60,
+    "sapm": 3.36,
+    "str_def": 57,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

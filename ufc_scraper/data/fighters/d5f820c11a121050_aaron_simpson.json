@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d5f820c11a121050",
+  "fname": "Aaron",
+  "sname": "Simpson",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "A-Train",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1974-07-20",
+  "career_stats": {
+    "slpm": 3.6,
+    "str_acc": 52,
+    "sapm": 2.53,
+    "str_def": 56,
+    "td_avg": 3.78,
+    "td_acc": 34,
+    "td_def": 83,
+    "sub_avg": 0.5
+  }
+}

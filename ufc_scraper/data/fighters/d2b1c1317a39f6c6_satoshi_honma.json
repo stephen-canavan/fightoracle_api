@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d2b1c1317a39f6c6",
+  "fname": "Satoshi",
+  "sname": "Honma",
+  "record": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-05-19",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

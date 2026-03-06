@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5a9104718439ef44",
+  "fname": "Cameron",
+  "sname": "Olson",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cap'n Crunch",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1989-11-22",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 47,
+    "sapm": 2.2,
+    "str_def": 57,
+    "td_avg": 3.0,
+    "td_acc": 42,
+    "td_def": 100,
+    "sub_avg": 1.0
+  }
+}

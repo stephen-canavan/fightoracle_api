@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "06c60fc2c8dcd7bd",
+  "fname": "Takashi",
+  "sname": "Sugiura",
+  "record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 225,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1970-05-31",
+  "career_stats": {
+    "slpm": 1.37,
+    "str_acc": 40,
+    "sapm": 2.08,
+    "str_def": 53,
+    "td_avg": 1.33,
+    "td_acc": 66,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8f2deefe8c5dfb5d",
+  "fname": "Alberto",
+  "sname": "Uda",
+  "record": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1984-08-08",
+  "career_stats": {
+    "slpm": 1.79,
+    "str_acc": 52,
+    "sapm": 3.49,
+    "str_def": 45,
+    "td_avg": 2.83,
+    "td_acc": 50,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

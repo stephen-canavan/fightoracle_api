@@ -11,6 +11,23 @@
   "ufcstats_winner_id": "0d7b51c9d2649a6e",
   "is_title_fight": true,
   "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Ben Cartlidge",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 45,
+      "blue": 50
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 45,
+      "blue": 50
+    }
+  ],
   "fighter_red_stats": {
     "knockdowns": 0,
     "sig_strikes": {
@@ -102,5 +119,6 @@
         "attempted": 0
       }
     }
-  }
+  },
+  "card_position": 1
 }

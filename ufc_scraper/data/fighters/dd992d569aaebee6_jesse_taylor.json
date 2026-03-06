@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dd992d569aaebee6",
+  "fname": "Jesse",
+  "sname": "Taylor",
+  "record": {
+    "wins": 31,
+    "losses": 15,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "JT Money",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1983-01-02",
+  "career_stats": {
+    "slpm": 1.94,
+    "str_acc": 65,
+    "sapm": 0.55,
+    "str_def": 38,
+    "td_avg": 7.28,
+    "td_acc": 50,
+    "td_def": 100,
+    "sub_avg": 3.1
+  }
+}

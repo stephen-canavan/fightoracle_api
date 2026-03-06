@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "d4e3baff532df842",
+  "ufcstats_event_id": "a890f9a791ed615d",
+  "ufcstats_fighter_red_id": "f1b2aa7853d1ed6e",
+  "ufcstats_fighter_blue_id": "cf615eb4b7862c76",
+  "method": "Submission",
+  "method_details": "Arm Triangle From Mount",
+  "round": 2,
+  "time": "1:19",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "f1b2aa7853d1ed6e",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter 21 Welterweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 15,
+      "attempted": 26
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 31,
+      "attempted": 43
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 8
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "5:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 21
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 4,
+        "attempted": 9
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 13
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 3,
+      "attempted": 11
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 7,
+      "attempted": 15
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 10
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 8
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

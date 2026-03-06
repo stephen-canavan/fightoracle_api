@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1a7d44196949577c",
+  "fname": "Reyes",
+  "sname": "Cortez Jr.",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1992-07-31",
+  "career_stats": {
+    "slpm": 4.1,
+    "str_acc": 45,
+    "sapm": 7.43,
+    "str_def": 52,
+    "td_avg": 1.5,
+    "td_acc": 11,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

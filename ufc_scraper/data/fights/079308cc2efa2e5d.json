@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "079308cc2efa2e5d",
+  "ufcstats_event_id": "155a02a8b4311057",
+  "ufcstats_fighter_red_id": "80eacd4da0617c57",
+  "ufcstats_fighter_blue_id": "f53c1f4ceeed8c08",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jacob Montalvo",
+  "ufcstats_winner_id": "80eacd4da0617c57",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "scorecards": [
+    {
+      "judge": "Jennie Cardenas",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Anthony Townsend",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Nick Wright",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 94,
+      "attempted": 199
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 96,
+      "attempted": 201
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:28",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 60,
+        "attempted": 153
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 27
+      },
+      "leg": {
+        "landed": 17,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 73,
+        "attempted": 173
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 22
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 4
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 37,
+      "attempted": 149
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 59,
+      "attempted": 171
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 30,
+        "attempted": 132
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 129
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 5
+}

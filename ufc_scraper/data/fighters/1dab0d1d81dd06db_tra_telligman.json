@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1dab0d1d81dd06db",
+  "fname": "Tra",
+  "sname": "Telligman",
+  "record": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Trauma",
+  "height_cm": 188.0,
+  "weight_lbs": 233,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1965-02-07",
+  "career_stats": {
+    "slpm": 1.83,
+    "str_acc": 35,
+    "sapm": 3.02,
+    "str_def": 56,
+    "td_avg": 0.87,
+    "td_acc": 100,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

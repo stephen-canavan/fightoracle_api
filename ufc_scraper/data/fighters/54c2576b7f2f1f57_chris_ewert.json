@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "54c2576b7f2f1f57",
+  "fname": "Chris",
+  "sname": "Ewert",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Tanke",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-09-06",
+  "career_stats": {
+    "slpm": 3.4,
+    "str_acc": 37,
+    "sapm": 4.33,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

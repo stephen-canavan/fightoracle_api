@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "f087a10a6f2bcc99",
+  "ufcstats_event_id": "f6a7b02c42e9fc5b",
+  "ufcstats_fighter_red_id": "68d35296f566792b",
+  "ufcstats_fighter_blue_id": "3eb4dc9a7d4ac906",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mark Smith",
+  "ufcstats_winner_id": "68d35296f566792b",
+  "is_title_fight": false,
+  "weight_class": "Women's Featherweight",
+  "scorecards": [
+    {
+      "judge": "Doug Crosby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 2,
+    "sig_strikes": {
+      "landed": 98,
+      "attempted": 222
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 119,
+      "attempted": 245
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 83,
+        "attempted": 205
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 79,
+        "attempted": 192
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 13
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 52,
+      "attempted": 100
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 71,
+      "attempted": 121
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 10
+    },
+    "takedown_pct": 30,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:41",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 22
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 89
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 7
+}

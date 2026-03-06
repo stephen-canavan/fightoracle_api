@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0cf9f5518d6063bb",
+  "fname": "Angelo",
+  "sname": "Trevino",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Baby Monsta",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Switch",
+  "dob": "1993-06-10",
+  "career_stats": {
+    "slpm": 5.19,
+    "str_acc": 54,
+    "sapm": 3.9,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5e7a28f20927d64a",
+  "fname": "Kazuo",
+  "sname": "Misaki",
+  "record": {
+    "wins": 25,
+    "losses": 11,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hitman",
+  "height_cm": 172.7,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-04-25",
+  "career_stats": {
+    "slpm": 2.85,
+    "str_acc": 40,
+    "sapm": 2.74,
+    "str_def": 63,
+    "td_avg": 0.72,
+    "td_acc": 38,
+    "td_def": 51,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a296ad1d238d97df",
+  "fname": "Matheus",
+  "sname": "Scheffel",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Buffa",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1992-11-04",
+  "career_stats": {
+    "slpm": 1.33,
+    "str_acc": 36,
+    "sapm": 3.0,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

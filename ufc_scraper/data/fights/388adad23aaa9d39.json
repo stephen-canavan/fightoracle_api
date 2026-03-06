@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "388adad23aaa9d39",
+  "ufcstats_event_id": "cbb682f5fcc44bfc",
+  "ufcstats_fighter_red_id": "887961364be5ceb3",
+  "ufcstats_fighter_blue_id": "b7b84ccd221be298",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mike Beltran",
+  "ufcstats_winner_id": "887961364be5ceb3",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Sal D'amato",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Doug Crosby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Patrick Patlan",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 188,
+      "attempted": 355
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 188,
+      "attempted": 355
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 152,
+        "attempted": 313
+      },
+      "body": {
+        "landed": 26,
+        "attempted": 32
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 188,
+        "attempted": 355
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 76,
+      "attempted": 193
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 76,
+      "attempted": 193
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 48,
+        "attempted": 150
+      },
+      "body": {
+        "landed": 21,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 76,
+        "attempted": 193
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "117a06469813e4ef",
+  "fname": "ChangHo",
+  "sname": "Lee",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1994-05-09",
+  "career_stats": {
+    "slpm": 3.88,
+    "str_acc": 66,
+    "sapm": 2.13,
+    "str_def": 37,
+    "td_avg": 3.2,
+    "td_acc": 34,
+    "td_def": 40,
+    "sub_avg": 0.3
+  }
+}

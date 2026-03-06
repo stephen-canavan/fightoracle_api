@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9e91d7fd2720e241",
+  "fname": "Ryo",
+  "sname": "Kawamura",
+  "record": {
+    "wins": 18,
+    "losses": 9,
+    "draws": 4,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-06-29",
+  "career_stats": {
+    "slpm": 0.6,
+    "str_acc": 16,
+    "sapm": 3.93,
+    "str_def": 39,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 6,
+    "sub_avg": 0.0
+  }
+}

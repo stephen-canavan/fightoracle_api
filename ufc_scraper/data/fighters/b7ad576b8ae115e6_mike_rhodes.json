@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b7ad576b8ae115e6",
+  "fname": "Mike",
+  "sname": "Rhodes",
+  "record": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Biggie",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1989-12-04",
+  "career_stats": {
+    "slpm": 3.2,
+    "str_acc": 39,
+    "sapm": 4.13,
+    "str_def": 64,
+    "td_avg": 0.96,
+    "td_acc": 33,
+    "td_def": 75,
+    "sub_avg": 0.5
+  }
+}

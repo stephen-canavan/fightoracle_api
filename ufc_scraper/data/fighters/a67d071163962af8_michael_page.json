@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a67d071163962af8",
+  "fname": "Michael",
+  "sname": "Page",
+  "record": {
+    "wins": 24,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Venom",
+  "height_cm": 190.5,
+  "weight_lbs": 170,
+  "reach_cm": 200.7,
+  "stance": "Switch",
+  "dob": "1987-04-07",
+  "career_stats": {
+    "slpm": 2.39,
+    "str_acc": 60,
+    "sapm": 1.68,
+    "str_def": 57,
+    "td_avg": 0.23,
+    "td_acc": 16,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

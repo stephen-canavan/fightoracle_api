@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c93eebe24aa0299d",
+  "ufcstats_event_id": "bbb15f301e4a490a",
+  "ufcstats_fighter_red_id": "132deb59abae64b1",
+  "ufcstats_fighter_blue_id": "8e1f36476ef02a6a",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "132deb59abae64b1",
+  "is_title_fight": true,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Sal D'amato",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Mike Bell",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 46,
+      "blue": 49
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 62,
+      "attempted": 119
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 249,
+      "attempted": 317
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 6
+    },
+    "takedown_pct": 83,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "9:34",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 46,
+        "attempted": 100
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 50,
+        "attempted": 103
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 14
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 88
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 94,
+      "attempted": 152
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "7:51",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 72
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 23,
+        "attempted": 73
+      },
+      "clinch": {
+        "landed": 11,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 2
+}

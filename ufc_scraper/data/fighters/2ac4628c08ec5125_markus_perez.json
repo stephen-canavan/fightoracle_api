@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2ac4628c08ec5125",
+  "fname": "Markus",
+  "sname": "Perez",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Maluko",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1988-06-22",
+  "career_stats": {
+    "slpm": 2.6,
+    "str_acc": 47,
+    "sapm": 3.72,
+    "str_def": 52,
+    "td_avg": 0.81,
+    "td_acc": 25,
+    "td_def": 77,
+    "sub_avg": 1.0
+  }
+}

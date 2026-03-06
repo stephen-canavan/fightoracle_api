@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2c2caf2f2bab9df5",
+  "fname": "Humberto",
+  "sname": "Bandenay",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1994-09-04",
+  "career_stats": {
+    "slpm": 2.22,
+    "str_acc": 41,
+    "sapm": 4.79,
+    "str_def": 41,
+    "td_avg": 2.9,
+    "td_acc": 46,
+    "td_def": 62,
+    "sub_avg": 0.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d0e50a3d1b250708",
+  "fname": "Andre",
+  "sname": "Soukhamthath",
+  "record": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Asian Sensation",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1988-10-23",
+  "career_stats": {
+    "slpm": 2.77,
+    "str_acc": 44,
+    "sapm": 4.31,
+    "str_def": 49,
+    "td_avg": 1.25,
+    "td_acc": 53,
+    "td_def": 58,
+    "sub_avg": 0.2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3b0a516d2921e0d6",
+  "fname": "Batgerel",
+  "sname": "Danaa",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Storm",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1989-07-04",
+  "career_stats": {
+    "slpm": 5.38,
+    "str_acc": 36,
+    "sapm": 4.21,
+    "str_def": 47,
+    "td_avg": 0.52,
+    "td_acc": 50,
+    "td_def": 62,
+    "sub_avg": 0.0
+  }
+}

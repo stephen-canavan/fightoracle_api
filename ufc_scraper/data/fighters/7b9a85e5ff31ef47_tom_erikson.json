@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7b9a85e5ff31ef47",
+  "fname": "Tom",
+  "sname": "Erikson",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Big Cat",
+  "height_cm": 190.5,
+  "weight_lbs": 280,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1964-07-06",
+  "career_stats": {
+    "slpm": 0.94,
+    "str_acc": 47,
+    "sapm": 1.87,
+    "str_def": 25,
+    "td_avg": 4.68,
+    "td_acc": 60,
+    "td_def": 100,
+    "sub_avg": 6.2
+  }
+}

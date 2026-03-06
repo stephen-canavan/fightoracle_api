@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b490def93478ae29",
+  "fname": "Kyle",
+  "sname": "Kurtz",
+  "record": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.31,
+    "str_acc": 36,
+    "sapm": 2.95,
+    "str_def": 52,
+    "td_avg": 1.23,
+    "td_acc": 20,
+    "td_def": 0,
+    "sub_avg": 2.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9e50097a89442158",
+  "fname": "Mickey",
+  "sname": "Gall",
+  "record": {
+    "wins": 7,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Switch",
+  "dob": "1992-01-22",
+  "career_stats": {
+    "slpm": 3.5,
+    "str_acc": 49,
+    "sapm": 4.72,
+    "str_def": 49,
+    "td_avg": 1.15,
+    "td_acc": 32,
+    "td_def": 37,
+    "sub_avg": 1.6
+  }
+}

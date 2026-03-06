@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f197ce0cbe69996d",
+  "fname": "Cameron",
+  "sname": "Church",
+  "record": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1990-09-27",
+  "career_stats": {
+    "slpm": 4.0,
+    "str_acc": 40,
+    "sapm": 4.93,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 60,
+    "sub_avg": 1.0
+  }
+}

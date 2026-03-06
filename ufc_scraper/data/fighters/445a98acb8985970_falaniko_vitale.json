@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "445a98acb8985970",
+  "fname": "Falaniko",
+  "sname": "Vitale",
+  "record": {
+    "wins": 30,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Niko",
+  "height_cm": 177.8,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-07-14",
+  "career_stats": {
+    "slpm": 1.88,
+    "str_acc": 49,
+    "sapm": 3.68,
+    "str_def": 47,
+    "td_avg": 0.72,
+    "td_acc": 33,
+    "td_def": 86,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "009341ed974bad72",
+  "fname": "Jiri",
+  "sname": "Prochazka",
+  "record": {
+    "wins": 32,
+    "losses": 5,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1992-10-14",
+  "career_stats": {
+    "slpm": 5.69,
+    "str_acc": 55,
+    "sapm": 5.6,
+    "str_def": 45,
+    "td_avg": 0.51,
+    "td_acc": 60,
+    "td_def": 68,
+    "sub_avg": 0.2
+  }
+}

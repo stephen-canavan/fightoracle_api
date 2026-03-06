@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "72db2a14ffa73ece",
+  "fname": "Mateusz",
+  "sname": "Gamrot",
+  "record": {
+    "wins": 25,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gamer",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1990-12-11",
+  "career_stats": {
+    "slpm": 3.29,
+    "str_acc": 51,
+    "sapm": 2.96,
+    "str_def": 59,
+    "td_avg": 5.15,
+    "td_acc": 37,
+    "td_def": 83,
+    "sub_avg": 0.1
+  }
+}

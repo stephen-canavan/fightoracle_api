@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6a8a06b542e1516d",
+  "fname": "Michiyoshi",
+  "sname": "Ohara",
+  "record": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1967-11-15",
+  "career_stats": {
+    "slpm": 0.28,
+    "str_acc": 29,
+    "sapm": 3.13,
+    "str_def": 48,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

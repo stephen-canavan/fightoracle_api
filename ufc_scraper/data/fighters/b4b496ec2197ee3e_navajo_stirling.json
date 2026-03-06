@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b4b496ec2197ee3e",
+  "fname": "Navajo",
+  "sname": "Stirling",
+  "record": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1997-11-07",
+  "career_stats": {
+    "slpm": 6.13,
+    "str_acc": 52,
+    "sapm": 2.6,
+    "str_def": 58,
+    "td_avg": 1.15,
+    "td_acc": 28,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

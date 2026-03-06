@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c398235fcaf8d71d",
+  "fname": "Kelly",
+  "sname": "Kobold",
+  "record": {
+    "wins": 19,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Blood Red",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-02-25",
+  "career_stats": {
+    "slpm": 2.33,
+    "str_acc": 21,
+    "sapm": 4.11,
+    "str_def": 59,
+    "td_avg": 1.67,
+    "td_acc": 11,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

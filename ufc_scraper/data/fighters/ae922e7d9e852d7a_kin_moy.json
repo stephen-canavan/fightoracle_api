@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ae922e7d9e852d7a",
+  "fname": "Kin",
+  "sname": "Moy",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kong",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.3,
+    "str_acc": 33,
+    "sapm": 1.93,
+    "str_def": 62,
+    "td_avg": 1.67,
+    "td_acc": 42,
+    "td_def": 50,
+    "sub_avg": 1.7
+  }
+}

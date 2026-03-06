@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c16454a3205506c6",
+  "ufcstats_event_id": "59aaf2730b84698a",
+  "ufcstats_fighter_red_id": "4bcb6eb12b4ad4aa",
+  "ufcstats_fighter_blue_id": "52e76bb4b3e852f3",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "52e76bb4b3e852f3",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter Brazil 3 Heavyweight Tournament",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Vinicius Lins",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Richard Bertrand",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 21,
+      "attempted": 47
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 103,
+      "attempted": 136
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 4,
+        "attempted": 15
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 21
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 41
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 6
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 19,
+      "attempted": 70
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 33,
+      "attempted": 85
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 6
+    },
+    "takedown_pct": 83,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "8:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 61
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 9,
+        "attempted": 48
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 15
+      }
+    }
+  },
+  "card_position": 2
+}

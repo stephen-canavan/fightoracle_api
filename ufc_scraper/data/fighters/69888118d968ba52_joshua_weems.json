@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "69888118d968ba52",
+  "fname": "Joshua",
+  "sname": "Weems",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Wide Open",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1994-05-05",
+  "career_stats": {
+    "slpm": 5.25,
+    "str_acc": 64,
+    "sapm": 3.34,
+    "str_def": 61,
+    "td_avg": 4.77,
+    "td_acc": 40,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

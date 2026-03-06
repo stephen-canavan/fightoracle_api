@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7cdd3e5d3aa9cb39",
+  "fname": "Yan",
+  "sname": "Cabral",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1983-05-13",
+  "career_stats": {
+    "slpm": 2.02,
+    "str_acc": 47,
+    "sapm": 1.98,
+    "str_def": 62,
+    "td_avg": 2.89,
+    "td_acc": 35,
+    "td_def": 37,
+    "sub_avg": 1.2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fd55393021a8c255",
+  "fname": "Gunnar",
+  "sname": "Nelson",
+  "record": {
+    "wins": 19,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gunni",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Switch",
+  "dob": "1988-07-28",
+  "career_stats": {
+    "slpm": 1.77,
+    "str_acc": 61,
+    "sapm": 3.06,
+    "str_def": 48,
+    "td_avg": 2.0,
+    "td_acc": 52,
+    "td_def": 68,
+    "sub_avg": 1.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "20999e27ddd94bda",
+  "fname": "Ryan",
+  "sname": "Benoit",
+  "record": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Baby Face",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1989-08-25",
+  "career_stats": {
+    "slpm": 2.88,
+    "str_acc": 39,
+    "sapm": 3.65,
+    "str_def": 58,
+    "td_avg": 0.28,
+    "td_acc": 22,
+    "td_def": 72,
+    "sub_avg": 0.4
+  }
+}

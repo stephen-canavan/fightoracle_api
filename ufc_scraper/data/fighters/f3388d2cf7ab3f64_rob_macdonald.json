@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f3388d2cf7ab3f64",
+  "fname": "Rob",
+  "sname": "MacDonald",
+  "record": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Maximus",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1978-09-05",
+  "career_stats": {
+    "slpm": 1.8,
+    "str_acc": 50,
+    "sapm": 2.04,
+    "str_def": 46,
+    "td_avg": 7.19,
+    "td_acc": 80,
+    "td_def": 80,
+    "sub_avg": 5.4
+  }
+}

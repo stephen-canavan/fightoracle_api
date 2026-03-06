@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "de47c33e48b0ce38",
+  "fname": "Mikey",
+  "sname": "Gonzalez",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rolls",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1985-08-13",
+  "career_stats": {
+    "slpm": 0.91,
+    "str_acc": 16,
+    "sapm": 14.55,
+    "str_def": 11,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

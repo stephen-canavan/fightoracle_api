@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6da99156486ed6c2",
+  "fname": "Joshua",
+  "sname": "Burkman",
+  "record": {
+    "wins": 28,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The People's Warrior",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1980-04-10",
+  "career_stats": {
+    "slpm": 2.69,
+    "str_acc": 43,
+    "sapm": 3.13,
+    "str_def": 51,
+    "td_avg": 2.53,
+    "td_acc": 36,
+    "td_def": 72,
+    "sub_avg": 0.3
+  }
+}

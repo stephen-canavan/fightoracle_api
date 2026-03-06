@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e132d47bd9efbbe0",
+  "fname": "Rafa",
+  "sname": "Garcia",
+  "record": {
+    "wins": 18,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gifted",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1994-08-05",
+  "career_stats": {
+    "slpm": 4.31,
+    "str_acc": 45,
+    "sapm": 4.54,
+    "str_def": 61,
+    "td_avg": 3.13,
+    "td_acc": 44,
+    "td_def": 76,
+    "sub_avg": 0.5
+  }
+}

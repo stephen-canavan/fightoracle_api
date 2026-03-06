@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b034747dc1d15491",
+  "fname": "Kazuhiro",
+  "sname": "Nakamura",
+  "record": {
+    "wins": 21,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kaz",
+  "height_cm": 180.3,
+  "weight_lbs": 205,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1979-07-16",
+  "career_stats": {
+    "slpm": 1.56,
+    "str_acc": 37,
+    "sapm": 1.83,
+    "str_def": 59,
+    "td_avg": 1.73,
+    "td_acc": 36,
+    "td_def": 42,
+    "sub_avg": 0.6
+  }
+}

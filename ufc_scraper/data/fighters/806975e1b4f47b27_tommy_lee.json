@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "806975e1b4f47b27",
+  "fname": "Tommy",
+  "sname": "Lee",
+  "record": {
+    "wins": 25,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-01-20",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.3,
+    "str_def": 75,
+    "td_avg": 4.57,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

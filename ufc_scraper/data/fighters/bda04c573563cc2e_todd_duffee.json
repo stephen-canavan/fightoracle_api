@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bda04c573563cc2e",
+  "fname": "Todd",
+  "sname": "Duffee",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 260,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1985-12-06",
+  "career_stats": {
+    "slpm": 5.93,
+    "str_acc": 37,
+    "sapm": 2.87,
+    "str_def": 56,
+    "td_avg": 0.72,
+    "td_acc": 25,
+    "td_def": 90,
+    "sub_avg": 0.0
+  }
+}

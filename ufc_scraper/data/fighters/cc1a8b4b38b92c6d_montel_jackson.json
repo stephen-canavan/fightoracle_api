@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cc1a8b4b38b92c6d",
+  "fname": "Montel",
+  "sname": "Jackson",
+  "record": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quik",
+  "height_cm": 177.8,
+  "weight_lbs": 135,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1992-04-24",
+  "career_stats": {
+    "slpm": 3.09,
+    "str_acc": 52,
+    "sapm": 1.4,
+    "str_def": 61,
+    "td_avg": 3.0,
+    "td_acc": 63,
+    "td_def": 67,
+    "sub_avg": 0.3
+  }
+}

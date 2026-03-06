@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f4a031ac205ac580",
+  "fname": "Masaaki",
+  "sname": "Satake",
+  "record": {
+    "wins": 1,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 220,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1965-08-17",
+  "career_stats": {
+    "slpm": 1.4,
+    "str_acc": 35,
+    "sapm": 3.76,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 58,
+    "sub_avg": 0.0
+  }
+}

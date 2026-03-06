@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "17753b728e5404aa",
+  "ufcstats_event_id": "e31502e3f79d00c5",
+  "ufcstats_fighter_red_id": "cb696ebfb6598724",
+  "ufcstats_fighter_blue_id": "6bd02119599741a4",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marc Goddard",
+  "ufcstats_winner_id": "cb696ebfb6598724",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Gabriel Sabaitis",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Ron McCarthy",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Brian Puccillo",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 174,
+      "attempted": 349
+    },
+    "sig_strikes_pct": 49,
+    "total_strikes": {
+      "landed": 175,
+      "attempted": 350
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 7
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 123,
+        "attempted": 250
+      },
+      "body": {
+        "landed": 36,
+        "attempted": 73
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 26
+      },
+      "distance": {
+        "landed": 172,
+        "attempted": 338
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 105,
+      "attempted": 265
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 108,
+      "attempted": 269
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 159
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 64
+      },
+      "leg": {
+        "landed": 32,
+        "attempted": 42
+      },
+      "distance": {
+        "landed": 102,
+        "attempted": 257
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

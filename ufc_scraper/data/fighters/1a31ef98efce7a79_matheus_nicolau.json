@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1a31ef98efce7a79",
+  "fname": "Matheus",
+  "sname": "Nicolau",
+  "record": {
+    "wins": 19,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1993-01-06",
+  "career_stats": {
+    "slpm": 3.31,
+    "str_acc": 51,
+    "sapm": 2.98,
+    "str_def": 65,
+    "td_avg": 1.22,
+    "td_acc": 43,
+    "td_def": 90,
+    "sub_avg": 0.8
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ff222167cce02919",
+  "fname": "Bruno",
+  "sname": "Assis",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Brunao",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1992-05-23",
+  "career_stats": {
+    "slpm": 1.27,
+    "str_acc": 43,
+    "sapm": 3.2,
+    "str_def": 36,
+    "td_avg": 2.0,
+    "td_acc": 50,
+    "td_def": 66,
+    "sub_avg": 1.0
+  }
+}

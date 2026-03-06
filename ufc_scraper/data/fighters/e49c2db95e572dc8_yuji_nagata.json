@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e49c2db95e572dc8",
+  "fname": "Yuji",
+  "sname": "Nagata",
+  "record": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 225,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-04-24",
+  "career_stats": {
+    "slpm": 1.45,
+    "str_acc": 40,
+    "sapm": 14.46,
+    "str_def": 4,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

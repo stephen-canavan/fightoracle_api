@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3a24769a4855040a",
+  "fname": "Diego",
+  "sname": "Nunes",
+  "record": {
+    "wins": 19,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gun",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1982-11-30",
+  "career_stats": {
+    "slpm": 2.72,
+    "str_acc": 43,
+    "sapm": 2.59,
+    "str_def": 58,
+    "td_avg": 1.18,
+    "td_acc": 44,
+    "td_def": 65,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9fa568ad2bf2cb0b",
+  "fname": "Justin",
+  "sname": "Scoggins",
+  "record": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "1992-05-02",
+  "career_stats": {
+    "slpm": 3.56,
+    "str_acc": 51,
+    "sapm": 2.16,
+    "str_def": 55,
+    "td_avg": 3.42,
+    "td_acc": 63,
+    "td_def": 82,
+    "sub_avg": 0.5
+  }
+}

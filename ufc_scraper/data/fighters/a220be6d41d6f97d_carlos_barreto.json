@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a220be6d41d6f97d",
+  "fname": "Carlos",
+  "sname": "Barreto",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 230,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-07-22",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

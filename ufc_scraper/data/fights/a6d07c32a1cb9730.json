@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "a6d07c32a1cb9730",
+  "ufcstats_event_id": "49590e0508b2c19f",
+  "ufcstats_fighter_red_id": "917e53fa0adea0d3",
+  "ufcstats_fighter_blue_id": "bfc2fc38a0e20211",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Troy Waugh",
+  "ufcstats_winner_id": "bfc2fc38a0e20211",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Ric Bays",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Richard Davis",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 2,
+      "attempted": 69
+    },
+    "sig_strikes_pct": 2,
+    "total_strikes": {
+      "landed": 30,
+      "attempted": 101
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 62
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 61,
+      "attempted": 113
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 136,
+      "attempted": 194
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 7
+    },
+    "takedown_pct": 57,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "9:37",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 59,
+        "attempted": 106
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 8,
+        "attempted": 20
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 52,
+        "attempted": 89
+      }
+    }
+  },
+  "card_position": 7
+}

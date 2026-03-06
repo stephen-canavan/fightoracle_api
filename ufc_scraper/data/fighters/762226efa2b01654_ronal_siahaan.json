@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "762226efa2b01654",
+  "fname": "Ronal",
+  "sname": "Siahaan",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Naga Sakti",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1996-05-05",
+  "career_stats": {
+    "slpm": 0.63,
+    "str_acc": 66,
+    "sapm": 6.17,
+    "str_def": 25,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fc8610cc15674ae2",
+  "fname": "Leslie",
+  "sname": "Hernandez",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Dora The Destroyer",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "1997-12-29",
+  "career_stats": {
+    "slpm": 3.6,
+    "str_acc": 58,
+    "sapm": 2.53,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 54,
+    "sub_avg": 0.0
+  }
+}

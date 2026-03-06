@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b72f3cafa6376e35",
+  "fname": "Robert",
+  "sname": "Densley",
+  "record": {
+    "wins": 9,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Wrecker",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.81,
+    "str_acc": 47,
+    "sapm": 0.4,
+    "str_def": 60,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

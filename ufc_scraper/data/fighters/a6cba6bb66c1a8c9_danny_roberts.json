@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a6cba6bb66c1a8c9",
+  "fname": "Danny",
+  "sname": "Roberts",
+  "record": {
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hot Chocolate",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1987-07-14",
+  "career_stats": {
+    "slpm": 3.18,
+    "str_acc": 39,
+    "sapm": 3.73,
+    "str_def": 50,
+    "td_avg": 0.24,
+    "td_acc": 9,
+    "td_def": 57,
+    "sub_avg": 0.2
+  }
+}

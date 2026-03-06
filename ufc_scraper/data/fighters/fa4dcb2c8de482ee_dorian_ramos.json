@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fa4dcb2c8de482ee",
+  "fname": "Dorian",
+  "sname": "Ramos",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1993-12-31",
+  "career_stats": {
+    "slpm": 2.3,
+    "str_acc": 52,
+    "sapm": 2.67,
+    "str_def": 47,
+    "td_avg": 1.82,
+    "td_acc": 25,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1bf49bf829964144",
+  "fname": "Akihito",
+  "sname": "Tanaka",
+  "record": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kinniku Mantaro",
+  "height_cm": null,
+  "weight_lbs": null,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1983-03-09",
+  "career_stats": {
+    "slpm": 0.19,
+    "str_acc": 50,
+    "sapm": 2.05,
+    "str_def": 38,
+    "td_avg": 5.59,
+    "td_acc": 66,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

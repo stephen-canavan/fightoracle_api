@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "7d0874323bd1f768",
+  "ufcstats_event_id": "40389d39a92f5bfa",
+  "ufcstats_fighter_red_id": "c9a94278df042f46",
+  "ufcstats_fighter_blue_id": "d31a5546c0e9b213",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test By Nascimento",
+  "round": 2,
+  "time": "1:29",
+  "referee": "Chris Tognoni",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 60,
+      "attempted": 91
+    },
+    "sig_strikes_pct": 65,
+    "total_strikes": {
+      "landed": 73,
+      "attempted": 104
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 64
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 7
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 49,
+      "attempted": 83
+    },
+    "sig_strikes_pct": 59,
+    "total_strikes": {
+      "landed": 51,
+      "attempted": 85
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:39",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 41,
+        "attempted": 75
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 45,
+        "attempted": 75
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

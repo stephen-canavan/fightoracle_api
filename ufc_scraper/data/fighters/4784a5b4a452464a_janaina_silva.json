@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4784a5b4a452464a",
+  "fname": "Janaina",
+  "sname": "Silva",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Jana-Iron-Hand",
+  "height_cm": 154.9,
+  "weight_lbs": 115,
+  "reach_cm": 152.4,
+  "stance": "Orthodox",
+  "dob": "1992-02-16",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 1.5,
+    "str_def": 62,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

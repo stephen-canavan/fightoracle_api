@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "013da757877044a2",
+  "fname": "Joe",
+  "sname": "Brammer",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The South Side Strangler",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-08-23",
+  "career_stats": {
+    "slpm": 2.15,
+    "str_acc": 31,
+    "sapm": 2.8,
+    "str_def": 56,
+    "td_avg": 0.81,
+    "td_acc": 50,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

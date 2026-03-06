@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "98c23cb6da5b3352",
+  "fname": "Aleksei",
+  "sname": "Oleinik",
+  "record": {
+    "wins": 60,
+    "losses": 17,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Boa Constrictor",
+  "height_cm": 188.0,
+  "weight_lbs": 240,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1977-06-20",
+  "career_stats": {
+    "slpm": 3.29,
+    "str_acc": 48,
+    "sapm": 3.8,
+    "str_def": 44,
+    "td_avg": 1.82,
+    "td_acc": 46,
+    "td_def": 37,
+    "sub_avg": 1.9
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cc3878d1ab41a5fa",
+  "fname": "Zach",
+  "sname": "Zane",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hurricane",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1989-12-14",
+  "career_stats": {
+    "slpm": 0.87,
+    "str_acc": 56,
+    "sapm": 6.67,
+    "str_def": 20,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 26,
+    "sub_avg": 0.0
+  }
+}

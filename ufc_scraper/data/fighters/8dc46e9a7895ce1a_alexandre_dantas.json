@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8dc46e9a7895ce1a",
+  "fname": "Alexandre",
+  "sname": "Dantas",
+  "record": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cafe",
+  "height_cm": 188.0,
+  "weight_lbs": 238,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-03-01",
+  "career_stats": {
+    "slpm": 0.21,
+    "str_acc": 25,
+    "sapm": 1.87,
+    "str_def": 60,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 3.1
+  }
+}

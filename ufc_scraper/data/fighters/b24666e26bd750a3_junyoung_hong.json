@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b24666e26bd750a3",
+  "fname": "JunYoung",
+  "sname": "Hong",
+  "record": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Drunken Red",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1990-12-18",
+  "career_stats": {
+    "slpm": 2.1,
+    "str_acc": 39,
+    "sapm": 2.3,
+    "str_def": 48,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 35,
+    "sub_avg": 0.0
+  }
+}

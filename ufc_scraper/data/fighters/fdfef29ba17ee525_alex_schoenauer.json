@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fdfef29ba17ee525",
+  "fname": "Alex",
+  "sname": "Schoenauer",
+  "record": {
+    "wins": 15,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-05-05",
+  "career_stats": {
+    "slpm": 1.22,
+    "str_acc": 40,
+    "sapm": 2.27,
+    "str_def": 42,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 22,
+    "sub_avg": 4.9
+  }
+}

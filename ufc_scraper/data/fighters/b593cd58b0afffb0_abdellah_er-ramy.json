@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b593cd58b0afffb0",
+  "fname": "Abdellah",
+  "sname": "Er-Ramy",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Golden Boy",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1996-09-19",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 8.4,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

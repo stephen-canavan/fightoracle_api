@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "13150cf89a5b81e0",
+  "fname": "Brandon",
+  "sname": "Hester",
+  "record": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Beast",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 3.53,
+    "str_acc": 53,
+    "sapm": 0.4,
+    "str_def": 68,
+    "td_avg": 4.0,
+    "td_acc": 80,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

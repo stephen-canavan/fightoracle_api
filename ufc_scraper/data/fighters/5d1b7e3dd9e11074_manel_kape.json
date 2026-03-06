@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5d1b7e3dd9e11074",
+  "fname": "Manel",
+  "sname": "Kape",
+  "record": {
+    "wins": 22,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "StarBoy",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1993-11-14",
+  "career_stats": {
+    "slpm": 5.04,
+    "str_acc": 56,
+    "sapm": 4.08,
+    "str_def": 57,
+    "td_avg": 0.4,
+    "td_acc": 30,
+    "td_def": 81,
+    "sub_avg": 0.3
+  }
+}

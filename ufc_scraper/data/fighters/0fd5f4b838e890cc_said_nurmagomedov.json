@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0fd5f4b838e890cc",
+  "fname": "Said",
+  "sname": "Nurmagomedov",
+  "record": {
+    "wins": 18,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1992-04-05",
+  "career_stats": {
+    "slpm": 3.08,
+    "str_acc": 48,
+    "sapm": 2.05,
+    "str_def": 55,
+    "td_avg": 0.86,
+    "td_acc": 15,
+    "td_def": 63,
+    "sub_avg": 1.1
+  }
+}

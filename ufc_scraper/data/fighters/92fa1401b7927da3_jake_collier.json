@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "92fa1401b7927da3",
+  "fname": "Jake",
+  "sname": "Collier",
+  "record": {
+    "wins": 13,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Prototype",
+  "height_cm": 190.5,
+  "weight_lbs": 230,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1988-10-25",
+  "career_stats": {
+    "slpm": 5.8,
+    "str_acc": 44,
+    "sapm": 5.08,
+    "str_def": 50,
+    "td_avg": 0.71,
+    "td_acc": 33,
+    "td_def": 67,
+    "sub_avg": 0.6
+  }
+}

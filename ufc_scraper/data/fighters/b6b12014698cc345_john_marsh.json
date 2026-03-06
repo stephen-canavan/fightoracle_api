@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b6b12014698cc345",
+  "fname": "John",
+  "sname": "Marsh",
+  "record": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-09-15",
+  "career_stats": {
+    "slpm": 0.83,
+    "str_acc": 42,
+    "sapm": 2.23,
+    "str_def": 40,
+    "td_avg": 0.43,
+    "td_acc": 100,
+    "td_def": 54,
+    "sub_avg": 0.4
+  }
+}

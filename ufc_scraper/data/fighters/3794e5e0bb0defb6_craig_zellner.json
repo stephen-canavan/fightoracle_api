@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3794e5e0bb0defb6",
+  "fname": "Craig",
+  "sname": "Zellner",
+  "record": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Z",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-09-09",
+  "career_stats": {
+    "slpm": 0.61,
+    "str_acc": 9,
+    "sapm": 4.65,
+    "str_def": 61,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

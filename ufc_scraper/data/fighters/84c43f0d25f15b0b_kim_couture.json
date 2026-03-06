@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "84c43f0d25f15b0b",
+  "fname": "Kim",
+  "sname": "Couture",
+  "record": {
+    "wins": 3,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sugar Free",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-12-18",
+  "career_stats": {
+    "slpm": 12.12,
+    "str_acc": 80,
+    "sapm": 2.31,
+    "str_def": 69,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

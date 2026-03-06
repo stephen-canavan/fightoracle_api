@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "709fadb644ee3f51",
+  "fname": "Diyar",
+  "sname": "Nurgozhay",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1997-04-22",
+  "career_stats": {
+    "slpm": 3.04,
+    "str_acc": 50,
+    "sapm": 2.99,
+    "str_def": 61,
+    "td_avg": 2.54,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

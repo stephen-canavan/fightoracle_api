@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4e30e4250cb08b61",
+  "fname": "Loma",
+  "sname": "Lookboonmee",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 154.9,
+  "weight_lbs": 115,
+  "reach_cm": 154.9,
+  "stance": "Orthodox",
+  "dob": "1996-01-18",
+  "career_stats": {
+    "slpm": 3.67,
+    "str_acc": 55,
+    "sapm": 2.52,
+    "str_def": 53,
+    "td_avg": 1.81,
+    "td_acc": 50,
+    "td_def": 68,
+    "sub_avg": 0.1
+  }
+}

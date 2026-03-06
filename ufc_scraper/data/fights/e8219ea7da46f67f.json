@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "e8219ea7da46f67f",
+  "ufcstats_event_id": "fc9a9559a05f2704",
+  "ufcstats_fighter_red_id": "80eacd4da0617c57",
+  "ufcstats_fighter_blue_id": "aa72b0f831d0bfe5",
+  "method": "KO/TKO",
+  "method_details": "Punch to Head At Distance\n      Non-title fight for Figueiredo; missed weight",
+  "round": 2,
+  "time": "1:54",
+  "referee": "Dan Miragliotta",
+  "ufcstats_winner_id": "aa72b0f831d0bfe5",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 46,
+      "attempted": 94
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 46,
+      "attempted": 94
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:10",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 63
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 18
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 78
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 16
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 49
+    },
+    "sig_strikes_pct": 51,
+    "total_strikes": {
+      "landed": 25,
+      "attempted": 49
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:26",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 39
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 44
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 1
+}

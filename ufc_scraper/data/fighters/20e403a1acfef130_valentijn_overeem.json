@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "20e403a1acfef130",
+  "fname": "Valentijn",
+  "sname": "Overeem",
+  "record": {
+    "wins": 30,
+    "losses": 32,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 230,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-08-17",
+  "career_stats": {
+    "slpm": 0.93,
+    "str_acc": 34,
+    "sapm": 1.49,
+    "str_def": 58,
+    "td_avg": 1.86,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 4.7
+  }
+}

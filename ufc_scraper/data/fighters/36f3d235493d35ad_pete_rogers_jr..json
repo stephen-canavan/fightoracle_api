@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "36f3d235493d35ad",
+  "fname": "Pete",
+  "sname": "Rogers Jr.",
+  "record": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Heat",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.66,
+    "str_acc": 15,
+    "sapm": 1.71,
+    "str_def": 65,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

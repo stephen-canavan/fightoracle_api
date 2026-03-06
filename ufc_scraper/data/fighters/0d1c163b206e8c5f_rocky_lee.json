@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0d1c163b206e8c5f",
+  "fname": "Rocky",
+  "sname": "Lee",
+  "record": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-04-08",
+  "career_stats": {
+    "slpm": 2.47,
+    "str_acc": 51,
+    "sapm": 5.33,
+    "str_def": 44,
+    "td_avg": 1.0,
+    "td_acc": 10,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

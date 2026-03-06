@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "10f3ba6cd2f44a97",
+  "fname": "Dominick",
+  "sname": "Cruz",
+  "record": {
+    "wins": 24,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Dominator",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1985-03-09",
+  "career_stats": {
+    "slpm": 3.91,
+    "str_acc": 33,
+    "sapm": 2.61,
+    "str_def": 70,
+    "td_avg": 2.82,
+    "td_acc": 42,
+    "td_def": 83,
+    "sub_avg": 0.1
+  }
+}

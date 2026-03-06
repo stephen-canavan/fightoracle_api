@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a72a2a769fa5a2be",
+  "fname": "Anshul",
+  "sname": "Jubli",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "King of Lions",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Switch",
+  "dob": "1995-01-13",
+  "career_stats": {
+    "slpm": 6.42,
+    "str_acc": 46,
+    "sapm": 5.72,
+    "str_def": 50,
+    "td_avg": 0.81,
+    "td_acc": 18,
+    "td_def": 63,
+    "sub_avg": 0.4
+  }
+}

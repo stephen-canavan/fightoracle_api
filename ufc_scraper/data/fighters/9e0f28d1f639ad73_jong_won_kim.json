@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9e0f28d1f639ad73",
+  "fname": "Jong",
+  "sname": "Won Kim",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 139,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-11-20",
+  "career_stats": {
+    "slpm": 0.84,
+    "str_acc": 15,
+    "sapm": 3.28,
+    "str_def": 63,
+    "td_avg": 2.81,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

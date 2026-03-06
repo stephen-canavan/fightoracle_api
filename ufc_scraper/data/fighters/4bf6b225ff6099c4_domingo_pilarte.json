@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4bf6b225ff6099c4",
+  "fname": "Domingo",
+  "sname": "Pilarte",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Son of Fire",
+  "height_cm": 182.9,
+  "weight_lbs": 135,
+  "reach_cm": 185.4,
+  "stance": "Southpaw",
+  "dob": "1990-01-05",
+  "career_stats": {
+    "slpm": 1.31,
+    "str_acc": 47,
+    "sapm": 2.96,
+    "str_def": 40,
+    "td_avg": 1.2,
+    "td_acc": 42,
+    "td_def": 54,
+    "sub_avg": 0.8
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6c7020b859c7a3ce",
+  "fname": "Edimilson",
+  "sname": "Souza",
+  "record": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kevin",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1984-10-17",
+  "career_stats": {
+    "slpm": 4.65,
+    "str_acc": 44,
+    "sapm": 2.91,
+    "str_def": 58,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

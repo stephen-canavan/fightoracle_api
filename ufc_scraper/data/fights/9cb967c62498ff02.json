@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9cb967c62498ff02",
+  "ufcstats_event_id": "73ef22f25d0f70e2",
+  "ufcstats_fighter_red_id": "3236bf606fe9fa5b",
+  "ufcstats_fighter_blue_id": "a7d687e6ecb30981",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Josh Rosenthal",
+  "ufcstats_winner_id": "3236bf606fe9fa5b",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Cecil Peoples",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Mark Van Tine",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 45,
+      "attempted": 93
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 57,
+      "attempted": 106
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 24,
+        "attempted": 70
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 25,
+        "attempted": 63
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 12,
+        "attempted": 20
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 22,
+      "attempted": 57
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 102
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 43
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 51
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 4
+}

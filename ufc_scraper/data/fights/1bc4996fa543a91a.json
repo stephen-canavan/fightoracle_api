@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "1bc4996fa543a91a",
+  "ufcstats_event_id": "94609dd91731d428",
+  "ufcstats_fighter_red_id": "6506c1d34da9c013",
+  "ufcstats_fighter_blue_id": "349aaa3da11eb587",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "6506c1d34da9c013",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Nelson Hamilton",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Abe Belardo",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 46,
+      "attempted": 80
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 138,
+      "attempted": 177
+    },
+    "takedowns": {
+      "landed": 6,
+      "attempted": 8
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 0,
+    "reversals": 2,
+    "control_time": "12:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 29,
+        "attempted": 61
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 7,
+        "attempted": 15
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 39,
+        "attempted": 65
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 1,
+      "attempted": 7
+    },
+    "sig_strikes_pct": 14,
+    "total_strikes": {
+      "landed": 23,
+      "attempted": 33
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 4,
+    "reversals": 2,
+    "control_time": "0:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 6
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 6
+}

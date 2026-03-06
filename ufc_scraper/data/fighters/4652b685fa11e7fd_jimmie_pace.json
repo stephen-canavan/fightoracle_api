@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4652b685fa11e7fd",
+  "fname": "Jimmie",
+  "sname": "Pace",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Bucks",
+  "height_cm": null,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1996-04-09",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

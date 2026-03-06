@@ -4,7 +4,7 @@
   "sname": "Kareckaite",
   "record": {
     "wins": 6,
-    "losses": 1,
+    "losses": 2,
     "draws": 1,
     "no_contests": 0,
     "dqs": 0
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1998-07-05",
   "career_stats": {
-    "slpm": 7.38,
+    "slpm": 7.28,
     "str_acc": 42,
-    "sapm": 6.09,
-    "str_def": 48,
-    "td_avg": 0.67,
-    "td_acc": 66,
-    "td_def": 82,
+    "sapm": 6.47,
+    "str_def": 49,
+    "td_avg": 0.75,
+    "td_acc": 60,
+    "td_def": 81,
     "sub_avg": 0.0
   }
 }

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7c35f869033901ae",
+  "fname": "Riki",
+  "sname": "Fukuda",
+  "record": {
+    "wins": 24,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Southpaw",
+  "dob": "1981-01-06",
+  "career_stats": {
+    "slpm": 4.24,
+    "str_acc": 43,
+    "sapm": 3.71,
+    "str_def": 64,
+    "td_avg": 2.17,
+    "td_acc": 43,
+    "td_def": 70,
+    "sub_avg": 0.0
+  }
+}

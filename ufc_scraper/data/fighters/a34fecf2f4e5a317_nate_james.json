@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a34fecf2f4e5a317",
+  "fname": "Nate",
+  "sname": "James",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1978-05-29",
+  "career_stats": {
+    "slpm": 1.33,
+    "str_acc": 42,
+    "sapm": 2.67,
+    "str_def": 28,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 44,
+    "sub_avg": 0.0
+  }
+}

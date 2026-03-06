@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "fa98e2b8dceca9bb",
+  "ufcstats_event_id": "b16a7e6a627e9789",
+  "ufcstats_fighter_red_id": "6551c64fbcd1a467",
+  "ufcstats_fighter_blue_id": "51018a31ddf31eb2",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jimmy Neely",
+  "ufcstats_winner_id": "51018a31ddf31eb2",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Nikki Messer",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Kevin James",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 68,
+      "attempted": 271
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 68,
+      "attempted": 271
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 33,
+        "attempted": 217
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 35
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 65,
+        "attempted": 264
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 4
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 108,
+      "attempted": 213
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 109,
+      "attempted": 214
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 66,
+        "attempted": 162
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 33,
+        "attempted": 39
+      },
+      "distance": {
+        "landed": 96,
+        "attempted": 194
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 15
+      }
+    }
+  },
+  "card_position": 10
+}

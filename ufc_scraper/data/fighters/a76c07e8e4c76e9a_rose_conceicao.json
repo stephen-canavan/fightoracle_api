@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a76c07e8e4c76e9a",
+  "fname": "Rose",
+  "sname": "Conceicao",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 139.7,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1997-05-13",
+  "career_stats": {
+    "slpm": 3.07,
+    "str_acc": 28,
+    "sapm": 6.73,
+    "str_def": 60,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

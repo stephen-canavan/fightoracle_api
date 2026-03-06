@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c742287ed86a09bc",
+  "fname": "Jessica",
+  "sname": "Penne",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 115,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1983-01-30",
+  "career_stats": {
+    "slpm": 2.63,
+    "str_acc": 33,
+    "sapm": 5.05,
+    "str_def": 45,
+    "td_avg": 1.29,
+    "td_acc": 18,
+    "td_def": 36,
+    "sub_avg": 0.5
+  }
+}

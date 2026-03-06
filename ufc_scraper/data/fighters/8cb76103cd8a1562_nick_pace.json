@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8cb76103cd8a1562",
+  "fname": "Nick",
+  "sname": "Pace",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1987-04-17",
+  "career_stats": {
+    "slpm": 1.48,
+    "str_acc": 34,
+    "sapm": 3.14,
+    "str_def": 57,
+    "td_avg": 2.52,
+    "td_acc": 43,
+    "td_def": 54,
+    "sub_avg": 0.5
+  }
+}

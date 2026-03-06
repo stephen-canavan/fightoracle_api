@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "dd3ea525fe1898f1",
+  "ufcstats_event_id": "1411c630ba711b64",
+  "ufcstats_fighter_red_id": "78114b7199cef90c",
+  "ufcstats_fighter_blue_id": "fc9a9559a05f2704",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "78114b7199cef90c",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Doug Crosby",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Romulo Bittencourt",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jon Bilyk",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 49,
+      "attempted": 110
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 61,
+      "attempted": 122
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 11
+    },
+    "takedown_pct": 18,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 36,
+        "attempted": 89
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 19
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 56
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 19,
+        "attempted": 48
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 11,
+      "attempted": 71
+    },
+    "sig_strikes_pct": 15,
+    "total_strikes": {
+      "landed": 21,
+      "attempted": 81
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 3
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 8,
+        "attempted": 65
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 7,
+        "attempted": 64
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 2
+}

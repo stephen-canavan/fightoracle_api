@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "4f16ef3e707447a0",
+  "ufcstats_event_id": "4f732e58ed907eff",
+  "ufcstats_fighter_red_id": "b7b84ccd221be298",
+  "ufcstats_fighter_blue_id": "32c355b04fc57f3a",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Tomasz Bronder",
+  "ufcstats_winner_id": "b7b84ccd221be298",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Mark Collett",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Andreas Gruner",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "David Lethaby",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 93,
+      "attempted": 198
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 102,
+      "attempted": 208
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:36",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 79,
+        "attempted": 180
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 75,
+        "attempted": 170
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 17
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 50,
+      "attempted": 220
+    },
+    "sig_strikes_pct": 22,
+    "total_strikes": {
+      "landed": 50,
+      "attempted": 220
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 194
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 49,
+        "attempted": 218
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

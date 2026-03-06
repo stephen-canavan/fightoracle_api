@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d0d43cb9b14f231c",
+  "fname": "Andre",
+  "sname": "Mussi",
+  "record": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 242,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 10.59,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

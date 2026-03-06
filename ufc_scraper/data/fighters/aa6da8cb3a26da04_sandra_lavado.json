@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa6da8cb3a26da04",
+  "fname": "Sandra",
+  "sname": "Lavado",
+  "record": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Peruvian Zombie",
+  "height_cm": 170.2,
+  "weight_lbs": 115,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1994-05-03",
+  "career_stats": {
+    "slpm": 0.87,
+    "str_acc": 37,
+    "sapm": 2.67,
+    "str_def": 34,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

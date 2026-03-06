@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3236bf606fe9fa5b",
+  "fname": "Travis",
+  "sname": "Browne",
+  "record": {
+    "wins": 18,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hapa",
+  "height_cm": 198.1,
+  "weight_lbs": 255,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1982-07-17",
+  "career_stats": {
+    "slpm": 2.93,
+    "str_acc": 41,
+    "sapm": 4.31,
+    "str_def": 42,
+    "td_avg": 1.21,
+    "td_acc": 68,
+    "td_def": 75,
+    "sub_avg": 0.2
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "9c7830c91fad60d8",
+  "ufcstats_event_id": "a8fa0c4e95512806",
+  "ufcstats_fighter_red_id": "9f488f520ed25bbf",
+  "ufcstats_fighter_blue_id": "d71d968dc6ecfdaf",
+  "method": "Submission",
+  "method_details": "Kneebar From Bottom Guard",
+  "round": 2,
+  "time": "4:15",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "9f488f520ed25bbf",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Japan 2 Heavyweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 3
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 3
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 27,
+      "attempted": 63
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 93,
+      "attempted": 135
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "8:46",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 61
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 25,
+        "attempted": 61
+      }
+    }
+  },
+  "card_position": 3
+}

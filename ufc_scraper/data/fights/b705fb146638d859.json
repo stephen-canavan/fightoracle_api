@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "b705fb146638d859",
+  "ufcstats_event_id": "fc31f896cde2bc2e",
+  "ufcstats_fighter_red_id": "b2e3aca4cd363477",
+  "ufcstats_fighter_blue_id": "8a9c6c4301f6d088",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "b2e3aca4cd363477",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "scorecards": [
+    {
+      "judge": "Michelle Agustin",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Tony Tamburrino",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 73,
+      "attempted": 203
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 85,
+      "attempted": 216
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 51,
+        "attempted": 170
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 28
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 57,
+        "attempted": 175
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 33,
+      "attempted": 110
+    },
+    "sig_strikes_pct": 30,
+    "total_strikes": {
+      "landed": 33,
+      "attempted": 110
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 14
+    },
+    "takedown_pct": 35,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "7:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 85
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 90
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 7
+}

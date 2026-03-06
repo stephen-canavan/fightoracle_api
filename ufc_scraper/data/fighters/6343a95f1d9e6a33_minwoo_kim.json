@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6343a95f1d9e6a33",
+  "fname": "MinWoo",
+  "sname": "Kim",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Korean MOAI",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1993-07-21",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

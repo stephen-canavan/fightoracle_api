@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9ccdd2ce45903f34",
+  "fname": "Mark",
+  "sname": "Weir",
+  "record": {
+    "wins": 21,
+    "losses": 18,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Wizard",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1967-09-19",
+  "career_stats": {
+    "slpm": 1.54,
+    "str_acc": 56,
+    "sapm": 2.5,
+    "str_def": 38,
+    "td_avg": 0.8,
+    "td_acc": 50,
+    "td_def": 25,
+    "sub_avg": 2.4
+  }
+}

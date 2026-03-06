@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "53278852bcd91e11",
+  "fname": "Igor",
+  "sname": "Pokrajac",
+  "record": {
+    "wins": 28,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Duke",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1979-01-02",
+  "career_stats": {
+    "slpm": 2.25,
+    "str_acc": 45,
+    "sapm": 4.26,
+    "str_def": 40,
+    "td_avg": 0.87,
+    "td_acc": 29,
+    "td_def": 51,
+    "sub_avg": 0.2
+  }
+}

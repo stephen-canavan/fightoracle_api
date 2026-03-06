@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a02652d063ef5baa",
+  "fname": "Isao",
+  "sname": "Kobayashi",
+  "record": {
+    "wins": 21,
+    "losses": 4,
+    "draws": 4,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1988-10-28",
+  "career_stats": {
+    "slpm": 1.01,
+    "str_acc": 33,
+    "sapm": 1.66,
+    "str_def": 45,
+    "td_avg": 2.17,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

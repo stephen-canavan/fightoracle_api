@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "831b937811804dad",
+  "fname": "Min",
+  "sname": "Soo Kim",
+  "record": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 255,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1975-01-22",
+  "career_stats": {
+    "slpm": 0.87,
+    "str_acc": 100,
+    "sapm": 3.48,
+    "str_def": 20,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

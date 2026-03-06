@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c26ea30823f37316",
+  "fname": "Chel",
+  "sname": "Erwin-Davis",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The First Sun",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 4.06,
+    "str_acc": 54,
+    "sapm": 1.13,
+    "str_def": 61,
+    "td_avg": 4.25,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 1.4
+  }
+}

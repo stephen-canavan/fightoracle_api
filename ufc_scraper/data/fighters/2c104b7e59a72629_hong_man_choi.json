@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2c104b7e59a72629",
+  "fname": "Hong",
+  "sname": "Man Choi",
+  "record": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Techno Goliath",
+  "height_cm": 218.4,
+  "weight_lbs": 330,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1980-10-30",
+  "career_stats": {
+    "slpm": 1.32,
+    "str_acc": 26,
+    "sapm": 1.46,
+    "str_def": 36,
+    "td_avg": 0.71,
+    "td_acc": 100,
+    "td_def": 84,
+    "sub_avg": 0.0
+  }
+}

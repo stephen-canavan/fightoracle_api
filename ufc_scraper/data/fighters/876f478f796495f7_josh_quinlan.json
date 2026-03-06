@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "876f478f796495f7",
+  "fname": "Josh",
+  "sname": "Quinlan",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bushido",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1993-02-06",
+  "career_stats": {
+    "slpm": 3.57,
+    "str_acc": 42,
+    "sapm": 6.38,
+    "str_def": 53,
+    "td_avg": 0.34,
+    "td_acc": 11,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

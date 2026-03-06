@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "eb04b9d31e938edb",
+  "fname": "Michelle",
+  "sname": "Waterson-Gomez",
+  "record": {
+    "wins": 18,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Karate Hottie",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 157.5,
+  "stance": "Orthodox",
+  "dob": "1986-01-06",
+  "career_stats": {
+    "slpm": 3.42,
+    "str_acc": 46,
+    "sapm": 4.25,
+    "str_def": 48,
+    "td_avg": 1.39,
+    "td_acc": 33,
+    "td_def": 69,
+    "sub_avg": 0.6
+  }
+}

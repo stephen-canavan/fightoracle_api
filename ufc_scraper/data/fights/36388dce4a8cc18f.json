@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "36388dce4a8cc18f",
+  "ufcstats_event_id": "cd42bbe8887bba90",
+  "ufcstats_fighter_red_id": "7d96bc577e5178b2",
+  "ufcstats_fighter_blue_id": "b8c0f30ee9a98b69",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "7d96bc577e5178b2",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Marcos Rosales",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 71
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 42,
+      "attempted": 85
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 7
+    },
+    "takedown_pct": 42,
+    "submission_attempts": 1,
+    "reversals": 1,
+    "control_time": "6:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 18,
+        "attempted": 58
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 13,
+        "attempted": 41
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 19
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 11
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 101
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 119
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 7
+    },
+    "takedown_pct": 28,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "2:28",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 85
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 83
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

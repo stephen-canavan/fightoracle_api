@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "81f1810f72df8f25",
+  "fname": "Brandon",
+  "sname": "Girtz",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cold Roll",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-03-06",
+  "career_stats": {
+    "slpm": 2.5,
+    "str_acc": 60,
+    "sapm": 1.92,
+    "str_def": 47,
+    "td_avg": 5.76,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

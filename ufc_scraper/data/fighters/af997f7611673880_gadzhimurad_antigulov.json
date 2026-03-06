@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "af997f7611673880",
+  "fname": "Gadzhimurad",
+  "sname": "Antigulov",
+  "record": {
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 205,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1987-02-09",
+  "career_stats": {
+    "slpm": 2.08,
+    "str_acc": 55,
+    "sapm": 4.21,
+    "str_def": 40,
+    "td_avg": 5.08,
+    "td_acc": 36,
+    "td_def": 0,
+    "sub_avg": 1.4
+  }
+}

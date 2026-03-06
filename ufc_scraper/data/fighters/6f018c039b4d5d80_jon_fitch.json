@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6f018c039b4d5d80",
+  "fname": "Jon",
+  "sname": "Fitch",
+  "record": {
+    "wins": 30,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1978-02-24",
+  "career_stats": {
+    "slpm": 2.61,
+    "str_acc": 50,
+    "sapm": 1.65,
+    "str_def": 54,
+    "td_avg": 3.6,
+    "td_acc": 51,
+    "td_def": 56,
+    "sub_avg": 0.8
+  }
+}

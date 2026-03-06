@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "260bd4cef10b033f",
+  "fname": "Ihor",
+  "sname": "Potieria",
+  "record": {
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Duelist",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1996-05-29",
+  "career_stats": {
+    "slpm": 4.44,
+    "str_acc": 50,
+    "sapm": 4.96,
+    "str_def": 50,
+    "td_avg": 0.73,
+    "td_acc": 18,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

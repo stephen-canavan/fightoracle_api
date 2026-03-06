@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "30e8b4505f5ccf92",
+  "fname": "Kiyoshi",
+  "sname": "Tamura",
+  "record": {
+    "wins": 32,
+    "losses": 13,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1969-12-17",
+  "career_stats": {
+    "slpm": 2.44,
+    "str_acc": 53,
+    "sapm": 1.44,
+    "str_def": 60,
+    "td_avg": 0.58,
+    "td_acc": 60,
+    "td_def": 45,
+    "sub_avg": 0.2
+  }
+}

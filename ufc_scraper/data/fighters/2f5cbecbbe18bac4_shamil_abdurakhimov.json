@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2f5cbecbbe18bac4",
+  "fname": "Shamil",
+  "sname": "Abdurakhimov",
+  "record": {
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Abrek",
+  "height_cm": 190.5,
+  "weight_lbs": 235,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1981-09-02",
+  "career_stats": {
+    "slpm": 2.41,
+    "str_acc": 44,
+    "sapm": 3.02,
+    "str_def": 55,
+    "td_avg": 1.01,
+    "td_acc": 23,
+    "td_def": 45,
+    "sub_avg": 0.1
+  }
+}

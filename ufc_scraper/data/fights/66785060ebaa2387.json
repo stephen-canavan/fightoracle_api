@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "66785060ebaa2387",
+  "ufcstats_event_id": "abbc4fc02e0d84b3",
+  "ufcstats_fighter_red_id": "1eacf73d6a0055dc",
+  "ufcstats_fighter_blue_id": "ca2efc9d7d523c43",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "1eacf73d6a0055dc",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Jeff Blatnick",
+      "red": 28,
+      "blue": 30
+    },
+    {
+      "judge": "Richard Bertrand",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Peter Adamcik",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 38,
+      "attempted": 56
+    },
+    "sig_strikes_pct": 67,
+    "total_strikes": {
+      "landed": 64,
+      "attempted": 84
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:03",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 31
+      },
+      "body": {
+        "landed": 21,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 26
+      },
+      "clinch": {
+        "landed": 26,
+        "attempted": 30
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 15,
+      "attempted": 41
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 23,
+      "attempted": 50
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 5
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:57",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 32
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 11
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 3
+}

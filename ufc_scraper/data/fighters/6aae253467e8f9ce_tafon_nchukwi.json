@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6aae253467e8f9ce",
+  "fname": "Tafon",
+  "sname": "Nchukwi",
+  "record": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Da Don",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1994-10-14",
+  "career_stats": {
+    "slpm": 5.57,
+    "str_acc": 52,
+    "sapm": 4.11,
+    "str_def": 54,
+    "td_avg": 0.76,
+    "td_acc": 57,
+    "td_def": 64,
+    "sub_avg": 0.0
+  }
+}

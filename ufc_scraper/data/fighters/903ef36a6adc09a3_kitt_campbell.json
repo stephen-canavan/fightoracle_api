@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "903ef36a6adc09a3",
+  "fname": "Kitt",
+  "sname": "Campbell",
+  "record": {
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Killer",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1994-06-26",
+  "career_stats": {
+    "slpm": 5.4,
+    "str_acc": 53,
+    "sapm": 2.51,
+    "str_def": 60,
+    "td_avg": 0.94,
+    "td_acc": 10,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

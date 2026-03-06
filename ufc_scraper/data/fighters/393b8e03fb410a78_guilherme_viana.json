@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "393b8e03fb410a78",
+  "fname": "Guilherme",
+  "sname": "Viana",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.92,
+    "str_acc": 40,
+    "sapm": 2.72,
+    "str_def": 59,
+    "td_avg": 1.2,
+    "td_acc": 66,
+    "td_def": 77,
+    "sub_avg": 0.0
+  }
+}

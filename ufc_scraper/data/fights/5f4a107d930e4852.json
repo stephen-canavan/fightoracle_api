@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5f4a107d930e4852",
+  "ufcstats_event_id": "3a24769a4855040a",
+  "ufcstats_fighter_red_id": "3eb4dc9a7d4ac906",
+  "ufcstats_fighter_blue_id": "f9ab66e67240db7b",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John Sharp",
+  "ufcstats_winner_id": "f9ab66e67240db7b",
+  "is_title_fight": false,
+  "weight_class": "Women's Featherweight",
+  "scorecards": [
+    {
+      "judge": "Anthony Dimitriou",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Ben Cartlidge",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 63,
+      "attempted": 109
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 113
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 11
+    },
+    "takedown_pct": 9,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 63
+      },
+      "body": {
+        "landed": 20,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 20,
+        "attempted": 22
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 86
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 23
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 164,
+      "attempted": 268
+    },
+    "sig_strikes_pct": 61,
+    "total_strikes": {
+      "landed": 175,
+      "attempted": 280
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 3
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 83
+      },
+      "body": {
+        "landed": 65,
+        "attempted": 98
+      },
+      "leg": {
+        "landed": 77,
+        "attempted": 87
+      },
+      "distance": {
+        "landed": 152,
+        "attempted": 251
+      },
+      "clinch": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 11
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0505e27a5d00704a",
+  "fname": "DongHyun",
+  "sname": "Seo",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pinnacle",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1990-08-22",
+  "career_stats": {
+    "slpm": 4.91,
+    "str_acc": 63,
+    "sapm": 3.35,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

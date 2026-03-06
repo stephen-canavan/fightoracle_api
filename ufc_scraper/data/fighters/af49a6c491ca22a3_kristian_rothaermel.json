@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "af49a6c491ca22a3",
+  "fname": "Kristian",
+  "sname": "Rothaermel",
+  "record": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Open Stance",
+  "dob": "1972-01-31",
+  "career_stats": {
+    "slpm": 0.75,
+    "str_acc": 50,
+    "sapm": 2.49,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

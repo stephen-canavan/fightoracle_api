@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5d000de6fa836f66",
+  "ufcstats_event_id": "d56bb6dff2ae77eb",
+  "ufcstats_fighter_red_id": "c7d297714d9ab1a4",
+  "ufcstats_fighter_blue_id": "fc6e681bf6658faf",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "James Chappell",
+  "ufcstats_winner_id": "fc6e681bf6658faf",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Andrew Adkins",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Phil Rogers",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "John Lapcevic",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 53,
+      "attempted": 140
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 55,
+      "attempted": 142
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:12",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 24,
+        "attempted": 106
+      },
+      "body": {
+        "landed": 12,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 17,
+        "attempted": 20
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 117
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 55,
+      "attempted": 213
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 57,
+      "attempted": 216
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 167
+      },
+      "body": {
+        "landed": 25,
+        "attempted": 40
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 194
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 6
+      }
+    }
+  },
+  "card_position": 11
+}

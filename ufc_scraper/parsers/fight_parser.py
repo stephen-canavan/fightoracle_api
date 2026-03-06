@@ -18,6 +18,7 @@ class FightParser:
         # Parse fighters and basic info
         self._parse_fighters(soup, fight_data)
         self._parse_fight_details(soup, fight_data)
+        self._parse_scorecards(soup, fight_data)
         
         # Parse statistics
         self._parse_totals(soup, fight_data)
@@ -80,6 +81,46 @@ class FightParser:
             weight_text = weight_elem.get_text(strip=True)
             fight_data["is_title_fight"] = "Title" in weight_text
             fight_data["weight_class"] = weight_text.replace(' Bout', '').replace('UFC ', '').replace(' Title', '')
+    
+    def _parse_scorecards(self, soup, fight_data):
+        """Parse judge scorecards to detect draws."""
+        text_items = soup.find_all('i', class_='b-fight-details__text-item')
+        
+        scorecards = []
+        for item in text_items:
+            text = item.get_text(strip=True)
+            # Look for pattern: "Judge Name XX - YY."
+            match = re.search(r'^(.+?)(\d{2})\s*-\s*(\d{2})\.?$', text)
+            if match:
+                judge_name = match.group(1).strip()
+                red_score = int(match.group(2))
+                blue_score = int(match.group(3))
+                
+                scorecards.append({
+                    "judge": judge_name,
+                    "red": red_score,
+                    "blue": blue_score
+                })
+        
+        if scorecards:
+            fight_data["scorecards"] = scorecards
+            
+            # Determine if it's a draw based on scorecards
+            if fight_data.get("method") and "Decision" in fight_data["method"]:
+                red_wins = sum(1 for s in scorecards if s["red"] > s["blue"])
+                blue_wins = sum(1 for s in scorecards if s["blue"] > s["red"])
+                draws = sum(1 for s in scorecards if s["red"] == s["blue"])
+                
+                # Check if it's actually a draw
+                if draws == len(scorecards):  # All judges scored it a draw
+                    fight_data["method"] = "DRAW-U"
+                    fight_data["ufcstats_winner_id"] = None
+                elif draws >= 2:  # Majority draw
+                    fight_data["method"] = "DRAW-MAJ"
+                    fight_data["ufcstats_winner_id"] = None
+                elif draws == 1 and red_wins == 1 and blue_wins == 1:  # Split draw
+                    fight_data["method"] = "DRAW-SPLIT"
+                    fight_data["ufcstats_winner_id"] = None
     
     def _parse_totals(self, soup, fight_data):
         """Parse total statistics table."""

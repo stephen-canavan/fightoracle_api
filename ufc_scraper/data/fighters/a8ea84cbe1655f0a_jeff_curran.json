@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a8ea84cbe1655f0a",
+  "fname": "Jeff",
+  "sname": "Curran",
+  "record": {
+    "wins": 36,
+    "losses": 18,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Frog",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1977-09-02",
+  "career_stats": {
+    "slpm": 1.54,
+    "str_acc": 31,
+    "sapm": 2.48,
+    "str_def": 60,
+    "td_avg": 0.35,
+    "td_acc": 12,
+    "td_def": 35,
+    "sub_avg": 1.2
+  }
+}

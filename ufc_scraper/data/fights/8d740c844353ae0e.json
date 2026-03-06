@@ -9,6 +9,7 @@
   "time": "2:23",
   "referee": "Herb Dean",
   "ufcstats_winner_id": "0d8011111be000b2",
+  "is_title_fight": false,
   "weight_class": "Middleweight",
   "fighter_red_stats": {
     "knockdowns": 1,
@@ -101,5 +102,6 @@
         "attempted": 0
       }
     }
-  }
+  },
+  "card_position": 1
 }

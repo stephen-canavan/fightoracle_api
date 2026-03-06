@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7abe471b61725980",
+  "fname": "Fabricio",
+  "sname": "Camoes",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Morango",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1978-12-23",
+  "career_stats": {
+    "slpm": 1.29,
+    "str_acc": 33,
+    "sapm": 1.85,
+    "str_def": 61,
+    "td_avg": 2.34,
+    "td_acc": 32,
+    "td_def": 20,
+    "sub_avg": 1.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6c3b2525436cf5d4",
+  "fname": "Tom",
+  "sname": "Nolan",
+  "record": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Train",
+  "height_cm": 190.5,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Southpaw",
+  "dob": "2000-03-08",
+  "career_stats": {
+    "slpm": 5.87,
+    "str_acc": 45,
+    "sapm": 4.73,
+    "str_def": 48,
+    "td_avg": 0.74,
+    "td_acc": 22,
+    "td_def": 71,
+    "sub_avg": 1.9
+  }
+}

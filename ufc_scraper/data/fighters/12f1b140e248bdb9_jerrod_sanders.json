@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "12f1b140e248bdb9",
+  "fname": "Jerrod",
+  "sname": "Sanders",
+  "record": {
+    "wins": 16,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "J-Reazie",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1979-10-01",
+  "career_stats": {
+    "slpm": 0.88,
+    "str_acc": 64,
+    "sapm": 1.14,
+    "str_def": 46,
+    "td_avg": 2.2,
+    "td_acc": 33,
+    "td_def": 50,
+    "sub_avg": 1.6
+  }
+}

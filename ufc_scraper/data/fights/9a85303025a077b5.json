@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "9a85303025a077b5",
+  "ufcstats_event_id": "f62850b3c7480db9",
+  "ufcstats_fighter_red_id": "60ba33c3f555a7a3",
+  "ufcstats_fighter_blue_id": "94527830000ab715",
+  "method": "Submission",
+  "method_details": "North-South Choke",
+  "round": 1,
+  "time": "3:15",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "94527830000ab715",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 6,
+      "attempted": 10
+    },
+    "sig_strikes_pct": 60,
+    "total_strikes": {
+      "landed": 8,
+      "attempted": 12
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 3,
+      "attempted": 9
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 11,
+      "attempted": 27
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "2:27",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 7
+}

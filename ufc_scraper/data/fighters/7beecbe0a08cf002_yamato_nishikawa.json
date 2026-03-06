@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7beecbe0a08cf002",
+  "fname": "Yamato",
+  "sname": "Nishikawa",
+  "record": {
+    "wins": 21,
+    "losses": 3,
+    "draws": 6,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "2002-12-06",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

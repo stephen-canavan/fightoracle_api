@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e295b96f135d758a",
+  "fname": "Saul",
+  "sname": "Elizondo",
+  "record": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-07-17",
+  "career_stats": {
+    "slpm": 2.07,
+    "str_acc": 30,
+    "sapm": 4.93,
+    "str_def": 48,
+    "td_avg": 2.0,
+    "td_acc": 100,
+    "td_def": 66,
+    "sub_avg": 1.0
+  }
+}

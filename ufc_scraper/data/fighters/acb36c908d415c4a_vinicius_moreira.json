@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "acb36c908d415c4a",
+  "fname": "Vinicius",
+  "sname": "Moreira",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mamute",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1989-02-28",
+  "career_stats": {
+    "slpm": 3.15,
+    "str_acc": 59,
+    "sapm": 5.07,
+    "str_def": 43,
+    "td_avg": 1.97,
+    "td_acc": 18,
+    "td_def": 0,
+    "sub_avg": 1.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a4de54ea806fb525",
+  "fname": "Ray",
+  "sname": "Borg",
+  "record": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Tazmexican Devil",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1993-08-04",
+  "career_stats": {
+    "slpm": 1.52,
+    "str_acc": 52,
+    "sapm": 1.93,
+    "str_def": 48,
+    "td_avg": 3.89,
+    "td_acc": 50,
+    "td_def": 46,
+    "sub_avg": 1.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "255da7afa89eb0e5",
+  "ufcstats_event_id": "9ccdd2ce45903f34",
+  "ufcstats_fighter_red_id": "01b39decaf0abf6a",
+  "ufcstats_fighter_blue_id": "1975c2272ba40e71",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "01b39decaf0abf6a",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Eddie Millis",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Abe Belardo",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 26,
+      "attempted": 46
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 67,
+      "attempted": 92
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "10:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 24,
+        "attempted": 43
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 3,
+        "attempted": 9
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 21,
+        "attempted": 35
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 0,
+      "attempted": 8
+    },
+    "sig_strikes_pct": 0,
+    "total_strikes": {
+      "landed": 23,
+      "attempted": 31
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 10
+    },
+    "takedown_pct": 10,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "1:45",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 8
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 8
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

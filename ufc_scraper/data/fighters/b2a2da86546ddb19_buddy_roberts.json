@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b2a2da86546ddb19",
+  "fname": "Buddy",
+  "sname": "Roberts",
+  "record": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1982-10-17",
+  "career_stats": {
+    "slpm": 2.17,
+    "str_acc": 34,
+    "sapm": 2.08,
+    "str_def": 70,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 76,
+    "sub_avg": 0.7
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a653cb5eb4b39339",
+  "fname": "Caio",
+  "sname": "Bittencourt",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Leao",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1991-05-22",
+  "career_stats": {
+    "slpm": 0.29,
+    "str_acc": 16,
+    "sapm": 0.57,
+    "str_def": 33,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

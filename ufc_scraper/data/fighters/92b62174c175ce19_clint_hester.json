@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "92b62174c175ce19",
+  "fname": "Clint",
+  "sname": "Hester",
+  "record": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Headbussa",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1986-11-21",
+  "career_stats": {
+    "slpm": 3.36,
+    "str_acc": 42,
+    "sapm": 3.44,
+    "str_def": 56,
+    "td_avg": 1.02,
+    "td_acc": 35,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

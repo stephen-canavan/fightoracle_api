@@ -4,7 +4,7 @@
   "sname": "Silva",
   "record": {
     "wins": 9,
-    "losses": 3,
+    "losses": 4,
     "draws": 0,
     "no_contests": 0,
     "dqs": 0
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1987-03-16",
   "career_stats": {
-    "slpm": 2.07,
-    "str_acc": 70,
-    "sapm": 1.57,
+    "slpm": 2.06,
+    "str_acc": 67,
+    "sapm": 1.52,
     "str_def": 40,
-    "td_avg": 3.76,
+    "td_avg": 3.26,
     "td_acc": 80,
-    "td_def": 62,
+    "td_def": 60,
     "sub_avg": 0.0
   }
 }

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0b935b9bbbe5fc07",
+  "fname": "Keith",
+  "sname": "Berry",
+  "record": {
+    "wins": 15,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1987-10-25",
+  "career_stats": {
+    "slpm": 0.27,
+    "str_acc": 12,
+    "sapm": 6.27,
+    "str_def": 28,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

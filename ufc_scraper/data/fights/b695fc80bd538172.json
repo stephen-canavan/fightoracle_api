@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "b695fc80bd538172",
+  "ufcstats_event_id": "9649d75defe0dedb",
+  "ufcstats_fighter_red_id": "70d2329a92864fdb",
+  "ufcstats_fighter_blue_id": "b4192a975027aab6",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "b4192a975027aab6",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Brent Colflesh",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Wilfredo Cintron",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 64,
+      "attempted": 144
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 73,
+      "attempted": 157
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 87
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 24,
+        "attempted": 32
+      },
+      "distance": {
+        "landed": 61,
+        "attempted": 138
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 56,
+      "attempted": 190
+    },
+    "sig_strikes_pct": 29,
+    "total_strikes": {
+      "landed": 74,
+      "attempted": 208
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 9
+    },
+    "takedown_pct": 11,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "7:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 150
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 28
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 47,
+        "attempted": 174
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 7
+      }
+    }
+  },
+  "card_position": 12
+}

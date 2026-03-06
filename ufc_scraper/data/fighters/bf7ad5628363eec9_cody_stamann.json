@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bf7ad5628363eec9",
+  "fname": "Cody",
+  "sname": "Stamann",
+  "record": {
+    "wins": 21,
+    "losses": 8,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Spartan",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "1989-11-09",
+  "career_stats": {
+    "slpm": 4.32,
+    "str_acc": 46,
+    "sapm": 3.91,
+    "str_def": 60,
+    "td_avg": 2.17,
+    "td_acc": 37,
+    "td_def": 76,
+    "sub_avg": 0.0
+  }
+}

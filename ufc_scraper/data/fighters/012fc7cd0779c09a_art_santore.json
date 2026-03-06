@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "012fc7cd0779c09a",
+  "fname": "Art",
+  "sname": "Santore",
+  "record": {
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pachuco",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1972-10-26",
+  "career_stats": {
+    "slpm": 1.4,
+    "str_acc": 12,
+    "sapm": 7.31,
+    "str_def": 52,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

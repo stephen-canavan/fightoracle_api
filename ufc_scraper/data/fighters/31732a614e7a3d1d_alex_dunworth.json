@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "31732a614e7a3d1d",
+  "fname": "Alex",
+  "sname": "Dunworth",
+  "record": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.94,
+    "str_acc": 31,
+    "sapm": 8.71,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

@@ -37,3 +37,10 @@ def user_image_upload_path(instance, filename):
     new_filename = f"{instance.username}.{extension}"
     safe_filename = sanitize_filename(new_filename)
     return f"users/{instance.id}/{safe_filename}"
+
+
+def event_image_upload_path(instance, filename):
+    extension = filename.split(".")[-1]
+    new_filename = f"{instance.name}.{extension}"
+    safe_filename = sanitize_filename(new_filename)
+    return f"events/{instance.id}/{safe_filename}"

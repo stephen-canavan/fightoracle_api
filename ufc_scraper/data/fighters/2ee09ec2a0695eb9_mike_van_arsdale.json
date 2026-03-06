@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2ee09ec2a0695eb9",
+  "fname": "Mike",
+  "sname": "van Arsdale",
+  "record": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Switch",
+  "dob": "1965-06-20",
+  "career_stats": {
+    "slpm": 1.52,
+    "str_acc": 41,
+    "sapm": 1.91,
+    "str_def": 41,
+    "td_avg": 1.06,
+    "td_acc": 14,
+    "td_def": 37,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6a125ba3ec37e27e",
+  "fname": "Gisele",
+  "sname": "Moreira",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-01-14",
+  "career_stats": {
+    "slpm": 5.93,
+    "str_acc": 42,
+    "sapm": 6.33,
+    "str_def": 48,
+    "td_avg": 4.0,
+    "td_acc": 57,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "8ae79d7967681db8",
+  "ufcstats_event_id": "4834ff149dc9542a",
+  "ufcstats_fighter_red_id": "bda04c573563cc2e",
+  "ufcstats_fighter_blue_id": "6a11e325aa60ad02",
+  "method": "Could Not Continue",
+  "method_details": "Eye Poke by Hughes",
+  "round": 1,
+  "time": "4:03",
+  "referee": "Kevin Dornan",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 66
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 38,
+      "attempted": 74
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 3
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:55",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 60
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 19,
+        "attempted": 51
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 16,
+      "attempted": 29
+    },
+    "sig_strikes_pct": 55,
+    "total_strikes": {
+      "landed": 26,
+      "attempted": 39
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 24
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 14,
+        "attempted": 23
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 3
+}

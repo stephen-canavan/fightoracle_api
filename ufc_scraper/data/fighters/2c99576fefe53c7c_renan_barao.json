@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2c99576fefe53c7c",
+  "fname": "Renan",
+  "sname": "Barao",
+  "record": {
+    "wins": 34,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Baron",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1987-01-31",
+  "career_stats": {
+    "slpm": 3.78,
+    "str_acc": 36,
+    "sapm": 3.9,
+    "str_def": 57,
+    "td_avg": 1.49,
+    "td_acc": 41,
+    "td_def": 91,
+    "sub_avg": 0.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8e5d953bdb9ae5e7",
+  "fname": "Loopy",
+  "sname": "Godinez",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 157.5,
+  "weight_lbs": 115,
+  "reach_cm": 154.9,
+  "stance": "Orthodox",
+  "dob": "1993-09-06",
+  "career_stats": {
+    "slpm": 4.51,
+    "str_acc": 49,
+    "sapm": 4.03,
+    "str_def": 62,
+    "td_avg": 2.96,
+    "td_acc": 41,
+    "td_def": 81,
+    "sub_avg": 0.9
+  }
+}

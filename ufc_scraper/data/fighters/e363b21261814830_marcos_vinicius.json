@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e363b21261814830",
+  "fname": "Marcos",
+  "sname": "Vinicius",
+  "record": {
+    "wins": 23,
+    "losses": 11,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Vina",
+  "height_cm": 175.3,
+  "weight_lbs": 125,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-12-05",
+  "career_stats": {
+    "slpm": 1.93,
+    "str_acc": 49,
+    "sapm": 2.91,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 0.5
+  }
+}

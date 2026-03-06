@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c07efc18b231f170",
+  "fname": "Jordan",
+  "sname": "Rinaldi",
+  "record": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "All Day",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1987-09-25",
+  "career_stats": {
+    "slpm": 1.56,
+    "str_acc": 35,
+    "sapm": 2.32,
+    "str_def": 59,
+    "td_avg": 1.45,
+    "td_acc": 35,
+    "td_def": 20,
+    "sub_avg": 1.2
+  }
+}

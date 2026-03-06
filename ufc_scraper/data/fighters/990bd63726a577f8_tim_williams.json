@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "990bd63726a577f8",
+  "fname": "Tim",
+  "sname": "Williams",
+  "record": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The South Jersey Strangler",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1986-07-03",
+  "career_stats": {
+    "slpm": 3.07,
+    "str_acc": 38,
+    "sapm": 3.55,
+    "str_def": 48,
+    "td_avg": 1.81,
+    "td_acc": 40,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

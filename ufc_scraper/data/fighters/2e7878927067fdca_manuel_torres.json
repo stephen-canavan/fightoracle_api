@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2e7878927067fdca",
+  "fname": "Manuel",
+  "sname": "Torres",
+  "record": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Loco",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Switch",
+  "dob": "1995-03-25",
+  "career_stats": {
+    "slpm": 7.29,
+    "str_acc": 59,
+    "sapm": 4.08,
+    "str_def": 54,
+    "td_avg": 1.72,
+    "td_acc": 66,
+    "td_def": 90,
+    "sub_avg": 0.9
+  }
+}

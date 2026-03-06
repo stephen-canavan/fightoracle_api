@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "10d4575f497face4",
+  "fname": "SeongChan",
+  "sname": "Hong",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Honey Badger",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1989-11-28",
+  "career_stats": {
+    "slpm": 6.57,
+    "str_acc": 55,
+    "sapm": 8.76,
+    "str_def": 47,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "7f14be4e45bca6bd",
+  "ufcstats_event_id": "9c5828c6fd9dc948",
+  "ufcstats_fighter_red_id": "ab2b4ff41d6ebe0f",
+  "ufcstats_fighter_blue_id": "4461d7e47375a895",
+  "method": "KO/TKO",
+  "method_details": "to    \n      Leg injury to Perez",
+  "round": 2,
+  "time": "2:59",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "4461d7e47375a895",
+  "is_title_fight": false,
+  "weight_class": "Flyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 41,
+      "attempted": 77
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 45,
+      "attempted": 81
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 49
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 15
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 64
+      },
+      "clinch": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 66
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 43,
+      "attempted": 78
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 57
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 28,
+        "attempted": 59
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 1
+}

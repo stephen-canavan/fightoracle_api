@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa3153a9941b4d44",
+  "fname": "Masakatsu",
+  "sname": "Funaki",
+  "record": {
+    "wins": 39,
+    "losses": 13,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1969-03-13",
+  "career_stats": {
+    "slpm": 1.82,
+    "str_acc": 68,
+    "sapm": 2.92,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 5.5
+  }
+}

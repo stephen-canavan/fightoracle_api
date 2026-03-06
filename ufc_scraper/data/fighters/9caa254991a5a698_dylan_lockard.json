@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9caa254991a5a698",
+  "fname": "Dylan",
+  "sname": "Lockard",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1992-05-19",
+  "career_stats": {
+    "slpm": 1.31,
+    "str_acc": 53,
+    "sapm": 3.31,
+    "str_def": 52,
+    "td_avg": 2.31,
+    "td_acc": 40,
+    "td_def": 28,
+    "sub_avg": 1.2
+  }
+}

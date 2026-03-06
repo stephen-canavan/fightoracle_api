@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "8e87b33bea7c5da9",
+  "ufcstats_event_id": "d5f820c11a121050",
+  "ufcstats_fighter_red_id": "b69f24c500d783e7",
+  "ufcstats_fighter_blue_id": "523f6ad11dbe9b53",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mario Yamasaki",
+  "ufcstats_winner_id": "523f6ad11dbe9b53",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Fernando Amaral",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Richard Bertrand",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Guilherme Bravo",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 67
+    },
+    "sig_strikes_pct": 53,
+    "total_strikes": {
+      "landed": 76,
+      "attempted": 114
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 8
+    },
+    "takedown_pct": 37,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 35
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 18
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 21,
+        "attempted": 44
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 44,
+      "attempted": 77
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 98,
+      "attempted": 135
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 8
+    },
+    "takedown_pct": 12,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:51",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 51
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 48
+      },
+      "clinch": {
+        "landed": 16,
+        "attempted": 17
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 10
+}

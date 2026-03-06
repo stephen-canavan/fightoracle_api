@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "165c244bcca3ed26",
+  "fname": "Seo",
+  "sname": "Hee Ham",
+  "record": {
+    "wins": 17,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 157.5,
+  "weight_lbs": 115,
+  "reach_cm": 157.5,
+  "stance": "Southpaw",
+  "dob": "1987-03-08",
+  "career_stats": {
+    "slpm": 4.2,
+    "str_acc": 39,
+    "sapm": 5.15,
+    "str_def": 61,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 66,
+    "sub_avg": 0.2
+  }
+}

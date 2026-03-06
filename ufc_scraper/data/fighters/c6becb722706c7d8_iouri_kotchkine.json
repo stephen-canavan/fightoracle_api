@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c6becb722706c7d8",
+  "fname": "Iouri",
+  "sname": "Kotchkine",
+  "record": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 235,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1969-12-21",
+  "career_stats": {
+    "slpm": 0.67,
+    "str_acc": 38,
+    "sapm": 4.92,
+    "str_def": 15,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 0.0
+  }
+}

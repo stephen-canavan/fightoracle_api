@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6ef58dabef8beb15",
+  "fname": "Josh",
+  "sname": "Haynes",
+  "record": {
+    "wins": 14,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bring the Pain",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-07-30",
+  "career_stats": {
+    "slpm": 1.25,
+    "str_acc": 22,
+    "sapm": 4.03,
+    "str_def": 52,
+    "td_avg": 0.94,
+    "td_acc": 18,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

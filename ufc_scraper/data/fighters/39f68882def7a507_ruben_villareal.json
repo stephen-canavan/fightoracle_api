@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "39f68882def7a507",
+  "fname": "Ruben",
+  "sname": "Villareal",
+  "record": {
+    "wins": 22,
+    "losses": 28,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Warpath",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-05-01",
+  "career_stats": {
+    "slpm": 5.18,
+    "str_acc": 53,
+    "sapm": 4.86,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

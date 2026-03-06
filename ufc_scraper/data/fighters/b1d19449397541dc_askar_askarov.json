@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b1d19449397541dc",
+  "fname": "Askar",
+  "sname": "Askarov",
+  "record": {
+    "wins": 14,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bullet",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1992-10-09",
+  "career_stats": {
+    "slpm": 3.05,
+    "str_acc": 54,
+    "sapm": 2.8,
+    "str_def": 57,
+    "td_avg": 2.6,
+    "td_acc": 24,
+    "td_def": 66,
+    "sub_avg": 0.4
+  }
+}

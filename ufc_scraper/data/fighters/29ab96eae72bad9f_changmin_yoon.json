@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "29ab96eae72bad9f",
+  "fname": "ChangMin",
+  "sname": "Yoon",
+  "record": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Big Heart",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1994-05-10",
+  "career_stats": {
+    "slpm": 5.7,
+    "str_acc": 48,
+    "sapm": 2.15,
+    "str_def": 64,
+    "td_avg": 1.9,
+    "td_acc": 28,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

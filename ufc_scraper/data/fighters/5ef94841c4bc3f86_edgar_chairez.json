@@ -3,7 +3,7 @@
   "fname": "Edgar",
   "sname": "Chairez",
   "record": {
-    "wins": 12,
+    "wins": 13,
     "losses": 6,
     "draws": 0,
     "no_contests": 0,
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1996-01-27",
   "career_stats": {
-    "slpm": 3.44,
-    "str_acc": 44,
-    "sapm": 5.08,
-    "str_def": 42,
+    "slpm": 3.65,
+    "str_acc": 45,
+    "sapm": 4.75,
+    "str_def": 46,
     "td_avg": 0.0,
     "td_acc": 0,
-    "td_def": 33,
-    "sub_avg": 1.7
+    "td_def": 38,
+    "sub_avg": 1.3
   }
 }

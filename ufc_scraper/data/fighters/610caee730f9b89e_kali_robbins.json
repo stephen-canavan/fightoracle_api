@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "610caee730f9b89e",
+  "fname": "Kali",
+  "sname": "Robbins",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pop Tart",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1984-07-05",
+  "career_stats": {
+    "slpm": 3.73,
+    "str_acc": 46,
+    "sapm": 9.4,
+    "str_def": 44,
+    "td_avg": 2.0,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

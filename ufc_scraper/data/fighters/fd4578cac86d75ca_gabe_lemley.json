@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fd4578cac86d75ca",
+  "fname": "Gabe",
+  "sname": "Lemley",
+  "record": {
+    "wins": 13,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.82,
+    "str_acc": 35,
+    "sapm": 6.03,
+    "str_def": 45,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

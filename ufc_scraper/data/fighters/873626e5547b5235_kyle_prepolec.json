@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "873626e5547b5235",
+  "fname": "Kyle",
+  "sname": "Prepolec",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Killshot",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1989-08-30",
+  "career_stats": {
+    "slpm": 3.25,
+    "str_acc": 34,
+    "sapm": 5.69,
+    "str_def": 48,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 45,
+    "sub_avg": 0.0
+  }
+}

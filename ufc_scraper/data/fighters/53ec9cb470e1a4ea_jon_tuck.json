@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "53ec9cb470e1a4ea",
+  "fname": "Jon",
+  "sname": "Tuck",
+  "record": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Super Saiyan",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1984-08-28",
+  "career_stats": {
+    "slpm": 3.0,
+    "str_acc": 40,
+    "sapm": 3.74,
+    "str_def": 60,
+    "td_avg": 0.42,
+    "td_acc": 33,
+    "td_def": 50,
+    "sub_avg": 1.0
+  }
+}

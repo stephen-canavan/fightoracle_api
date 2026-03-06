@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "a5c90086fb65f58e",
+  "ufcstats_event_id": "9b5b5a75523728f3",
+  "ufcstats_fighter_red_id": "18524b46c570730b",
+  "ufcstats_fighter_blue_id": "6cbb7661c3258617",
+  "method": "KO/TKO",
+  "method_details": "to",
+  "round": 1,
+  "time": "1:45",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "18524b46c570730b",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 10
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "918db42c3637916f",
+  "fname": "Leigh",
+  "sname": "Remedios",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bulldog",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-01-13",
+  "career_stats": {
+    "slpm": 0.75,
+    "str_acc": 41,
+    "sapm": 1.36,
+    "str_def": 68,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

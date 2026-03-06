@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "140745cbbcb023ac",
+  "fname": "Mauricio",
+  "sname": "Rua",
+  "record": {
+    "wins": 27,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Shogun",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1981-11-25",
+  "career_stats": {
+    "slpm": 3.57,
+    "str_acc": 50,
+    "sapm": 2.79,
+    "str_def": 54,
+    "td_avg": 2.01,
+    "td_acc": 48,
+    "td_def": 49,
+    "sub_avg": 0.7
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b5da8f7d05e85a55",
+  "fname": "Josh",
+  "sname": "Parisian",
+  "record": {
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1989-06-28",
+  "career_stats": {
+    "slpm": 4.55,
+    "str_acc": 48,
+    "sapm": 4.88,
+    "str_def": 41,
+    "td_avg": 0.98,
+    "td_acc": 33,
+    "td_def": 46,
+    "sub_avg": 0.2
+  }
+}

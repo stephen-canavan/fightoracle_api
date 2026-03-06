@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7e062824c175f975",
+  "fname": "Jose",
+  "sname": "Landi-Jons",
+  "record": {
+    "wins": 29,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pele",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1973-09-09",
+  "career_stats": {
+    "slpm": 0.99,
+    "str_acc": 40,
+    "sapm": 0.77,
+    "str_def": 43,
+    "td_avg": 2.2,
+    "td_acc": 80,
+    "td_def": 40,
+    "sub_avg": 2.2
+  }
+}

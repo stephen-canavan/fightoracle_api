@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "08e48648e3504638",
+  "ufcstats_event_id": "dbd198f780286aca",
+  "ufcstats_fighter_red_id": "351c4ec637380ad5",
+  "ufcstats_fighter_blue_id": "9b7dfb3b7d99926a",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Daniel Movahedi",
+  "ufcstats_winner_id": "351c4ec637380ad5",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "David Lethaby",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 120,
+      "attempted": 228
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 177,
+      "attempted": 289
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:50",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 82,
+        "attempted": 180
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 27,
+        "attempted": 32
+      },
+      "distance": {
+        "landed": 87,
+        "attempted": 178
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 32,
+        "attempted": 49
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 45,
+      "attempted": 135
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 78,
+      "attempted": 168
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:06",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 103
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 18,
+        "attempted": 22
+      },
+      "distance": {
+        "landed": 43,
+        "attempted": 133
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 12
+}

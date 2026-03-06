@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ee9d73f4fee9cbdd",
+  "fname": "Antonio",
+  "sname": "Rodrigo Nogueira",
+  "record": {
+    "wins": 34,
+    "losses": 10,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Minotauro",
+  "height_cm": 190.5,
+  "weight_lbs": 240,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1976-06-02",
+  "career_stats": {
+    "slpm": 1.95,
+    "str_acc": 42,
+    "sapm": 2.4,
+    "str_def": 55,
+    "td_avg": 1.3,
+    "td_acc": 29,
+    "td_def": 36,
+    "sub_avg": 2.4
+  }
+}

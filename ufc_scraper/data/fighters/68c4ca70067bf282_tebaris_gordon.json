@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "68c4ca70067bf282",
+  "fname": "Tebaris",
+  "sname": "Gordon",
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Boom",
+  "height_cm": 185.4,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1988-07-19",
+  "career_stats": {
+    "slpm": 3.53,
+    "str_acc": 16,
+    "sapm": 49.41,
+    "str_def": 22,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bcad7223af3c19da",
+  "fname": "Martin",
+  "sname": "Svensson",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-04-25",
+  "career_stats": {
+    "slpm": 2.02,
+    "str_acc": 38,
+    "sapm": 5.91,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

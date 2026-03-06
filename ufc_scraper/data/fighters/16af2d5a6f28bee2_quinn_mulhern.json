@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "16af2d5a6f28bee2",
+  "fname": "Quinn",
+  "sname": "Mulhern",
+  "record": {
+    "wins": 18,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1984-09-20",
+  "career_stats": {
+    "slpm": 1.48,
+    "str_acc": 28,
+    "sapm": 2.09,
+    "str_def": 51,
+    "td_avg": 1.36,
+    "td_acc": 20,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

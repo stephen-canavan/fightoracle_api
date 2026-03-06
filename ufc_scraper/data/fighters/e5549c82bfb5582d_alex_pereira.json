@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e5549c82bfb5582d",
+  "fname": "Alex",
+  "sname": "Pereira",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Poatan",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1987-07-07",
+  "career_stats": {
+    "slpm": 5.16,
+    "str_acc": 62,
+    "sapm": 3.5,
+    "str_def": 53,
+    "td_avg": 0.11,
+    "td_acc": 50,
+    "td_def": 79,
+    "sub_avg": 0.2
+  }
+}

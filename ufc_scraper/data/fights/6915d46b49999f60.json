@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6915d46b49999f60",
+  "ufcstats_event_id": "ad044be25c94dcfd",
+  "ufcstats_fighter_red_id": "887961364be5ceb3",
+  "ufcstats_fighter_blue_id": "d945aae53e3e54e6",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "d945aae53e3e54e6",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Dave Hagen",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 85,
+      "attempted": 177
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 94,
+      "attempted": 187
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "1:11",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 29,
+        "attempted": 104
+      },
+      "body": {
+        "landed": 31,
+        "attempted": 40
+      },
+      "leg": {
+        "landed": 25,
+        "attempted": 33
+      },
+      "distance": {
+        "landed": 82,
+        "attempted": 170
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 119
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 43,
+      "attempted": 120
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:51",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 29,
+        "attempted": 102
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 42,
+        "attempted": 119
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

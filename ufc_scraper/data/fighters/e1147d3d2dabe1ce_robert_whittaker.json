@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e1147d3d2dabe1ce",
+  "fname": "Robert",
+  "sname": "Whittaker",
+  "record": {
+    "wins": 27,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Reaper",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1990-12-20",
+  "career_stats": {
+    "slpm": 4.39,
+    "str_acc": 43,
+    "sapm": 3.36,
+    "str_def": 59,
+    "td_avg": 0.73,
+    "td_acc": 38,
+    "td_def": 82,
+    "sub_avg": 0.0
+  }
+}

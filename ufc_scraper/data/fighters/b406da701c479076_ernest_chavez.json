@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b406da701c479076",
+  "fname": "Ernest",
+  "sname": "Chavez",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "EJ",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1983-06-27",
+  "career_stats": {
+    "slpm": 2.79,
+    "str_acc": 40,
+    "sapm": 3.89,
+    "str_def": 59,
+    "td_avg": 0.89,
+    "td_acc": 33,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

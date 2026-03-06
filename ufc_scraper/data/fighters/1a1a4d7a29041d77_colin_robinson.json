@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1a1a4d7a29041d77",
+  "fname": "Colin",
+  "sname": "Robinson",
+  "record": {
+    "wins": 10,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big C",
+  "height_cm": 193.0,
+  "weight_lbs": 243,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-11-27",
+  "career_stats": {
+    "slpm": 6.19,
+    "str_acc": 69,
+    "sapm": 7.91,
+    "str_def": 37,
+    "td_avg": 2.58,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 5.2
+  }
+}

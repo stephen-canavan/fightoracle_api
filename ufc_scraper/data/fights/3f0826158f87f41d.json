@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "3f0826158f87f41d",
+  "ufcstats_event_id": "91d73ee59347ac16",
+  "ufcstats_fighter_red_id": "98b80a717b9bda17",
+  "ufcstats_fighter_blue_id": "07f72a2a7591b409",
+  "method": "DQ",
+  "method_details": "Illegal Elbows by Jones",
+  "round": 1,
+  "time": "4:14",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "98b80a717b9bda17",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 5,
+      "attempted": 17
+    },
+    "sig_strikes_pct": 29,
+    "total_strikes": {
+      "landed": 7,
+      "attempted": 19
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 2,
+        "attempted": 11
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 17
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 44,
+      "attempted": 88
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 55,
+      "attempted": 106
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:24",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 33,
+        "attempted": 76
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 9,
+        "attempted": 25
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 33,
+        "attempted": 61
+      }
+    }
+  },
+  "card_position": 2
+}

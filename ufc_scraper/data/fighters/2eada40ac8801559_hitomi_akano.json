@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2eada40ac8801559",
+  "fname": "Hitomi",
+  "sname": "Akano",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Girlfight Monster",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1974-07-27",
+  "career_stats": {
+    "slpm": 0.59,
+    "str_acc": 45,
+    "sapm": 2.58,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 8,
+    "sub_avg": 0.5
+  }
+}

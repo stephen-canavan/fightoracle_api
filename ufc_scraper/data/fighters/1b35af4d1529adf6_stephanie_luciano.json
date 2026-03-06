@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1b35af4d1529adf6",
+  "fname": "Stephanie",
+  "sname": "Luciano",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rondinha",
+  "height_cm": 167.6,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1999-12-16",
+  "career_stats": {
+    "slpm": 5.2,
+    "str_acc": 42,
+    "sapm": 3.04,
+    "str_def": 64,
+    "td_avg": 1.3,
+    "td_acc": 71,
+    "td_def": 80,
+    "sub_avg": 0.3
+  }
+}

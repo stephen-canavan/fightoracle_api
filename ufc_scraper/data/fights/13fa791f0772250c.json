@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "13fa791f0772250c",
+  "ufcstats_event_id": "9bcf8603ceb25680",
+  "ufcstats_fighter_red_id": "b9d0fd83bb8a147a",
+  "ufcstats_fighter_blue_id": "98b80a717b9bda17",
+  "method": "Decision - Majority",
+  "method_details": "Point Deducted: Eye Poke by Jardine",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "98b80a717b9bda17",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Adalaide Byrd",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Tony Weeks",
+      "red": 28,
+      "blue": 28
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 65,
+      "attempted": 227
+    },
+    "sig_strikes_pct": 28,
+    "total_strikes": {
+      "landed": 66,
+      "attempted": 228
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 200
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 16,
+        "attempted": 20
+      },
+      "distance": {
+        "landed": 62,
+        "attempted": 221
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 77,
+      "attempted": 199
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 90,
+      "attempted": 214
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 67,
+        "attempted": 185
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 64,
+        "attempted": 179
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 20
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

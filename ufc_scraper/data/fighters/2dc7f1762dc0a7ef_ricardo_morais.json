@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2dc7f1762dc0a7ef",
+  "fname": "Ricardo",
+  "sname": "Morais",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Mutant",
+  "height_cm": 203.2,
+  "weight_lbs": 270,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1967-02-26",
+  "career_stats": {
+    "slpm": 2.86,
+    "str_acc": 37,
+    "sapm": 2.39,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

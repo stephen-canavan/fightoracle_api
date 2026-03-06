@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d945aae53e3e54e6",
+  "fname": "Thiago",
+  "sname": "Moises",
+  "record": {
+    "wins": 19,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1995-03-23",
+  "career_stats": {
+    "slpm": 2.48,
+    "str_acc": 42,
+    "sapm": 4.08,
+    "str_def": 53,
+    "td_avg": 1.31,
+    "td_acc": 35,
+    "td_def": 52,
+    "sub_avg": 1.1
+  }
+}

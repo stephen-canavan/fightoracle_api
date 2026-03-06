@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "11547e29f253fb89",
+  "fname": "Marcos",
+  "sname": "Brigagao",
+  "record": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Ironside",
+  "height_cm": 190.5,
+  "weight_lbs": 205,
+  "reach_cm": 193.0,
+  "stance": "Southpaw",
+  "dob": "1996-04-01",
+  "career_stats": {
+    "slpm": 3.07,
+    "str_acc": 43,
+    "sapm": 3.27,
+    "str_def": 25,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 36,
+    "sub_avg": 0.0
+  }
+}

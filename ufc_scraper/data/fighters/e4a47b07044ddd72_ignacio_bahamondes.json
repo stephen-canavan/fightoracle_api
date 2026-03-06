@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e4a47b07044ddd72",
+  "fname": "Ignacio",
+  "sname": "Bahamondes",
+  "record": {
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "La Jaula",
+  "height_cm": 190.5,
+  "weight_lbs": 155,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1997-08-27",
+  "career_stats": {
+    "slpm": 6.55,
+    "str_acc": 45,
+    "sapm": 4.33,
+    "str_def": 56,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 75,
+    "sub_avg": 0.4
+  }
+}

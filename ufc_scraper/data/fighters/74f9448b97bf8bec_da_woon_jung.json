@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "74f9448b97bf8bec",
+  "fname": "Da",
+  "sname": "Woon Jung",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sseda",
+  "height_cm": 193.0,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1993-12-07",
+  "career_stats": {
+    "slpm": 3.24,
+    "str_acc": 40,
+    "sapm": 4.23,
+    "str_def": 49,
+    "td_avg": 1.59,
+    "td_acc": 47,
+    "td_def": 75,
+    "sub_avg": 0.2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "483a953b18d73bb3",
+  "fname": "Deron",
+  "sname": "Winn",
+  "record": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 185,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1989-06-13",
+  "career_stats": {
+    "slpm": 4.55,
+    "str_acc": 44,
+    "sapm": 6.21,
+    "str_def": 46,
+    "td_avg": 4.28,
+    "td_acc": 52,
+    "td_def": 40,
+    "sub_avg": 0.0
+  }
+}

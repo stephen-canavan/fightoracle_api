@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fd87b1bbfcde9d5e",
+  "fname": "Danillo",
+  "sname": "Villefort",
+  "record": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Indio",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-05-08",
+  "career_stats": {
+    "slpm": 2.86,
+    "str_acc": 37,
+    "sapm": 2.4,
+    "str_def": 68,
+    "td_avg": 1.71,
+    "td_acc": 66,
+    "td_def": 33,
+    "sub_avg": 1.7
+  }
+}

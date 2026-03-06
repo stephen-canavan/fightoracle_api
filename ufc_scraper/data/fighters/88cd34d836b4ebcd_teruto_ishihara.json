@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "88cd34d836b4ebcd",
+  "fname": "Teruto",
+  "sname": "Ishihara",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Yashabo",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1991-07-23",
+  "career_stats": {
+    "slpm": 3.26,
+    "str_acc": 44,
+    "sapm": 3.63,
+    "str_def": 53,
+    "td_avg": 0.5,
+    "td_acc": 16,
+    "td_def": 30,
+    "sub_avg": 0.0
+  }
+}

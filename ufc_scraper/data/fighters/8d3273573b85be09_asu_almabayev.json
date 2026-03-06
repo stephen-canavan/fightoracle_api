@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8d3273573b85be09",
+  "fname": "Asu",
+  "sname": "Almabayev",
+  "record": {
+    "wins": 23,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Zulfikar",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1994-01-25",
+  "career_stats": {
+    "slpm": 2.31,
+    "str_acc": 50,
+    "sapm": 1.99,
+    "str_def": 53,
+    "td_avg": 4.46,
+    "td_acc": 42,
+    "td_def": 44,
+    "sub_avg": 1.5
+  }
+}

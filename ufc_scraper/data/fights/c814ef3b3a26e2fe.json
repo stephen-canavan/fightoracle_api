@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c814ef3b3a26e2fe",
+  "ufcstats_event_id": "8d5daf67983b65ba",
+  "ufcstats_fighter_red_id": "6c8072b61c276e67",
+  "ufcstats_fighter_blue_id": "91dac5e69e28d5b5",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Rich Mitchell",
+  "ufcstats_winner_id": "91dac5e69e28d5b5",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Mark Collett",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "David Lethaby",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Magomed Magomedov",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 65,
+      "attempted": 157
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 71,
+      "attempted": 163
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 37,
+        "attempted": 117
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 22,
+        "attempted": 24
+      },
+      "distance": {
+        "landed": 65,
+        "attempted": 157
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 98,
+      "attempted": 238
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 103,
+      "attempted": 243
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 71,
+        "attempted": 194
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 93,
+        "attempted": 229
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 12
+}

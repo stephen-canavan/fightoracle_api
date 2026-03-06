@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "464133df9ca19865",
+  "ufcstats_event_id": "36877f0e62b25b96",
+  "ufcstats_fighter_red_id": "cf65d56b0755ed3b",
+  "ufcstats_fighter_blue_id": "8f0d576beba1cfcd",
+  "method": "Decision - Unanimous",
+  "method_details": "Point Deducted: Illegal Knee by Jouban",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "cf65d56b0755ed3b",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Mike Beltran",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Wade Vierra",
+      "red": 27,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 51,
+      "attempted": 104
+    },
+    "sig_strikes_pct": 49,
+    "total_strikes": {
+      "landed": 63,
+      "attempted": 116
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 31,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 18
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 74
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 8,
+        "attempted": 15
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 29,
+      "attempted": 117
+    },
+    "sig_strikes_pct": 24,
+    "total_strikes": {
+      "landed": 34,
+      "attempted": 122
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:14",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 98
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 22,
+        "attempted": 101
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 6
+}

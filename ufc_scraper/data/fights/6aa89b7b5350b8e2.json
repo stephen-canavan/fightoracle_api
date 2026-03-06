@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6aa89b7b5350b8e2",
+  "ufcstats_event_id": "2c733e059462c1dc",
+  "ufcstats_fighter_red_id": "45f0cc9d18f35137",
+  "ufcstats_fighter_blue_id": "32feae6d9a1e5047",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Chris Tognoni",
+  "ufcstats_winner_id": "45f0cc9d18f35137",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Adalaide Byrd",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 59,
+      "attempted": 78
+    },
+    "sig_strikes_pct": 75,
+    "total_strikes": {
+      "landed": 69,
+      "attempted": 88
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:12",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 34
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 32,
+        "attempted": 39
+      },
+      "distance": {
+        "landed": 58,
+        "attempted": 77
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 16,
+      "attempted": 69
+    },
+    "sig_strikes_pct": 23,
+    "total_strikes": {
+      "landed": 32,
+      "attempted": 87
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 11
+    },
+    "takedown_pct": 18,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 55
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 63
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 6
+      }
+    }
+  },
+  "card_position": 4
+}

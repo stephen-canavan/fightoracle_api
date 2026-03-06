@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c79c00f5443c2f6e",
+  "ufcstats_event_id": "83c6c3e0f8bde8ee",
+  "ufcstats_fighter_red_id": "7c35f869033901ae",
+  "ufcstats_fighter_blue_id": "0c6d9ea8306c029e",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Thomas Fan",
+  "ufcstats_winner_id": "0c6d9ea8306c029e",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Barry Foley",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Charlie Keech",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 69,
+      "attempted": 172
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 75,
+      "attempted": 182
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 35,
+        "attempted": 118
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 16
+      },
+      "leg": {
+        "landed": 23,
+        "attempted": 38
+      },
+      "distance": {
+        "landed": 66,
+        "attempted": 169
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 116,
+      "attempted": 254
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 131,
+      "attempted": 270
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 86,
+        "attempted": 217
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 20
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 17
+      },
+      "distance": {
+        "landed": 113,
+        "attempted": 247
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

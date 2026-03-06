@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "19b7738321cfae42",
+  "fname": "Mallory",
+  "sname": "Martin",
+  "record": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1994-01-29",
+  "career_stats": {
+    "slpm": 4.42,
+    "str_acc": 48,
+    "sapm": 6.64,
+    "str_def": 55,
+    "td_avg": 2.28,
+    "td_acc": 43,
+    "td_def": 25,
+    "sub_avg": 0.3
+  }
+}

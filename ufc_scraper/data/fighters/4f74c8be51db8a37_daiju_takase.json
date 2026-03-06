@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4f74c8be51db8a37",
+  "fname": "Daiju",
+  "sname": "Takase",
+  "record": {
+    "wins": 12,
+    "losses": 15,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1978-04-20",
+  "career_stats": {
+    "slpm": 0.49,
+    "str_acc": 30,
+    "sapm": 1.64,
+    "str_def": 47,
+    "td_avg": 0.84,
+    "td_acc": 17,
+    "td_def": 21,
+    "sub_avg": 1.2
+  }
+}

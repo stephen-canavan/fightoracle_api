@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5eb50529a8418b77",
+  "fname": "Gabe",
+  "sname": "Green",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gifted",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Switch",
+  "dob": "1993-05-02",
+  "career_stats": {
+    "slpm": 5.6,
+    "str_acc": 45,
+    "sapm": 6.19,
+    "str_def": 47,
+    "td_avg": 0.71,
+    "td_acc": 50,
+    "td_def": 50,
+    "sub_avg": 0.5
+  }
+}

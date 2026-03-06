@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3738e68d2261e60f",
+  "fname": "Andrei",
+  "sname": "Arlovski",
+  "record": {
+    "wins": 34,
+    "losses": 24,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Pitbull",
+  "height_cm": 190.5,
+  "weight_lbs": 240,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1979-02-04",
+  "career_stats": {
+    "slpm": 3.82,
+    "str_acc": 45,
+    "sapm": 3.22,
+    "str_def": 57,
+    "td_avg": 0.37,
+    "td_acc": 35,
+    "td_def": 76,
+    "sub_avg": 0.2
+  }
+}

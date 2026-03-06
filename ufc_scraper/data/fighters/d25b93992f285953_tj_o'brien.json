@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d25b93992f285953",
+  "fname": "TJ",
+  "sname": "O'Brien",
+  "record": {
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Spider",
+  "height_cm": 188.0,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-01-01",
+  "career_stats": {
+    "slpm": 3.77,
+    "str_acc": 46,
+    "sapm": 4.78,
+    "str_def": 57,
+    "td_avg": 0.94,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

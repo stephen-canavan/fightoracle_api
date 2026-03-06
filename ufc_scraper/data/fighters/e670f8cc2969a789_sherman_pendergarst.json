@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e670f8cc2969a789",
+  "fname": "Sherman",
+  "sname": "Pendergarst",
+  "record": {
+    "wins": 11,
+    "losses": 18,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Tank",
+  "height_cm": 185.4,
+  "weight_lbs": 235,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1967-08-01",
+  "career_stats": {
+    "slpm": 1.23,
+    "str_acc": 36,
+    "sapm": 3.08,
+    "str_def": 16,
+    "td_avg": 4.62,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

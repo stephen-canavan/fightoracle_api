@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "afedd038b986cebc",
+  "ufcstats_event_id": "7269329bd87eb479",
+  "ufcstats_fighter_red_id": "68c6cd5287b473a7",
+  "ufcstats_fighter_blue_id": "45bc8f98d62bd096",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Mario Yamasaki",
+  "ufcstats_winner_id": "68c6cd5287b473a7",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Adalaide Byrd",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Dave Hagen",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 99
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 38,
+      "attempted": 109
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 10
+    },
+    "takedown_pct": 20,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 17,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 20
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 85
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 20,
+      "attempted": 89
+    },
+    "sig_strikes_pct": 22,
+    "total_strikes": {
+      "landed": 49,
+      "attempted": 118
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:45",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 74
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 13
+      },
+      "distance": {
+        "landed": 16,
+        "attempted": 75
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 5
+      }
+    }
+  },
+  "card_position": 8
+}

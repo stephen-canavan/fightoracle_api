@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e06fd1260ac865a7",
+  "fname": "Yoji",
+  "sname": "Anjo",
+  "record": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mr. 200%",
+  "height_cm": 180.3,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1967-03-28",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 3.13,
+    "str_def": 25,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2de91c2244ad7e89",
+  "fname": "Dominic",
+  "sname": "Waters",
+  "record": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sho Nuff",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1989-04-11",
+  "career_stats": {
+    "slpm": 0.48,
+    "str_acc": 23,
+    "sapm": 2.53,
+    "str_def": 39,
+    "td_avg": 4.07,
+    "td_acc": 52,
+    "td_def": 28,
+    "sub_avg": 0.0
+  }
+}

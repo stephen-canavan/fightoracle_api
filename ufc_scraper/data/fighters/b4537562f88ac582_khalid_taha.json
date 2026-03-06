@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b4537562f88ac582",
+  "fname": "Khalid",
+  "sname": "Taha",
+  "record": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Warrior",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1992-02-15",
+  "career_stats": {
+    "slpm": 2.64,
+    "str_acc": 32,
+    "sapm": 4.12,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 61,
+    "sub_avg": 0.2
+  }
+}

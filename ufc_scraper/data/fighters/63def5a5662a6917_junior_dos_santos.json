@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "63def5a5662a6917",
+  "fname": "Junior",
+  "sname": "Dos Santos",
+  "record": {
+    "wins": 21,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cigano",
+  "height_cm": 193.0,
+  "weight_lbs": 238,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1984-01-30",
+  "career_stats": {
+    "slpm": 4.49,
+    "str_acc": 47,
+    "sapm": 3.33,
+    "str_def": 56,
+    "td_avg": 0.3,
+    "td_acc": 50,
+    "td_def": 81,
+    "sub_avg": 0.1
+  }
+}

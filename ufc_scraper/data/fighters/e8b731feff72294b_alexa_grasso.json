@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e8b731feff72294b",
+  "fname": "Alexa",
+  "sname": "Grasso",
+  "record": {
+    "wins": 16,
+    "losses": 5,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1993-08-09",
+  "career_stats": {
+    "slpm": 4.11,
+    "str_acc": 41,
+    "sapm": 3.73,
+    "str_def": 58,
+    "td_avg": 0.41,
+    "td_acc": 35,
+    "td_def": 54,
+    "sub_avg": 0.6
+  }
+}

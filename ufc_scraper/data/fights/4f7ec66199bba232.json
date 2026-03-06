@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "4f7ec66199bba232",
+  "ufcstats_event_id": "94a5aaf573f780ad",
+  "ufcstats_fighter_red_id": "d747eb273a40a920",
+  "ufcstats_fighter_blue_id": "72e5e5a6edfa8223",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Fernando Salas Navarro",
+  "ufcstats_winner_id": "d747eb273a40a920",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 25,
+      "blue": 30
+    },
+    {
+      "judge": "Brian Puccillo",
+      "red": 25,
+      "blue": 30
+    },
+    {
+      "judge": "Bladimir Puga",
+      "red": 25,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 22,
+      "attempted": 34
+    },
+    "sig_strikes_pct": 64,
+    "total_strikes": {
+      "landed": 101,
+      "attempted": 116
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 6
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "13:20",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 32
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 1,
+        "attempted": 5
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 21,
+        "attempted": 29
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "sig_strikes_pct": 22,
+    "total_strikes": {
+      "landed": 5,
+      "attempted": 12
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:48",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 0,
+        "attempted": 6
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 2,
+        "attempted": 8
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 12
+}

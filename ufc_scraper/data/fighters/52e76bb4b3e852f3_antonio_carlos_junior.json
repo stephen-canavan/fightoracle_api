@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "52e76bb4b3e852f3",
+  "fname": "Antonio",
+  "sname": "Carlos Junior",
+  "record": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cara de Sapato",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 200.7,
+  "stance": "Orthodox",
+  "dob": "1990-03-16",
+  "career_stats": {
+    "slpm": 1.95,
+    "str_acc": 42,
+    "sapm": 2.14,
+    "str_def": 52,
+    "td_avg": 3.42,
+    "td_acc": 39,
+    "td_def": 53,
+    "sub_avg": 0.8
+  }
+}

@@ -13,7 +13,7 @@ class FightScraper(BaseScraper):
         super().__init__()
         self.parser = FightParser()
     
-    def scrape_fight(self, fight_id, event_id=None):
+    def scrape_fight(self, fight_id, event_id=None, card_position=None):
         """Scrape detailed statistics for a specific fight."""
         soup = self.fetch_page(self.build_url(f"/fight-details/{fight_id}"))
         
@@ -27,5 +27,10 @@ class FightScraper(BaseScraper):
                     break
         
         fight_data = self.parser.parse_fight(soup, fight_id, event_id)
+        
+        # Add card position if provided
+        if card_position is not None:
+            fight_data['card_position'] = card_position
+        
         logger.info(f"Scraped fight {fight_id}")
         return fight_data

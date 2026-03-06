@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "068f8a189a47fea6",
+  "fname": "Maurice",
+  "sname": "Greene",
+  "record": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Crochet Boss",
+  "height_cm": 200.7,
+  "weight_lbs": 258,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1986-07-05",
+  "career_stats": {
+    "slpm": 3.28,
+    "str_acc": 45,
+    "sapm": 3.61,
+    "str_def": 45,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 27,
+    "sub_avg": 0.4
+  }
+}

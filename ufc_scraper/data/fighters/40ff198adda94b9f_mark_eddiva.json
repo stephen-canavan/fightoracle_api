@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "40ff198adda94b9f",
+  "fname": "Mark",
+  "sname": "Eddiva",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1986-02-16",
+  "career_stats": {
+    "slpm": 3.37,
+    "str_acc": 45,
+    "sapm": 2.98,
+    "str_def": 54,
+    "td_avg": 1.45,
+    "td_acc": 22,
+    "td_def": 63,
+    "sub_avg": 0.0
+  }
+}

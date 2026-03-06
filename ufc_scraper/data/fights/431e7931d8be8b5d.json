@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "431e7931d8be8b5d",
+  "ufcstats_event_id": "a9c45a8b21eabadc",
+  "ufcstats_fighter_red_id": "00a3ff40c4b2cf21",
+  "ufcstats_fighter_blue_id": "b8c0f30ee9a98b69",
+  "method": "Submission",
+  "method_details": "Rear Naked Choke",
+  "round": 3,
+  "time": "4:46",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "00a3ff40c4b2cf21",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter Brazil 4 Lightweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 23,
+      "attempted": 31
+    },
+    "sig_strikes_pct": 74,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 57
+    },
+    "takedowns": {
+      "landed": 4,
+      "attempted": 9
+    },
+    "takedown_pct": 44,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "6:39",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 12
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 13,
+        "attempted": 19
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 7
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 20,
+      "attempted": 32
+    },
+    "sig_strikes_pct": 62,
+    "total_strikes": {
+      "landed": 41,
+      "attempted": 53
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 11
+    },
+    "takedown_pct": 18,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:35",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 14,
+        "attempted": 25
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 12,
+        "attempted": 20
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 3
+}

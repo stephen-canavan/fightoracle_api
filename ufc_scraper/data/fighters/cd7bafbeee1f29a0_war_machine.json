@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cd7bafbeee1f29a0",
+  "fname": "War",
+  "sname": "Machine",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-11-30",
+  "career_stats": {
+    "slpm": 2.32,
+    "str_acc": 60,
+    "sapm": 3.17,
+    "str_def": 43,
+    "td_avg": 1.16,
+    "td_acc": 50,
+    "td_def": 40,
+    "sub_avg": 0.0
+  }
+}

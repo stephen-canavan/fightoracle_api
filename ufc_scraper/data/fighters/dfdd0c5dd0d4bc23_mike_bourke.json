@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dfdd0c5dd0d4bc23",
+  "fname": "Mike",
+  "sname": "Bourke",
+  "record": {
+    "wins": 10,
+    "losses": 16,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Rhino",
+  "height_cm": 182.9,
+  "weight_lbs": 275,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1968-11-25",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

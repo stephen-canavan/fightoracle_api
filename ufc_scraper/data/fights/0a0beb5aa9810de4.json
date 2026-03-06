@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0a0beb5aa9810de4",
+  "ufcstats_event_id": "335ad945324c3a2e",
+  "ufcstats_fighter_red_id": "4100c7a09497ad41",
+  "ufcstats_fighter_blue_id": "a9e260472d321361",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "a9e260472d321361",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "scorecards": [
+    {
+      "judge": "Wade Vierra",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Chris Crail",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Marcel Varela",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 44,
+      "attempted": 101
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 52,
+      "attempted": 112
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 7
+    },
+    "takedown_pct": 14,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 31,
+        "attempted": 81
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 41,
+        "attempted": 96
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 50,
+      "attempted": 110
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 99,
+      "attempted": 165
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 3
+    },
+    "takedown_pct": 66,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "6:04",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 37,
+        "attempted": 89
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 21
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 79
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 15,
+        "attempted": 18
+      }
+    }
+  },
+  "card_position": 11
+}

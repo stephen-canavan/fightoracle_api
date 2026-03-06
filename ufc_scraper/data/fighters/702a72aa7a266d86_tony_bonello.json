@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "702a72aa7a266d86",
+  "fname": "Tony",
+  "sname": "Bonello",
+  "record": {
+    "wins": 16,
+    "losses": 3,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gun",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1972-10-20",
+  "career_stats": {
+    "slpm": 0.62,
+    "str_acc": 33,
+    "sapm": 12.62,
+    "str_def": 10,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

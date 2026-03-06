@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cc900af167fbedfd",
+  "fname": "Timothy",
+  "sname": "Johnson",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 265,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1985-03-13",
+  "career_stats": {
+    "slpm": 3.43,
+    "str_acc": 45,
+    "sapm": 3.08,
+    "str_def": 44,
+    "td_avg": 1.09,
+    "td_acc": 24,
+    "td_def": 69,
+    "sub_avg": 0.0
+  }
+}

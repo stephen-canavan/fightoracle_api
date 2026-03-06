@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "55f80a8aeffcdb33",
+  "fname": "Dustin",
+  "sname": "Pague",
+  "record": {
+    "wins": 12,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Disciple",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1987-08-05",
+  "career_stats": {
+    "slpm": 1.65,
+    "str_acc": 53,
+    "sapm": 2.96,
+    "str_def": 41,
+    "td_avg": 1.03,
+    "td_acc": 44,
+    "td_def": 55,
+    "sub_avg": 2.6
+  }
+}

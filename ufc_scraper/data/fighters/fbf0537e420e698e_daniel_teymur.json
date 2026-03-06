@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fbf0537e420e698e",
+  "fname": "Daniel",
+  "sname": "Teymur",
+  "record": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kid Dynamite",
+  "height_cm": 165.1,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1988-02-03",
+  "career_stats": {
+    "slpm": 3.08,
+    "str_acc": 46,
+    "sapm": 3.93,
+    "str_def": 56,
+    "td_avg": 0.56,
+    "td_acc": 18,
+    "td_def": 60,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fccb0fee256b7b4d",
+  "fname": "Raymond",
+  "sname": "Daniels",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1980-04-29",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 2.61,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 33,
+    "sub_avg": 3.0
+  }
+}

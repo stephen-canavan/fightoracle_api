@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7b03d9df5910917d",
+  "fname": "Daniel",
+  "sname": "McWilliams",
+  "record": {
+    "wins": 15,
+    "losses": 37,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Animal",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1983-01-14",
+  "career_stats": {
+    "slpm": 3.36,
+    "str_acc": 77,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 21.6
+  }
+}

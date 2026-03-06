@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c76ec2bc3a57666a",
+  "fname": "Mitch",
+  "sname": "Clarke",
+  "record": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Danger Zone",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1985-11-24",
+  "career_stats": {
+    "slpm": 2.35,
+    "str_acc": 34,
+    "sapm": 3.27,
+    "str_def": 47,
+    "td_avg": 0.64,
+    "td_acc": 15,
+    "td_def": 50,
+    "sub_avg": 0.4
+  }
+}

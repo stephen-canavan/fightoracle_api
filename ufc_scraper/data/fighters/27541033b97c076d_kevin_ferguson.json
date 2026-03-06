@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "27541033b97c076d",
+  "fname": "Kevin",
+  "sname": "Ferguson",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kimbo Slice",
+  "height_cm": 188.0,
+  "weight_lbs": 235,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1974-02-08",
+  "career_stats": {
+    "slpm": 2.3,
+    "str_acc": 50,
+    "sapm": 3.41,
+    "str_def": 38,
+    "td_avg": 3.1,
+    "td_acc": 72,
+    "td_def": 36,
+    "sub_avg": 1.2
+  }
+}

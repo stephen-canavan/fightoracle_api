@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ec664422b22d9787",
+  "fname": "Jenel",
+  "sname": "Lausa",
+  "record": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1988-08-01",
+  "career_stats": {
+    "slpm": 1.44,
+    "str_acc": 42,
+    "sapm": 3.53,
+    "str_def": 53,
+    "td_avg": 0.55,
+    "td_acc": 66,
+    "td_def": 51,
+    "sub_avg": 0.8
+  }
+}

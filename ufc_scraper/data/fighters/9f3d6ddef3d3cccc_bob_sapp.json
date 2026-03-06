@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9f3d6ddef3d3cccc",
+  "fname": "Bob",
+  "sname": "Sapp",
+  "record": {
+    "wins": 11,
+    "losses": 20,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Beast",
+  "height_cm": 195.6,
+  "weight_lbs": 350,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-09-22",
+  "career_stats": {
+    "slpm": 3.19,
+    "str_acc": 55,
+    "sapm": 1.88,
+    "str_def": 49,
+    "td_avg": 0.58,
+    "td_acc": 100,
+    "td_def": 72,
+    "sub_avg": 0.0
+  }
+}

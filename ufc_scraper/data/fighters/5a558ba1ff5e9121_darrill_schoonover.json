@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5a558ba1ff5e9121",
+  "fname": "Darrill",
+  "sname": "Schoonover",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Boss",
+  "height_cm": 188.0,
+  "weight_lbs": 220,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1985-07-18",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 33,
+    "sapm": 4.35,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 1.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5669b828e7e11329",
+  "fname": "David",
+  "sname": "Kaplan",
+  "record": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Diamond",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-11-16",
+  "career_stats": {
+    "slpm": 2.88,
+    "str_acc": 46,
+    "sapm": 4.32,
+    "str_def": 67,
+    "td_avg": 4.88,
+    "td_acc": 43,
+    "td_def": 0,
+    "sub_avg": 0.7
+  }
+}

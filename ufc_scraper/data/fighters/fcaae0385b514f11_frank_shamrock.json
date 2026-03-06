@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fcaae0385b514f11",
+  "fname": "Frank",
+  "sname": "Shamrock",
+  "record": {
+    "wins": 23,
+    "losses": 10,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1972-12-08",
+  "career_stats": {
+    "slpm": 4.75,
+    "str_acc": 53,
+    "sapm": 4.66,
+    "str_def": 57,
+    "td_avg": 0.35,
+    "td_acc": 50,
+    "td_def": 37,
+    "sub_avg": 1.1
+  }
+}

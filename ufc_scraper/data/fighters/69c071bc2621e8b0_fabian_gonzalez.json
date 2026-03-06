@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "69c071bc2621e8b0",
+  "fname": "Fabian",
+  "sname": "Gonzalez",
+  "record": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 3.9,
+    "str_acc": 48,
+    "sapm": 4.39,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

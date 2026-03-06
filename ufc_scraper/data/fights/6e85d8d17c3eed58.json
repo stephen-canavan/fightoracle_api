@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "6e85d8d17c3eed58",
+  "ufcstats_event_id": "1f5f75658551f2d3",
+  "ufcstats_fighter_red_id": "c2e3e67b5911bfb7",
+  "ufcstats_fighter_blue_id": "6f242453c91a5af0",
+  "method": "Submission",
+  "method_details": "Armbar From Bottom Guard",
+  "round": 1,
+  "time": "4:51",
+  "referee": "Josh Rosenthal",
+  "ufcstats_winner_id": "c2e3e67b5911bfb7",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter 14 Featherweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 19,
+      "attempted": 39
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 23,
+      "attempted": 43
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:28",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 27
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 33
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 78
+    },
+    "sig_strikes_pct": 32,
+    "total_strikes": {
+      "landed": 31,
+      "attempted": 84
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 75
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 43
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 10,
+        "attempted": 27
+      }
+    }
+  },
+  "card_position": 2
+}

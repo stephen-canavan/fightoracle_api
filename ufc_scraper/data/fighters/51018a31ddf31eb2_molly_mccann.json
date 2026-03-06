@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "51018a31ddf31eb2",
+  "fname": "Molly",
+  "sname": "McCann",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Meatball",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": 157.5,
+  "stance": "Orthodox",
+  "dob": "1990-05-04",
+  "career_stats": {
+    "slpm": 5.28,
+    "str_acc": 49,
+    "sapm": 4.65,
+    "str_def": 62,
+    "td_avg": 1.78,
+    "td_acc": 36,
+    "td_def": 38,
+    "sub_avg": 0.5
+  }
+}

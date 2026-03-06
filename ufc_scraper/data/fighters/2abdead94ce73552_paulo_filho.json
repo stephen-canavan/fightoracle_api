@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2abdead94ce73552",
+  "fname": "Paulo",
+  "sname": "Filho",
+  "record": {
+    "wins": 23,
+    "losses": 6,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1978-05-24",
+  "career_stats": {
+    "slpm": 1.86,
+    "str_acc": 48,
+    "sapm": 1.67,
+    "str_def": 66,
+    "td_avg": 2.4,
+    "td_acc": 32,
+    "td_def": 42,
+    "sub_avg": 1.6
+  }
+}

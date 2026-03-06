@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "60c72f7459827881",
+  "fname": "Julio",
+  "sname": "Paulino",
+  "record": {
+    "wins": 23,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Dominican Demon",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-12-04",
+  "career_stats": {
+    "slpm": 0.97,
+    "str_acc": 27,
+    "sapm": 1.87,
+    "str_def": 48,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 37,
+    "sub_avg": 0.5
+  }
+}

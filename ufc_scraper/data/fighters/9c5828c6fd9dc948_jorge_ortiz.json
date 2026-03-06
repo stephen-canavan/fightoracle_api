@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9c5828c6fd9dc948",
+  "fname": "Jorge",
+  "sname": "Ortiz",
+  "record": {
+    "wins": 18,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Naked Man",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 3.53,
+    "str_acc": 58,
+    "sapm": 2.8,
+    "str_def": 73,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

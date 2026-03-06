@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e3b30b573e7f0d19",
+  "fname": "Juan",
+  "sname": "Adrian Martinetti",
+  "record": {
+    "wins": 17,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 180.3,
+  "stance": "",
+  "dob": "1995-08-20",
+  "career_stats": {
+    "slpm": 11.0,
+    "str_acc": 65,
+    "sapm": 7.8,
+    "str_def": 48,
+    "td_avg": 3.0,
+    "td_acc": 42,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

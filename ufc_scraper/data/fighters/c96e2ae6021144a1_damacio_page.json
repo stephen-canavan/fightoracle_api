@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c96e2ae6021144a1",
+  "fname": "Damacio",
+  "sname": "Page",
+  "record": {
+    "wins": 19,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Angel of Death",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1982-09-30",
+  "career_stats": {
+    "slpm": 2.05,
+    "str_acc": 38,
+    "sapm": 2.47,
+    "str_def": 51,
+    "td_avg": 2.63,
+    "td_acc": 64,
+    "td_def": 23,
+    "sub_avg": 0.9
+  }
+}

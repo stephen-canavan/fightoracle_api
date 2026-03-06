@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8753e125f4499816",
+  "fname": "Blas",
+  "sname": "Avena",
+  "record": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Disciple",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1983-06-30",
+  "career_stats": {
+    "slpm": 2.34,
+    "str_acc": 47,
+    "sapm": 3.36,
+    "str_def": 43,
+    "td_avg": 2.37,
+    "td_acc": 80,
+    "td_def": 50,
+    "sub_avg": 1.8
+  }
+}

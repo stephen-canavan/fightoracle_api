@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e0d3d9b564f95635",
+  "fname": "Lucas",
+  "sname": "Rocha",
+  "record": {
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fenomeno",
+  "height_cm": 160.0,
+  "weight_lbs": 125,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "2000-08-12",
+  "career_stats": {
+    "slpm": 5.09,
+    "str_acc": 49,
+    "sapm": 3.67,
+    "str_def": 56,
+    "td_avg": 1.64,
+    "td_acc": 75,
+    "td_def": 76,
+    "sub_avg": 0.0
+  }
+}

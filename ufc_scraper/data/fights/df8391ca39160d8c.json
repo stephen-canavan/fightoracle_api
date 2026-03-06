@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "df8391ca39160d8c",
+  "ufcstats_event_id": "b3fb8d2293e17a59",
+  "ufcstats_fighter_red_id": "29af297d9f1de0f8",
+  "ufcstats_fighter_blue_id": "938ad489fb7a1f31",
+  "method": "DRAW-MAJ",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Gasper Oliver",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Maimunah Querido",
+      "red": 27,
+      "blue": 29
+    },
+    {
+      "judge": "Michelle Agustin",
+      "red": 28,
+      "blue": 28
+    },
+    {
+      "judge": "Ricardo Almeida",
+      "red": 28,
+      "blue": 28
+    }
+  ],
+  "ufcstats_winner_id": null,
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 44,
+      "attempted": 131
+    },
+    "sig_strikes_pct": 33,
+    "total_strikes": {
+      "landed": 85,
+      "attempted": 175
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 6
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:40",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 22,
+        "attempted": 104
+      },
+      "body": {
+        "landed": 19,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 24,
+        "attempted": 99
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 31
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 65,
+      "attempted": 114
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 102,
+      "attempted": 153
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:02",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 32,
+        "attempted": 77
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 26,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 38,
+        "attempted": 46
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 12
+}

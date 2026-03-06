@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "9232fed045b1f4f9",
+  "ufcstats_event_id": "3da19339ee7051d5",
+  "ufcstats_fighter_red_id": "dbc17725b887860a",
+  "ufcstats_fighter_blue_id": "1bcaac2d99b90fce",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "dbc17725b887860a",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter Brazil 1 Middleweight Tournament",
+  "scorecards": [
+    {
+      "judge": "Aaron Chatfield",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Mark Collett",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Rick Winter",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 2,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 111
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 46,
+      "attempted": 124
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 80
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 35,
+        "attempted": 99
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 9
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 38,
+      "attempted": 73
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 39,
+      "attempted": 74
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 60
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 61
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

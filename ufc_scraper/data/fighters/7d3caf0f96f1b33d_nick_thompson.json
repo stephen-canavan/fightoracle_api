@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7d3caf0f96f1b33d",
+  "fname": "Nick",
+  "sname": "Thompson",
+  "record": {
+    "wins": 38,
+    "losses": 14,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Goat",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1981-06-23",
+  "career_stats": {
+    "slpm": 1.87,
+    "str_acc": 42,
+    "sapm": 1.8,
+    "str_def": 49,
+    "td_avg": 1.06,
+    "td_acc": 100,
+    "td_def": 35,
+    "sub_avg": 2.6
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "7ada9af99946d456",
+  "ufcstats_event_id": "af1e5c64b8663aa0",
+  "ufcstats_fighter_red_id": "45e738622ea2c02c",
+  "ufcstats_fighter_blue_id": "ec23c1be628d8057",
+  "method": "Overturned",
+  "method_details": "Failed Drug Test by Jones",
+  "round": 2,
+  "time": "1:59",
+  "referee": "Chris Tognoni",
+  "is_title_fight": false,
+  "weight_class": "Catch Weight",
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 66,
+      "attempted": 93
+    },
+    "sig_strikes_pct": 70,
+    "total_strikes": {
+      "landed": 66,
+      "attempted": 93
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 50
+      },
+      "body": {
+        "landed": 25,
+        "attempted": 29
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "distance": {
+        "landed": 60,
+        "attempted": 86
+      },
+      "clinch": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 26,
+      "attempted": 50
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 31,
+      "attempted": 55
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:47",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 44
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 11,
+        "attempted": 32
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 14,
+        "attempted": 17
+      }
+    }
+  },
+  "card_position": 9
+}

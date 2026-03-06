@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6ce9a012e4c6020c",
+  "fname": "Chad",
+  "sname": "Johnson",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Rigg",
+  "height_cm": 188.0,
+  "weight_lbs": 230,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1986-07-22",
+  "career_stats": {
+    "slpm": 5.92,
+    "str_acc": 68,
+    "sapm": 7.8,
+    "str_def": 40,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

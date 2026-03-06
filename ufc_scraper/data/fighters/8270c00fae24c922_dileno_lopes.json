@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8270c00fae24c922",
+  "fname": "Dileno",
+  "sname": "Lopes",
+  "record": {
+    "wins": 19,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1984-09-26",
+  "career_stats": {
+    "slpm": 2.37,
+    "str_acc": 36,
+    "sapm": 3.33,
+    "str_def": 53,
+    "td_avg": 2.5,
+    "td_acc": 31,
+    "td_def": 100,
+    "sub_avg": 1.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8ba8e8d7eafa7267",
+  "fname": "Anton",
+  "sname": "Berzin",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Body Snatcher",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1989-09-29",
+  "career_stats": {
+    "slpm": 4.4,
+    "str_acc": 46,
+    "sapm": 6.8,
+    "str_def": 67,
+    "td_avg": 2.0,
+    "td_acc": 28,
+    "td_def": 0,
+    "sub_avg": 1.0
+  }
+}

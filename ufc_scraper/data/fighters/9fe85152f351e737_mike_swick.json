@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9fe85152f351e737",
+  "fname": "Mike",
+  "sname": "Swick",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quick",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1979-06-19",
+  "career_stats": {
+    "slpm": 2.36,
+    "str_acc": 37,
+    "sapm": 2.29,
+    "str_def": 54,
+    "td_avg": 1.06,
+    "td_acc": 50,
+    "td_def": 61,
+    "sub_avg": 0.6
+  }
+}

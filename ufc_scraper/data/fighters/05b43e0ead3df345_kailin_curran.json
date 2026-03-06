@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "05b43e0ead3df345",
+  "fname": "Kailin",
+  "sname": "Curran",
+  "record": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 162.6,
+  "weight_lbs": 115,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "1991-04-11",
+  "career_stats": {
+    "slpm": 3.89,
+    "str_acc": 43,
+    "sapm": 4.75,
+    "str_def": 53,
+    "td_avg": 2.0,
+    "td_acc": 57,
+    "td_def": 61,
+    "sub_avg": 0.6
+  }
+}

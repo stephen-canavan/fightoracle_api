@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "72e5e5a6edfa8223",
+  "fname": "Marcos",
+  "sname": "Mariano",
+  "record": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Dhalsim",
+  "height_cm": 185.4,
+  "weight_lbs": 155,
+  "reach_cm": 193.0,
+  "stance": "Switch",
+  "dob": "1986-10-12",
+  "career_stats": {
+    "slpm": 0.25,
+    "str_acc": 27,
+    "sapm": 2.11,
+    "str_def": 43,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 28,
+    "sub_avg": 0.0
+  }
+}

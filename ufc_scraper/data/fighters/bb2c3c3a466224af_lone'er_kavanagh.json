@@ -3,7 +3,7 @@
   "fname": "Lone'er",
   "sname": "Kavanagh",
   "record": {
-    "wins": 9,
+    "wins": 10,
     "losses": 1,
     "draws": 0,
     "no_contests": 0,
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1999-06-09",
   "career_stats": {
-    "slpm": 4.29,
-    "str_acc": 49,
-    "sapm": 3.69,
-    "str_def": 58,
-    "td_avg": 1.79,
-    "td_acc": 50,
-    "td_def": 88,
-    "sub_avg": 0.4
+    "slpm": 4.13,
+    "str_acc": 48,
+    "sapm": 3.49,
+    "str_def": 56,
+    "td_avg": 1.12,
+    "td_acc": 45,
+    "td_def": 94,
+    "sub_avg": 0.2
   }
 }

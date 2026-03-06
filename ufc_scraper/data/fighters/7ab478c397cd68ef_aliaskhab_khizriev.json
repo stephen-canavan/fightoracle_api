@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7ab478c397cd68ef",
+  "fname": "Aliaskhab",
+  "sname": "Khizriev",
+  "record": {
+    "wins": 14,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Black Wolf",
+  "height_cm": 175.3,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1990-08-24",
+  "career_stats": {
+    "slpm": 6.01,
+    "str_acc": 64,
+    "sapm": 4.38,
+    "str_def": 61,
+    "td_avg": 5.64,
+    "td_acc": 60,
+    "td_def": 100,
+    "sub_avg": 3.8
+  }
+}

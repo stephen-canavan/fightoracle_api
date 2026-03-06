@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dee294e9717012c2",
+  "fname": "Malcolm",
+  "sname": "Gordon",
+  "record": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "X",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 180.3,
+  "stance": "Switch",
+  "dob": "1990-05-19",
+  "career_stats": {
+    "slpm": 2.5,
+    "str_acc": 45,
+    "sapm": 2.0,
+    "str_def": 43,
+    "td_avg": 1.72,
+    "td_acc": 35,
+    "td_def": 26,
+    "sub_avg": 1.0
+  }
+}

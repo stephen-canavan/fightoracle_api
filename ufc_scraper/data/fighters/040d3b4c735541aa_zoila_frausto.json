@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "040d3b4c735541aa",
+  "fname": "Zoila",
+  "sname": "Frausto",
+  "record": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Warrior Princess",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-12-10",
+  "career_stats": {
+    "slpm": 0.77,
+    "str_acc": 31,
+    "sapm": 1.64,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 57,
+    "sub_avg": 0.0
+  }
+}

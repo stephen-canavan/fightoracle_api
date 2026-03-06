@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "55a7b2d4e54ffac9",
+  "fname": "Ryo",
+  "sname": "Chonan",
+  "record": {
+    "wins": 22,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Piranah",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1976-10-08",
+  "career_stats": {
+    "slpm": 2.57,
+    "str_acc": 43,
+    "sapm": 2.25,
+    "str_def": 60,
+    "td_avg": 0.61,
+    "td_acc": 41,
+    "td_def": 39,
+    "sub_avg": 0.3
+  }
+}

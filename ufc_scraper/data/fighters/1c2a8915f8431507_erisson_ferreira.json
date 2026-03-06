@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1c2a8915f8431507",
+  "fname": "Erisson",
+  "sname": "Ferreira",
+  "record": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gato",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1991-05-03",
+  "career_stats": {
+    "slpm": 1.75,
+    "str_acc": 32,
+    "sapm": 2.75,
+    "str_def": 56,
+    "td_avg": 1.11,
+    "td_acc": 100,
+    "td_def": 66,
+    "sub_avg": 1.7
+  }
+}

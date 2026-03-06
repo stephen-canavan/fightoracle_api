@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "c22de92b9d9030dc",
+  "ufcstats_event_id": "a780d16cf7eed44d",
+  "ufcstats_fighter_red_id": "d25240135aee03e5",
+  "ufcstats_fighter_blue_id": "38c7f72747f4f712",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Keith Peterson",
+  "ufcstats_winner_id": "d25240135aee03e5",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Barry Luxenberg",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 100,
+      "attempted": 315
+    },
+    "sig_strikes_pct": 31,
+    "total_strikes": {
+      "landed": 101,
+      "attempted": 318
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 8
+    },
+    "takedown_pct": 37,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 59,
+        "attempted": 257
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 25
+      },
+      "leg": {
+        "landed": 24,
+        "attempted": 33
+      },
+      "distance": {
+        "landed": 95,
+        "attempted": 306
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 76,
+      "attempted": 219
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 78,
+      "attempted": 225
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:26",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 31,
+        "attempted": 150
+      },
+      "body": {
+        "landed": 24,
+        "attempted": 40
+      },
+      "leg": {
+        "landed": 21,
+        "attempted": 29
+      },
+      "distance": {
+        "landed": 74,
+        "attempted": 212
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 9
+}

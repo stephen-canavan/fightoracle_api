@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "39d91e95949de3d9",
+  "fname": "Felicia",
+  "sname": "Spencer",
+  "record": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "FeeNom",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1990-11-29",
+  "career_stats": {
+    "slpm": 3.21,
+    "str_acc": 48,
+    "sapm": 4.54,
+    "str_def": 45,
+    "td_avg": 1.18,
+    "td_acc": 18,
+    "td_def": 27,
+    "sub_avg": 0.2
+  }
+}

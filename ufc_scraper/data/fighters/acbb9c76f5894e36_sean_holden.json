@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "acbb9c76f5894e36",
+  "fname": "Sean",
+  "sname": "Holden",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1984-09-17",
+  "career_stats": {
+    "slpm": 2.4,
+    "str_acc": 59,
+    "sapm": 0.6,
+    "str_def": 59,
+    "td_avg": 5.0,
+    "td_acc": 83,
+    "td_def": 0,
+    "sub_avg": 2.0
+  }
+}

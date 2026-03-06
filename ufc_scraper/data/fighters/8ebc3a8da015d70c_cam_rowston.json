@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8ebc3a8da015d70c",
+  "fname": "Cam",
+  "sname": "Rowston",
+  "record": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 198.1,
+  "stance": "Orthodox",
+  "dob": "1995-01-19",
+  "career_stats": {
+    "slpm": 4.26,
+    "str_acc": 46,
+    "sapm": 2.62,
+    "str_def": 51,
+    "td_avg": 0.5,
+    "td_acc": 50,
+    "td_def": 33,
+    "sub_avg": 0.5
+  }
+}

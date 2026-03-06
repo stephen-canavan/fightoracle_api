@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dbd198f780286aca",
+  "fname": "Angelo",
+  "sname": "Antonio",
+  "record": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1998-10-04",
+  "career_stats": {
+    "slpm": 1.09,
+    "str_acc": 50,
+    "sapm": 7.64,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

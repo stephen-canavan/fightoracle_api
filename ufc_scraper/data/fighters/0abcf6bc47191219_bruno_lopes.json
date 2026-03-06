@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0abcf6bc47191219",
+  "fname": "Bruno",
+  "sname": "Lopes",
+  "record": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Brunao",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1993-04-24",
+  "career_stats": {
+    "slpm": 2.81,
+    "str_acc": 43,
+    "sapm": 3.38,
+    "str_def": 57,
+    "td_avg": 2.51,
+    "td_acc": 33,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

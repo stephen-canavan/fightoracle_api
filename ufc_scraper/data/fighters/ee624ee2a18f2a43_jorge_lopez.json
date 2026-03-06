@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ee624ee2a18f2a43",
+  "fname": "Jorge",
+  "sname": "Lopez",
+  "record": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1988-11-21",
+  "career_stats": {
+    "slpm": 2.47,
+    "str_acc": 59,
+    "sapm": 2.57,
+    "str_def": 50,
+    "td_avg": 3.5,
+    "td_acc": 41,
+    "td_def": 81,
+    "sub_avg": 0.0
+  }
+}

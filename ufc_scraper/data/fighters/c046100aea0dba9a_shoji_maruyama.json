@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c046100aea0dba9a",
+  "fname": "Shoji",
+  "sname": "Maruyama",
+  "record": {
+    "wins": 12,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 139,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-04-24",
+  "career_stats": {
+    "slpm": 1.4,
+    "str_acc": 63,
+    "sapm": 0.27,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 54,
+    "sub_avg": 0.0
+  }
+}

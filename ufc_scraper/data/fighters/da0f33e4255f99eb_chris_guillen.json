@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "da0f33e4255f99eb",
+  "fname": "Chris",
+  "sname": "Guillen",
+  "record": {
+    "wins": 13,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 240,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1972-12-09",
+  "career_stats": {
+    "slpm": 0.82,
+    "str_acc": 27,
+    "sapm": 1.91,
+    "str_def": 36,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3b17353b8002c7d0",
+  "fname": "Dennis",
+  "sname": "Bryant",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Beard",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1985-10-18",
+  "career_stats": {
+    "slpm": 10.56,
+    "str_acc": 59,
+    "sapm": 10.56,
+    "str_def": 13,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

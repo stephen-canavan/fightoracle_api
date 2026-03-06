@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "17e8ab0065e9085f",
+  "ufcstats_event_id": "dba230fe33011201",
+  "ufcstats_fighter_red_id": "07797f10b9569cfc",
+  "ufcstats_fighter_blue_id": "42ac4020cba261ad",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Vitor Ribeiro",
+  "ufcstats_winner_id": "42ac4020cba261ad",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Adrian Castro",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 88,
+      "attempted": 234
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 95,
+      "attempted": 241
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 180
+      },
+      "body": {
+        "landed": 32,
+        "attempted": 38
+      },
+      "leg": {
+        "landed": 12,
+        "attempted": 16
+      },
+      "distance": {
+        "landed": 80,
+        "attempted": 226
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 140,
+      "attempted": 268
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 148,
+      "attempted": 286
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:42",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 112,
+        "attempted": 226
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 30
+      },
+      "leg": {
+        "landed": 10,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 97,
+        "attempted": 208
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 34,
+        "attempted": 50
+      }
+    }
+  },
+  "card_position": 13
+}

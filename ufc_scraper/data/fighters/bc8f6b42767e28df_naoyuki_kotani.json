@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bc8f6b42767e28df",
+  "fname": "Naoyuki",
+  "sname": "Kotani",
+  "record": {
+    "wins": 34,
+    "losses": 14,
+    "draws": 7,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "1981-12-08",
+  "career_stats": {
+    "slpm": 1.02,
+    "str_acc": 31,
+    "sapm": 2.89,
+    "str_def": 50,
+    "td_avg": 0.83,
+    "td_acc": 16,
+    "td_def": 46,
+    "sub_avg": 0.8
+  }
+}

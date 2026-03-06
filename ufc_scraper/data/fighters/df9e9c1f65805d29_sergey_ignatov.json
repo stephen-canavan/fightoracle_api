@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "df9e9c1f65805d29",
+  "fname": "Sergey",
+  "sname": "Ignatov",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 210,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1971-10-13",
+  "career_stats": {
+    "slpm": 0.35,
+    "str_acc": 50,
+    "sapm": 3.25,
+    "str_def": 42,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

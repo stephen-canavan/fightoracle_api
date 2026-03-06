@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5cafbc97dba2e797",
+  "fname": "Robert",
+  "sname": "McDaniel",
+  "record": {
+    "wins": 28,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bubba",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1983-05-03",
+  "career_stats": {
+    "slpm": 1.64,
+    "str_acc": 44,
+    "sapm": 1.98,
+    "str_def": 56,
+    "td_avg": 0.93,
+    "td_acc": 50,
+    "td_def": 50,
+    "sub_avg": 1.4
+  }
+}

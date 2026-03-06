@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1652f3213655b935",
+  "fname": "Phil",
+  "sname": "Baroni",
+  "record": {
+    "wins": 15,
+    "losses": 18,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The New York Bad Ass",
+  "height_cm": 175.3,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1976-04-16",
+  "career_stats": {
+    "slpm": 2.77,
+    "str_acc": 45,
+    "sapm": 3.93,
+    "str_def": 40,
+    "td_avg": 1.46,
+    "td_acc": 47,
+    "td_def": 60,
+    "sub_avg": 0.5
+  }
+}

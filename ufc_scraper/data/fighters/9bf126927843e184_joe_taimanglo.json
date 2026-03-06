@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9bf126927843e184",
+  "fname": "Joe",
+  "sname": "Taimanglo",
+  "record": {
+    "wins": 23,
+    "losses": 7,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Juggernaut",
+  "height_cm": 162.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1984-06-27",
+  "career_stats": {
+    "slpm": 4.18,
+    "str_acc": 42,
+    "sapm": 4.55,
+    "str_def": 59,
+    "td_avg": 5.45,
+    "td_acc": 40,
+    "td_def": 100,
+    "sub_avg": 1.4
+  }
+}

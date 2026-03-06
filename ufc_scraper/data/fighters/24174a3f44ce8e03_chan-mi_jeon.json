@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "24174a3f44ce8e03",
+  "fname": "Chan-Mi",
+  "sname": "Jeon",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 115,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1997-08-28",
+  "career_stats": {
+    "slpm": 6.23,
+    "str_acc": 31,
+    "sapm": 7.77,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

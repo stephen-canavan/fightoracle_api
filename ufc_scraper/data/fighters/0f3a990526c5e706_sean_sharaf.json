@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0f3a990526c5e706",
+  "fname": "Sean",
+  "sname": "Sharaf",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Smoke",
+  "height_cm": 190.5,
+  "weight_lbs": 252,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1993-07-11",
+  "career_stats": {
+    "slpm": 7.41,
+    "str_acc": 43,
+    "sapm": 15.0,
+    "str_def": 42,
+    "td_avg": 0.93,
+    "td_acc": 11,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "7efca050bc7be8ac",
+  "ufcstats_event_id": "0f7210aa8d61af8d",
+  "ufcstats_fighter_red_id": "8e5d953bdb9ae5e7",
+  "ufcstats_fighter_blue_id": "abb68e3c7ca128f2",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Horacio Lopez Villanueva",
+  "ufcstats_winner_id": "8e5d953bdb9ae5e7",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Bladimir Puga",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Mike Bell",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Eric Colon",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 84,
+      "attempted": 150
+    },
+    "sig_strikes_pct": 56,
+    "total_strikes": {
+      "landed": 114,
+      "attempted": 184
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 11
+    },
+    "takedown_pct": 45,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "7:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 71,
+        "attempted": 135
+      },
+      "body": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 75,
+        "attempted": 141
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 7
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 87,
+      "attempted": 151
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 117,
+      "attempted": 186
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 58,
+        "attempted": 112
+      },
+      "body": {
+        "landed": 14,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 15,
+        "attempted": 16
+      },
+      "distance": {
+        "landed": 78,
+        "attempted": 135
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 5,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 9
+}

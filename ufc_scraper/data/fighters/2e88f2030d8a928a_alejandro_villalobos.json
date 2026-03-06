@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2e88f2030d8a928a",
+  "fname": "Alejandro",
+  "sname": "Villalobos",
+  "record": {
+    "wins": 17,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1979-10-26",
+  "career_stats": {
+    "slpm": 3.93,
+    "str_acc": 46,
+    "sapm": 4.07,
+    "str_def": 67,
+    "td_avg": 1.0,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

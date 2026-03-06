@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b4f7a2d8ecc5e0c3",
+  "fname": "Ralph",
+  "sname": "Dillon",
+  "record": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rage",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.34,
+    "str_acc": 14,
+    "sapm": 0.69,
+    "str_def": 60,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

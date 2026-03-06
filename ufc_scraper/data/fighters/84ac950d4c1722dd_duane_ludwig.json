@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "84ac950d4c1722dd",
+  "fname": "Duane",
+  "sname": "Ludwig",
+  "record": {
+    "wins": 21,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bang",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1978-08-04",
+  "career_stats": {
+    "slpm": 4.62,
+    "str_acc": 44,
+    "sapm": 3.05,
+    "str_def": 57,
+    "td_avg": 0.43,
+    "td_acc": 25,
+    "td_def": 59,
+    "sub_avg": 0.1
+  }
+}

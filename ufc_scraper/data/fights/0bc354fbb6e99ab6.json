@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "0bc354fbb6e99ab6",
+  "ufcstats_event_id": "351264d11286d09a",
+  "ufcstats_fighter_red_id": "7e511f8d842a109d",
+  "ufcstats_fighter_blue_id": "83b00f7597e5ac83",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "7e511f8d842a109d",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Patrick Buckley",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "David Therien",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Dave Tirelli",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 41,
+      "attempted": 62
+    },
+    "sig_strikes_pct": 66,
+    "total_strikes": {
+      "landed": 69,
+      "attempted": 94
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:18",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 32,
+        "attempted": 53
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 18,
+        "attempted": 37
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 21
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 4
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 81,
+      "attempted": 185
+    },
+    "sig_strikes_pct": 43,
+    "total_strikes": {
+      "landed": 107,
+      "attempted": 212
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:25",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 56,
+        "attempted": 158
+      },
+      "body": {
+        "landed": 21,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 50,
+        "attempted": 148
+      },
+      "clinch": {
+        "landed": 30,
+        "attempted": 36
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 11
+}

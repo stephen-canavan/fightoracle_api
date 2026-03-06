@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c62fbc117d57b943",
+  "fname": "Tai",
+  "sname": "Tuivasa",
+  "record": {
+    "wins": 15,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bam Bam",
+  "height_cm": 188.0,
+  "weight_lbs": 264,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1993-03-16",
+  "career_stats": {
+    "slpm": 3.66,
+    "str_acc": 48,
+    "sapm": 4.97,
+    "str_def": 43,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

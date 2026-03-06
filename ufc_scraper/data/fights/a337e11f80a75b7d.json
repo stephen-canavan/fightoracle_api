@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "a337e11f80a75b7d",
+  "ufcstats_event_id": "6810d8d2dd557cf9",
+  "ufcstats_fighter_red_id": "ec52462a1b41f714",
+  "ufcstats_fighter_blue_id": "c13042265355a290",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Rich Mitchell",
+  "ufcstats_winner_id": "ec52462a1b41f714",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Andreas Gruner",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Pawel Harasim",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Howard Hughes",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 49,
+      "attempted": 80
+    },
+    "sig_strikes_pct": 61,
+    "total_strikes": {
+      "landed": 127,
+      "attempted": 171
+    },
+    "takedowns": {
+      "landed": 11,
+      "attempted": 15
+    },
+    "takedown_pct": 73,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "9:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 74
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 27,
+        "attempted": 53
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 22,
+        "attempted": 26
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 53,
+      "attempted": 128
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 59,
+      "attempted": 134
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 35,
+        "attempted": 103
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 44,
+        "attempted": 116
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 12
+}

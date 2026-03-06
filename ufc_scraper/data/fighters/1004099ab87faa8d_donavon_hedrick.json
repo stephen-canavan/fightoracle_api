@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1004099ab87faa8d",
+  "fname": "Donavon",
+  "sname": "Hedrick",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1997-03-21",
+  "career_stats": {
+    "slpm": 2.7,
+    "str_acc": 47,
+    "sapm": 1.77,
+    "str_def": 61,
+    "td_avg": 3.12,
+    "td_acc": 33,
+    "td_def": 42,
+    "sub_avg": 0.0
+  }
+}

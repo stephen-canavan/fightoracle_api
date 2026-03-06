@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6e7506127408aa9e",
+  "fname": "Nadia",
+  "sname": "Kassem",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 167.6,
+  "stance": "Southpaw",
+  "dob": "1995-11-15",
+  "career_stats": {
+    "slpm": 3.13,
+    "str_acc": 41,
+    "sapm": 4.48,
+    "str_def": 48,
+    "td_avg": 0.46,
+    "td_acc": 33,
+    "td_def": 40,
+    "sub_avg": 2.8
+  }
+}

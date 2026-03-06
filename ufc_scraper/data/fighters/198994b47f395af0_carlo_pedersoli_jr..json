@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "198994b47f395af0",
+  "fname": "Carlo",
+  "sname": "Pedersoli Jr.",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Semento",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1993-06-08",
+  "career_stats": {
+    "slpm": 4.17,
+    "str_acc": 37,
+    "sapm": 4.12,
+    "str_def": 61,
+    "td_avg": 2.91,
+    "td_acc": 44,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

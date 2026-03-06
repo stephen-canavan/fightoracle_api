@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d2f310b5b072e986",
+  "fname": "Kevin",
+  "sname": "Engel",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Hitman",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

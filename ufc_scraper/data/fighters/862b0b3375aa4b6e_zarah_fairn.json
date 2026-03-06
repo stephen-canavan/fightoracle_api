@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "862b0b3375aa4b6e",
+  "fname": "Zarah",
+  "sname": "Fairn",
+  "record": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Infinite",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1983-12-10",
+  "career_stats": {
+    "slpm": 4.55,
+    "str_acc": 31,
+    "sapm": 7.4,
+    "str_def": 45,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

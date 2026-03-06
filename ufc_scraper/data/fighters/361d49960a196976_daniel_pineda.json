@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "361d49960a196976",
+  "fname": "Daniel",
+  "sname": "Pineda",
+  "record": {
+    "wins": 28,
+    "losses": 17,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Pit",
+  "height_cm": 170.2,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1985-08-06",
+  "career_stats": {
+    "slpm": 2.85,
+    "str_acc": 49,
+    "sapm": 3.26,
+    "str_def": 45,
+    "td_avg": 1.42,
+    "td_acc": 24,
+    "td_def": 54,
+    "sub_avg": 1.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "87b7df65c30008c4",
+  "fname": "Tony",
+  "sname": "Sylvester",
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 225,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1978-01-27",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 10.12,
+    "str_def": 12,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

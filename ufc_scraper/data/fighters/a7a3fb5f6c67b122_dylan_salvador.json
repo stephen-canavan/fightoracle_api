@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a7a3fb5f6c67b122",
+  "fname": "Dylan",
+  "sname": "Salvador",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1993-05-20",
+  "career_stats": {
+    "slpm": 4.34,
+    "str_acc": 37,
+    "sapm": 11.57,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

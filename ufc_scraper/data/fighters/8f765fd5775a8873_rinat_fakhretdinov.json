@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8f765fd5775a8873",
+  "fname": "Rinat",
+  "sname": "Fakhretdinov",
+  "record": {
+    "wins": 24,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gladiator",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1991-09-28",
+  "career_stats": {
+    "slpm": 5.03,
+    "str_acc": 52,
+    "sapm": 3.61,
+    "str_def": 54,
+    "td_avg": 3.91,
+    "td_acc": 34,
+    "td_def": 91,
+    "sub_avg": 0.2
+  }
+}

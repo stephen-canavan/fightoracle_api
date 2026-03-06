@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dfb965c9824425db",
+  "fname": "Joe",
+  "sname": "Camacho",
+  "record": {
+    "wins": 13,
+    "losses": 19,
+    "draws": 3,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1972-03-10",
+  "career_stats": {
+    "slpm": 0.31,
+    "str_acc": 17,
+    "sapm": 5.0,
+    "str_def": 42,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "89839250eb25c9c1",
+  "fname": "Caio",
+  "sname": "Machado",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bigfoot",
+  "height_cm": 193.0,
+  "weight_lbs": 250,
+  "reach_cm": 198.1,
+  "stance": "Southpaw",
+  "dob": "1994-07-20",
+  "career_stats": {
+    "slpm": 5.82,
+    "str_acc": 53,
+    "sapm": 2.87,
+    "str_def": 63,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 82,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6e380a4d73ab4f0e",
+  "fname": "Ron",
+  "sname": "Fields",
+  "record": {
+    "wins": 28,
+    "losses": 32,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Killing",
+  "height_cm": 188.0,
+  "weight_lbs": 200,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-11-18",
+  "career_stats": {
+    "slpm": 0.33,
+    "str_acc": 33,
+    "sapm": 2.64,
+    "str_def": 11,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

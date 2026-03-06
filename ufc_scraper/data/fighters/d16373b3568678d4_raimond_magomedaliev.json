@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d16373b3568678d4",
+  "fname": "Raimond",
+  "sname": "Magomedaliev",
+  "record": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1990-06-10",
+  "career_stats": {
+    "slpm": 4.07,
+    "str_acc": 41,
+    "sapm": 4.75,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

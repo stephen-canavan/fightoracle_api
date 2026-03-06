@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5442f1bc4b47eaf3",
+  "fname": "Chris",
+  "sname": "Curtis",
+  "record": {
+    "wins": 32,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Action-Man",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1987-07-15",
+  "career_stats": {
+    "slpm": 5.98,
+    "str_acc": 50,
+    "sapm": 6.19,
+    "str_def": 54,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 82,
+    "sub_avg": 0.0
+  }
+}

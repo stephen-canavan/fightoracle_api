@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "64b12fe31be7560c",
+  "fname": "Eric",
+  "sname": "Nolan",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Nightime",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1997-09-13",
+  "career_stats": {
+    "slpm": 3.14,
+    "str_acc": 39,
+    "sapm": 5.13,
+    "str_def": 41,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 71,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "45f7cb591c3ab00b",
+  "fname": "Sean",
+  "sname": "Brady",
+  "record": {
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1992-11-23",
+  "career_stats": {
+    "slpm": 3.96,
+    "str_acc": 55,
+    "sapm": 3.05,
+    "str_def": 59,
+    "td_avg": 3.53,
+    "td_acc": 53,
+    "td_def": 86,
+    "sub_avg": 0.9
+  }
+}

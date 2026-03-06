@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6f4d199c0adc06f5",
+  "fname": "Samandar",
+  "sname": "Murodov",
+  "record": {
+    "wins": 11,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1999-08-28",
+  "career_stats": {
+    "slpm": 1.5,
+    "str_acc": 75,
+    "sapm": 0.5,
+    "str_def": 44,
+    "td_avg": 6.01,
+    "td_acc": 66,
+    "td_def": 0,
+    "sub_avg": 1.5
+  }
+}

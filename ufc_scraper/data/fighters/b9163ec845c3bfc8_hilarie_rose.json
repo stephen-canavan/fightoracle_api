@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b9163ec845c3bfc8",
+  "fname": "Hilarie",
+  "sname": "Rose",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": 160.0,
+  "stance": "Orthodox",
+  "dob": "1992-11-11",
+  "career_stats": {
+    "slpm": 2.33,
+    "str_acc": 33,
+    "sapm": 6.13,
+    "str_def": 44,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

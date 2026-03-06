@@ -1,0 +1,106 @@
+{
+  "ufcstats_fight_id": "04d37c1c206c0efd",
+  "ufcstats_event_id": "42c96a9c4802e2e1",
+  "ufcstats_fighter_red_id": "4bd6b4800070b069",
+  "ufcstats_fighter_blue_id": "d76ad9a08c4408ff",
+  "method": "Overturned",
+  "method_details": "Early Stoppage",
+  "round": 2,
+  "time": "2:43",
+  "referee": "Tim Mills",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 60
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 81
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "3:38",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 55
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 44
+      },
+      "clinch": {
+        "landed": 15,
+        "attempted": 16
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 20,
+      "attempted": 56
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 21,
+      "attempted": 57
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "1:14",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 47
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 18,
+        "attempted": 51
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 8
+}

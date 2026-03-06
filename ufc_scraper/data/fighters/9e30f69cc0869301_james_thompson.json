@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9e30f69cc0869301",
+  "fname": "James",
+  "sname": "Thompson",
+  "record": {
+    "wins": 20,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Colossus",
+  "height_cm": 195.6,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1978-12-16",
+  "career_stats": {
+    "slpm": 5.13,
+    "str_acc": 52,
+    "sapm": 3.19,
+    "str_def": 41,
+    "td_avg": 3.14,
+    "td_acc": 36,
+    "td_def": 53,
+    "sub_avg": 1.3
+  }
+}

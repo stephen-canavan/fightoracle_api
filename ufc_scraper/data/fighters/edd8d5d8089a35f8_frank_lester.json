@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "edd8d5d8089a35f8",
+  "fname": "Frank",
+  "sname": "Lester",
+  "record": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1984-06-10",
+  "career_stats": {
+    "slpm": 2.18,
+    "str_acc": 36,
+    "sapm": 3.82,
+    "str_def": 53,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

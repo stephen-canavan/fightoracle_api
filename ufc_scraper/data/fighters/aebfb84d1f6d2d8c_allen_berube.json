@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aebfb84d1f6d2d8c",
+  "fname": "Allen",
+  "sname": "Berube",
+  "record": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Monstah Lobstah",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1974-08-25",
+  "career_stats": {
+    "slpm": 0.92,
+    "str_acc": 80,
+    "sapm": 0.92,
+    "str_def": 33,
+    "td_avg": 6.87,
+    "td_acc": 100,
+    "td_def": 0,
+    "sub_avg": 3.4
+  }
+}

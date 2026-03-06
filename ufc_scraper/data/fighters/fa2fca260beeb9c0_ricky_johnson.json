@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fa2fca260beeb9c0",
+  "fname": "Ricky",
+  "sname": "Johnson",
+  "record": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.83,
+    "str_acc": 25,
+    "sapm": 6.3,
+    "str_def": 36,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "377c8eb085bb8e00",
+  "ufcstats_event_id": "e7e970d508529bf3",
+  "ufcstats_fighter_red_id": "673ea7dcc786b1b3",
+  "ufcstats_fighter_blue_id": "fc169c387b4b465d",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "James Warring",
+  "ufcstats_winner_id": "fc169c387b4b465d",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Sal D'amato",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Richard Davis",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Chris Lee",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 66,
+      "attempted": 171
+    },
+    "sig_strikes_pct": 38,
+    "total_strikes": {
+      "landed": 99,
+      "attempted": 209
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:05",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 137
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 47,
+        "attempted": 141
+      },
+      "clinch": {
+        "landed": 19,
+        "attempted": 30
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 75,
+      "attempted": 130
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 84,
+      "attempted": 139
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:03",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 45,
+        "attempted": 96
+      },
+      "body": {
+        "landed": 22,
+        "attempted": 26
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 46,
+        "attempted": 89
+      },
+      "clinch": {
+        "landed": 29,
+        "attempted": 41
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 6
+}

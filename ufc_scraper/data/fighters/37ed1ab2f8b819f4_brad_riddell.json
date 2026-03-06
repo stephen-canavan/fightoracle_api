@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "37ed1ab2f8b819f4",
+  "fname": "Brad",
+  "sname": "Riddell",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Quake",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1991-09-30",
+  "career_stats": {
+    "slpm": 4.71,
+    "str_acc": 53,
+    "sapm": 3.53,
+    "str_def": 53,
+    "td_avg": 1.77,
+    "td_acc": 36,
+    "td_def": 63,
+    "sub_avg": 0.0
+  }
+}

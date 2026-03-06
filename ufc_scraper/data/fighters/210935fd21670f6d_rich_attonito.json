@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "210935fd21670f6d",
+  "fname": "Rich",
+  "sname": "Attonito",
+  "record": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Raging Bull",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1977-06-16",
+  "career_stats": {
+    "slpm": 2.28,
+    "str_acc": 47,
+    "sapm": 2.13,
+    "str_def": 59,
+    "td_avg": 0.74,
+    "td_acc": 37,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

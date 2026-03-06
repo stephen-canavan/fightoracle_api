@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "175852708cb55776",
+  "fname": "Cristina",
+  "sname": "Stanciu",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Barbie",
+  "height_cm": 160.0,
+  "weight_lbs": 115,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1994-03-29",
+  "career_stats": {
+    "slpm": 2.5,
+    "str_acc": 50,
+    "sapm": 3.07,
+    "str_def": 52,
+    "td_avg": 0.85,
+    "td_acc": 100,
+    "td_def": 40,
+    "sub_avg": 1.7
+  }
+}

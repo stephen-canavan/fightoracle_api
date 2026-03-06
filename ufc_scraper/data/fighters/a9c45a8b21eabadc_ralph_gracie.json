@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a9c45a8b21eabadc",
+  "fname": "Ralph",
+  "sname": "Gracie",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1971-05-25",
+  "career_stats": {
+    "slpm": 0.86,
+    "str_acc": 37,
+    "sapm": 1.72,
+    "str_def": 31,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 25,
+    "sub_avg": 4.0
+  }
+}

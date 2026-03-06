@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fe5a9547479396ab",
+  "fname": "Jim",
+  "sname": "Alers",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Beast",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1986-10-14",
+  "career_stats": {
+    "slpm": 2.9,
+    "str_acc": 40,
+    "sapm": 4.38,
+    "str_def": 56,
+    "td_avg": 2.26,
+    "td_acc": 41,
+    "td_def": 80,
+    "sub_avg": 0.3
+  }
+}

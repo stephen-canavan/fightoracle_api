@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "46f557bd44da630e",
+  "fname": "Richard",
+  "sname": "Jacobi",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 193.0,
+  "weight_lbs": 260,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-09-28",
+  "career_stats": {
+    "slpm": 0.88,
+    "str_acc": 44,
+    "sapm": 3.94,
+    "str_def": 51,
+    "td_avg": 3.28,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

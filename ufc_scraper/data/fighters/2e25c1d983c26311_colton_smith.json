@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2e25c1d983c26311",
+  "fname": "Colton",
+  "sname": "Smith",
+  "record": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1987-08-14",
+  "career_stats": {
+    "slpm": 1.64,
+    "str_acc": 41,
+    "sapm": 2.3,
+    "str_def": 51,
+    "td_avg": 4.09,
+    "td_acc": 36,
+    "td_def": 25,
+    "sub_avg": 1.4
+  }
+}

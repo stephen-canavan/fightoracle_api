@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "7f3763caa99a3486",
+  "ufcstats_event_id": "72cbe507644a587c",
+  "ufcstats_fighter_red_id": "47b63240018d5d86",
+  "ufcstats_fighter_blue_id": "d7c3816669784109",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Blake Grice",
+  "ufcstats_winner_id": "d7c3816669784109",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Chris Lee",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Ken Coffey",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Jeff Mullen",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 70,
+      "attempted": 145
+    },
+    "sig_strikes_pct": 48,
+    "total_strikes": {
+      "landed": 74,
+      "attempted": 149
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 6
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:25",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 52,
+        "attempted": 123
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "distance": {
+        "landed": 50,
+        "attempted": 116
+      },
+      "clinch": {
+        "landed": 16,
+        "attempted": 25
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 4
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 84,
+      "attempted": 242
+    },
+    "sig_strikes_pct": 34,
+    "total_strikes": {
+      "landed": 128,
+      "attempted": 293
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 185
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 38
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 174
+      },
+      "clinch": {
+        "landed": 41,
+        "attempted": 56
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 12
+      }
+    }
+  },
+  "card_position": 2
+}

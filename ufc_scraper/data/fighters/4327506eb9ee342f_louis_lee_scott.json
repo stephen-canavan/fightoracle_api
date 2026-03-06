@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4327506eb9ee342f",
+  "fname": "Louis",
+  "sname": "Lee Scott",
+  "record": {
+    "wins": 10,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Lightning",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "2000-02-26",
+  "career_stats": {
+    "slpm": 5.35,
+    "str_acc": 58,
+    "sapm": 0.81,
+    "str_def": 71,
+    "td_avg": 2.43,
+    "td_acc": 66,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

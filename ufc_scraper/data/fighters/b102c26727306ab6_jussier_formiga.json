@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b102c26727306ab6",
+  "fname": "Jussier",
+  "sname": "Formiga",
+  "record": {
+    "wins": 23,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1985-04-14",
+  "career_stats": {
+    "slpm": 1.42,
+    "str_acc": 39,
+    "sapm": 2.34,
+    "str_def": 64,
+    "td_avg": 1.82,
+    "td_acc": 35,
+    "td_def": 87,
+    "sub_avg": 0.6
+  }
+}

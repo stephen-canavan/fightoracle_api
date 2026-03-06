@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0c277f3ff66b0208",
+  "fname": "Virgil",
+  "sname": "Zwicker",
+  "record": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "RezDog",
+  "height_cm": 188.0,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "",
+  "dob": "1982-06-26",
+  "career_stats": {
+    "slpm": 3.34,
+    "str_acc": 48,
+    "sapm": 4.87,
+    "str_def": 39,
+    "td_avg": 1.31,
+    "td_acc": 30,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

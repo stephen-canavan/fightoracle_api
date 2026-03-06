@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6f81b6de2557739a",
+  "fname": "Jacob",
+  "sname": "Volkmann",
+  "record": {
+    "wins": 19,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Christmas",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1980-09-05",
+  "career_stats": {
+    "slpm": 1.19,
+    "str_acc": 34,
+    "sapm": 1.78,
+    "str_def": 52,
+    "td_avg": 3.19,
+    "td_acc": 48,
+    "td_def": 52,
+    "sub_avg": 2.0
+  }
+}

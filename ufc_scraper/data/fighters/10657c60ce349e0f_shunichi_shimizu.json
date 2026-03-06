@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "10657c60ce349e0f",
+  "fname": "Shunichi",
+  "sname": "Shimizu",
+  "record": {
+    "wins": 30,
+    "losses": 18,
+    "draws": 11,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1985-01-31",
+  "career_stats": {
+    "slpm": 0.14,
+    "str_acc": 33,
+    "sapm": 4.68,
+    "str_def": 30,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

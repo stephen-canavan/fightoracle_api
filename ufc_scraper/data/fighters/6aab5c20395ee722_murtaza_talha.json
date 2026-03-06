@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6aab5c20395ee722",
+  "fname": "Murtaza",
+  "sname": "Talha",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1996-07-10",
+  "career_stats": {
+    "slpm": 4.29,
+    "str_acc": 57,
+    "sapm": 7.09,
+    "str_def": 31,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

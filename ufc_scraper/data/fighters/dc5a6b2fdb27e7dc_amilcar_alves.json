@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dc5a6b2fdb27e7dc",
+  "fname": "Amilcar",
+  "sname": "Alves",
+  "record": {
+    "wins": 15,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1988-08-08",
+  "career_stats": {
+    "slpm": 0.5,
+    "str_acc": 46,
+    "sapm": 2.02,
+    "str_def": 30,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 53,
+    "sub_avg": 0.0
+  }
+}

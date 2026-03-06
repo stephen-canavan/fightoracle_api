@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5f99b2bafb10305f",
+  "fname": "Daron",
+  "sname": "Cruickshank",
+  "record": {
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Detroit Superstar",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Switch",
+  "dob": "1985-06-11",
+  "career_stats": {
+    "slpm": 2.88,
+    "str_acc": 38,
+    "sapm": 2.98,
+    "str_def": 57,
+    "td_avg": 2.04,
+    "td_acc": 41,
+    "td_def": 60,
+    "sub_avg": 0.2
+  }
+}

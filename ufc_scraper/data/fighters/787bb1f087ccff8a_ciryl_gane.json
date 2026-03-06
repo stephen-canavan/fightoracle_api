@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "787bb1f087ccff8a",
+  "fname": "Ciryl",
+  "sname": "Gane",
+  "record": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bon Gamin",
+  "height_cm": 193.0,
+  "weight_lbs": 247,
+  "reach_cm": 205.7,
+  "stance": "Orthodox",
+  "dob": "1990-04-12",
+  "career_stats": {
+    "slpm": 5.29,
+    "str_acc": 61,
+    "sapm": 2.33,
+    "str_def": 60,
+    "td_avg": 0.68,
+    "td_acc": 25,
+    "td_def": 47,
+    "sub_avg": 0.6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "564c2f5f9eb45d67",
+  "fname": "Mike",
+  "sname": "King",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1983-08-04",
+  "career_stats": {
+    "slpm": 4.44,
+    "str_acc": 58,
+    "sapm": 1.29,
+    "str_def": 72,
+    "td_avg": 1.75,
+    "td_acc": 25,
+    "td_def": 40,
+    "sub_avg": 3.5
+  }
+}

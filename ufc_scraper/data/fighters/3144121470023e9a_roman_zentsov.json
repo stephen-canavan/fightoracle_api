@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3144121470023e9a",
+  "fname": "Roman",
+  "sname": "Zentsov",
+  "record": {
+    "wins": 18,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Russian Hammer",
+  "height_cm": 185.4,
+  "weight_lbs": 230,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1973-09-10",
+  "career_stats": {
+    "slpm": 1.18,
+    "str_acc": 36,
+    "sapm": 0.53,
+    "str_def": 70,
+    "td_avg": 1.6,
+    "td_acc": 100,
+    "td_def": 33,
+    "sub_avg": 3.2
+  }
+}

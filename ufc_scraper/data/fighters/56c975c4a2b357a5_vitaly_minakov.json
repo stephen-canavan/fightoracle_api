@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "56c975c4a2b357a5",
+  "fname": "Vitaly",
+  "sname": "Minakov",
+  "record": {
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 249,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-02-06",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

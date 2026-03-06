@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f7be1db194e03d7e",
+  "fname": "Pedro",
+  "sname": "Falcao",
+  "record": {
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pedrinho",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1992-07-30",
+  "career_stats": {
+    "slpm": 3.21,
+    "str_acc": 48,
+    "sapm": 3.39,
+    "str_def": 50,
+    "td_avg": 2.73,
+    "td_acc": 25,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

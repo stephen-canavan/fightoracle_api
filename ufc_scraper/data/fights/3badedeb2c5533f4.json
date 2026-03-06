@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "3badedeb2c5533f4",
+  "ufcstats_event_id": "6ceff86fae4f6b3b",
+  "ufcstats_fighter_red_id": "20ec0061400178ca",
+  "ufcstats_fighter_blue_id": "b3bbe88fecd6a0d2",
+  "method": "KO/TKO",
+  "method_details": "Punches to Head From Back Control\n      Submission to Strikes",
+  "round": 1,
+  "time": "1:33",
+  "referee": "Joe Hamilton",
+  "ufcstats_winner_id": "20ec0061400178ca",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 7
+}

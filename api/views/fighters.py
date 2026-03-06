@@ -1,4 +1,5 @@
 from django.shortcuts import get_object_or_404
+from django.db.models import Q
 from rest_framework import status
 from rest_framework import viewsets
 from rest_framework.response import Response
@@ -31,6 +32,14 @@ class FighterViewSet(viewsets.ViewSet):
 
     def list(self, request, **kwargs):
         fighters = self.get_queryset()
+        
+        # Add search functionality
+        search = request.query_params.get('search', None)
+        if search:
+            fighters = fighters.filter(
+                Q(fname__icontains=search) | Q(sname__icontains=search)
+            )
+        
         paginator = self.pagination_class()
         page = paginator.paginate_queryset(fighters, request)
         serializer = FighterSerializer(page, many=True)

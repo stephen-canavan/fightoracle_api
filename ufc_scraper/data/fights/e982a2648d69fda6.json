@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "e982a2648d69fda6",
+  "ufcstats_event_id": "ee457ef1e1c326c1",
+  "ufcstats_fighter_red_id": "b13da0b1a3aed3e7",
+  "ufcstats_fighter_blue_id": "0c5c66ddd1886b83",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Cameron Quinn",
+  "ufcstats_winner_id": "0c5c66ddd1886b83",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Peter Hickmont",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Greg Kleynjans",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Kon Papaioannou",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 64
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 65,
+      "attempted": 104
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 6
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "2:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 10,
+        "attempted": 41
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 12
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 48
+      },
+      "clinch": {
+        "landed": 15,
+        "attempted": 16
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 63
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 103,
+      "attempted": 143
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "5:43",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 9,
+        "attempted": 12
+      },
+      "distance": {
+        "landed": 23,
+        "attempted": 52
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 10
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 8
+}

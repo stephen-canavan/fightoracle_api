@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "e06f96f3484ad74a",
+  "ufcstats_event_id": "ff4c3ab594c7fac3",
+  "ufcstats_fighter_red_id": "c742287ed86a09bc",
+  "ufcstats_fighter_blue_id": "6a1901c62ab3870f",
+  "method": "KO/TKO",
+  "method_details": "Punches to Head At Distance",
+  "round": 2,
+  "time": "2:56",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "6a1901c62ab3870f",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 27,
+      "attempted": 91
+    },
+    "sig_strikes_pct": 29,
+    "total_strikes": {
+      "landed": 28,
+      "attempted": 92
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 6
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 17,
+        "attempted": 67
+      },
+      "body": {
+        "landed": 10,
+        "attempted": 23
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 19,
+        "attempted": 80
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 117,
+      "attempted": 205
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 118,
+      "attempted": 206
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:33",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 90,
+        "attempted": 171
+      },
+      "body": {
+        "landed": 26,
+        "attempted": 33
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 78,
+        "attempted": 145
+      },
+      "clinch": {
+        "landed": 39,
+        "attempted": 60
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 8
+}

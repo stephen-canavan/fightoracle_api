@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ae7fe94f117f98cf",
+  "fname": "Joaquim",
+  "sname": "Silva",
+  "record": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Netto BJJ",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": 175.3,
+  "stance": "Southpaw",
+  "dob": "1989-02-05",
+  "career_stats": {
+    "slpm": 3.43,
+    "str_acc": 43,
+    "sapm": 4.17,
+    "str_def": 53,
+    "td_avg": 0.34,
+    "td_acc": 50,
+    "td_def": 70,
+    "sub_avg": 0.8
+  }
+}

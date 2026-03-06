@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "06142a1de3bbae75",
+  "ufcstats_event_id": "1652f3213655b935",
+  "ufcstats_fighter_red_id": "06f36cf4bd97ec77",
+  "ufcstats_fighter_blue_id": "22e47b53e4ceb27c",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Philippe Chartier",
+  "ufcstats_winner_id": "06f36cf4bd97ec77",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "scorecards": [
+    {
+      "judge": "Nelson Hamilton",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Sylvain Leblanc",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Claude Paquette",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 71,
+      "attempted": 84
+    },
+    "sig_strikes_pct": 84,
+    "total_strikes": {
+      "landed": 189,
+      "attempted": 210
+    },
+    "takedowns": {
+      "landed": 5,
+      "attempted": 9
+    },
+    "takedown_pct": 55,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "11:56",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 25,
+        "attempted": 36
+      },
+      "body": {
+        "landed": 46,
+        "attempted": 48
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 0,
+        "attempted": 2
+      },
+      "clinch": {
+        "landed": 18,
+        "attempted": 18
+      },
+      "ground": {
+        "landed": 53,
+        "attempted": 64
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 6,
+      "attempted": 16
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 8,
+      "attempted": 18
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:34",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 4,
+        "attempted": 14
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 12
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 9
+}

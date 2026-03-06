@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "35b3772629e27a49",
+  "fname": "Kevin",
+  "sname": "Croom",
+  "record": {
+    "wins": 21,
+    "losses": 15,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Crash",
+  "height_cm": 180.3,
+  "weight_lbs": 135,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1987-07-15",
+  "career_stats": {
+    "slpm": 2.65,
+    "str_acc": 34,
+    "sapm": 3.1,
+    "str_def": 41,
+    "td_avg": 0.48,
+    "td_acc": 5,
+    "td_def": 30,
+    "sub_avg": 0.5
+  }
+}

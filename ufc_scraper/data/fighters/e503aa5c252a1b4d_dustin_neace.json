@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e503aa5c252a1b4d",
+  "fname": "Dustin",
+  "sname": "Neace",
+  "record": {
+    "wins": 25,
+    "losses": 21,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Beast",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "",
+  "dob": "1986-09-12",
+  "career_stats": {
+    "slpm": 2.08,
+    "str_acc": 32,
+    "sapm": 2.66,
+    "str_def": 56,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 1.7
+  }
+}

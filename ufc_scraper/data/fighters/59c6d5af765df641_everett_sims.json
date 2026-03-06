@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "59c6d5af765df641",
+  "fname": "Everett",
+  "sname": "Sims",
+  "record": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Sexual Chocolate",
+  "height_cm": 195.6,
+  "weight_lbs": 260,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1988-09-04",
+  "career_stats": {
+    "slpm": 0.81,
+    "str_acc": 66,
+    "sapm": 2.19,
+    "str_def": 30,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 42,
+    "sub_avg": 1.2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d31cbcdd7d69536d",
+  "fname": "TJ",
+  "sname": "Brown",
+  "record": {
+    "wins": 17,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Downtown",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": 182.9,
+  "stance": "Switch",
+  "dob": "1990-05-22",
+  "career_stats": {
+    "slpm": 3.37,
+    "str_acc": 44,
+    "sapm": 2.89,
+    "str_def": 49,
+    "td_avg": 3.41,
+    "td_acc": 57,
+    "td_def": 36,
+    "sub_avg": 1.3
+  }
+}

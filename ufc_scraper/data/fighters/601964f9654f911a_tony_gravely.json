@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "601964f9654f911a",
+  "fname": "Tony",
+  "sname": "Gravely",
+  "record": {
+    "wins": 23,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1991-09-28",
+  "career_stats": {
+    "slpm": 3.82,
+    "str_acc": 48,
+    "sapm": 4.47,
+    "str_def": 44,
+    "td_avg": 5.4,
+    "td_acc": 41,
+    "td_def": 52,
+    "sub_avg": 0.3
+  }
+}

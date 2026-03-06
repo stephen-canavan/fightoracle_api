@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a1153013cb5f628f",
+  "fname": "Edson",
+  "sname": "Silva",
+  "record": {
+    "wins": 14,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Paredao",
+  "height_cm": null,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.69,
+    "str_acc": 14,
+    "sapm": 5.37,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "91dac5e69e28d5b5",
+  "fname": "Pannie",
+  "sname": "Kianzad",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Banzai",
+  "height_cm": 170.2,
+  "weight_lbs": 135,
+  "reach_cm": 167.6,
+  "stance": "Orthodox",
+  "dob": "1991-12-08",
+  "career_stats": {
+    "slpm": 4.88,
+    "str_acc": 49,
+    "sapm": 4.09,
+    "str_def": 51,
+    "td_avg": 0.41,
+    "td_acc": 33,
+    "td_def": 65,
+    "sub_avg": 0.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ea3dcc417c322064",
+  "fname": "Martin",
+  "sname": "Day",
+  "record": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Spartan",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1988-11-10",
+  "career_stats": {
+    "slpm": 3.97,
+    "str_acc": 45,
+    "sapm": 3.79,
+    "str_def": 53,
+    "td_avg": 0.72,
+    "td_acc": 60,
+    "td_def": 65,
+    "sub_avg": 0.5
+  }
+}

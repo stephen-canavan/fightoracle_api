@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "e65ffb177a2c7669",
+  "ufcstats_event_id": "d5ae8074631762fc",
+  "ufcstats_fighter_red_id": "cb696ebfb6598724",
+  "ufcstats_fighter_blue_id": "bf7ad5628363eec9",
+  "method": "Submission",
+  "method_details": "Suloev Stretch From Back Control",
+  "round": 2,
+  "time": "3:42",
+  "referee": "Kevin MacDonald",
+  "ufcstats_winner_id": "cb696ebfb6598724",
+  "is_title_fight": false,
+  "weight_class": "Bantamweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 33,
+      "attempted": 74
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 63,
+      "attempted": 105
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "2:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 56
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 13,
+        "attempted": 51
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "ground": {
+        "landed": 17,
+        "attempted": 19
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 12,
+      "attempted": 43
+    },
+    "sig_strikes_pct": 27,
+    "total_strikes": {
+      "landed": 20,
+      "attempted": 51
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "2:35",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 2,
+        "attempted": 31
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 7,
+        "attempted": 35
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 7
+}

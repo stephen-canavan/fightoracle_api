@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "af9efbfd63d39734",
+  "fname": "Chelsea",
+  "sname": "Chandler",
+  "record": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1990-11-23",
+  "career_stats": {
+    "slpm": 3.55,
+    "str_acc": 45,
+    "sapm": 4.44,
+    "str_def": 40,
+    "td_avg": 0.87,
+    "td_acc": 60,
+    "td_def": 28,
+    "sub_avg": 0.0
+  }
+}

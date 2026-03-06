@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aa1a873d05acc7eb",
+  "fname": "Kazuma",
+  "sname": "Maruyama",
+  "record": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gluttony",
+  "height_cm": 180.3,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1992-07-19",
+  "career_stats": {
+    "slpm": 3.83,
+    "str_acc": 41,
+    "sapm": 2.23,
+    "str_def": 53,
+    "td_avg": 4.79,
+    "td_acc": 33,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a07b1988477502c",
+  "fname": "Seokhyeon",
+  "sname": "Ko",
+  "record": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Korean Tyson",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1993-09-24",
+  "career_stats": {
+    "slpm": 2.73,
+    "str_acc": 59,
+    "sapm": 1.42,
+    "str_def": 58,
+    "td_avg": 4.0,
+    "td_acc": 63,
+    "td_def": 75,
+    "sub_avg": 0.3
+  }
+}

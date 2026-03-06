@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "52cae54377b433b7",
+  "fname": "Nate",
+  "sname": "Quarry",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rock",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 182.9,
+  "stance": "Open Stance",
+  "dob": "1972-03-18",
+  "career_stats": {
+    "slpm": 4.96,
+    "str_acc": 44,
+    "sapm": 2.8,
+    "str_def": 66,
+    "td_avg": 0.25,
+    "td_acc": 33,
+    "td_def": 60,
+    "sub_avg": 0.0
+  }
+}

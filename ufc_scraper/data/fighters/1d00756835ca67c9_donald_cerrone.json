@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1d00756835ca67c9",
+  "fname": "Donald",
+  "sname": "Cerrone",
+  "record": {
+    "wins": 36,
+    "losses": 17,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cowboy",
+  "height_cm": 185.4,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1983-03-29",
+  "career_stats": {
+    "slpm": 4.41,
+    "str_acc": 46,
+    "sapm": 4.48,
+    "str_def": 53,
+    "td_avg": 1.16,
+    "td_acc": 33,
+    "td_def": 73,
+    "sub_avg": 1.2
+  }
+}

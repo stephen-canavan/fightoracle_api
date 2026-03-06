@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2833f50b20e96e52",
+  "fname": "Antwain",
+  "sname": "Britt",
+  "record": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Juggernaut",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 195.6,
+  "stance": "",
+  "dob": "1978-05-09",
+  "career_stats": {
+    "slpm": 1.46,
+    "str_acc": 39,
+    "sapm": 2.81,
+    "str_def": 44,
+    "td_avg": 1.56,
+    "td_acc": 40,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

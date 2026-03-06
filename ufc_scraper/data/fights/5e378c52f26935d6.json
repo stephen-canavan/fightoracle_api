@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "5e378c52f26935d6",
+  "ufcstats_event_id": "1d00756835ca67c9",
+  "ufcstats_fighter_red_id": "3351aa64aa83c4d9",
+  "ufcstats_fighter_blue_id": "ac7c765882f2c68c",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Rich Mitchell",
+  "ufcstats_winner_id": "ac7c765882f2c68c",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Derek Cleary",
+      "red": 30,
+      "blue": 27
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 60,
+      "attempted": 160
+    },
+    "sig_strikes_pct": 37,
+    "total_strikes": {
+      "landed": 99,
+      "attempted": 216
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 7
+    },
+    "takedown_pct": 42,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:46",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 53,
+        "attempted": 150
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 4
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 48,
+        "attempted": 146
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 8
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 76,
+      "attempted": 140
+    },
+    "sig_strikes_pct": 54,
+    "total_strikes": {
+      "landed": 121,
+      "attempted": 193
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:22",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 44,
+        "attempted": 98
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 25,
+        "attempted": 32
+      },
+      "distance": {
+        "landed": 70,
+        "attempted": 131
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 4
+      }
+    }
+  },
+  "card_position": 11
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7c0847d3854a95f2",
+  "fname": "Sean",
+  "sname": "Salmon",
+  "record": {
+    "wins": 18,
+    "losses": 21,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1977-09-11",
+  "career_stats": {
+    "slpm": 1.49,
+    "str_acc": 33,
+    "sapm": 2.03,
+    "str_def": 65,
+    "td_avg": 4.06,
+    "td_acc": 50,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

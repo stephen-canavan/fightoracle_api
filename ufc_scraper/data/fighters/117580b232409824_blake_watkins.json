@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "117580b232409824",
+  "fname": "Blake",
+  "sname": "Watkins",
+  "record": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 5.45,
+    "str_acc": 62,
+    "sapm": 7.64,
+    "str_def": 61,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

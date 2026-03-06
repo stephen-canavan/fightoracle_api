@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b8e6393c39cb9740",
+  "fname": "Sean",
+  "sname": "Wilson",
+  "record": {
+    "wins": 36,
+    "losses": 29,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "P-Town",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1982-10-20",
+  "career_stats": {
+    "slpm": 1.01,
+    "str_acc": 31,
+    "sapm": 5.88,
+    "str_def": 62,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

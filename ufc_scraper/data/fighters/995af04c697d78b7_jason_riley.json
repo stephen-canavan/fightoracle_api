@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "995af04c697d78b7",
+  "fname": "Jason",
+  "sname": "Riley",
+  "record": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Juggernaut",
+  "height_cm": 198.1,
+  "weight_lbs": 245,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1975-09-22",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 9.68,
+    "str_def": 33,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

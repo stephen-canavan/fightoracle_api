@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "283645128ae57eda",
+  "fname": "Hiroko",
+  "sname": "Yamanaka",
+  "record": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cat's Eye",
+  "height_cm": 180.3,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1978-10-24",
+  "career_stats": {
+    "slpm": 2.1,
+    "str_acc": 26,
+    "sapm": 3.54,
+    "str_def": 63,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "06f36cf4bd97ec77",
+  "fname": "Ed",
+  "sname": "Herman",
+  "record": {
+    "wins": 27,
+    "losses": 16,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Short Fuse",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1980-10-02",
+  "career_stats": {
+    "slpm": 3.31,
+    "str_acc": 48,
+    "sapm": 3.71,
+    "str_def": 42,
+    "td_avg": 1.96,
+    "td_acc": 47,
+    "td_def": 59,
+    "sub_avg": 1.0
+  }
+}

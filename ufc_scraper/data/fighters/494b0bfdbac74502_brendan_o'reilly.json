@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "494b0bfdbac74502",
+  "fname": "Brendan",
+  "sname": "O'Reilly",
+  "record": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Badger",
+  "height_cm": 170.2,
+  "weight_lbs": 170,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1987-06-24",
+  "career_stats": {
+    "slpm": 1.9,
+    "str_acc": 47,
+    "sapm": 2.77,
+    "str_def": 39,
+    "td_avg": 2.22,
+    "td_acc": 43,
+    "td_def": 36,
+    "sub_avg": 0.6
+  }
+}

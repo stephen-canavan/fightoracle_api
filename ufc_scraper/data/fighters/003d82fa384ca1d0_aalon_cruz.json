@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "003d82fa384ca1d0",
+  "fname": "Aalon",
+  "sname": "Cruz",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 145,
+  "reach_cm": 198.1,
+  "stance": "Switch",
+  "dob": "1989-09-20",
+  "career_stats": {
+    "slpm": 7.58,
+    "str_acc": 39,
+    "sapm": 8.88,
+    "str_def": 58,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

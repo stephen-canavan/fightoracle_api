@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "03c2cebad8d8c012",
+  "ufcstats_event_id": "7c0847d3854a95f2",
+  "ufcstats_fighter_red_id": "b959e8c7fd8390d2",
+  "ufcstats_fighter_blue_id": "38b50fd1e1b5b656",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "b959e8c7fd8390d2",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Susan Thomas-Gitlin",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Nelson Hamilton",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Cecil Peoples",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 25,
+      "attempted": 98
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 76,
+      "attempted": 149
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 6
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 8,
+        "attempted": 69
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 19
+      },
+      "distance": {
+        "landed": 17,
+        "attempted": 83
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 3,
+        "attempted": 6
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 79
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 45,
+      "attempted": 93
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "3:49",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 50
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 16
+      },
+      "distance": {
+        "landed": 26,
+        "attempted": 63
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 15
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 10
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "36877f0e62b25b96",
+  "fname": "Rodrigo",
+  "sname": "Gracie",
+  "record": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 183,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1975-04-11",
+  "career_stats": {
+    "slpm": 1.34,
+    "str_acc": 51,
+    "sapm": 0.86,
+    "str_def": 46,
+    "td_avg": 1.49,
+    "td_acc": 50,
+    "td_def": 75,
+    "sub_avg": 0.4
+  }
+}

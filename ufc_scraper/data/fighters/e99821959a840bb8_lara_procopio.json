@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e99821959a840bb8",
+  "fname": "Lara",
+  "sname": "Procopio",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1995-11-14",
+  "career_stats": {
+    "slpm": 5.64,
+    "str_acc": 58,
+    "sapm": 6.5,
+    "str_def": 47,
+    "td_avg": 3.15,
+    "td_acc": 47,
+    "td_def": 50,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "241a307a9c3d9a21",
+  "ufcstats_event_id": "2f3f12002564bb55",
+  "ufcstats_fighter_red_id": "3f7c14c7eca7195d",
+  "ufcstats_fighter_blue_id": "63def5a5662a6917",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Marcos Rosales",
+  "ufcstats_winner_id": "63def5a5662a6917",
+  "is_title_fight": false,
+  "weight_class": "Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Alejandro Rochin",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Jon Schorle",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Dan Stell",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 40,
+      "attempted": 101
+    },
+    "sig_strikes_pct": 39,
+    "total_strikes": {
+      "landed": 40,
+      "attempted": 101
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 7
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:31",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 38,
+        "attempted": 99
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 35,
+        "attempted": 90
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 130,
+      "attempted": 282
+    },
+    "sig_strikes_pct": 46,
+    "total_strikes": {
+      "landed": 138,
+      "attempted": 291
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 2
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:20",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 96,
+        "attempted": 236
+      },
+      "body": {
+        "landed": 33,
+        "attempted": 44
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 109,
+        "attempted": 239
+      },
+      "clinch": {
+        "landed": 20,
+        "attempted": 41
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 5
+}

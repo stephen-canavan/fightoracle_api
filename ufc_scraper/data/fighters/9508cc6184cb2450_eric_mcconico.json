@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9508cc6184cb2450",
+  "fname": "Eric",
+  "sname": "McConico",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Southpaw",
+  "dob": "1990-05-09",
+  "career_stats": {
+    "slpm": 2.61,
+    "str_acc": 43,
+    "sapm": 3.23,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 64,
+    "sub_avg": 0.0
+  }
+}

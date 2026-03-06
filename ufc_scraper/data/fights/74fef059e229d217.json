@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "74fef059e229d217",
+  "ufcstats_event_id": "ccd58ff71e260ed5",
+  "ufcstats_fighter_red_id": "f29a6350c69f4a33",
+  "ufcstats_fighter_blue_id": "b1e5bcaad32a3cac",
+  "method": "Submission",
+  "method_details": "Armbar From Mount",
+  "round": 3,
+  "time": "2:11",
+  "referee": "Dave Seljestad",
+  "ufcstats_winner_id": "f29a6350c69f4a33",
+  "is_title_fight": false,
+  "weight_class": "Women's Flyweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 51
+    },
+    "sig_strikes_pct": 70,
+    "total_strikes": {
+      "landed": 105,
+      "attempted": 132
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 9
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "8:54",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 23,
+        "attempted": 37
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 16,
+        "attempted": 29
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 18,
+        "attempted": 20
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 11,
+      "attempted": 23
+    },
+    "sig_strikes_pct": 47,
+    "total_strikes": {
+      "landed": 13,
+      "attempted": 26
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 7,
+        "attempted": 18
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 10,
+        "attempted": 22
+      },
+      "clinch": {
+        "landed": 0,
+        "attempted": 0
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 1
+      }
+    }
+  },
+  "card_position": 11
+}

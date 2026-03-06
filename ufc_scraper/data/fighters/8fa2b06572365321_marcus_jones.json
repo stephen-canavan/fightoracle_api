@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8fa2b06572365321",
+  "fname": "Marcus",
+  "sname": "Jones",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Darkness",
+  "height_cm": 198.1,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1973-08-15",
+  "career_stats": {
+    "slpm": 1.94,
+    "str_acc": 52,
+    "sapm": 2.71,
+    "str_def": 58,
+    "td_avg": 8.71,
+    "td_acc": 75,
+    "td_def": 0,
+    "sub_avg": 2.9
+  }
+}

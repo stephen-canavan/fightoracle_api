@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e69c5ce12f4e762b",
+  "fname": "Marcus",
+  "sname": "Hicks",
+  "record": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Wrecking Ball",
+  "height_cm": 167.6,
+  "weight_lbs": 155,
+  "reach_cm": 162.6,
+  "stance": "Southpaw",
+  "dob": "1975-11-25",
+  "career_stats": {
+    "slpm": 1.42,
+    "str_acc": 43,
+    "sapm": 3.06,
+    "str_def": 61,
+    "td_avg": 2.7,
+    "td_acc": 53,
+    "td_def": 25,
+    "sub_avg": 4.0
+  }
+}

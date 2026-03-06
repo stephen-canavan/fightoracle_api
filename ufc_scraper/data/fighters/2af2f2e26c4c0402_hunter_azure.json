@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2af2f2e26c4c0402",
+  "fname": "Hunter",
+  "sname": "Azure",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1992-03-02",
+  "career_stats": {
+    "slpm": 3.92,
+    "str_acc": 53,
+    "sapm": 2.08,
+    "str_def": 58,
+    "td_avg": 1.97,
+    "td_acc": 34,
+    "td_def": 67,
+    "sub_avg": 1.3
+  }
+}

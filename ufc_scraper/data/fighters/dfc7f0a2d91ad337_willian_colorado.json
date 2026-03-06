@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "dfc7f0a2d91ad337",
+  "fname": "Willian",
+  "sname": "Colorado",
+  "record": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "",
+  "dob": "1986-06-21",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

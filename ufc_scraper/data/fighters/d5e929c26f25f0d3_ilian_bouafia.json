@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d5e929c26f25f0d3",
+  "fname": "Ilian",
+  "sname": "Bouafia",
+  "record": {
+    "wins": 7,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Gorilla",
+  "height_cm": 195.6,
+  "weight_lbs": 185,
+  "reach_cm": 198.1,
+  "stance": "Southpaw",
+  "dob": "1996-11-13",
+  "career_stats": {
+    "slpm": 2.0,
+    "str_acc": 47,
+    "sapm": 1.67,
+    "str_def": 65,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

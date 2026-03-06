@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f37822d5b3e47517",
+  "fname": "Giacomo",
+  "sname": "Lemos",
+  "record": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 247,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1989-06-23",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

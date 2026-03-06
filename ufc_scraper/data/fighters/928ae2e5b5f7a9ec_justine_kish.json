@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "928ae2e5b5f7a9ec",
+  "fname": "Justine",
+  "sname": "Kish",
+  "record": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 162.6,
+  "stance": "Orthodox",
+  "dob": "1988-04-13",
+  "career_stats": {
+    "slpm": 4.51,
+    "str_acc": 48,
+    "sapm": 4.59,
+    "str_def": 57,
+    "td_avg": 0.87,
+    "td_acc": 33,
+    "td_def": 50,
+    "sub_avg": 0.1
+  }
+}

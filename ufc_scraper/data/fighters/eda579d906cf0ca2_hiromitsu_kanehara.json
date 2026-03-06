@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "eda579d906cf0ca2",
+  "fname": "Hiromitsu",
+  "sname": "Kanehara",
+  "record": {
+    "wins": 19,
+    "losses": 27,
+    "draws": 5,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 200,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-10-05",
+  "career_stats": {
+    "slpm": 0.76,
+    "str_acc": 22,
+    "sapm": 4.39,
+    "str_def": 40,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 40,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "07a18ae55dfc3cd9",
+  "fname": "Paul",
+  "sname": "Varelans",
+  "record": {
+    "wins": 9,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Polar Bear",
+  "height_cm": 203.2,
+  "weight_lbs": 300,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1969-09-17",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

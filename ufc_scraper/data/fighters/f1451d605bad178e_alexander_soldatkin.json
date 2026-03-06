@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f1451d605bad178e",
+  "fname": "Alexander",
+  "sname": "Soldatkin",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 250,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1993-06-10",
+  "career_stats": {
+    "slpm": 1.16,
+    "str_acc": 60,
+    "sapm": 1.35,
+    "str_def": 26,
+    "td_avg": 1.45,
+    "td_acc": 50,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

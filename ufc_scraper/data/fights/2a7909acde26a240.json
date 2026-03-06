@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "2a7909acde26a240",
+  "ufcstats_event_id": "992c82450d96f726",
+  "ufcstats_fighter_red_id": "fc6e681bf6658faf",
+  "ufcstats_fighter_blue_id": "d3f5d33d61cd00c9",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Jason Herzog",
+  "ufcstats_winner_id": "d3f5d33d61cd00c9",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Mike Bell",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Derek Cleary",
+      "red": 26,
+      "blue": 30
+    },
+    {
+      "judge": "Dave Hagen",
+      "red": 26,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 42,
+      "attempted": 164
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 47,
+      "attempted": 169
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 2
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:10",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 12,
+        "attempted": 108
+      },
+      "body": {
+        "landed": 17,
+        "attempted": 35
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 21
+      },
+      "distance": {
+        "landed": 37,
+        "attempted": 156
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 94,
+      "attempted": 161
+    },
+    "sig_strikes_pct": 58,
+    "total_strikes": {
+      "landed": 109,
+      "attempted": 178
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 4
+    },
+    "takedown_pct": 50,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "4:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 78,
+        "attempted": 142
+      },
+      "body": {
+        "landed": 8,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 8,
+        "attempted": 8
+      },
+      "distance": {
+        "landed": 71,
+        "attempted": 130
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 13
+      },
+      "ground": {
+        "landed": 14,
+        "attempted": 18
+      }
+    }
+  },
+  "card_position": 5
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3bc3f60b21cddc6a",
+  "fname": "Azamat",
+  "sname": "Bekoev",
+  "record": {
+    "wins": 20,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Iron",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1995-12-30",
+  "career_stats": {
+    "slpm": 4.07,
+    "str_acc": 45,
+    "sapm": 7.66,
+    "str_def": 31,
+    "td_avg": 4.49,
+    "td_acc": 45,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

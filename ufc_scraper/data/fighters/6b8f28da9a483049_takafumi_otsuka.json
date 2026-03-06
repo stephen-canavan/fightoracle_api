@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6b8f28da9a483049",
+  "fname": "Takafumi",
+  "sname": "Otsuka",
+  "record": {
+    "wins": 22,
+    "losses": 13,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 139,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1986-08-22",
+  "career_stats": {
+    "slpm": 1.29,
+    "str_acc": 27,
+    "sapm": 2.12,
+    "str_def": 67,
+    "td_avg": 1.64,
+    "td_acc": 27,
+    "td_def": 65,
+    "sub_avg": 0.0
+  }
+}

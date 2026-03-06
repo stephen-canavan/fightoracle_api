@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bfc2fc38a0e20211",
+  "fname": "Matt",
+  "sname": "Grice",
+  "record": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Real One",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1981-07-29",
+  "career_stats": {
+    "slpm": 4.09,
+    "str_acc": 53,
+    "sapm": 2.69,
+    "str_def": 56,
+    "td_avg": 2.19,
+    "td_acc": 37,
+    "td_def": 82,
+    "sub_avg": 0.5
+  }
+}

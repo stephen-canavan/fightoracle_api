@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "9b1e3fb4f8cbd5b7",
+  "fname": "Ricky",
+  "sname": "Rainey",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Sniper",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": 195.6,
+  "stance": "Switch",
+  "dob": "1983-06-29",
+  "career_stats": {
+    "slpm": 2.55,
+    "str_acc": 48,
+    "sapm": 2.62,
+    "str_def": 46,
+    "td_avg": 0.95,
+    "td_acc": 18,
+    "td_def": 55,
+    "sub_avg": 0.0
+  }
+}

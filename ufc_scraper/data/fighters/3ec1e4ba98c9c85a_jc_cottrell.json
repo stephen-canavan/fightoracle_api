@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3ec1e4ba98c9c85a",
+  "fname": "JC",
+  "sname": "Cottrell",
+  "record": {
+    "wins": 17,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1989-11-04",
+  "career_stats": {
+    "slpm": 0.79,
+    "str_acc": 25,
+    "sapm": 2.75,
+    "str_def": 45,
+    "td_avg": 0.79,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

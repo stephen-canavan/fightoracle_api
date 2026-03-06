@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a26198ba5093147e",
+  "fname": "TJ",
+  "sname": "Grant",
+  "record": {
+    "wins": 21,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1984-02-26",
+  "career_stats": {
+    "slpm": 3.95,
+    "str_acc": 54,
+    "sapm": 3.21,
+    "str_def": 56,
+    "td_avg": 1.63,
+    "td_acc": 43,
+    "td_def": 36,
+    "sub_avg": 0.6
+  }
+}

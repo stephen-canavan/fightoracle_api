@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "33fb306278dbb3e5",
+  "fname": "Chris",
+  "sname": "Hofmann",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1989-11-18",
+  "career_stats": {
+    "slpm": 4.78,
+    "str_acc": 45,
+    "sapm": 4.63,
+    "str_def": 35,
+    "td_avg": 3.42,
+    "td_acc": 42,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

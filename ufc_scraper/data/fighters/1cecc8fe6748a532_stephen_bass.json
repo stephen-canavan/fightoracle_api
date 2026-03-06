@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1cecc8fe6748a532",
+  "fname": "Stephen",
+  "sname": "Bass",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bigfish",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1982-11-14",
+  "career_stats": {
+    "slpm": 4.87,
+    "str_acc": 52,
+    "sapm": 5.87,
+    "str_def": 55,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

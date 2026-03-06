@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bb2eee4fb3259c01",
+  "fname": "Mike",
+  "sname": "Moreno",
+  "record": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Palo Duro",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 1.27,
+    "str_acc": 51,
+    "sapm": 1.07,
+    "str_def": 58,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 44,
+    "sub_avg": 0.0
+  }
+}

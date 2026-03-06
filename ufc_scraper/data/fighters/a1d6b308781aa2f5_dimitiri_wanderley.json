@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a1d6b308781aa2f5",
+  "fname": "Dimitiri",
+  "sname": "Wanderley",
+  "record": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 205,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.92,
+    "str_acc": 25,
+    "sapm": 4.31,
+    "str_def": 30,
+    "td_avg": 1.16,
+    "td_acc": 20,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

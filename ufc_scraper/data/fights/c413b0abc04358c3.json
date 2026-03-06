@@ -1,0 +1,15 @@
+{
+  "ufcstats_fight_id": "c413b0abc04358c3",
+  "ufcstats_event_id": "6ceff86fae4f6b3b",
+  "ufcstats_fighter_red_id": "977081bc01197656",
+  "ufcstats_fighter_blue_id": "1f5f75658551f2d3",
+  "method": "Submission",
+  "method_details": "Injury",
+  "round": 1,
+  "time": "1:45",
+  "referee": "John McCarthy",
+  "ufcstats_winner_id": "977081bc01197656",
+  "is_title_fight": false,
+  "weight_class": "Open Weight",
+  "card_position": 8
+}

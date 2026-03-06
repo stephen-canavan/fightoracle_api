@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "09e62c450e754913",
+  "fname": "Jimmy",
+  "sname": "Flick",
+  "record": {
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Brick",
+  "height_cm": 170.2,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1990-09-07",
+  "career_stats": {
+    "slpm": 1.67,
+    "str_acc": 50,
+    "sapm": 4.7,
+    "str_def": 43,
+    "td_avg": 2.36,
+    "td_acc": 33,
+    "td_def": 0,
+    "sub_avg": 3.5
+  }
+}

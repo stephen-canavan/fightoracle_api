@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "bb0d290026d7681d",
+  "fname": "Kevin",
+  "sname": "Gray",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Pocket Herc",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1985-05-03",
+  "career_stats": {
+    "slpm": 3.45,
+    "str_acc": 62,
+    "sapm": 4.48,
+    "str_def": 66,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "71f048adbfed5b49",
+  "fname": "Sabah",
+  "sname": "Homasi",
+  "record": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1988-10-19",
+  "career_stats": {
+    "slpm": 4.98,
+    "str_acc": 48,
+    "sapm": 6.91,
+    "str_def": 47,
+    "td_avg": 2.8,
+    "td_acc": 50,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

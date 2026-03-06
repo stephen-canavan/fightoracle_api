@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8a213af406eb2dd4",
+  "fname": "Theo",
+  "sname": "Haig",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 188.0,
+  "weight_lbs": 185,
+  "reach_cm": 195.6,
+  "stance": "Orthodox",
+  "dob": "1996-08-23",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 28.33,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

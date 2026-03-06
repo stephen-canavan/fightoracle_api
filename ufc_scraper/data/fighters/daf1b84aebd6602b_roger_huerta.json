@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "daf1b84aebd6602b",
+  "fname": "Roger",
+  "sname": "Huerta",
+  "record": {
+    "wins": 23,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "El Matador",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1983-05-20",
+  "career_stats": {
+    "slpm": 3.64,
+    "str_acc": 36,
+    "sapm": 2.33,
+    "str_def": 56,
+    "td_avg": 2.13,
+    "td_acc": 46,
+    "td_def": 52,
+    "sub_avg": 0.5
+  }
+}

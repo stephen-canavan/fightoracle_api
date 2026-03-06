@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "43e8fcd8e4d015fb",
+  "ufcstats_event_id": "279093302a6f44b3",
+  "ufcstats_fighter_red_id": "af5b208e97f5d382",
+  "ufcstats_fighter_blue_id": "aae99701b21554e4",
+  "method": "Submission",
+  "method_details": "Armbar From Inoki-Ali Position",
+  "round": 2,
+  "time": "2:04",
+  "referee": "Dan Miragliotta",
+  "ufcstats_winner_id": "af5b208e97f5d382",
+  "is_title_fight": false,
+  "weight_class": "Middleweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 8,
+      "attempted": 19
+    },
+    "sig_strikes_pct": 42,
+    "total_strikes": {
+      "landed": 8,
+      "attempted": 19
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 2,
+    "reversals": 0,
+    "control_time": "0:14",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 3,
+        "attempted": 13
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 7,
+        "attempted": 18
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 30,
+      "attempted": 72
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 45,
+      "attempted": 90
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "3:41",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 28,
+        "attempted": 69
+      },
+      "body": {
+        "landed": 0,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 5,
+        "attempted": 17
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 24,
+        "attempted": 54
+      }
+    }
+  },
+  "card_position": 6
+}

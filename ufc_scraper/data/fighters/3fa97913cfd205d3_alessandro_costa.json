@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3fa97913cfd205d3",
+  "fname": "Alessandro",
+  "sname": "Costa",
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Nono",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 170.2,
+  "stance": "Orthodox",
+  "dob": "1996-01-28",
+  "career_stats": {
+    "slpm": 3.64,
+    "str_acc": 44,
+    "sapm": 3.57,
+    "str_def": 57,
+    "td_avg": 0.46,
+    "td_acc": 16,
+    "td_def": 83,
+    "sub_avg": 0.5
+  }
+}

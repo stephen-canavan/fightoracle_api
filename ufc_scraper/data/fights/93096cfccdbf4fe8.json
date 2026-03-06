@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "93096cfccdbf4fe8",
+  "ufcstats_event_id": "21f2974fd08085e3",
+  "ufcstats_fighter_red_id": "3c6976f8182d9527",
+  "ufcstats_fighter_blue_id": "2924886ee9c4c527",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "3c6976f8182d9527",
+  "is_title_fight": false,
+  "weight_class": "Light Heavyweight",
+  "scorecards": [
+    {
+      "judge": "Mark Collett",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Howard Hughes",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Chris Watts",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 1,
+    "sig_strikes": {
+      "landed": 76,
+      "attempted": 283
+    },
+    "sig_strikes_pct": 26,
+    "total_strikes": {
+      "landed": 78,
+      "attempted": 287
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 1
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:40",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 50,
+        "attempted": 249
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 13
+      },
+      "leg": {
+        "landed": 19,
+        "attempted": 21
+      },
+      "distance": {
+        "landed": 72,
+        "attempted": 272
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 1,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 38,
+      "attempted": 108
+    },
+    "sig_strikes_pct": 35,
+    "total_strikes": {
+      "landed": 38,
+      "attempted": 108
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "0:00",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 21,
+        "attempted": 80
+      },
+      "body": {
+        "landed": 4,
+        "attempted": 10
+      },
+      "leg": {
+        "landed": 13,
+        "attempted": 18
+      },
+      "distance": {
+        "landed": 36,
+        "attempted": 97
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 1
+}

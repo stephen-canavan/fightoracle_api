@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a4bf17bd3ba3423b",
+  "fname": "Yoshiro",
+  "sname": "Maeda",
+  "record": {
+    "wins": 35,
+    "losses": 16,
+    "draws": 5,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 170.2,
+  "weight_lbs": 139,
+  "reach_cm": 172.7,
+  "stance": "Southpaw",
+  "dob": "1981-10-31",
+  "career_stats": {
+    "slpm": 2.36,
+    "str_acc": 33,
+    "sapm": 2.55,
+    "str_def": 63,
+    "td_avg": 2.93,
+    "td_acc": 51,
+    "td_def": 50,
+    "sub_avg": 0.7
+  }
+}

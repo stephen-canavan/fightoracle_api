@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f9f07bb5a43535ed",
+  "fname": "Carlos",
+  "sname": "Condit",
+  "record": {
+    "wins": 32,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Natural Born Killer",
+  "height_cm": 188.0,
+  "weight_lbs": 170,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1984-04-26",
+  "career_stats": {
+    "slpm": 3.66,
+    "str_acc": 39,
+    "sapm": 2.67,
+    "str_def": 55,
+    "td_avg": 0.59,
+    "td_acc": 46,
+    "td_def": 38,
+    "sub_avg": 1.0
+  }
+}

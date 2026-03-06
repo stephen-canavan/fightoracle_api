@@ -4,7 +4,7 @@
   "sname": "Chiasson",
   "record": {
     "wins": 11,
-    "losses": 5,
+    "losses": 6,
     "draws": 0,
     "no_contests": 0,
     "dqs": 0
@@ -16,13 +16,13 @@
   "stance": "Orthodox",
   "dob": "1991-07-27",
   "career_stats": {
-    "slpm": 3.5,
+    "slpm": 3.21,
     "str_acc": 46,
-    "sapm": 2.86,
-    "str_def": 45,
-    "td_avg": 2.07,
-    "td_acc": 37,
-    "td_def": 72,
+    "sapm": 2.76,
+    "str_def": 44,
+    "td_avg": 1.87,
+    "td_acc": 35,
+    "td_def": 62,
     "sub_avg": 0.4
   }
 }

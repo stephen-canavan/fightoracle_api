@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cd039ff136d89ded",
+  "fname": "Jesse",
+  "sname": "Juarez",
+  "record": {
+    "wins": 23,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1981-05-08",
+  "career_stats": {
+    "slpm": 1.71,
+    "str_acc": 48,
+    "sapm": 2.87,
+    "str_def": 52,
+    "td_avg": 2.69,
+    "td_acc": 33,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

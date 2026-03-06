@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "7a82635ffa9b59fe",
+  "fname": "Claudionor",
+  "sname": "Fontinelle",
+  "record": {
+    "wins": 10,
+    "losses": 15,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 165.1,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.62,
+    "str_acc": 42,
+    "sapm": 10.25,
+    "str_def": 28,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

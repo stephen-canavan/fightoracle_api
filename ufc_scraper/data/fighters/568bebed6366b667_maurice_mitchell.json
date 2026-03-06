@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "568bebed6366b667",
+  "fname": "Maurice",
+  "sname": "Mitchell",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The AK Kid",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-06-29",
+  "career_stats": {
+    "slpm": 3.8,
+    "str_acc": 55,
+    "sapm": 3.54,
+    "str_def": 60,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

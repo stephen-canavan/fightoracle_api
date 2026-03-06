@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "73ef22f25d0f70e2",
+  "fname": "Romie",
+  "sname": "Aram",
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1977-12-02",
+  "career_stats": {
+    "slpm": 1.8,
+    "str_acc": 35,
+    "sapm": 2.83,
+    "str_def": 50,
+    "td_avg": 2.5,
+    "td_acc": 62,
+    "td_def": 83,
+    "sub_avg": 0.0
+  }
+}

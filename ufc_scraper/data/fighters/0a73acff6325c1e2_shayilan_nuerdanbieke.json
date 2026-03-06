@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0a73acff6325c1e2",
+  "fname": "Shayilan",
+  "sname": "Nuerdanbieke",
+  "record": {
+    "wins": 39,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Wolverine",
+  "height_cm": 172.7,
+  "weight_lbs": 145,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1994-05-04",
+  "career_stats": {
+    "slpm": 1.95,
+    "str_acc": 45,
+    "sapm": 2.64,
+    "str_def": 50,
+    "td_avg": 3.3,
+    "td_acc": 35,
+    "td_def": 28,
+    "sub_avg": 0.2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b6033505c245e28b",
+  "fname": "JungHyun",
+  "sname": "Lee",
+  "record": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Phenom",
+  "height_cm": 165.1,
+  "weight_lbs": 125,
+  "reach_cm": 165.1,
+  "stance": "Orthodox",
+  "dob": "2002-09-10",
+  "career_stats": {
+    "slpm": 4.27,
+    "str_acc": 39,
+    "sapm": 6.2,
+    "str_def": 38,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 64,
+    "sub_avg": 0.0
+  }
+}

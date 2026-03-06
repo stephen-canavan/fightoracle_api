@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2c1170b825f58e57",
+  "fname": "Guangyou",
+  "sname": "Ning",
+  "record": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Smasher",
+  "height_cm": 162.6,
+  "weight_lbs": 145,
+  "reach_cm": 162.6,
+  "stance": "Southpaw",
+  "dob": "1981-12-15",
+  "career_stats": {
+    "slpm": 2.66,
+    "str_acc": 41,
+    "sapm": 1.91,
+    "str_def": 61,
+    "td_avg": 1.09,
+    "td_acc": 50,
+    "td_def": 62,
+    "sub_avg": 0.3
+  }
+}

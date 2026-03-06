@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5b5b78116d1fc3eb",
+  "fname": "Andre",
+  "sname": "Santos",
+  "record": {
+    "wins": 38,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Chatuba",
+  "height_cm": 182.9,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 2.77,
+    "str_acc": 34,
+    "sapm": 4.17,
+    "str_def": 41,
+    "td_avg": 2.5,
+    "td_acc": 29,
+    "td_def": 75,
+    "sub_avg": 0.0
+  }
+}

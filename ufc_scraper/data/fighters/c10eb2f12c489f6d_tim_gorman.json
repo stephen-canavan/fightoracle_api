@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c10eb2f12c489f6d",
+  "fname": "Tim",
+  "sname": "Gorman",
+  "record": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Psycho",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1983-04-29",
+  "career_stats": {
+    "slpm": 2.73,
+    "str_acc": 31,
+    "sapm": 5.57,
+    "str_def": 46,
+    "td_avg": 1.0,
+    "td_acc": 9,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

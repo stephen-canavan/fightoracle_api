@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4a191f4ea2fce7fc",
+  "fname": "Anvar",
+  "sname": "Boynazarov",
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Uzbek",
+  "height_cm": 175.3,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1989-01-10",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 7.83,
+    "str_def": 29,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

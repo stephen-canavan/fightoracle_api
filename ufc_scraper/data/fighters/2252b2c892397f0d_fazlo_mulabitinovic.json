@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "2252b2c892397f0d",
+  "fname": "Fazlo",
+  "sname": "Mulabitinovic",
+  "record": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": null,
+  "career_stats": {
+    "slpm": 0.54,
+    "str_acc": 16,
+    "sapm": 0.0,
+    "str_def": 100,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 8.0
+  }
+}

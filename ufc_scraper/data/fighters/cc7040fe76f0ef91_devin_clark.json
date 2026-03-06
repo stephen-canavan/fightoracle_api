@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "cc7040fe76f0ef91",
+  "fname": "Devin",
+  "sname": "Clark",
+  "record": {
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Brown Bear",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1990-04-12",
+  "career_stats": {
+    "slpm": 3.03,
+    "str_acc": 54,
+    "sapm": 3.24,
+    "str_def": 44,
+    "td_avg": 2.17,
+    "td_acc": 32,
+    "td_def": 58,
+    "sub_avg": 0.1
+  }
+}

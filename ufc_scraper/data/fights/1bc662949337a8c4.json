@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "1bc662949337a8c4",
+  "ufcstats_event_id": "a0a680fe2f6cc8e6",
+  "ufcstats_fighter_red_id": "4b47e71384a9522f",
+  "ufcstats_fighter_blue_id": "3a46b268013afede",
+  "method": "Submission",
+  "method_details": "D'Arce Choke On Ground",
+  "round": 2,
+  "time": "1:28",
+  "referee": "Kerry Hatley",
+  "ufcstats_winner_id": "3a46b268013afede",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 21,
+      "attempted": 46
+    },
+    "sig_strikes_pct": 45,
+    "total_strikes": {
+      "landed": 25,
+      "attempted": 52
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 8,
+        "attempted": 25
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 45
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 36,
+      "attempted": 90
+    },
+    "sig_strikes_pct": 40,
+    "total_strikes": {
+      "landed": 53,
+      "attempted": 109
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 1
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:09",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 26,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 3,
+        "attempted": 9
+      },
+      "leg": {
+        "landed": 7,
+        "attempted": 10
+      },
+      "distance": {
+        "landed": 33,
+        "attempted": 85
+      },
+      "clinch": {
+        "landed": 3,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 2
+}

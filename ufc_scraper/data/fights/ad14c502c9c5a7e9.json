@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "ad14c502c9c5a7e9",
+  "ufcstats_event_id": "30ad2050273d016a",
+  "ufcstats_fighter_red_id": "a264d4e9a4d6bfe4",
+  "ufcstats_fighter_blue_id": "530af2900b5a1693",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Daniel Movahedi",
+  "ufcstats_winner_id": "530af2900b5a1693",
+  "is_title_fight": true,
+  "weight_class": "Road to 4 Lightweight Tournament",
+  "scorecards": [
+    {
+      "judge": "Ben Cartlidge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Charlie Keech",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 68,
+      "attempted": 134
+    },
+    "sig_strikes_pct": 50,
+    "total_strikes": {
+      "landed": 92,
+      "attempted": 160
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 10
+    },
+    "takedown_pct": 10,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:30",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 37,
+        "attempted": 94
+      },
+      "body": {
+        "landed": 29,
+        "attempted": 38
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 50,
+        "attempted": 108
+      },
+      "clinch": {
+        "landed": 18,
+        "attempted": 26
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 99,
+      "attempted": 173
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 135,
+      "attempted": 211
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 4
+    },
+    "takedown_pct": 25,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "3:07",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 79,
+        "attempted": 142
+      },
+      "body": {
+        "landed": 18,
+        "attempted": 29
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "distance": {
+        "landed": 63,
+        "attempted": 129
+      },
+      "clinch": {
+        "landed": 29,
+        "attempted": 36
+      },
+      "ground": {
+        "landed": 7,
+        "attempted": 8
+      }
+    }
+  },
+  "card_position": 11
+}

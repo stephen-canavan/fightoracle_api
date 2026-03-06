@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "60425d07ef4b91a7",
+  "fname": "Kyler",
+  "sname": "Phillips",
+  "record": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Matrix",
+  "height_cm": 172.7,
+  "weight_lbs": 135,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1995-06-12",
+  "career_stats": {
+    "slpm": 5.04,
+    "str_acc": 42,
+    "sapm": 3.83,
+    "str_def": 60,
+    "td_avg": 2.31,
+    "td_acc": 45,
+    "td_def": 75,
+    "sub_avg": 0.4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fa6796c55d6c5440",
+  "fname": "Curtis",
+  "sname": "Blaydes",
+  "record": {
+    "wins": 19,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Razor",
+  "height_cm": 193.0,
+  "weight_lbs": 265,
+  "reach_cm": 203.2,
+  "stance": "Orthodox",
+  "dob": "1991-02-18",
+  "career_stats": {
+    "slpm": 3.56,
+    "str_acc": 50,
+    "sapm": 2.0,
+    "str_def": 58,
+    "td_avg": 5.38,
+    "td_acc": 48,
+    "td_def": 31,
+    "sub_avg": 0.0
+  }
+}

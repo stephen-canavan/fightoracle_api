@@ -70,6 +70,9 @@ class Fight(models.Model):
     def __str__(self):
         return f"{self.fighter_red.name} vs {self.fighter_blue.name}"
 
+    class Meta:
+        ordering = ["-event__date"]
+
     @property
     def get_fighter_red_with_record(self):
         # Provide the nested data dynamically

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "23ab42947c1990e3",
+  "fname": "Ron",
+  "sname": "van Clief",
+  "record": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Black Dragon",
+  "height_cm": 177.8,
+  "weight_lbs": 190,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1943-01-25",
+  "career_stats": {
+    "slpm": 0.0,
+    "str_acc": 0,
+    "sapm": 0.0,
+    "str_def": 0,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "db5dc7cb80d7d418",
+  "fname": "Will",
+  "sname": "Chope",
+  "record": {
+    "wins": 34,
+    "losses": 13,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Kill",
+  "height_cm": 193.0,
+  "weight_lbs": 145,
+  "reach_cm": null,
+  "stance": "Switch",
+  "dob": "1990-09-08",
+  "career_stats": {
+    "slpm": 4.43,
+    "str_acc": 27,
+    "sapm": 9.93,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

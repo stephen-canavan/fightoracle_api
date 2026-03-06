@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "08e908ed6d18d6a0",
+  "fname": "Myles",
+  "sname": "Jury",
+  "record": {
+    "wins": 17,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Fury",
+  "height_cm": 177.8,
+  "weight_lbs": 145,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1988-10-31",
+  "career_stats": {
+    "slpm": 2.94,
+    "str_acc": 42,
+    "sapm": 2.16,
+    "str_def": 66,
+    "td_avg": 2.16,
+    "td_acc": 55,
+    "td_def": 50,
+    "sub_avg": 0.3
+  }
+}

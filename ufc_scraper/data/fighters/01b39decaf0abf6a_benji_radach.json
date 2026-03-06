@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "01b39decaf0abf6a",
+  "fname": "Benji",
+  "sname": "Radach",
+  "record": {
+    "wins": 21,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Razor",
+  "height_cm": 177.8,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-04-05",
+  "career_stats": {
+    "slpm": 2.62,
+    "str_acc": 49,
+    "sapm": 2.31,
+    "str_def": 51,
+    "td_avg": 1.06,
+    "td_acc": 41,
+    "td_def": 71,
+    "sub_avg": 0.4
+  }
+}

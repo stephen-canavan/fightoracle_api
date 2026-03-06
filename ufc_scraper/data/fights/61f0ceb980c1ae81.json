@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "61f0ceb980c1ae81",
+  "ufcstats_event_id": "bf12aca029bfcc47",
+  "ufcstats_fighter_red_id": "20205040232ed0f3",
+  "ufcstats_fighter_blue_id": "04643fd03d9159cc",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Herb Dean",
+  "ufcstats_winner_id": "20205040232ed0f3",
+  "is_title_fight": false,
+  "weight_class": "Lightweight",
+  "scorecards": [
+    {
+      "judge": "Glenn Trowbridge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Lester Griffin",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Patricia Morse-Jarman",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 92,
+      "attempted": 175
+    },
+    "sig_strikes_pct": 52,
+    "total_strikes": {
+      "landed": 144,
+      "attempted": 227
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "6:17",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 47,
+        "attempted": 107
+      },
+      "body": {
+        "landed": 24,
+        "attempted": 42
+      },
+      "leg": {
+        "landed": 21,
+        "attempted": 26
+      },
+      "distance": {
+        "landed": 64,
+        "attempted": 132
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 11
+      },
+      "ground": {
+        "landed": 20,
+        "attempted": 32
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 20,
+      "attempted": 80
+    },
+    "sig_strikes_pct": 25,
+    "total_strikes": {
+      "landed": 41,
+      "attempted": 102
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:29",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 13,
+        "attempted": 73
+      },
+      "body": {
+        "landed": 6,
+        "attempted": 6
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 13,
+        "attempted": 72
+      },
+      "clinch": {
+        "landed": 7,
+        "attempted": 8
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 5
+}

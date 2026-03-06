@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "4f670b7972fa0a2e",
+  "fname": "Sherron",
+  "sname": "Leggett",
+  "record": {
+    "wins": 21,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Rob Roy",
+  "height_cm": 172.7,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1978-10-27",
+  "career_stats": {
+    "slpm": 2.86,
+    "str_acc": 51,
+    "sapm": 2.08,
+    "str_def": 47,
+    "td_avg": 5.19,
+    "td_acc": 80,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

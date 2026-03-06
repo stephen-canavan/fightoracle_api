@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b4c57a8c2b773e82",
+  "fname": "Michal",
+  "sname": "Figlak",
+  "record": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mad Dog",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1996-08-15",
+  "career_stats": {
+    "slpm": 4.0,
+    "str_acc": 39,
+    "sapm": 4.93,
+    "str_def": 52,
+    "td_avg": 0.5,
+    "td_acc": 12,
+    "td_def": 57,
+    "sub_avg": 0.0
+  }
+}

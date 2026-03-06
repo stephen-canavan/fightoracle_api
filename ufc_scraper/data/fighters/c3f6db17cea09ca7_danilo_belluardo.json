@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "c3f6db17cea09ca7",
+  "fname": "Danilo",
+  "sname": "Belluardo",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Caterpillar",
+  "height_cm": 182.9,
+  "weight_lbs": 155,
+  "reach_cm": 188.0,
+  "stance": "Southpaw",
+  "dob": "1994-07-21",
+  "career_stats": {
+    "slpm": 1.52,
+    "str_acc": 61,
+    "sapm": 4.79,
+    "str_def": 41,
+    "td_avg": 3.5,
+    "td_acc": 100,
+    "td_def": 50,
+    "sub_avg": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "48a9a128784d53d1",
+  "fname": "Elves",
+  "sname": "Brener",
+  "record": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1997-09-27",
+  "career_stats": {
+    "slpm": 4.76,
+    "str_acc": 47,
+    "sapm": 5.86,
+    "str_def": 50,
+    "td_avg": 0.99,
+    "td_acc": 16,
+    "td_def": 76,
+    "sub_avg": 0.0
+  }
+}

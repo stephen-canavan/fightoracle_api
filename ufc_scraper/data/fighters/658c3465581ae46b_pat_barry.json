@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "658c3465581ae46b",
+  "fname": "Pat",
+  "sname": "Barry",
+  "record": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "HD",
+  "height_cm": 180.3,
+  "weight_lbs": 235,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1979-07-07",
+  "career_stats": {
+    "slpm": 2.72,
+    "str_acc": 52,
+    "sapm": 3.54,
+    "str_def": 59,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 76,
+    "sub_avg": 0.2
+  }
+}

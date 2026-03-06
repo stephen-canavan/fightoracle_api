@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "1ff9589f9065a9ed",
+  "fname": "Frank",
+  "sname": "Mir",
+  "record": {
+    "wins": 18,
+    "losses": 11,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 190.5,
+  "weight_lbs": 264,
+  "reach_cm": 200.7,
+  "stance": "Southpaw",
+  "dob": "1979-05-24",
+  "career_stats": {
+    "slpm": 2.18,
+    "str_acc": 47,
+    "sapm": 3.84,
+    "str_def": 38,
+    "td_avg": 2.02,
+    "td_acc": 40,
+    "td_def": 54,
+    "sub_avg": 2.0
+  }
+}

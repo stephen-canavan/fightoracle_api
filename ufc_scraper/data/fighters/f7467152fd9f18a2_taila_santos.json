@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f7467152fd9f18a2",
+  "fname": "Taila",
+  "sname": "Santos",
+  "record": {
+    "wins": 19,
+    "losses": 3,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 125,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1993-06-22",
+  "career_stats": {
+    "slpm": 3.39,
+    "str_acc": 48,
+    "sapm": 2.64,
+    "str_def": 58,
+    "td_avg": 2.0,
+    "td_acc": 76,
+    "td_def": 86,
+    "sub_avg": 1.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "32c355b04fc57f3a",
+  "fname": "Marc",
+  "sname": "Diakiese",
+  "record": {
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bonecrusher",
+  "height_cm": 177.8,
+  "weight_lbs": 155,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1993-03-16",
+  "career_stats": {
+    "slpm": 2.54,
+    "str_acc": 40,
+    "sapm": 2.64,
+    "str_def": 52,
+    "td_avg": 3.29,
+    "td_acc": 43,
+    "td_def": 66,
+    "sub_avg": 0.0
+  }
+}

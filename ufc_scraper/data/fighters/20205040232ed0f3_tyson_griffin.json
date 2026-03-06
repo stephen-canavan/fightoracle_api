@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "20205040232ed0f3",
+  "fname": "Tyson",
+  "sname": "Griffin",
+  "record": {
+    "wins": 16,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 145,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1984-04-20",
+  "career_stats": {
+    "slpm": 3.71,
+    "str_acc": 41,
+    "sapm": 2.3,
+    "str_def": 65,
+    "td_avg": 1.87,
+    "td_acc": 46,
+    "td_def": 59,
+    "sub_avg": 0.9
+  }
+}

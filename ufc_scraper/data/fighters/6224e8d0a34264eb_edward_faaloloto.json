@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6224e8d0a34264eb",
+  "fname": "Edward",
+  "sname": "Faaloloto",
+  "record": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1984-07-15",
+  "career_stats": {
+    "slpm": 2.28,
+    "str_acc": 32,
+    "sapm": 6.25,
+    "str_def": 44,
+    "td_avg": 1.01,
+    "td_acc": 25,
+    "td_def": 33,
+    "sub_avg": 0.0
+  }
+}

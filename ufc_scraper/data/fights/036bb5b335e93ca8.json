@@ -1,0 +1,107 @@
+{
+  "ufcstats_fight_id": "036bb5b335e93ca8",
+  "ufcstats_event_id": "4908c5ee68a50ee5",
+  "ufcstats_fighter_red_id": "852454c572675334",
+  "ufcstats_fighter_blue_id": "322a56923b396b4d",
+  "method": "Submission",
+  "method_details": "Rear Naked Choke",
+  "round": 1,
+  "time": "4:54",
+  "referee": "Steve Mazzagatti",
+  "ufcstats_winner_id": "852454c572675334",
+  "is_title_fight": true,
+  "weight_class": "Ultimate Fighter 9 Welterweight Tournament",
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 17,
+      "attempted": 29
+    },
+    "sig_strikes_pct": 58,
+    "total_strikes": {
+      "landed": 33,
+      "attempted": 47
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 8,
+    "reversals": 0,
+    "control_time": "2:15",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 22
+      },
+      "body": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 6,
+        "attempted": 12
+      },
+      "clinch": {
+        "landed": 9,
+        "attempted": 14
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 13,
+      "attempted": 21
+    },
+    "sig_strikes_pct": 61,
+    "total_strikes": {
+      "landed": 26,
+      "attempted": 35
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "1:16",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 11,
+        "attempted": 18
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "leg": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "distance": {
+        "landed": 3,
+        "attempted": 9
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 7
+      }
+    }
+  },
+  "card_position": 2
+}

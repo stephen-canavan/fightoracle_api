@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ad23903ef3af7406",
+  "fname": "Rex",
+  "sname": "Richards",
+  "record": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 195.6,
+  "weight_lbs": 265,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1980-10-17",
+  "career_stats": {
+    "slpm": 17.65,
+    "str_acc": 58,
+    "sapm": 5.29,
+    "str_def": 72,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

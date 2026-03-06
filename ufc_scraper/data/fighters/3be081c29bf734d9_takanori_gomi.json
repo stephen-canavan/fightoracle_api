@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3be081c29bf734d9",
+  "fname": "Takanori",
+  "sname": "Gomi",
+  "record": {
+    "wins": 35,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Fireball Kid",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": 177.8,
+  "stance": "Southpaw",
+  "dob": "1978-09-22",
+  "career_stats": {
+    "slpm": 3.81,
+    "str_acc": 41,
+    "sapm": 3.52,
+    "str_def": 60,
+    "td_avg": 1.23,
+    "td_acc": 65,
+    "td_def": 63,
+    "sub_avg": 0.8
+  }
+}

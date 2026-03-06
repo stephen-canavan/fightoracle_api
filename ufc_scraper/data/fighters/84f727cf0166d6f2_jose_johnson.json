@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "84f727cf0166d6f2",
+  "fname": "Jose",
+  "sname": "Johnson",
+  "record": {
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Zhakwarius",
+  "height_cm": 182.9,
+  "weight_lbs": 125,
+  "reach_cm": 180.3,
+  "stance": "Orthodox",
+  "dob": "1995-05-20",
+  "career_stats": {
+    "slpm": 2.27,
+    "str_acc": 57,
+    "sapm": 1.61,
+    "str_def": 53,
+    "td_avg": 0.69,
+    "td_acc": 60,
+    "td_def": 41,
+    "sub_avg": 0.7
+  }
+}

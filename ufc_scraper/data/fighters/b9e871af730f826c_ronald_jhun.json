@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b9e871af730f826c",
+  "fname": "Ronald",
+  "sname": "Jhun",
+  "record": {
+    "wins": 24,
+    "losses": 26,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Machine Gun",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-09-21",
+  "career_stats": {
+    "slpm": 1.45,
+    "str_acc": 57,
+    "sapm": 3.01,
+    "str_def": 50,
+    "td_avg": 1.81,
+    "td_acc": 100,
+    "td_def": 100,
+    "sub_avg": 0.0
+  }
+}

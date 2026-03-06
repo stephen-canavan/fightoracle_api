@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ba15006c804a8de0",
+  "fname": "Guilherme",
+  "sname": "Pat",
+  "record": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Kong",
+  "height_cm": 198.1,
+  "weight_lbs": 265,
+  "reach_cm": 205.7,
+  "stance": "Orthodox",
+  "dob": "1994-04-20",
+  "career_stats": {
+    "slpm": 4.27,
+    "str_acc": 64,
+    "sapm": 2.2,
+    "str_def": 61,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

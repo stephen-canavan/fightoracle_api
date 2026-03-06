@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a571770c4016736f",
+  "fname": "Muhammed",
+  "sname": "Lawal",
+  "record": {
+    "wins": 21,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "King Mo",
+  "height_cm": 182.9,
+  "weight_lbs": 205,
+  "reach_cm": 198.1,
+  "stance": "Southpaw",
+  "dob": "1981-01-11",
+  "career_stats": {
+    "slpm": 3.79,
+    "str_acc": 52,
+    "sapm": 1.61,
+    "str_def": 66,
+    "td_avg": 5.96,
+    "td_acc": 75,
+    "td_def": 87,
+    "sub_avg": 0.0
+  }
+}

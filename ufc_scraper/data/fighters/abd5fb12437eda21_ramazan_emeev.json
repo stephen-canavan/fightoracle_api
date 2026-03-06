@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "abd5fb12437eda21",
+  "fname": "Ramazan",
+  "sname": "Emeev",
+  "record": {
+    "wins": 20,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Gorets",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": 193.0,
+  "stance": "Southpaw",
+  "dob": "1987-05-23",
+  "career_stats": {
+    "slpm": 2.53,
+    "str_acc": 45,
+    "sapm": 2.14,
+    "str_def": 65,
+    "td_avg": 2.37,
+    "td_acc": 29,
+    "td_def": 66,
+    "sub_avg": 0.7
+  }
+}

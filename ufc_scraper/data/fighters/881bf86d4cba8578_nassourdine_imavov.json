@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "881bf86d4cba8578",
+  "fname": "Nassourdine",
+  "sname": "Imavov",
+  "record": {
+    "wins": 17,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Sniper",
+  "height_cm": 190.5,
+  "weight_lbs": 185,
+  "reach_cm": 190.5,
+  "stance": "Orthodox",
+  "dob": "1996-03-01",
+  "career_stats": {
+    "slpm": 4.28,
+    "str_acc": 54,
+    "sapm": 3.17,
+    "str_def": 58,
+    "td_avg": 0.74,
+    "td_acc": 32,
+    "td_def": 81,
+    "sub_avg": 1.0
+  }
+}

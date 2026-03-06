@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "41498c2d1a87b154",
+  "fname": "Zviad",
+  "sname": "Lazishvili",
+  "record": {
+    "wins": 13,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1991-10-25",
+  "career_stats": {
+    "slpm": 4.2,
+    "str_acc": 39,
+    "sapm": 6.13,
+    "str_def": 51,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

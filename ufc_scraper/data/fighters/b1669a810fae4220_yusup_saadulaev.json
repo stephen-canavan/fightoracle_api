@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b1669a810fae4220",
+  "fname": "Yusup",
+  "sname": "Saadulaev",
+  "record": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Maestro",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1985-03-31",
+  "career_stats": {
+    "slpm": 0.57,
+    "str_acc": 45,
+    "sapm": 0.96,
+    "str_def": 66,
+    "td_avg": 5.73,
+    "td_acc": 60,
+    "td_def": 0,
+    "sub_avg": 1.0
+  }
+}

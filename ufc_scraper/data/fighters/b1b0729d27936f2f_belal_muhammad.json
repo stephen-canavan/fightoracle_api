@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "b1b0729d27936f2f",
+  "fname": "Belal",
+  "sname": "Muhammad",
+  "record": {
+    "wins": 24,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Remember the Name",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 182.9,
+  "stance": "Orthodox",
+  "dob": "1988-07-09",
+  "career_stats": {
+    "slpm": 4.43,
+    "str_acc": 43,
+    "sapm": 3.82,
+    "str_def": 55,
+    "td_avg": 2.14,
+    "td_acc": 36,
+    "td_def": 90,
+    "sub_avg": 0.1
+  }
+}

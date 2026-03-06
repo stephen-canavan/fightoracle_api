@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "226de3e7e71f2b4f",
+  "ufcstats_event_id": "1652f3213655b935",
+  "ufcstats_fighter_red_id": "a26198ba5093147e",
+  "ufcstats_fighter_blue_id": "55a7b2d4e54ffac9",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Philippe Chartier",
+  "ufcstats_winner_id": "a26198ba5093147e",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Nelson Hamilton",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Cecil Peoples",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Claude Paquette",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 34,
+      "attempted": 76
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 98,
+      "attempted": 149
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 4
+    },
+    "takedown_pct": 75,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "3:23",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 24,
+        "attempted": 63
+      },
+      "body": {
+        "landed": 5,
+        "attempted": 7
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "distance": {
+        "landed": 15,
+        "attempted": 49
+      },
+      "clinch": {
+        "landed": 13,
+        "attempted": 17
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 10
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 31,
+      "attempted": 75
+    },
+    "sig_strikes_pct": 41,
+    "total_strikes": {
+      "landed": 53,
+      "attempted": 101
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 2
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 3,
+    "control_time": "9:08",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 71
+      },
+      "body": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 13,
+        "attempted": 32
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 3
+      },
+      "ground": {
+        "landed": 17,
+        "attempted": 40
+      }
+    }
+  },
+  "card_position": 11
+}

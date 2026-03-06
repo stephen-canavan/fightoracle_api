@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "207773daeb4afa7b",
+  "fname": "Devonte",
+  "sname": "Smith",
+  "record": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "King Kage",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1993-07-30",
+  "career_stats": {
+    "slpm": 4.55,
+    "str_acc": 53,
+    "sapm": 3.91,
+    "str_def": 49,
+    "td_avg": 0.35,
+    "td_acc": 25,
+    "td_def": 85,
+    "sub_avg": 0.3
+  }
+}

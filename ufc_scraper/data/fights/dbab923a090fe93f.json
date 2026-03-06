@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "dbab923a090fe93f",
+  "ufcstats_event_id": "5330fe7e4c3af81c",
+  "ufcstats_fighter_red_id": "981ab7a0576f76a0",
+  "ufcstats_fighter_blue_id": "1d239d571e342453",
+  "method": "Decision - Split",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Randy Corley",
+  "ufcstats_winner_id": "1d239d571e342453",
+  "is_title_fight": false,
+  "weight_class": "Women's Bantamweight",
+  "scorecards": [
+    {
+      "judge": "Terry Boehlke",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Lester Griffin",
+      "red": 29,
+      "blue": 28
+    },
+    {
+      "judge": "Lamont Nelson",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 28,
+      "attempted": 76
+    },
+    "sig_strikes_pct": 36,
+    "total_strikes": {
+      "landed": 73,
+      "attempted": 127
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 9
+    },
+    "takedown_pct": 22,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "4:53",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 6,
+        "attempted": 54
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 11
+      },
+      "leg": {
+        "landed": 11,
+        "attempted": 11
+      },
+      "distance": {
+        "landed": 20,
+        "attempted": 67
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 50,
+      "attempted": 82
+    },
+    "sig_strikes_pct": 60,
+    "total_strikes": {
+      "landed": 82,
+      "attempted": 115
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:52",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 9,
+        "attempted": 40
+      },
+      "body": {
+        "landed": 24,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 17,
+        "attempted": 18
+      },
+      "distance": {
+        "landed": 16,
+        "attempted": 45
+      },
+      "clinch": {
+        "landed": 34,
+        "attempted": 37
+      },
+      "ground": {
+        "landed": 0,
+        "attempted": 0
+      }
+    }
+  },
+  "card_position": 10
+}

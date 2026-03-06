@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "853eb0dd5c0e2149",
+  "fname": "Kai",
+  "sname": "Kara-France",
+  "record": {
+    "wins": 25,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Don't Blink",
+  "height_cm": 162.6,
+  "weight_lbs": 125,
+  "reach_cm": 175.3,
+  "stance": "Orthodox",
+  "dob": "1993-03-26",
+  "career_stats": {
+    "slpm": 4.46,
+    "str_acc": 40,
+    "sapm": 3.24,
+    "str_def": 64,
+    "td_avg": 0.56,
+    "td_acc": 30,
+    "td_def": 83,
+    "sub_avg": 0.0
+  }
+}

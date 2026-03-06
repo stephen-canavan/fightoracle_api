@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "678eda89a096dde8",
+  "ufcstats_event_id": "026b4f7049085842",
+  "ufcstats_fighter_red_id": "51018a31ddf31eb2",
+  "ufcstats_fighter_blue_id": "7138a15258dabf20",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Daniel Movahedi",
+  "ufcstats_winner_id": "7138a15258dabf20",
+  "is_title_fight": false,
+  "weight_class": "Women's Strawweight",
+  "scorecards": [
+    {
+      "judge": "Ben Cartlidge",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Clemens Werner",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Anders Ohlsson",
+      "red": 28,
+      "blue": 29
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 32,
+      "attempted": 56
+    },
+    "sig_strikes_pct": 57,
+    "total_strikes": {
+      "landed": 57,
+      "attempted": 84
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 7
+    },
+    "takedown_pct": 28,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "3:31",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 19,
+        "attempted": 38
+      },
+      "body": {
+        "landed": 11,
+        "attempted": 15
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 28,
+        "attempted": 52
+      },
+      "clinch": {
+        "landed": 2,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 44,
+      "attempted": 74
+    },
+    "sig_strikes_pct": 59,
+    "total_strikes": {
+      "landed": 63,
+      "attempted": 99
+    },
+    "takedowns": {
+      "landed": 3,
+      "attempted": 3
+    },
+    "takedown_pct": 100,
+    "submission_attempts": 0,
+    "reversals": 1,
+    "control_time": "5:35",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 20,
+        "attempted": 46
+      },
+      "body": {
+        "landed": 22,
+        "attempted": 24
+      },
+      "leg": {
+        "landed": 2,
+        "attempted": 4
+      },
+      "distance": {
+        "landed": 32,
+        "attempted": 56
+      },
+      "clinch": {
+        "landed": 8,
+        "attempted": 9
+      },
+      "ground": {
+        "landed": 4,
+        "attempted": 9
+      }
+    }
+  },
+  "card_position": 7
+}

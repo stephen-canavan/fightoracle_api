@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "6f7c616b98e18c29",
+  "fname": "Claudio",
+  "sname": "Silva",
+  "record": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Hannibal",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 180.3,
+  "stance": "Southpaw",
+  "dob": "1982-09-06",
+  "career_stats": {
+    "slpm": 2.48,
+    "str_acc": 42,
+    "sapm": 3.0,
+    "str_def": 46,
+    "td_avg": 2.85,
+    "td_acc": 26,
+    "td_def": 44,
+    "sub_avg": 1.1
+  }
+}

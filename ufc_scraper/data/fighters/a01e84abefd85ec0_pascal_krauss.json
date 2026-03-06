@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "a01e84abefd85ec0",
+  "fname": "Pascal",
+  "sname": "Krauss",
+  "record": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Panzer",
+  "height_cm": 185.4,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-04-19",
+  "career_stats": {
+    "slpm": 5.45,
+    "str_acc": 47,
+    "sapm": 3.88,
+    "str_def": 59,
+    "td_avg": 1.53,
+    "td_acc": 50,
+    "td_def": 60,
+    "sub_avg": 0.9
+  }
+}

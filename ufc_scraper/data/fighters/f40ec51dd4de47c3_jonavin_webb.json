@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "f40ec51dd4de47c3",
+  "fname": "Jonavin",
+  "sname": "Webb",
+  "record": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Spyder",
+  "height_cm": 177.8,
+  "weight_lbs": 170,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1989-04-28",
+  "career_stats": {
+    "slpm": 1.47,
+    "str_acc": 30,
+    "sapm": 2.27,
+    "str_def": 64,
+    "td_avg": 2.5,
+    "td_acc": 31,
+    "td_def": 40,
+    "sub_avg": 1.0
+  }
+}

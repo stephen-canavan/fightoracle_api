@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "579fcdfcabd23a7b",
+  "fname": "Brian",
+  "sname": "Stann",
+  "record": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "All American",
+  "height_cm": 185.4,
+  "weight_lbs": 205,
+  "reach_cm": 188.0,
+  "stance": "Orthodox",
+  "dob": "1980-09-24",
+  "career_stats": {
+    "slpm": 3.28,
+    "str_acc": 42,
+    "sapm": 2.65,
+    "str_def": 59,
+    "td_avg": 0.12,
+    "td_acc": 12,
+    "td_def": 60,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "aae99701b21554e4",
+  "fname": "Ryan",
+  "sname": "Jensen",
+  "record": {
+    "wins": 21,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 185.4,
+  "weight_lbs": 185,
+  "reach_cm": 193.0,
+  "stance": "Orthodox",
+  "dob": "1977-09-20",
+  "career_stats": {
+    "slpm": 2.84,
+    "str_acc": 39,
+    "sapm": 2.99,
+    "str_def": 59,
+    "td_avg": 1.55,
+    "td_acc": 50,
+    "td_def": 31,
+    "sub_avg": 1.9
+  }
+}

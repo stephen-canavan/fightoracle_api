@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "343d57cde1a14338",
+  "fname": "Matt",
+  "sname": "Ricehouse",
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": null,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1987-03-11",
+  "career_stats": {
+    "slpm": 3.7,
+    "str_acc": 44,
+    "sapm": 4.8,
+    "str_def": 47,
+    "td_avg": 1.0,
+    "td_acc": 22,
+    "td_def": 81,
+    "sub_avg": 0.0
+  }
+}

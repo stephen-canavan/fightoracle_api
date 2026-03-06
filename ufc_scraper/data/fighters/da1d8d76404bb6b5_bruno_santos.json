@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "da1d8d76404bb6b5",
+  "fname": "Bruno",
+  "sname": "Santos",
+  "record": {
+    "wins": 15,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Carioca",
+  "height_cm": 175.3,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1987-07-17",
+  "career_stats": {
+    "slpm": 1.18,
+    "str_acc": 46,
+    "sapm": 2.27,
+    "str_def": 56,
+    "td_avg": 3.0,
+    "td_acc": 37,
+    "td_def": 66,
+    "sub_avg": 0.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ca2efc9d7d523c43",
+  "fname": "Shawn",
+  "sname": "Jordan",
+  "record": {
+    "wins": 19,
+    "losses": 8,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Savage",
+  "height_cm": 182.9,
+  "weight_lbs": 260,
+  "reach_cm": 190.5,
+  "stance": "Southpaw",
+  "dob": "1984-10-21",
+  "career_stats": {
+    "slpm": 2.87,
+    "str_acc": 50,
+    "sapm": 3.3,
+    "str_def": 47,
+    "td_avg": 1.97,
+    "td_acc": 38,
+    "td_def": 76,
+    "sub_avg": 0.1
+  }
+}

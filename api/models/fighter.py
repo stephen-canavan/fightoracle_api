@@ -29,7 +29,7 @@ class Fighter(models.Model):
     nickname = models.CharField(max_length=255, blank=True, null=True)
     promotion = models.ForeignKey("api.Promotion", on_delete=models.PROTECT)
     weight_class = models.CharField(max_length=255, choices=WeightClass.choices)
-    dob = models.DateField()
+    dob = models.DateField(blank=True, null=True)
     stance = models.CharField(max_length=50, blank=True, null=True)
     
     # Physical attributes
@@ -88,6 +88,51 @@ class Fighter(models.Model):
     @property
     def name(self):
         return f"{self.fname} {self.sname}"
+
+    @property
+    def last_five_results(self):
+        """Get last 5 fight results with method."""
+        from api.models.fight import Fight
+        
+        fights = Fight.objects.filter(
+            models.Q(fighter_red=self) | models.Q(fighter_blue=self),
+            status='COMPLETED'
+        ).select_related('winner').order_by('-event__date')[:5]
+        
+        results = []
+        for fight in fights:
+            if fight.winning_method == 'NC':
+                result = "NC"
+            elif fight.winner == self:
+                result = f"W-{fight.winning_method}" if fight.winning_method else "W"
+            elif fight.winner is None:
+                result = f"D-{fight.winning_method}" if fight.winning_method else "D"
+            else:
+                result = f"L-{fight.winning_method}" if fight.winning_method else "L"
+            results.append(result)
+        
+        return results
+
+    @property
+    def win_by_kotko(self):
+        from api.models.fight import Fight
+        return Fight.objects.filter(
+            winner=self,
+            winning_method__in=['KO', 'TKO', 'KO/TKO']
+        ).count()
+
+    @property
+    def win_by_sub(self):
+        from api.models.fight import Fight
+        return Fight.objects.filter(winner=self, winning_method='SUB').count()
+
+    @property
+    def win_by_dec(self):
+        from api.models.fight import Fight
+        return Fight.objects.filter(
+            winner=self,
+            winning_method__in=['DEC', 'DEC-U', 'DEC-MAJ', 'DEC-SPLIT']
+        ).count()
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)

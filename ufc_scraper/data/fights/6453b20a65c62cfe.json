@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "6453b20a65c62cfe",
+  "ufcstats_event_id": "e0b74df14f52cd15",
+  "ufcstats_fighter_red_id": "f2688492b9a525a3",
+  "ufcstats_fighter_blue_id": "07225ba28ae309b6",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 3,
+  "time": "5:00",
+  "referee": "Yves Lavigne",
+  "ufcstats_winner_id": "f2688492b9a525a3",
+  "is_title_fight": false,
+  "weight_class": "Featherweight",
+  "scorecards": [
+    {
+      "judge": "Jeff Collins",
+      "red": 27,
+      "blue": 30
+    },
+    {
+      "judge": "Lester Griffin",
+      "red": 28,
+      "blue": 29
+    },
+    {
+      "judge": "Junichiro Kamijo",
+      "red": 27,
+      "blue": 30
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 81,
+      "attempted": 146
+    },
+    "sig_strikes_pct": 55,
+    "total_strikes": {
+      "landed": 114,
+      "attempted": 182
+    },
+    "takedowns": {
+      "landed": 2,
+      "attempted": 5
+    },
+    "takedown_pct": 40,
+    "submission_attempts": 0,
+    "reversals": 0,
+    "control_time": "5:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 53,
+        "attempted": 112
+      },
+      "body": {
+        "landed": 23,
+        "attempted": 29
+      },
+      "leg": {
+        "landed": 5,
+        "attempted": 5
+      },
+      "distance": {
+        "landed": 61,
+        "attempted": 122
+      },
+      "clinch": {
+        "landed": 4,
+        "attempted": 5
+      },
+      "ground": {
+        "landed": 16,
+        "attempted": 19
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 38,
+      "attempted": 125
+    },
+    "sig_strikes_pct": 30,
+    "total_strikes": {
+      "landed": 59,
+      "attempted": 146
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 4
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:01",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 27,
+        "attempted": 101
+      },
+      "body": {
+        "landed": 7,
+        "attempted": 17
+      },
+      "leg": {
+        "landed": 4,
+        "attempted": 7
+      },
+      "distance": {
+        "landed": 31,
+        "attempted": 117
+      },
+      "clinch": {
+        "landed": 5,
+        "attempted": 6
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 2
+      }
+    }
+  },
+  "card_position": 2
+}

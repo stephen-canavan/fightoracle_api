@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ffd3224638c01b57",
+  "fname": "Jean",
+  "sname": "Matsumoto",
+  "record": {
+    "wins": 17,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 167.6,
+  "weight_lbs": 135,
+  "reach_cm": 172.7,
+  "stance": "Orthodox",
+  "dob": "1999-09-09",
+  "career_stats": {
+    "slpm": 5.37,
+    "str_acc": 39,
+    "sapm": 5.41,
+    "str_def": 47,
+    "td_avg": 3.0,
+    "td_acc": 48,
+    "td_def": 56,
+    "sub_avg": 0.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3f7c14c7eca7195d",
+  "fname": "Roy",
+  "sname": "Nelson",
+  "record": {
+    "wins": 22,
+    "losses": 14,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Big Country",
+  "height_cm": 182.9,
+  "weight_lbs": 263,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1976-06-20",
+  "career_stats": {
+    "slpm": 2.18,
+    "str_acc": 36,
+    "sapm": 4.79,
+    "str_def": 46,
+    "td_avg": 1.14,
+    "td_acc": 27,
+    "td_def": 65,
+    "sub_avg": 0.1
+  }
+}

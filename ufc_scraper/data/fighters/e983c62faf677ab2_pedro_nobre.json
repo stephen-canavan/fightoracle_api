@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "e983c62faf677ab2",
+  "fname": "Pedro",
+  "sname": "Nobre",
+  "record": {
+    "wins": 18,
+    "losses": 4,
+    "draws": 2,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Rock",
+  "height_cm": 165.1,
+  "weight_lbs": 135,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1986-02-13",
+  "career_stats": {
+    "slpm": 1.37,
+    "str_acc": 30,
+    "sapm": 9.16,
+    "str_def": 35,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

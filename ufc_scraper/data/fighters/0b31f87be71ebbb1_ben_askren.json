@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "0b31f87be71ebbb1",
+  "fname": "Ben",
+  "sname": "Askren",
+  "record": {
+    "wins": 19,
+    "losses": 2,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Funky",
+  "height_cm": 180.3,
+  "weight_lbs": 170,
+  "reach_cm": 185.4,
+  "stance": "Orthodox",
+  "dob": "1984-07-18",
+  "career_stats": {
+    "slpm": 3.64,
+    "str_acc": 49,
+    "sapm": 5.66,
+    "str_def": 36,
+    "td_avg": 4.33,
+    "td_acc": 55,
+    "td_def": 0,
+    "sub_avg": 0.9
+  }
+}

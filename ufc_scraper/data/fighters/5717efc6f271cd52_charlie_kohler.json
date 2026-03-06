@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "5717efc6f271cd52",
+  "fname": "Charlie",
+  "sname": "Kohler",
+  "record": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 175.3,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1976-07-16",
+  "career_stats": {
+    "slpm": 0.81,
+    "str_acc": 33,
+    "sapm": 4.31,
+    "str_def": 46,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 0,
+    "sub_avg": 4.0
+  }
+}

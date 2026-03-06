@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "ec3bd30378d63dd1",
+  "fname": "Hecher",
+  "sname": "Sosa",
+  "record": {
+    "wins": 13,
+    "losses": 1,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Guanche Warrior",
+  "height_cm": 175.3,
+  "weight_lbs": 135,
+  "reach_cm": 177.8,
+  "stance": "Orthodox",
+  "dob": "1995-08-25",
+  "career_stats": {
+    "slpm": 2.13,
+    "str_acc": 50,
+    "sapm": 0.87,
+    "str_def": 55,
+    "td_avg": 4.0,
+    "td_acc": 36,
+    "td_def": 100,
+    "sub_avg": 2.0
+  }
+}

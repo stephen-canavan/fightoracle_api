@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "3cf68c1d17f66af7",
+  "fname": "Siala",
+  "sname": "Siliga",
+  "record": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Mighty Mo",
+  "height_cm": 185.4,
+  "weight_lbs": 290,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1970-10-08",
+  "career_stats": {
+    "slpm": 1.08,
+    "str_acc": 26,
+    "sapm": 1.96,
+    "str_def": 50,
+    "td_avg": 1.47,
+    "td_acc": 50,
+    "td_def": 80,
+    "sub_avg": 0.0
+  }
+}

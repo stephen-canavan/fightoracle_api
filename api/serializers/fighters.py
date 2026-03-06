@@ -19,11 +19,13 @@ class FighterSerializer(serializers.ModelSerializer):
     reach = serializers.FloatField()
     weight_class = serializers.CharField(source="get_weight_class_display")
     stats = serializers.SerializerMethodField()
+    last_five_results = serializers.ListField(read_only=True)
 
     class Meta:
         model = Fighter
         fields = [
             "id",
+            "ufcstats_fighter_id",
             "fname",
             "sname",
             "nickname",
@@ -34,6 +36,7 @@ class FighterSerializer(serializers.ModelSerializer):
             "reach",
             "record",
             "stats",
+            "last_five_results",
             "avatar_url",
             "country",
         ]
@@ -48,6 +51,9 @@ class FighterSerializer(serializers.ModelSerializer):
             "td_acc": obj.td_acc,
             "td_def": obj.td_def,
             "sub_avg": float(obj.sub_avg) if obj.sub_avg else None,
+            "win_by_kotko": obj.win_by_kotko,
+            "win_by_sub": obj.win_by_sub,
+            "win_by_dec": obj.win_by_dec,
         }
     
     def get_country(self, obj):

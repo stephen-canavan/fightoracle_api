@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "fa2320781bfe4f49",
+  "fname": "Yusuke",
+  "sname": "Kawaguchi",
+  "record": {
+    "wins": 18,
+    "losses": 12,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "",
+  "height_cm": 182.9,
+  "weight_lbs": 255,
+  "reach_cm": null,
+  "stance": "",
+  "dob": "1980-08-14",
+  "career_stats": {
+    "slpm": 2.87,
+    "str_acc": 47,
+    "sapm": 3.93,
+    "str_def": 50,
+    "td_avg": 0.0,
+    "td_acc": 0,
+    "td_def": 72,
+    "sub_avg": 0.0
+  }
+}

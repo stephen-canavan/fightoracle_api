@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "d35c3ed553b71fa2",
+  "fname": "Joe",
+  "sname": "Vedepo",
+  "record": {
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Doctor",
+  "height_cm": 182.9,
+  "weight_lbs": 185,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1983-01-01",
+  "career_stats": {
+    "slpm": 1.43,
+    "str_acc": 42,
+    "sapm": 5.71,
+    "str_def": 38,
+    "td_avg": 1.07,
+    "td_acc": 20,
+    "td_def": 0,
+    "sub_avg": 0.0
+  }
+}

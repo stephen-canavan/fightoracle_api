@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "8349d55cdecd393a",
+  "fname": "Antonio",
+  "sname": "Silva",
+  "record": {
+    "wins": 19,
+    "losses": 12,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Bigfoot",
+  "height_cm": 193.0,
+  "weight_lbs": 264,
+  "reach_cm": 208.3,
+  "stance": "Orthodox",
+  "dob": "1979-09-14",
+  "career_stats": {
+    "slpm": 2.89,
+    "str_acc": 45,
+    "sapm": 3.09,
+    "str_def": 50,
+    "td_avg": 0.82,
+    "td_acc": 29,
+    "td_def": 66,
+    "sub_avg": 0.8
+  }
+}

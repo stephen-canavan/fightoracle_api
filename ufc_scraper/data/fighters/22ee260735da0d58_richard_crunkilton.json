@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "22ee260735da0d58",
+  "fname": "Richard",
+  "sname": "Crunkilton",
+  "record": {
+    "wins": 19,
+    "losses": 4,
+    "draws": 0,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "Cleat",
+  "height_cm": 170.2,
+  "weight_lbs": 155,
+  "reach_cm": null,
+  "stance": "Orthodox",
+  "dob": "1979-11-25",
+  "career_stats": {
+    "slpm": 1.72,
+    "str_acc": 41,
+    "sapm": 1.45,
+    "str_def": 58,
+    "td_avg": 4.08,
+    "td_acc": 61,
+    "td_def": 65,
+    "sub_avg": 1.3
+  }
+}

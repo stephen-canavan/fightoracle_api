@@ -1,0 +1,124 @@
+{
+  "ufcstats_fight_id": "3ff7d02ef633ee22",
+  "ufcstats_event_id": "e5c9de15bb58b1c6",
+  "ufcstats_fighter_red_id": "0749d968e932df53",
+  "ufcstats_fighter_blue_id": "203c957eac95dd87",
+  "method": "Decision - Unanimous",
+  "method_details": "",
+  "round": 5,
+  "time": "5:00",
+  "referee": "Leon Roberts",
+  "ufcstats_winner_id": "0749d968e932df53",
+  "is_title_fight": false,
+  "weight_class": "Welterweight",
+  "scorecards": [
+    {
+      "judge": "Mark Collett",
+      "red": 46,
+      "blue": 49
+    },
+    {
+      "judge": "Ben Cartlidge",
+      "red": 47,
+      "blue": 48
+    },
+    {
+      "judge": "Anthony Dimitriou",
+      "red": 47,
+      "blue": 48
+    }
+  ],
+  "fighter_red_stats": {
+    "knockdowns": 3,
+    "sig_strikes": {
+      "landed": 120,
+      "attempted": 202
+    },
+    "sig_strikes_pct": 59,
+    "total_strikes": {
+      "landed": 166,
+      "attempted": 248
+    },
+    "takedowns": {
+      "landed": 1,
+      "attempted": 3
+    },
+    "takedown_pct": 33,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "6:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 60,
+        "attempted": 127
+      },
+      "body": {
+        "landed": 13,
+        "attempted": 14
+      },
+      "leg": {
+        "landed": 47,
+        "attempted": 61
+      },
+      "distance": {
+        "landed": 113,
+        "attempted": 193
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 2
+      },
+      "ground": {
+        "landed": 6,
+        "attempted": 7
+      }
+    }
+  },
+  "fighter_blue_stats": {
+    "knockdowns": 0,
+    "sig_strikes": {
+      "landed": 122,
+      "attempted": 277
+    },
+    "sig_strikes_pct": 44,
+    "total_strikes": {
+      "landed": 126,
+      "attempted": 282
+    },
+    "takedowns": {
+      "landed": 0,
+      "attempted": 0
+    },
+    "takedown_pct": 0,
+    "submission_attempts": 1,
+    "reversals": 0,
+    "control_time": "0:19",
+    "sig_strikes_breakdown": {
+      "head": {
+        "landed": 92,
+        "attempted": 239
+      },
+      "body": {
+        "landed": 27,
+        "attempted": 35
+      },
+      "leg": {
+        "landed": 3,
+        "attempted": 3
+      },
+      "distance": {
+        "landed": 119,
+        "attempted": 273
+      },
+      "clinch": {
+        "landed": 1,
+        "attempted": 1
+      },
+      "ground": {
+        "landed": 2,
+        "attempted": 3
+      }
+    }
+  },
+  "card_position": 1
+}

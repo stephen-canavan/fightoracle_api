@@ -1,0 +1,28 @@
+{
+  "ufcstats_fighter_id": "05a0556072931f01",
+  "fname": "Jason",
+  "sname": "Ireland",
+  "record": {
+    "wins": 19,
+    "losses": 9,
+    "draws": 1,
+    "no_contests": 0,
+    "dqs": 0
+  },
+  "nickname": "The Irish Tornado",
+  "height_cm": 175.3,
+  "weight_lbs": 161,
+  "reach_cm": null,
+  "stance": "Southpaw",
+  "dob": "1979-12-30",
+  "career_stats": {
+    "slpm": 1.2,
+    "str_acc": 25,
+    "sapm": 2.07,
+    "str_def": 51,
+    "td_avg": 3.59,
+    "td_acc": 75,
+    "td_def": 0,
+    "sub_avg": 1.2
+  }
+}
